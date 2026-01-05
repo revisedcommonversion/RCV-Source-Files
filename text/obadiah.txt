@@ -1,0 +1,169 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#obadiah]
+== The Vision of Obadiah
+
+*Obadiah | Ὀβδιού | עובדיה*
+
+[#oba001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_The destruction of Edom, 1, 2, for their pride, 3-9, and for their wrong to Jacob, 10-16. The salvation and victory of Jacob, 17-21._
+
+1 [_The vision of Obadiah._] Thus says the Lord GOD concerning Edom—we have heard a rumor from the LORD, and an ambassador is sent among the heathen, saying, "Arise, and let us rise up against her in battle"—
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 "Behold, I have made you small among the heathen. [.linebr]#/# +
+You are greatly despised.
+
+|
+|3 The pride of your heart has deceived you, [.linebr]#/# +
+you who dwell in the clefts of the rock, [.linebr]#/# +
+whose habitation is high, [.linebr]#/# +
+who says in his heart, [.linebr]#/# +
+'Who shall bring me down to the ground?'
+
+|
+|4 Though you exalt yourself as the eagle [.linebr]#/# +
+and though you set your nest among the stars, [.linebr]#/# +
+from there I will bring you down,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|5 "If thieves came to you, if robbers by night [.linebr]#/# +
+(O how you are cut off!), [.linebr]#/# +
+would they not have stolen until they had enough? [.linebr]#/# +
+If the grape-gatherers came to you, [.linebr]#/# +
+would they not leave some grapes?
+
+|
+|6 How the things of Esau are searched out! [.linebr]#/# +
+How his hidden things are sought!
+
+|
+|7 All the men of your confederacy [.linebr]#/# +
+have brought you even to the border. [.linebr]#/# +
+The men who were at peace with you [.linebr]#/# +
+have deceived you and prevailed against you. [.linebr]#/# +
+Those who eat your bread [.linebr]#/# +
+have laid a wound under you. [.linebr]#/# +
+There is no understanding in him.
+
+|
+|8 Shall I not in that day,"
+|===
+
+says the LORD,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"even destroy the wise men out of Edom [.linebr]#/# +
+and understanding out of the mountain of Esau?
+
+|
+|9 And your mighty men, O Teman, [.linebr]#/# +
+shall be dismayed, [.linebr]#/# +
+to the end that everyone of the mountain of Esau [.linebr]#/# +
+may be cut off by slaughter.
+
+|
+|10 "For your violence against your brother Jacob, [.linebr]#/# +
+shame shall cover you, [.linebr]#/# +
+and you shall be cut off forever.
+
+|
+|11 In the day that you stood on the other side, [.linebr]#/# +
+in the day that the strangers carried away his forces captive [.linebr]#/# +
+and foreigners entered into his gates [.linebr]#/# +
+and cast lots upon Jerusalem, [.linebr]#/# +
+even you were as one of them.
+
+|
+|12 But you should not have looked in the day of your brother, [.linebr]#/# +
+in the day that he became a stranger, [.linebr]#/# +
+neither should you have rejoiced over the children of Judah [.linebr]#/# +
+in the day of their destruction, [.linebr]#/# +
+neither should you have spoken proudly [.linebr]#/# +
+in the day of distress.
+
+|
+|13 You should not have entered into the gate of my people [.linebr]#/# +
+in the day of their calamity. [.linebr]#/# +
+Indeed, you should not have looked upon their affliction [.linebr]#/# +
+in the day of their calamity, [.linebr]#/# +
+nor have laid hands on their substance [.linebr]#/# +
+in the day of their calamity,
+
+|
+|14 Neither should you have stood in the cross-way [.linebr]#/# +
+to cut off those of his who escaped, [.linebr]#/# +
+neither should you have delivered up those of his who remained [.linebr]#/# +
+in the day of distress.
+
+|
+|15 "For the day of the LORD is near upon all the heathen. [.linebr]#/# +
+As you have done, it shall be done to you. [.linebr]#/# +
+Your reward shall return upon your own head.
+
+|
+|16 For as you have drank upon my holy mountain, [.linebr]#/# +
+so all the heathen shall drink continually. [.linebr]#/# +
+Indeed, they shall drink and they shall swallow down, [.linebr]#/# +
+and they shall be as though they had not been.
+
+|
+|17 But upon mount Zion there shall be deliverance [.linebr]#/# +
+and there shall be holiness. [.linebr]#/# +
+And the house of Jacob shall possess their possessions.
+
+|
+|18 And the house of Jacob shall be a fire, [.linebr]#/# +
+the house of Joseph a flame, [.linebr]#/# +
+and the house of Esau for stubble, [.linebr]#/# +
+and they shall kindle in them and devour them. [.linebr]#/# +
+And there shall not be any remaining of the house of Esau."
+|===
+
+For the LORD has spoken it.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|19 And those of the south shall possess the mountain of Esau, [.linebr]#/# +
+and those of the plain, the Philistines. [.linebr]#/# +
+And they shall possess the fields of Ephraim [.linebr]#/# +
+and the fields of Samaria. [.linebr]#/# +
+And Benjamin shall possess Gilead.
+
+|
+|20 And the captivity of this host of the children of Israel [.linebr]#/# +
+shall possess that of the Canaanites, even to Zarephath. [.linebr]#/# +
+And the captivity of Jerusalem, which is in Sepharad, [.linebr]#/# +
+shall possess the cities of the south.
+
+|
+|21 And saviors shall come upon mount Zion [.linebr]#/# +
+to judge the mountain of Esau, [.linebr]#/# +
+and the kingdom shall be the LORD'S.
+|===
+
+[.text-center]
+_[Tanach reading: go to xref:#jonah[Jonah]]_

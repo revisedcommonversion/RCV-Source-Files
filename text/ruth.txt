@@ -1,0 +1,79 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#ruth]
+== The Story of Ruth
+
+*Ruth | Ῥούθ | רות*
+
+[#rth001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Elimelech, driven by famine into Moab, dies there, 1-3. Mahlon and Chilion, having married wives of Moab, also die, 4, 5. Naomi, returning homeward, 6, 7, dissuades her two daughters-in-law from going with her, 8-13. Orpah leaves her, but Ruth with great constancy accompanies her, 14-18. The two of them come to Beth-lehem where they are gladly received, 19-22._
+
+1 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to dwell in the country of Moab—he, his wife, and his two sons. 2 And the name of the man was Elimelech, the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab and continued there. 3 And Elimelech, Naomi's husband, died, and she was left, she and her two sons. 4 And they took for themselves wives from the women of Moab: the name of one was Orpah and the name of the other Ruth. And they dwelt there about ten years. 5 And Mahlon and Chilion both died also, and the woman was left by her two sons and her husband.
+
+6 Then she arose with her daughters-in-law so that she might return from the country of Moab, for she had heard in the country of Moab how the LORD had visited his people in giving them bread. 7 Therefore, she went forth from the place where she was, and her two daughters-in-law with her, and they went on the way to return to the land of Judah. 8 And Naomi said to her two daughters-in-law, "Go. Return each to her mother's house. May the LORD deal kindly with you, as you have dealt with the dead and with me. 9 May the LORD grant you that you may find rest, each of you in the house of her husband." Then she kissed them, and they lifted up their voice and wept. 10 And they said to her, "Surely we will return with you to your people." 11 And Naomi said, "Turn back, my daughters. Why will you go with me? Shall I bear more sons so that they may be your husbands? 12 Turn back, my daughters, go your way, for I am too old to have a husband. If I should say, 'I have hope,' if I should have a husband also tonight and should also bear sons, 13 Would you wait for them until they were grown? Would you forbear from having husbands for them? No, my daughters, for it grieves me much for your sakes that the hand of the LORD has gone out against me."
+
+14 And they lifted up their voice and wept again. And Orpah kissed her mother-in-law, but Ruth cleaved to her.
+
+15 And she said, "Behold, your sister-in-law has gone back to her people and to her gods. Follow your sister-in-law." 16 And Ruth said, "Do not entreat me to leave you, or to return from following you. For where you go, I will go, and where you lodge, I will lodge. Your people shall be my people and your God my God. 17 Where you die, I will die, and there I will be buried. May the LORD do so to me, and more also, if anything but death shall part you and me." 18 When she saw that she was steadfastly resolved to go with her, then she ceased speaking to her.
+
+19 So the two of them went until they came to Beth-lehem. And it came to pass, when they had come to Beth-lehem, that all the city was stirred because of them, and they said, "Is this Naomi?" 20 And she said to them, "Do not call me Naomi. Call me Mara, for the Almighty has dealt very bitterly with me. 21 I went out full, and the LORD has brought me home again empty. Why then do you call me Naomi, seeing the LORD has testified against me, and the Almighty has afflicted me?"
+
+22 So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. And they came to Beth-lehem in the beginning of barley-harvest.
+
+[#rth002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_Ruth gleans in the field of Boaz, 1-3. Boaz takes notice of her, 4-7, and shows her great favor, 8-16. That which she got, she carries to Naomi, 17-23._
+
+1 And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech, and his name was Boaz. 2 And Ruth the Moabitess said to Naomi, "Let me now go to the field and glean heads of grain after him in whose sight I shall find grace." And she said to her, "Go, my daughter." 3 And she went, and came and gleaned in the field after the reapers. And she happened to come to a part of the field belonging to Boaz, who was of the kindred of Elimelech. 4 And behold, Boaz came from Beth-lehem and said to the reapers, "May the LORD be with you." And they answered him, "May the LORD bless you." 5 Then Boaz said to his servant who was set over the reapers, "Whose young woman is this?" 6 And the servant who was set over the reapers answered and said, "It is the young Moabite woman who came back with Naomi from the country of Moab. 7 And she said, 'I pray you, let me glean and gather after the reapers among the sheaves.' So she came and has continued even from the morning until now, and she rested a little in the house."
+
+8 Then Boaz said to Ruth, "Listen, my daughter. Do not go to glean in another field, neither go from here, but abide here close by my young women. 9 Let your eyes be on the field that they are reaping, and go after them. Have I not charged the young men that they shall not touch you? And when you are thirsty go to the vessels and drink of that which the young men have drawn." 10 Then she fell on her face and bowed herself to the ground, and said to him, "Why have I found grace in your eyes that you should take knowledge of me, seeing I am a stranger?" 11 And Boaz answered and said to her, "It has fully been shown to me all that you have done to your mother-in-law since the death of your husband, and how you have left your father, your mother, and the land of your nativity and have come to a people which you did not know before. 12 May the LORD recompense your work, and a full reward be given to you from the LORD God of Israel, under whose wings you have come to trust." 13 Then she said, "Let me find favor in your sight, my lord, for you have comforted me and you have spoken kindly to your servant, though I am not like one of your women-servants."
+
+14 And Boaz said to her, "At meal-time, come here and eat some of the bread and dip your morsel in the vinegar." And she sat beside the reapers, and he gave her parched grain, and she ate, was satisfied, and had some left over. 15 And when she had risen to glean, Boaz commanded his young men, saying, "Let her glean even among the sheaves, and do not reproach her. 16 And also let some of the handfuls fall on purpose for her, and leave them so that she may glean them. And do not rebuke her."
+
+17 So she gleaned in the field until evening and beat out that which she had gleaned, and it was about an ephah of barley. 18 And she took it and went into the city. And her mother-in-law saw what she had gleaned. And she brought forth and gave to her what she had reserved after she was satisfied. 19 And her mother-in-law said to her, "Where have you gleaned today? And where have you labored? Blessed is he who took knowledge of you." And she revealed to her mother-in-law with whom she had worked, and said, "The man's name with whom I worked today is Boaz." 20 And Naomi said to her daughter-in-law, "Blessed is he of the LORD, who has not left off his kindness to the living and to the dead." And Naomi said to her, "The man is near of kin to us, one of our next kinsmen." 21 And Ruth the Moabitess said, "He also said to me, 'You shall keep close by my young men until they have ended all my harvest.'" 22 And Naomi said to Ruth her daughter-in-law, "It is good, my daughter, that you should go out with his young women, and that they not meet you in any other field." 23 So she kept close by the young women of Boaz to glean until the end of barley-harvest and of wheat-harvest, and dwelt with her mother-in-law.
+
+[#rth003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_By Naomi's instruction, 1-4. Ruth lies at Boaz's feet, 5-8. Boaz acknowledges the right of a kinsman, 9-13. He sends her away with six measures of barley, 14-18._
+
+1 Then Naomi her mother-in-law said to her, "My daughter, shall I not seek rest for you so that it may be well with you? 2 And now, is not Boaz of our kindred, with whose young women you were? Behold, he winnows barley tonight in the threshing-floor. 3 Therefore, wash yourself, anoint yourself, put your clothing upon yourself, and go down to the floor, but do not make yourself known to the man until he has finished eating and drinking. 4 And it shall be when he lies down, that you shall mark the place where he lies, and you shall go in, uncover his feet, and lay yourself down, and he will tell you what you shall do." 5 And she said to her, "All that you say to me I will do."
+
+6 And she went down to the floor and did according to all that her mother-in-law commanded her. 7 And when Boaz had eaten and drank, and his heart was merry, he went to lie down at the end of the heap of grain. And she came softly, uncovered his feet, and laid herself down. 8 And it came to pass at midnight, that the man was afraid and turned himself, and behold, a woman lay at his feet. 9 And he said, "Who are you?" And she answered, "I am Ruth your servant. Therefore, spread your skirt over your servant, for you are a near kinsman." 10 And he said, "Blessed are you of the LORD, my daughter. For you have shown more kindness in the latter end than at the beginning because you did not follow young men, whether poor or rich. 11 And now, my daughter, do not fear. I will do to you all that you require, for all the city of my people knows that you are a virtuous woman. 12 And now it is true that I am your near kinsman. Yet there is a kinsman nearer than I am. 13 Stay this night, and it shall be in the morning, that if he will perform to you the part of a kinsman, good. Let him do the kinsman's part. But if he will not do the part of a kinsman to you, then I will do the part of a kinsman to you, as the LORD lives. Lie down until the morning."
+
+14 And she lay at his feet until the morning. And she rose before one could know another. And he said, "Do not let it be known that a woman came to the floor." 15 Also he said, "Bring the veil that you have upon you and hold it." And when she held it, he measured six measures of barley and laid it on her. And she went into the city. 16 And when she came to her mother-in-law, she said, "How did it go, my daughter?" And she told her all that the man had done to her. 17 And she said, "He gave me these six measures of barley, for he said to me, 'Do not go empty to your mother-in-law.'" 18 Then she said, "Sit still, my daughter, until you know how the matter will fall. For the man will not be in rest until he has finished the thing this day."
+
+[#rth004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_Boaz calls into judgment the next kinsman, 1-5, who refuses the redemption according to the manner in Israel, 6-8. Boaz buys the inheritance, 9, 10. He marries Ruth, 11, 12. She bears Obed, the grandfather of David, 13-17. The generations of Pharez to David, 18-22._
+
+1 Then Boaz went up to the gate and sat down there. And behold, the kinsman of whom Boaz spoke came by. And he said to him, "Ho, such a one! Turn aside and sit down here." And he turned aside and sat down. 2 And he took ten men from the elders of the city, and said, "Sit down here." And they sat down. 3 And he said to the kinsman, "Naomi, who has come back out of the country of Moab, sells a parcel of land, which was our brother Elimelech's. 4 And I thought to advertise it to you, saying, 'Buy it before the inhabitants and before the elders of my people.' If you will redeem it, redeem it. But if you will not redeem it, then tell me so that I may know. For there is no one to redeem it besides you, and I am after you." And he said, "I will redeem it." 5 Then Boaz said, "The day you buy the field from the hand of Naomi, you must also accept Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance." 6 And the kinsman said, "I cannot redeem it for myself, lest I mar my own inheritance. Redeem my right for yourself, for I cannot redeem it."
+
+7 Now this was the manner in former time in Israel concerning redeeming and concerning changing, for confirming all things: a man plucked off his shoe and gave it to his neighbor, and this was a testimony in Israel. 8 Therefore, the kinsman said to Boaz, "Buy it for yourself." So he drew off his shoe. 9 And Boaz said to the elders and to all the people, "You are witnesses this day that I have bought all that was Elimelech's and all that was Chilion's and Mahlon's from the hand of Naomi. 10 Moreover, Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife to raise up the name of the dead upon his inheritance, so that the name of the dead is not cut off from among his brothers and from the gate of his place. You are witnesses this day." 11 And all the people who were in the gate and the elders said, "We are witnesses. May the LORD make the woman who has come into your house like Rachel and like Leah, both of whom built the house of Israel. And may you do worthily in Ephratah and be famous in Beth-lehem. 12 And let your house be like the house of Pharez, whom Tamar bore to Judah, because of the offspring which the LORD shall give you from this young woman."
+
+13 So Boaz took Ruth, and she was his wife. And when he went in to her, the LORD gave her conception, and she bore a son. 14 And the women said to Naomi, "Blessed be the LORD who has not left you this day without a kinsman. May his name be famous in Israel. 15 And he shall be to you a restorer of your life and a nourisher of your old age, for your daughter-in-law, who loves you, who is better to you than seven sons, has borne him."
+
+16 And Naomi took the child, laid him in her bosom, and became his nurse. 17 And the women, her neighbors, gave him a name, saying, "There is a son born to Naomi." And they called his name Obed. He is the father of Jesse, the father of David.
+
+18 Now these are the generations of Pharez: Pharez begot Hezron, 19 Hezron begot Ram, Ram begot Amminadab, 20 Amminadab begot Nahshon, Nahshon begot Salmon, 21 Salmon begot Boaz, Boaz begot Obed, 22 Obed begot Jesse, and Jesse begot David.
+
+[.text-center]
+_[Tanach reading: go to xref:#lamentations[Lamentations]]_

@@ -1,0 +1,279 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#nahum]
+== The Vision of Nahum
+
+*Nahum | Ναούμ | נחום*
+
+[#nah001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_The majesty of God in goodness to his people and severity against his enemies, 1-15._
+
+1 [_The burden of Nineveh. The book of the vision of Nahum the Elkoshite._]
+
+2 God is jealous, and the LORD avenges. [.linebr]#/# +
+The LORD avenges and has indignation. [.linebr]#/# +
+The LORD will take vengeance on his adversaries [.linebr]#/# +
+and he reserves wrath for his enemies.
+
+3 The LORD is slow to anger and great in power, [.linebr]#/# +
+and will not at all acquit the wicked. [.linebr]#/# +
+The LORD has his way in the whirlwind and in the storm, [.linebr]#/# +
+and the clouds are the dust of his feet.
+
+4 He rebukes the sea and makes it dry, [.linebr]#/# +
+and dries up all the rivers. [.linebr]#/# +
+Bashan and Carmel languish, [.linebr]#/# +
+and the flower of Lebanon languishes.
+
+5 The mountains quake at him [.linebr]#/# +
+and the hills melt. [.linebr]#/# +
+The earth is upheaved at his presence, [.linebr]#/# +
+even the world and all who dwell therein.
+
+6 Who can stand before his indignation? [.linebr]#/# +
+And who can abide in the fierceness of his anger? [.linebr]#/# +
+His fury is poured out like fire, [.linebr]#/# +
+and the rocks are broken apart by him.
+
+7 The LORD is good, [.linebr]#/# +
+a stronghold in the day of trouble. [.linebr]#/# +
+And he knows those who trust in him.
+
+8 But with an over-running flood [.linebr]#/# +
+he will make an utter end of the place thereof, [.linebr]#/# +
+and darkness shall pursue his enemies.
+
+9 What do you devise against the LORD? [.linebr]#/# +
+He will make an utter end. [.linebr]#/# +
+Affliction shall not rise up the second time.
+
+10 For while they are tangled together as thorns [.linebr]#/# +
+and while they are drunken as drunkards, [.linebr]#/# +
+they shall be devoured as fully dried stubble.
+
+11 There is one gone out of you [.linebr]#/# +
+who devises evil against the LORD. [.linebr]#/# +
+He is a wicked counselor.
+
+12 Thus says the LORD: [.linebr]#/# +
+"Though they are quiet and likewise many, [.linebr]#/# +
+yet thus they shall be cut down, [.linebr]#/# +
+and he shall pass away. [.linebr]#/# +
+Though I have afflicted you, [.linebr]#/# +
+I will no longer afflict you.
+
+13 For now I will break his yoke from off you [.linebr]#/# +
+and will tear off your bonds."
+
+14 And the LORD has given a commandment concerning you, [.linebr]#/# +
+that no more of your name be sown. [.linebr]#/# +
+"Out of the house of your gods I will cut off [.linebr]#/# +
+the engraved image and the molten image. [.linebr]#/# +
+I will make your grave, for you are vile."
+
+15 Behold upon the mountains the feet of him [.linebr]#/# +
+who brings good tidings, who publishes peace! [.linebr]#/# +
+O Judah, keep your solemn feasts [.linebr]#/# +
+and perform your vows, [.linebr]#/# +
+for the wicked shall no longer pass through you. [.linebr]#/# +
+He is utterly cut off.
+
+[#nah002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_The fearful and victorious armies of God against Nineveh, 1-13._
+
+1 He who dashes in pieces [.linebr]#/# +
+has come up before your face. [.linebr]#/# +
+Guard the fortress, [.linebr]#/# +
+watch the way, make your loins strong, [.linebr]#/# +
+and fortify your power mightily.
+
+2 For the LORD has turned away the excellence of Jacob, [.linebr]#/# +
+as the excellence of Israel. [.linebr]#/# +
+For the emptiers have emptied them out [.linebr]#/# +
+and marred their vine branches.
+
+3 The shield of his mighty men is made red. [.linebr]#/# +
+The valiant men are in scarlet. [.linebr]#/# +
+The chariots shall be with flaming torches [.linebr]#/# +
+in the day of his preparation, [.linebr]#/# +
+and the fir-trees shall be terribly shaken.
+
+4 The chariots shall rage in the streets. [.linebr]#/# +
+They shall jostle one against another in the broad ways. [.linebr]#/# +
+They shall seem like torches [.linebr]#/# +
+and they shall run like the lightnings.
+
+5 He shall recount his nobles. [.linebr]#/# +
+They shall stumble in their walk. [.linebr]#/# +
+They shall make haste to the wall thereof, [.linebr]#/# +
+and the defense shall be prepared.
+
+6 The gates of the rivers shall be opened, [.linebr]#/# +
+and the palace shall be dissolved.
+
+7 And she who stood firm shall be led away captive, [.linebr]#/# +
+she shall be brought up, [.linebr]#/# +
+and her women-servants shall lead her [.linebr]#/# +
+as with the voice of doves, [.linebr]#/# +
+beating upon their breasts.
+
+8 But Nineveh is of old like a pool of water. [.linebr]#/# +
+Yet they shall flee away. [.linebr]#/# +
+"Stand, stand," they shall cry, [.linebr]#/# +
+but no one shall look back.
+
+9 Take the plunder of silver and take the plunder of gold. [.linebr]#/# +
+There is no end to the supply. [.linebr]#/# +
+There is glory from all the desirable vessels.
+
+10 She is empty, void, and waste. [.linebr]#/# +
+And the heart melts, the knees smite together, [.linebr]#/# +
+much pain is in all loins, [.linebr]#/# +
+and all of their faces gather blackness.
+
+11 Where is the dwelling of the lions [.linebr]#/# +
+and the feeding-place of the young lions, [.linebr]#/# +
+where the lion, the lioness, [.linebr]#/# +
+and the lion's whelp walked [.linebr]#/# +
+and no one made them afraid?
+
+12 The lion tore in pieces enough for his whelps [.linebr]#/# +
+and strangled for his lionesses. [.linebr]#/# +
+And he filled his caves with prey [.linebr]#/# +
+and his dens with flesh.
+
+13 "Behold, I am against you," says the LORD of hosts, [.linebr]#/# +
+"and I will burn her chariots in the smoke, [.linebr]#/# +
+and the sword shall devour your young lions. [.linebr]#/# +
+And I will cut off your prey from the earth, [.linebr]#/# +
+and the voice of your messengers [.linebr]#/# +
+shall be heard no more."
+
+[#nah003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_The miserable ruin of Nineveh, 1-19._
+
+1 Woe to the bloody city! [.linebr]#/# +
+It is all full of lies and robberies. [.linebr]#/# +
+The prey does not depart.
+
+2 The noise of a whip [.linebr]#/# +
+and the noise of the rattling of the wheels, [.linebr]#/# +
+of the prancing horses, [.linebr]#/# +
+and of the bounding chariots!
+
+3 The horseman mounting, [.linebr]#/# +
+the flashing sword, and the glittering spear! [.linebr]#/# +
+There is a multitude of slain [.linebr]#/# +
+and a great number of carcasses, [.linebr]#/# +
+and there is no end of their corpses. [.linebr]#/# +
+They stumble upon their corpses,
+
+4 All because of the multitude of the lewd deeds [.linebr]#/# +
+of the well-favored harlot, [.linebr]#/# +
+the mistress of witchcrafts, [.linebr]#/# +
+who sells nations through her lewd deeds [.linebr]#/# +
+and families through her witchcrafts.
+
+5 "Behold, I am against you," [.linebr]#/# +
+says the LORD of hosts, [.linebr]#/# +
+"and I will lift your skirts over your face [.linebr]#/# +
+and I will show the nations your nakedness [.linebr]#/# +
+and the kingdoms your shame.
+
+6 And I will cast abominable filth upon [.linebr]#/# +
+you and make you vile [.linebr]#/# +
+and will set you as a spectacle.
+
+7 And it shall come to pass, [.linebr]#/# +
+that all those who look upon you [.linebr]#/# +
+shall flee from you [.linebr]#/# +
+and say, 'Nineveh is laid waste! [.linebr]#/# +
+Who will bemoan her?' [.linebr]#/# +
+From where shall I seek comforters for you?"
+
+8 Are you better than No-Amon [.linebr]#/# +
+that was situated among the rivers, [.linebr]#/# +
+that had the waters around it, [.linebr]#/# +
+whose rampart was the sea [.linebr]#/# +
+and her wall was from the sea?
+
+9 Cush and Egypt were her strength, [.linebr]#/# +
+and it was infinite. [.linebr]#/# +
+Put and Lubim were your helpers.
+
+10 Yet she was carried away. [.linebr]#/# +
+She went into captivity. [.linebr]#/# +
+Her young children also were dashed in pieces [.linebr]#/# +
+at the head of all the streets. [.linebr]#/# +
+And they cast lots for her honorable men, [.linebr]#/# +
+and all her great men were bound in chains.
+
+11 You also shall be drunken. [.linebr]#/# +
+You shall be hid. [.linebr]#/# +
+You also shall seek strength [.linebr]#/# +
+because of the enemy.
+
+12 All your strongholds shall be like fig-trees [.linebr]#/# +
+with the first ripe figs. [.linebr]#/# +
+If they are shaken, [.linebr]#/# +
+they shall even fall into the mouth of the eater.
+
+13 Behold, your people in the midst of you are women. [.linebr]#/# +
+The gates of your land [.linebr]#/# +
+shall be set wide open to your enemies. [.linebr]#/# +
+The fire shall devour your bars.
+
+14 Draw waters for the siege. [.linebr]#/# +
+Fortify your strongholds. [.linebr]#/# +
+Go into clay and tread the mortar. [.linebr]#/# +
+Make the brick-kiln strong.
+
+15 The fire shall devour you there. [.linebr]#/# +
+The sword shall cut you off. [.linebr]#/# +
+It shall eat you up like the licking-locust. [.linebr]#/# +
+Make yourself many as the licking-locust. [.linebr]#/# +
+Make yourself many as the swarming-locust.
+
+16 You have multiplied your merchants [.linebr]#/# +
+above the stars of heaven. [.linebr]#/# +
+The licking-locust strips and flies away.
+
+17 Your crowned ones are as the swarming-locusts, [.linebr]#/# +
+and your captains as the swarms of locusts, [.linebr]#/# +
+which settle in the hedges on the cold day. [.linebr]#/# +
+But when the sun arises they flee away, [.linebr]#/# +
+and the place where they are is unknown.
+
+18 Your shepherds slumber, O king of Assyria. [.linebr]#/# +
+Your nobles shall dwell in the dust. [.linebr]#/# +
+Your people are scattered upon the mountains [.linebr]#/# +
+and no man gathers them.
+
+19 There is no healing of your breach. [.linebr]#/# +
+Your wound is grievous. [.linebr]#/# +
+All who hear your fame [.linebr]#/# +
+shall clap the hands over you. [.linebr]#/# +
+For upon whom has your wickedness [.linebr]#/# +
+not passed continually?
+
+[.text-center]
+_[Tanach reading: go to xref:#habakkuk[Habakkuk]]_

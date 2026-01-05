@@ -1,0 +1,1010 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#hosea]
+== The Word of the Lord to Hosea
+
+*Hosea | Ὠσηέ | הושע*
+
+[#hos001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Hosea, to show God's judgment for spiritual lewdness, takes Gomer, 1-3, and has by her Jezreel, 4, 5; Lo-ruhamah, 6, 7; and Lo-ammi, 8, 9. The restoration of Judah and Israel under one head, 10, 11._
+
+1 [_The word of the LORD that came to Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel._]
+
+2 [_The beginning of the word of the LORD by Hosea._] And the LORD said to Hosea, "Go take for yourself a wife addicted to lewdness and children of lewdness, for the land has committed great lewdness, departing from the LORD." 3 So he went and took Gomer the daughter of Diblaim, who conceived and bore him a son. 4 And the LORD said to him, "Call his name Jezreel, for yet a little while and I will avenge the blood of Jezreel upon the house of Jehu and will cause the kingdom of the house of Israel to cease. 5 And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel."
+
+6 And she conceived again and bore a daughter. And God said to him, "Call her name Lo-ruhamah, for I will no longer have mercy upon the house of Israel, but I will utterly take them away. 7 But I will have mercy upon the house of Judah and will save them by the LORD their God, and will not save them by bow, by sword, by battle, by horses, nor by horsemen."
+
+8 Now when she had weaned Lo-ruhamah, she conceived and bore a son. 9 Then God said, "Call his name Lo-ammi, for you are not my people, and I will not be your God.
+
+[[hos001-010]]10 "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered. And it shall come to pass, that in the place where it was said to them, 'You are not my people,' there it shall be said to them, 'You are the sons of the living God.'
+
+11 Then the children of Judah and the children of Israel shall be assembled and appoint themselves one head, and they shall come up from the land, for the day of Jezreel shall be great."
+
+[%breakable]
+References::
+*[v.10]*: Quoted in xref:#rom009-026[Romans 9:26].
+
+[#hos002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_The idolatry of the people, 1-5. God's judgments against them, 6-13. His promises of reconciliation with them, 14-23._
+
+1 "Say to your brothers, 'Ammi,' [.linebr]#/# +
+and to your sisters, 'Ruhamah.'
+
+2 Plead with your mother. [.linebr]#/# +
+Plead, for she is not my wife, [.linebr]#/# +
+neither am I her husband. [.linebr]#/# +
+Let her therefore put away her prostitutions out of her sight [.linebr]#/# +
+and her adulteries from between her breasts,
+
+3 Lest I strip her naked, [.linebr]#/# +
+set her as in the day that she was born, [.linebr]#/# +
+make her as a wilderness, [.linebr]#/# +
+and set her like a dry land [.linebr]#/# +
+and kill her with thirst.
+
+4 And I will not have mercy upon her children, [.linebr]#/# +
+for they are the children of lewdness.
+
+5 For their mother has played the harlot. [.linebr]#/# +
+She who conceived them has done shamefully. [.linebr]#/# +
+For she said, 'I will go after my lovers [.linebr]#/# +
+who give me my bread and my water, [.linebr]#/# +
+my wool and my flax, my oil and my drink.'
+
+6 Therefore, behold, [.linebr]#/# +
+I will hedge up your way with thorns [.linebr]#/# +
+and make a wall, [.linebr]#/# +
+so that she shall not find her paths.
+
+7 And she shall follow after her lovers, [.linebr]#/# +
+but she shall not overtake them, [.linebr]#/# +
+and she shall seek them, [.linebr]#/# +
+but shall not find them. [.linebr]#/# +
+Then she shall say, [.linebr]#/# +
+'I will go and return to my first husband, [.linebr]#/# +
+for then it was better with me than now.'
+
+8 For she did not know that I gave her [.linebr]#/# +
+grain, wine, and oil [.linebr]#/# +
+and multiplied her silver and gold, [.linebr]#/# +
+which they prepared for Baal.
+
+9 Therefore, I will return [.linebr]#/# +
+and take away my grain in its time [.linebr]#/# +
+and my wine in its season, [.linebr]#/# +
+and I will recover my wool and my flax [.linebr]#/# +
+given to cover her nakedness.
+
+10 And now I will disclose her lewdness [.linebr]#/# +
+in the sight of her lovers, [.linebr]#/# +
+and no one shall deliver her out of my hand.
+
+11 I will also cause to cease all her mirth, [.linebr]#/# +
+her feast days, her new moons, her sabbaths, [.linebr]#/# +
+and all her solemn feasts.
+
+12 And I will destroy her vines and her fig-trees, [.linebr]#/# +
+of which she has said, 'These are my rewards [.linebr]#/# +
+that my lovers have given me.' [.linebr]#/# +
+And I will make them a forest, [.linebr]#/# +
+and the beasts of the field shall eat them.
+
+13 And I will visit upon her the days of Baalim, [.linebr]#/# +
+in which she burned incense to them [.linebr]#/# +
+and decked herself with her earrings and her jewels, [.linebr]#/# +
+and she went after her lovers [.linebr]#/# +
+and forgot me," says the LORD.
+
+14 "Therefore, behold, I will allure her, [.linebr]#/# +
+bring her into the wilderness, [.linebr]#/# +
+and speak comfortably to her.
+
+15 And I will give her her vineyards from there, [.linebr]#/# +
+and the valley of Achor [.linebr]#/# +
+for a door of hope. [.linebr]#/# +
+And she shall sing there, [.linebr]#/# +
+as in the days of her youth [.linebr]#/# +
+and as in the day when she came [.linebr]#/# +
+from the land of Egypt.
+
+16 And it shall be at that day," says the LORD, [.linebr]#/# +
+"that you shall call me Ishi, [.linebr]#/# +
+and shall no longer call me Baali.
+
+17 For I will take away the names of Baalim out of her mouth, [.linebr]#/# +
+and they shall no longer be remembered by their name.
+
+18 And in that day I will make a covenant for them [.linebr]#/# +
+with the beasts of the field, [.linebr]#/# +
+with the birds of heaven, [.linebr]#/# +
+and with the creeping animals of the ground. [.linebr]#/# +
+And I will break the bow, the sword, [.linebr]#/# +
+and the battle out of the earth, [.linebr]#/# +
+and will make them to lie down in safety.
+
+19 And I will betroth you to me forever. [.linebr]#/# +
+I will even betroth you to me in righteousness, [.linebr]#/# +
+in judgment, in loving-kindness, and in mercies.
+
+20 I will even betroth you to me in faithfulness. [.linebr]#/# +
+And you shall know the LORD.
+
+21 And it shall come to pass in that day, [.linebr]#/# +
+I will hear," says the LORD, [.linebr]#/# +
+"I will hear the heavens, [.linebr]#/# +
+and they shall hear the earth,
+
+22 And the earth shall hear the grain, [.linebr]#/# +
+the wine, and the oil, [.linebr]#/# +
+and they shall hear Jezreel.
+
+[[hos002-023]]23 And I will sow her for myself in the earth. [.linebr]#/# +
+And I will have mercy upon her who had not obtained mercy, [.linebr]#/# +
+and I will say to those who were not my people, 'You are my people.' [.linebr]#/# +
+And they shall say, 'You are my God.'"
+
+[%breakable]
+References::
+*[v.23]*: Quoted in xref:#rom009-025[Romans 9:25].
+
+[#hos003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_Another type of the spiritual lewdness of Israel, 1-3. The punishment of it, 4. Their reformation, 5._
+
+1 Then the LORD said to me, "Go back, love a woman beloved by her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods and love flagons of wine." 2 So I bought her for myself for fifteen pieces of silver and for a homer and a half of barley. 3 And I said to her, "You shall wait for me many days. You shall not play the harlot and you shall not be with another man. I will also be so to you." 4 For the children of Israel shall abide many days without a king, without a prince, without a sacrifice, without an image, without an ephod, and without teraphim. 5 Afterward, the children of Israel shall return, and seek the LORD their God and David their king, and shall fear the LORD and his goodness in the latter days.
+
+[#hos004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_The prophet shows their numerous sins and the judgments consequent upon them, 1-19._
+
+1 Hear the word of the LORD, children of Israel, [.linebr]#/# +
+for the LORD has a controversy [.linebr]#/# +
+with the inhabitants of the land, [.linebr]#/# +
+because there is no truth, nor mercy, [.linebr]#/# +
+nor knowledge of God in the land.
+
+2 "By swearing, lying, killing, stealing, [.linebr]#/# +
+and committing adultery, [.linebr]#/# +
+they break out, and blood touches blood.
+
+3 Therefore, the land shall mourn, [.linebr]#/# +
+and everyone who dwells in it shall languish, [.linebr]#/# +
+with the beasts of the field [.linebr]#/# +
+and with the birds of heaven. [.linebr]#/# +
+Even the fish of the sea shall also be taken away.
+
+4 Yet let no man contend, [.linebr]#/# +
+nor reprove another, [.linebr]#/# +
+for your people are as those [.linebr]#/# +
+who contend with the priest.
+
+5 Therefore, you shall fall in the day, [.linebr]#/# +
+and the prophet also shall fall with you in the night, [.linebr]#/# +
+and I will destroy your mother.
+
+6 My people are destroyed for lack of knowledge. [.linebr]#/# +
+Because you have rejected knowledge, [.linebr]#/# +
+I will also reject you, [.linebr]#/# +
+so that you shall be no priest to me. [.linebr]#/# +
+Seeing you have forgotten the law of your God, [.linebr]#/# +
+I will also forget your children.
+
+7 As they were increased, [.linebr]#/# +
+so they sinned against me; [.linebr]#/# +
+therefore, I will change their glory into shame.
+
+8 They eat up the sin of my people [.linebr]#/# +
+and they set their heart on their iniquity.
+
+9 And it shall be, as the people, so shall be the priest. [.linebr]#/# +
+And I will punish them for their ways [.linebr]#/# +
+and reward them for their doings.
+
+10 For they shall eat and not have enough. [.linebr]#/# +
+They shall be guilty of lewdness and shall not increase, [.linebr]#/# +
+because they have ceased to take heed to the LORD.
+
+11 Lewdness, wine, and new wine [.linebr]#/# +
+take away the heart.
+
+12 My people ask counsel at their stocks, [.linebr]#/# +
+and their staff declares to them, [.linebr]#/# +
+for the spirit of lewdness has caused them to err, [.linebr]#/# +
+and they have gone astray from under their God.
+
+13 They sacrifice upon the tops of the mountains [.linebr]#/# +
+and burn incense upon the hills, [.linebr]#/# +
+under oaks, poplars, and elms, [.linebr]#/# +
+because their shade is agreeable. [.linebr]#/# +
+Therefore, your daughters shall be guilty of lewdness [.linebr]#/# +
+and your spouses shall commit adultery.
+
+14 I will not punish your daughters [.linebr]#/# +
+when they are guilty of lewdness, [.linebr]#/# +
+nor your spouses [.linebr]#/# +
+when they commit adultery, [.linebr]#/# +
+for they themselves are separated with prostitutes [.linebr]#/# +
+and they sacrifice with harlots. [.linebr]#/# +
+Therefore, the people who do not understand shall fall.
+
+15 Though you, Israel, play the harlot, [.linebr]#/# +
+yet do not let Judah offend, [.linebr]#/# +
+and do not come to Gilgal, [.linebr]#/# +
+neither go up to Beth-aven, [.linebr]#/# +
+nor swear, 'The LORD lives.'
+
+16 For Israel slides back as a backsliding heifer. [.linebr]#/# +
+Now the LORD will feed them [.linebr]#/# +
+as a lamb in a large place.
+
+17 Ephraim is joined to idols. [.linebr]#/# +
+Leave him alone.
+
+18 Their drink is sour. [.linebr]#/# +
+They have been guilty of lewd deeds continually. [.linebr]#/# +
+Her rulers have thoroughly loved shame.
+
+19 The wind has bound her up in her wings, [.linebr]#/# +
+and they shall be ashamed because of their sacrifices."
+
+[#hos005%breakable]
+=== Chapter 5
+
+[.outline.text-center]
+_The scope of this chapter, likewise, is to show the sins of Israel and Judah and to denounce the judgments of God against them, 1-15._
+
+1 "Hear this, O priests, [.linebr]#/# +
+and listen, house of Israel, [.linebr]#/# +
+and give ear, O house of the king, [.linebr]#/# +
+for judgment is toward you [.linebr]#/# +
+because you have been a snare on Mizpah [.linebr]#/# +
+and a net spread upon Tabor.
+
+2 And the revolters are profound to make slaughter, [.linebr]#/# +
+though I have been a rebuker of them all.
+
+3 I know Ephraim, [.linebr]#/# +
+and Israel is not hid from me. [.linebr]#/# +
+For now, O Ephraim, you are guilty of lewdness, [.linebr]#/# +
+and Israel is defiled.
+
+4 They will not frame their doings [.linebr]#/# +
+to turn to their God, [.linebr]#/# +
+for the spirit of lewdness is in the midst of them [.linebr]#/# +
+and they have not known the LORD.
+
+5 And the pride of Israel testifies to his face; [.linebr]#/# +
+therefore, Israel and Ephraim [.linebr]#/# +
+shall fall in their iniquity. [.linebr]#/# +
+Judah shall also fall with them.
+
+6 They shall go with their flocks and with their herds [.linebr]#/# +
+to seek the LORD, but they shall not find him. [.linebr]#/# +
+He has withdrawn himself from them.
+
+7 They have dealt treacherously against the LORD, [.linebr]#/# +
+for they have begotten strange children. [.linebr]#/# +
+Now a month shall devour them [.linebr]#/# +
+with their portions.
+
+8 Blow the horn in Gibeah [.linebr]#/# +
+and the trumpet in Ramah. [.linebr]#/# +
+Cry aloud at Beth-aven, [.linebr]#/# +
+after you, O Benjamin.
+
+9 Ephraim shall be desolate [.linebr]#/# +
+in the day of rebuke. [.linebr]#/# +
+Among the tribes of Israel [.linebr]#/# +
+I have made known that which shall surely be.
+
+10 The princes of Judah [.linebr]#/# +
+were like those who move the landmark; [.linebr]#/# +
+therefore, I will pour out my wrath [.linebr]#/# +
+upon them like water.
+
+11 Ephraim is oppressed and broken in judgment [.linebr]#/# +
+because he willingly walked after the commandment.
+
+12 Therefore, I will be to Ephraim as a moth [.linebr]#/# +
+and to the house of Judah as rottenness.
+
+13 When Ephraim saw his sickness [.linebr]#/# +
+and Judah saw his wound, [.linebr]#/# +
+Ephraim went to the Assyrian [.linebr]#/# +
+and sent to king Jareb. [.linebr]#/# +
+Yet he could not heal you, [.linebr]#/# +
+nor cure you of your wound.
+
+14 For I will be to Ephraim as a lion, [.linebr]#/# +
+and as a young lion to the house of Judah. [.linebr]#/# +
+I, even I, will tear and go away. [.linebr]#/# +
+I will take away, and no one shall rescue him.
+
+15 I will go and return to my place [.linebr]#/# +
+until they acknowledge their offense and seek my face. [.linebr]#/# +
+In their affliction they will seek me early."
+
+[#hos006%breakable]
+=== Chapter 6
+
+[.outline.text-center]
+_Their resolution to return to God, 1-3. The instability of many of them, 4, 5. God's covenant with them, and their violation of it, 6-11._
+
+1 "Come, and let us return to the LORD. [.linebr]#/# +
+For he has torn and he will heal us. [.linebr]#/# +
+He has smitten and he will bind us up.
+
+2 After two days he will revive us. [.linebr]#/# +
+On the third day he will raise us up, [.linebr]#/# +
+and we shall live in his sight.
+
+3 Then we shall know, if we follow on to know the LORD. [.linebr]#/# +
+His going forth is prepared as the morning, [.linebr]#/# +
+and he will come to us as the rain, [.linebr]#/# +
+as the latter and former rain to the earth."
+
+4 "O Ephraim, what shall I do to you? [.linebr]#/# +
+O Judah, what shall I do to you? [.linebr]#/# +
+For your goodness is as the morning cloud, [.linebr]#/# +
+and as the early dew it goes away.
+
+5 Therefore, I have hewn them by the prophets. [.linebr]#/# +
+I have slain them by the words of my mouth. [.linebr]#/# +
+And your judgments are as the light that goes forth.
+
+[[hos006-006]]6 For I desired mercy and not sacrifice, [.linebr]#/# +
+and the knowledge of God more than burnt-offerings.
+
+7 But they, like Adam, have transgressed the covenant. [.linebr]#/# +
+There they have dealt treacherously against me.
+
+8 Gilead is a city of those who work iniquity [.linebr]#/# +
+and is polluted with blood.
+
+9 And as troops of robbers wait for a man, [.linebr]#/# +
+so the company of priests [.linebr]#/# +
+murder in the way by consent, [.linebr]#/# +
+for they commit lewdness.
+
+10 I have seen a horrible thing [.linebr]#/# +
+in the house of Israel. [.linebr]#/# +
+There is the prostitution of Ephraim, [.linebr]#/# +
+Israel is defiled.
+
+11 Also, O Judah, he has set a harvest for you, [.linebr]#/# +
+when I returned the captivity of my people."
+
+[%breakable]
+References::
+*[v.6]*: Quoted in xref:#mth009-013[Matthew 9:13], xref:#mth012-007[12:7].
+
+[#hos007%breakable]
+=== Chapter 7
+
+[.outline.text-center]
+_A reproof of manifold sins, 1-10. God's wrath against them for their hypocrisy, 11-16._
+
+1 "When I would have healed Israel, [.linebr]#/# +
+then the iniquity of Ephraim [.linebr]#/# +
+and the wickedness of Samaria was disclosed, [.linebr]#/# +
+for they commit falsehood. [.linebr]#/# +
+And the thief comes in, [.linebr]#/# +
+and the troop of robbers raids outside.
+
+2 And they do not consider in their hearts [.linebr]#/# +
+that I remember all their wickedness. [.linebr]#/# +
+Now their own doings have beset them around. [.linebr]#/# +
+They are before my face.
+
+3 They make the king glad with their wickedness, [.linebr]#/# +
+and the princes with their lies.
+
+4 They are all adulterers, [.linebr]#/# +
+as an oven heated by the baker [.linebr]#/# +
+who ceases to stir the fire [.linebr]#/# +
+from the kneading of the dough [.linebr]#/# +
+until it is leavened.
+
+5 In the day of our king [.linebr]#/# +
+the princes have made him sick with bottles of wine. [.linebr]#/# +
+He stretched out his hand with scorners.
+
+6 For they have made ready their heart like an oven [.linebr]#/# +
+while they lie in wait. [.linebr]#/# +
+Their baker sleeps all the night. [.linebr]#/# +
+In the morning it burns as a flaming fire.
+
+7 They are all hot as an oven [.linebr]#/# +
+and have devoured their judges. [.linebr]#/# +
+All their kings have fallen. [.linebr]#/# +
+There is no one among them who calls to me.
+
+8 Ephraim, he has mixed himself among the people. [.linebr]#/# +
+Ephraim is a cake not turned.
+
+9 Strangers have devoured his strength, [.linebr]#/# +
+and he does not know it. [.linebr]#/# +
+Even gray hairs are here and there upon him, [.linebr]#/# +
+yet he does not know.
+
+10 And the pride of Israel testifies to his face. [.linebr]#/# +
+And they do not return to the LORD their God, [.linebr]#/# +
+nor seek him for all this.
+
+11 Ephraim is also like a silly dove without heart. [.linebr]#/# +
+They call to Egypt. They go to Assyria.
+
+12 When they go, I will spread my net upon them. [.linebr]#/# +
+I will bring them down as the birds of the heaven. [.linebr]#/# +
+I will chastise them, [.linebr]#/# +
+as their congregation has heard.
+
+13 Woe to them! For they have fled from me. [.linebr]#/# +
+Destruction to them! [.linebr]#/# +
+For they have transgressed against me. [.linebr]#/# +
+Though I have redeemed them, [.linebr]#/# +
+yet they have spoken lies against me.
+
+14 And they have not cried to me with their heart [.linebr]#/# +
+when they howled upon their beds. [.linebr]#/# +
+They assemble themselves for grain and wine [.linebr]#/# +
+and they rebel against me.
+
+15 Though I have bound and strengthened their arms, [.linebr]#/# +
+yet they devise mischief against me.
+
+16 They return, but not to the most High. [.linebr]#/# +
+They are like a deceitful bow. [.linebr]#/# +
+Their princes shall fall by the sword [.linebr]#/# +
+for the rage of their tongue. [.linebr]#/# +
+This shall be their derision in the land of Egypt."
+
+[#hos008%breakable]
+=== Chapter 8
+
+[.outline.text-center]
+_Destruction is threatened both to Israel and Judah for their impiety and idolatry, 1-14._
+
+1 "Set the trumpet to your mouth. [.linebr]#/# +
+He shall come as an eagle [.linebr]#/# +
+against the house of the LORD, [.linebr]#/# +
+because they have transgressed my covenant [.linebr]#/# +
+and trespassed against my law.
+
+2 Israel shall cry to me, [.linebr]#/# +
+'My God, we know you.'
+
+3 Israel has cast off the thing that is good. [.linebr]#/# +
+The enemy shall pursue him.
+
+4 They have set up kings, [.linebr]#/# +
+but not by me. [.linebr]#/# +
+They have made princes, [.linebr]#/# +
+and I did not know it. [.linebr]#/# +
+Of their silver and their gold [.linebr]#/# +
+they have made for themselves idols, [.linebr]#/# +
+so that they may be cut off.
+
+5 Your calf, O Samaria, has cast you off. [.linebr]#/# +
+My anger is kindled against them. [.linebr]#/# +
+How long will it be before they attain to innocence?
+
+6 For it was also from Israel. [.linebr]#/# +
+The workman made it; [.linebr]#/# +
+therefore, it is not God. [.linebr]#/# +
+But the calf of Samaria [.linebr]#/# +
+shall be broken in pieces.
+
+7 For they have sown the wind [.linebr]#/# +
+and they shall reap the whirlwind. [.linebr]#/# +
+It has no stalk. [.linebr]#/# +
+The bud shall yield no meal. [.linebr]#/# +
+If it yields, [.linebr]#/# +
+the strangers shall swallow it up.
+
+8 Israel is swallowed up. [.linebr]#/# +
+Now they shall be among the Gentiles [.linebr]#/# +
+as a vessel in which there is no pleasure.
+
+9 For they have gone up to Assyria, [.linebr]#/# +
+a wild donkey alone by himself. [.linebr]#/# +
+Ephraim has hired lovers.
+
+10 Even though they have hired among the nations, [.linebr]#/# +
+now I will gather them, [.linebr]#/# +
+and they shall sorrow a little [.linebr]#/# +
+for the burden of the king of princes.
+
+11 Because Ephraim has made many altars to sin, [.linebr]#/# +
+altars shall be for him to sin.
+
+12 I have written to him the great things of my law, [.linebr]#/# +
+but they were counted as a strange thing.
+
+13 They sacrifice flesh for the sacrifices of my offerings and eat it, [.linebr]#/# +
+but the LORD does not accept them. [.linebr]#/# +
+Now he will remember their iniquity [.linebr]#/# +
+and visit their sins. [.linebr]#/# +
+They shall return to Egypt.
+
+14 For Israel has forgotten his Maker [.linebr]#/# +
+and builds temples, [.linebr]#/# +
+and Judah has multiplied fortified cities. [.linebr]#/# +
+But I will send a fire upon his cities, [.linebr]#/# +
+and it shall devour the palaces thereof."
+
+[#hos009%breakable]
+=== Chapter 9
+
+[.outline.text-center]
+_The distress and captivity of Israel for their sins, 1-17._
+
+1 Do not rejoice, O Israel, for joy, as other people, [.linebr]#/# +
+for you have apostatized from your God. [.linebr]#/# +
+You have loved a reward upon every grain-floor.
+
+2 The floor and the wine-press shall not feed them, [.linebr]#/# +
+and the new wine shall fail in her.
+
+3 They shall not dwell in the LORD'S land, [.linebr]#/# +
+but Ephraim shall return to Egypt [.linebr]#/# +
+and they shall eat unclean things in Assyria.
+
+4 They shall not offer wine-offerings to the LORD, [.linebr]#/# +
+neither shall they be pleasing to him. [.linebr]#/# +
+Their sacrifices shall be to them [.linebr]#/# +
+as the bread of mourners. [.linebr]#/# +
+All who eat of it shall be polluted, [.linebr]#/# +
+for their bread for their soul [.linebr]#/# +
+shall not come into the house of the LORD.
+
+5 What will you do in the solemn day [.linebr]#/# +
+and in the day of the feast of the LORD?
+
+6 For behold, they have gone away because of destruction. [.linebr]#/# +
+Egypt shall gather them up. [.linebr]#/# +
+Memphis shall bury them. [.linebr]#/# +
+The pleasant places for their silver, [.linebr]#/# +
+nettles shall possess them. [.linebr]#/# +
+Thorns shall be in their tabernacles.
+
+7 The days of visitation have come. [.linebr]#/# +
+The days of recompense have come. [.linebr]#/# +
+Israel shall know it. [.linebr]#/# +
+The prophet is a fool [.linebr]#/# +
+and the spiritual man is mad [.linebr]#/# +
+because of the multitude of your iniquity [.linebr]#/# +
+and the great hatred.
+
+8 The watchman of Ephraim was with my God, [.linebr]#/# +
+but the prophet is a snare of a fowler in all his ways [.linebr]#/# +
+and hatred in the house of his God.
+
+9 They have deeply corrupted themselves, [.linebr]#/# +
+as in the days of Gibeah; [.linebr]#/# +
+therefore, he will remember their iniquity. [.linebr]#/# +
+He will visit their sins.
+
+10 I found Israel like grapes in the wilderness. [.linebr]#/# +
+I saw your fathers [.linebr]#/# +
+as the first-fruits on the fig-tree in her first season. [.linebr]#/# +
+But they went to Baal-peor [.linebr]#/# +
+and separated themselves to that shame, [.linebr]#/# +
+and their abominations were according as they loved.
+
+11 As for Ephraim, their glory shall fly away like a bird [.linebr]#/# +
+from the birth, from the womb, and from the conception.
+
+12 Though they bring up their children, [.linebr]#/# +
+yet I will bereave them, [.linebr]#/# +
+so that there shall not be a man left. [.linebr]#/# +
+Indeed, woe also to them [.linebr]#/# +
+when I depart from them!
+
+13 Ephraim, as I saw Tyre, [.linebr]#/# +
+is planted in a pleasant place. [.linebr]#/# +
+But Ephraim shall bring forth his children [.linebr]#/# +
+to the murderer.
+
+14 Give them, O LORD—what will you give? [.linebr]#/# +
+Give them a miscarrying womb and dry breasts.
+
+15 "All their wickedness is in Gilgal, [.linebr]#/# +
+for there I hated them. [.linebr]#/# +
+For the wickedness of their doings [.linebr]#/# +
+I will drive them out of my house. [.linebr]#/# +
+I will love them no more. [.linebr]#/# +
+All their princes are revolters.
+
+16 Ephraim is smitten. [.linebr]#/# +
+Their root is dried up. [.linebr]#/# +
+They shall bear no fruit. [.linebr]#/# +
+Even though they bring forth, [.linebr]#/# +
+yet I will slay even the beloved fruit of their womb."
+
+17 My God will cast them away [.linebr]#/# +
+because they did not listen to him. [.linebr]#/# +
+And they shall be wanderers among the nations.
+
+[#hos010%breakable]
+=== Chapter 10
+
+[.outline.text-center]
+_Israel is reproved and threatened for their impiety and idolatry, and exhorted to repentance, 1-15._
+
+1 Israel is an empty vine [.linebr]#/# +
+that brings forth fruit to himself. [.linebr]#/# +
+According to the multitude of his fruit [.linebr]#/# +
+he has multiplied the altars. [.linebr]#/# +
+According to the goodness of his land [.linebr]#/# +
+they have made ornate images.
+
+2 Their heart is divided. [.linebr]#/# +
+Now they shall be found faulty. [.linebr]#/# +
+He shall break down their altars. [.linebr]#/# +
+He shall destroy their images.
+
+3 For now they shall say, [.linebr]#/# +
+"We have no king [.linebr]#/# +
+because we did not fear the LORD. [.linebr]#/# +
+What then should a king do to us?"
+
+4 They have spoken words, [.linebr]#/# +
+swearing falsely in making a covenant. [.linebr]#/# +
+Thus judgment springs up as hemlock [.linebr]#/# +
+in the furrows of the field.
+
+5 The inhabitants of Samaria shall fear [.linebr]#/# +
+because of the calves of Beth-aven. [.linebr]#/# +
+For its people shall mourn over it, [.linebr]#/# +
+and its priests shall tremble for it, for its glory, [.linebr]#/# +
+because it has departed from it.
+
+6 It shall also be carried to Assyria [.linebr]#/# +
+for a present to king Jareb. [.linebr]#/# +
+Ephraim shall receive shame, [.linebr]#/# +
+and Israel shall be ashamed of his own counsel.
+
+7 As for Samaria, her king is cut off [.linebr]#/# +
+as the foam upon the water.
+
+[[hos010-008]]8 Also the high places of Aven, the sin of Israel, [.linebr]#/# +
+shall be destroyed. [.linebr]#/# +
+The thorn and the thistle shall come up on their altars, [.linebr]#/# +
+and they shall say to the mountains, "Cover us," [.linebr]#/# +
+and to the hills, "Fall on us."
+
+9 "O Israel, you have sinned from the days of Gibeah. [.linebr]#/# +
+There they stood. [.linebr]#/# +
+The battle in Gibeah against the children of iniquity [.linebr]#/# +
+did not overtake them.
+
+10 It is in my desire that I should chastise them. [.linebr]#/# +
+And the people shall be gathered against them [.linebr]#/# +
+when they bind themselves in their two furrows.
+
+11 And Ephraim is as a heifer that is taught [.linebr]#/# +
+and loves to tread out the grain. [.linebr]#/# +
+But I passed over upon her fair neck. [.linebr]#/# +
+I will make Ephraim to ride. Judah shall plow, [.linebr]#/# +
+and Jacob shall break his clods.
+
+[[hos010-012]]12 Sow to yourselves in righteousness. [.linebr]#/# +
+Reap in mercy. [.linebr]#/# +
+Break up your fallow ground. [.linebr]#/# +
+For it is time to seek the LORD [.linebr]#/# +
+until he comes and rains righteousness upon you.
+
+13 You have plowed wickedness. [.linebr]#/# +
+You have reaped iniquity. [.linebr]#/# +
+You have eaten the fruit of lies. [.linebr]#/# +
+Because you have trusted in your way, [.linebr]#/# +
+in the multitude of your mighty men,
+
+14 Therefore a tumult shall arise among your people, [.linebr]#/# +
+and all your fortresses shall be plundered, [.linebr]#/# +
+as Shalman plundered Beth-arbel in the day of battle. [.linebr]#/# +
+The mother was dashed in pieces upon her children.
+
+15 Beth-el shall do so to you [.linebr]#/# +
+because of your great wickedness. [.linebr]#/# +
+In a morning the king of Israel shall be utterly cut off."
+
+[%breakable]
+References::
+*[v.8]*: Quoted in xref:#luk023-030[Luke 23:30]. *[v.12]*: Quoted in xref:#sco009-010[2nd Corinthians 9:10].
+
+[#hos011%breakable]
+=== Chapter 11
+
+[.outline.text-center]
+_The ingratitude of Israel to God for his benefits, 1-4. His judgment, 5-7. God's mercy toward them, 8-11. Israel's falsehood and Judah's fidelity, 12._
+
+[[hos011-001]]1 "When Israel was a child, I loved him, [.linebr]#/# +
+and called my son out of Egypt.
+
+2 As they called them, so they went from them. [.linebr]#/# +
+They sacrificed to Baalim [.linebr]#/# +
+and burned incense to engraved images.
+
+3 I taught Ephraim also to go, [.linebr]#/# +
+taking them by their arms, [.linebr]#/# +
+but they did not know that I healed them.
+
+4 I drew them with cords of a man, [.linebr]#/# +
+with ropes of love. [.linebr]#/# +
+And I was to them as those [.linebr]#/# +
+who take off the yoke from their jaws, [.linebr]#/# +
+and I laid food for them.
+
+5 He shall not return into the land of Egypt, [.linebr]#/# +
+but the Assyrian shall be his king [.linebr]#/# +
+because they refused to return.
+
+6 And the sword shall abide on his cities, [.linebr]#/# +
+and shall consume his branches and devour them [.linebr]#/# +
+because of their own counsels.
+
+7 And my people are bent to backsliding from me. [.linebr]#/# +
+Though they called to the most High, [.linebr]#/# +
+no one at all would exalt him.
+
+8 How shall I give you up, Ephraim? [.linebr]#/# +
+How shall I deliver you, Israel? [.linebr]#/# +
+How shall I make you as Admah? [.linebr]#/# +
+How shall I set you as Zeboim? [.linebr]#/# +
+My heart is turned within me. [.linebr]#/# +
+My repentings are kindled together.
+
+9 I will not execute the fierceness of my anger. [.linebr]#/# +
+I will not return to destroy Ephraim, [.linebr]#/# +
+for I am God and not man, [.linebr]#/# +
+the Holy One in the midst of you, [.linebr]#/# +
+and I will not enter into the city.
+
+10 They shall walk after the LORD. [.linebr]#/# +
+He shall roar like a lion. [.linebr]#/# +
+When he roars, [.linebr]#/# +
+the children shall tremble from the west.
+
+11 They shall tremble as a bird out of Egypt [.linebr]#/# +
+and as a dove out of the land of Assyria. [.linebr]#/# +
+And I will place them in their houses," [.linebr]#/# +
+says the LORD.
+
+12 Ephraim encompasses me with lies, [.linebr]#/# +
+and the house of Israel with deceit, [.linebr]#/# +
+but Judah still rules with God [.linebr]#/# +
+and is faithful with the saints.
+
+[%breakable]
+References::
+*[v.1]*: Quoted in xref:#mth002-015[Matthew 2:15].
+
+[#hos012%breakable]
+=== Chapter 12
+
+[.outline.text-center]
+_A reproof of Ephraim, Judah, and Jacob, 1, 2. By former favors he exhorts to repentance, 3-6. Ephraim's sins provoke God, 7-14._
+
+1 Ephraim feeds on wind [.linebr]#/# +
+and follows after the east wind. [.linebr]#/# +
+He daily multiplies lies and desolation. [.linebr]#/# +
+They make a covenant with the Assyrians, [.linebr]#/# +
+and oil is carried into Egypt.
+
+2 The LORD also has a controversy with Judah [.linebr]#/# +
+and will punish Jacob according to his ways. [.linebr]#/# +
+According to his doings he will recompense him.
+
+3 He took his brother by the heel in the womb, [.linebr]#/# +
+and by his strength he had power with God.
+
+4 He even had power over the angel and prevailed. [.linebr]#/# +
+He wept and made supplication to him. [.linebr]#/# +
+He found [God] in Beth-el, [.linebr]#/# +
+and there [God] spoke with us,
+
+5 Even the LORD God of hosts, [.linebr]#/# +
+the LORD is his memorial.
+
+6 Therefore, turn to your God. [.linebr]#/# +
+Keep mercy and judgment [.linebr]#/# +
+and wait on your God continually.
+
+7 He is a merchant. [.linebr]#/# +
+The balances of deceit are in his hand. [.linebr]#/# +
+He loves to oppress.
+
+8 And Ephraim said, "Yet I have become rich. [.linebr]#/# +
+I have found substance for myself. [.linebr]#/# +
+In all my labors they shall find [.linebr]#/# +
+no iniquity in me that is sin."
+
+9 "And I am the LORD your God [.linebr]#/# +
+from the land of Egypt. [.linebr]#/# +
+I will yet make you to dwell in tabernacles, [.linebr]#/# +
+as in the days of the solemn feast.
+
+10 I have also spoken by the prophets [.linebr]#/# +
+and I have multiplied visions. [.linebr]#/# +
+I used similitudes by the ministry of the prophets.
+
+11 Is there iniquity in Gilead? [.linebr]#/# +
+Surely they are vanity. [.linebr]#/# +
+They sacrifice bulls in Gilgal. [.linebr]#/# +
+Even their altars are as heaps [.linebr]#/# +
+in the furrows of the fields.
+
+12 And Jacob fled into the country of Syria. [.linebr]#/# +
+And Israel served to get a wife, [.linebr]#/# +
+and for a wife he kept sheep.
+
+13 And by a prophet the LORD brought Israel out of Egypt, [.linebr]#/# +
+and by a prophet he was preserved.
+
+14 Ephraim provoked him to anger most bitterly; [.linebr]#/# +
+therefore, he will leave his blood upon him, [.linebr]#/# +
+and his Lord will return his reproach to him."
+
+[#hos013%breakable]
+=== Chapter 13
+
+[.outline.text-center]
+_Ephraim's glory vanishes, 1-3. God's anger, 4-8. God's mercy, 9-14. The judgment of Samaria, 15, 16._
+
+1 "When Ephraim spoke, there was trembling. [.linebr]#/# +
+He exalted himself in Israel. [.linebr]#/# +
+But when he offended in Baal, he died.
+
+2 And now they sin more and more, [.linebr]#/# +
+and have made for themselves molten images of their silver [.linebr]#/# +
+and idols according to their own understanding, [.linebr]#/# +
+all of it the work of craftsmen. [.linebr]#/# +
+They say of them, [.linebr]#/# +
+'Let the men who sacrifice kiss the calves.'
+
+3 Therefore, they shall be as the morning cloud [.linebr]#/# +
+and as the early dew that passes away, [.linebr]#/# +
+as the chaff that is driven with the whirlwind from the floor [.linebr]#/# +
+and as the smoke from the smoke-chamber.
+
+4 Yet I am the LORD your God [.linebr]#/# +
+from the land of Egypt, [.linebr]#/# +
+and you shall know no God but me, [.linebr]#/# +
+for there is no savior besides me.
+
+5 I knew you in the wilderness, [.linebr]#/# +
+in the land of great drought.
+
+6 According to their pasture, so they were filled. [.linebr]#/# +
+They were filled and their heart was exalted; [.linebr]#/# +
+therefore, they have forgotten me.
+
+7 Therefore, I will be to them as a lion. [.linebr]#/# +
+As a leopard by the way I will observe them.
+
+8 I will meet them as a bear that is bereaved of her whelps [.linebr]#/# +
+and will rend the enclosure of their heart. [.linebr]#/# +
+And there I will devour them like a lion. [.linebr]#/# +
+The wild beast shall tear them.
+
+9 O Israel, you have destroyed yourself, [.linebr]#/# +
+but your help is in me.
+
+10 I will be your king. [.linebr]#/# +
+Where is any other who may save you in all your cities, [.linebr]#/# +
+and your judges of whom you said, [.linebr]#/# +
+'Give me a king and princes'?
+
+11 I gave you a king in my anger [.linebr]#/# +
+and took him away in my wrath.
+
+12 The iniquity of Ephraim is bound up. [.linebr]#/# +
+His sin is hid.
+
+13 The sorrows of a travailing woman shall come upon him. [.linebr]#/# +
+He is an unwise son, [.linebr]#/# +
+for he should not stay long [.linebr]#/# +
+in the place of the breaking forth of children.
+
+[[hos013-014]]14 I will ransom them from the power of the grave. [.linebr]#/# +
+I will redeem them from death. [.linebr]#/# +
+O death, I will be your plagues. [.linebr]#/# +
+O grave, I will be your destruction. [.linebr]#/# +
+Repentance shall be hid from my eyes.
+
+15 Though he is fruitful among his brothers, [.linebr]#/# +
+an east wind shall come, [.linebr]#/# +
+the wind of the LORD shall come up from the wilderness, [.linebr]#/# +
+and his spring shall become dry [.linebr]#/# +
+and his fountain shall be dried up. [.linebr]#/# +
+He shall pillage the treasure of all precious vessels.
+
+16 Samaria shall become desolate, [.linebr]#/# +
+for she has rebelled against her God. [.linebr]#/# +
+They shall fall by the sword. [.linebr]#/# +
+Their infants shall be dashed in pieces [.linebr]#/# +
+and their women with child shall be ripped up."
+
+[%breakable]
+References::
+*[v.14]*: Quoted in xref:#fco015-055[1st Corinthians 15:55].
+
+[#hos014%breakable]
+=== Chapter 14
+
+[.outline.text-center]
+_An exhortation to repentance, 1-3. A promise of God's blessing, 4-9._
+
+1 O Israel, return to the LORD your God, [.linebr]#/# +
+for you have fallen by your iniquity.
+
+[[hos014-002]]2 Take with you words [.linebr]#/# +
+and turn to the LORD. [.linebr]#/# +
+Say to him, "Take away all iniquity [.linebr]#/# +
+and receive us graciously, [.linebr]#/# +
+so that we will render as calves [.linebr]#/# +
+the offering of our lips.
+
+3 Ashur shall not save us. [.linebr]#/# +
+We will not ride upon horses. [.linebr]#/# +
+We will no more say to the work of our hands, [.linebr]#/# +
+'You are our gods.' [.linebr]#/# +
+For in you the fatherless finds mercy."
+
+4 "I will heal their backsliding [.linebr]#/# +
+and I will love them freely, [.linebr]#/# +
+for my anger is turned away from him.
+
+5 I will be as the dew to Israel. [.linebr]#/# +
+He shall grow as the lily [.linebr]#/# +
+and cast forth his roots as Lebanon.
+
+6 His branches shall spread. [.linebr]#/# +
+His beauty shall be as the olive-tree [.linebr]#/# +
+and his smell as Lebanon.
+
+7 Those who dwell under his shadow shall return. [.linebr]#/# +
+They shall revive as the grain [.linebr]#/# +
+and grow as the vine. [.linebr]#/# +
+Its scent shall be as the wine of Lebanon.
+
+8 Ephraim shall say, [.linebr]#/# +
+'What have I to do anymore with idols?' [.linebr]#/# +
+I have heard him and observed him. [.linebr]#/# +
+I am like a green fir-tree. [.linebr]#/# +
+Your fruit is found from me."
+
+9 Who is wise, that he shall understand these things? [.linebr]#/# +
+Who is prudent, that he shall know them? [.linebr]#/# +
+For the ways of the LORD are right, [.linebr]#/# +
+and the just shall walk in them, [.linebr]#/# +
+but the transgressors shall fall in them.
+
+[%breakable]
+References::
+*[v.2]*: Quoted in xref:#heb013-015[Hebrews 13:15].
+
+[.text-center]
+_[Tanach reading: go to xref:#joel[Joel]]_

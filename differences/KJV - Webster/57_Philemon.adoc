@@ -1,0 +1,85 @@
+= Paul's Letter to Philemon
+
+[frame=ends,grid=rows,cols="20%,40%,40%"]
+|===
+|*Verse*
+|*KJV*
+|*WBS*
+
+|Phm 1:1
+|Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
+|Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and fellow-laborer,
+
+|Phm 1:2
+|And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
+|And to our beloved Apphia, and Archippus our fellow-soldier, and to the church in thy house:
+
+|Phm 1:5
+|Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
+|Hearing of thy love and faith, which thou hast towards the Lord Jesus, and towards all saints;
+
+|Phm 1:8
+|Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,
+|Wherefore, though I might be very bold in Christ to enjoin thee that which is convenient.
+
+|Phm 1:9
+|Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
+|Yet for love's sake I rather beseech thee, being such one as Paul the aged, and now also a prisoner of Jesus Christ.
+
+|Phm 1:11
+|Which in time past was to thee unprofitable, but now profitable to thee and to me:
+|Who in time past was to thee unprofitable, but now profitable to thee and to me:
+
+|Phm 1:12
+|Whom I have sent again: thou therefore receive him, that is, mine own bowels:
+|Whom I have sent again: thou therefore receive him, that is, my own bowels:
+
+|Phm 1:13
+|Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:
+|Whom I would have retained with me, that in thy stead he might have ministered to me in the bonds of the gospel:
+
+|Phm 1:14
+|But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.
+|But without thy mind I would do nothing; that thy benefit should not be as it were of necessity, but willingly.
+
+|Phm 1:15
+|For perhaps he therefore departed for a season, that thou shouldest receive him for ever;
+|For perhaps he therefore departed for a season, that thou shouldst receive him for ever;
+
+|Phm 1:16
+|Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?
+|Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more to thee, both in the flesh, and in the Lord?
+
+|Phm 1:17
+|If thou count me therefore a partner, receive him as myself.
+|If thou accountest me therefore a partner, receive him as myself.
+
+|Phm 1:18
+|If he hath wronged thee, or oweth thee ought, put that on mine account;
+|If he hath wronged thee, or oweth thee aught, put that on my account;
+
+|Phm 1:19
+|I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.
+|I Paul have written it with my own hand, I will repay it: although I do not say to thee that thou owest to me even thy own self besides.
+
+|Phm 1:20
+|Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.
+|Yes, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.
+
+|Phm 1:21
+|Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.
+|Having confidence in thy obedience I wrote to thee, knowing that thou wilt also do more than I say.
+
+|Phm 1:22
+|But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.
+|But at the same time prepare me also a lodging; for I trust that through your prayers I shall be given to you.
+
+|Phm 1:23
+|There salute thee Epaphras, my fellowprisoner in Christ Jesus;
+|There salute thee Epaphras, my fellow-prisoner in Christ Jesus;
+
+|Phm 1:24
+|Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
+|Marcus, Aristarchus, Demas, Lucas, my fellow-laborers.
+
+|===

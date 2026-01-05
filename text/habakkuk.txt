@@ -1,0 +1,310 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#habakkuk]
+== The Word of the Lord to Habakkuk
+
+*Habakkuk | Ἀμβακούμ | חבקוק*
+
+[#hab001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_To Habakkuk, indignant at the iniquity of the land, 1-4, is shown the fearful vengeance by the Chaldeans, 5-11. He complains that vengeance should be executed by those who are far worse, 12-17._
+
+1 [_The burden which Habakkuk the prophet saw._]
+
+2 O LORD, how long shall I cry [.linebr]#/# +
+and you will not hear? [.linebr]#/# +
+I even cry out to you of violence, [.linebr]#/# +
+and you will not save!
+
+3 Why do you show me iniquity [.linebr]#/# +
+and cause me to behold grievance? [.linebr]#/# +
+For devastation and violence are before me. [.linebr]#/# +
+And there is strife, and contention rises up.
+
+4 Therefore, the law is slackened, [.linebr]#/# +
+and judgment never goes forth. [.linebr]#/# +
+For the wicked encompasses the righteous; [.linebr]#/# +
+therefore, perverted justice proceeds.
+
+[[hab001-005]]5 "Behold among the heathen and regard. [.linebr]#/# +
+Wonder and be astonished. [.linebr]#/# +
+For I will work a work in your days [.linebr]#/# +
+which you will not believe though it is told to you.
+
+6 For behold, I raise up the Chaldeans, [.linebr]#/# +
+that bitter and hasty nation, [.linebr]#/# +
+which shall march through the breadth of the land [.linebr]#/# +
+to possess the dwelling-places that are not theirs.
+
+7 They are terrible and dreadful. [.linebr]#/# +
+Their judgment and their dignity [.linebr]#/# +
+shall proceed from themselves.
+
+8 Their horses are also swifter than the leopards [.linebr]#/# +
+and are more fierce than the evening wolves. [.linebr]#/# +
+And their horsemen shall spread themselves [.linebr]#/# +
+and their horsemen shall come from far. [.linebr]#/# +
+They shall fly as the eagle that hastens to devour.
+
+9 They shall all come for violence. [.linebr]#/# +
+Their faces shall swallow up the east wind, [.linebr]#/# +
+and they shall gather the captivity as the sand.
+
+10 And they shall scoff at the kings, [.linebr]#/# +
+and the princes shall be a scorn to them. [.linebr]#/# +
+They shall deride every stronghold, [.linebr]#/# +
+for they shall heap dust and take it.
+
+11 Then his mind shall change [.linebr]#/# +
+and he shall pass over and offend, [.linebr]#/# +
+imputing his power to his god."
+
+12 Are you not from everlasting, [.linebr]#/# +
+O LORD my God, my Holy One? [.linebr]#/# +
+We shall not die. [.linebr]#/# +
+O LORD, you have ordained them for judgment. [.linebr]#/# +
+And O mighty God, [.linebr]#/# +
+you have established them for correction.
+
+13 You are of purer eyes than to behold evil, [.linebr]#/# +
+and cannot look at iniquity. [.linebr]#/# +
+Why do you look upon those who deal treacherously, [.linebr]#/# +
+and keep silence when the wicked devours [.linebr]#/# +
+the man who is more righteous than he is?
+
+14 You make men as the fish of the sea, [.linebr]#/# +
+as the creeping animals that have no ruler over them.
+
+15 They take up all of them with the hook, [.linebr]#/# +
+they catch them in their net [.linebr]#/# +
+and gather them in their dragnet; [.linebr]#/# +
+therefore, they rejoice and are glad.
+
+16 Therefore, they sacrifice to their net [.linebr]#/# +
+and burn incense to their dragnet, [.linebr]#/# +
+because by them their portion is fat [.linebr]#/# +
+and their food plenteous.
+
+17 Shall they therefore empty their net [.linebr]#/# +
+and not spare continually to slay the nations?
+
+[%breakable]
+References::
+*[v.5]*: Quoted in xref:#act013-041[Acts 13:41].
+
+[#hab002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_To Habakkuk, waiting for an answer, is shown that he must wait by faith, 1-4. The judgment upon the Chaldean for insatiableness, 5-8, for covetousness, 9-11, for cruelty, 12-14, for drunkenness, 15-17, and for idolatry, 18-20._
+
+1 I will stand upon my watch-post [.linebr]#/# +
+and seat myself upon the tower, [.linebr]#/# +
+and will watch to see what he will say to me, [.linebr]#/# +
+and what I shall answer when I am reproved.
+
+2 And the LORD answered me and said, [.linebr]#/# +
+"Write the vision and make it plain upon tablets, [.linebr]#/# +
+so that he may run who reads it.
+
+[[hab002-003]]3 For the vision is yet for an appointed time, [.linebr]#/# +
+but at the end it shall speak, and not lie. [.linebr]#/# +
+Though it may linger, wait for it, [.linebr]#/# +
+because it will surely come. It will not delay.
+
+[[hab002-004]]4 Behold, his soul which is lifted up is not upright in him, [.linebr]#/# +
+but the just shall live by his faith.
+
+5 And also, because he transgresses by wine, [.linebr]#/# +
+he is a proud man and does not rest. [.linebr]#/# +
+He enlarges his desire as hell, [.linebr]#/# +
+and is as death and cannot be satisfied. [.linebr]#/# +
+He gathers to himself all nations [.linebr]#/# +
+and collects to himself all people.
+
+6 Shall all these not take up a parable against him [.linebr]#/# +
+and a taunting proverb against him, [.linebr]#/# +
+and say, 'Woe to him who increases that which is not his [.linebr]#/# +
+and to him who lades himself with thick clay! How long?'
+
+7 Shall they not rise suddenly who bite you, [.linebr]#/# +
+and awake who disturb you, [.linebr]#/# +
+and you shall be plunder for them?
+
+8 Because you have laid waste many nations, [.linebr]#/# +
+all the remnant of the people shall lay you waste, [.linebr]#/# +
+because of men's blood [.linebr]#/# +
+and for the violence done to the land, [.linebr]#/# +
+to the city, and to all who dwell therein.
+
+9 Woe to him who covets an evil gain for his house [.linebr]#/# +
+to set his nest on high [.linebr]#/# +
+to be delivered from the power of evil!
+
+10 You have devised shame to your house [.linebr]#/# +
+by cutting off many people [.linebr]#/# +
+and have sinned against your soul.
+
+11 For the stone shall cry out of the wall, [.linebr]#/# +
+and the beam out of the timber shall answer it.
+
+12 Woe to him who builds a town with blood [.linebr]#/# +
+and establishes a city by iniquity!
+
+13 Behold, is it not from the LORD of hosts [.linebr]#/# +
+that the people labor in the fire [.linebr]#/# +
+and the people weary themselves for vanity?
+
+14 For the earth shall be filled [.linebr]#/# +
+with the knowledge of the glory of the LORD, [.linebr]#/# +
+as the waters cover the sea.
+
+15 Woe to him who gives his neighbor drink, [.linebr]#/# +
+pouring out your bottle to him, [.linebr]#/# +
+and also making him drunk, [.linebr]#/# +
+so that you may look at their nakedness!
+
+16 You are filled with shame and not glory. [.linebr]#/# +
+You shall also drink [.linebr]#/# +
+and let your uncircumcision be uncovered. [.linebr]#/# +
+The cup of the LORD'S right hand [.linebr]#/# +
+shall be turned to you, [.linebr]#/# +
+and shameful vomiting shall be on your glory.
+
+17 For the violence done to Lebanon [.linebr]#/# +
+shall overwhelm you, [.linebr]#/# +
+and the destruction of the beasts [.linebr]#/# +
+shall make you afraid, [.linebr]#/# +
+because of men's blood [.linebr]#/# +
+and for the violence done to the land, [.linebr]#/# +
+to the city, and to all who dwell therein.
+
+18 What profit is the engraved image [.linebr]#/# +
+when its maker has engraved it— [.linebr]#/# +
+the molten image and a teacher of lies— [.linebr]#/# +
+that the maker trusts in what he has formed, [.linebr]#/# +
+making mute idols?
+
+19 Woe to him who says to wood, 'Awake,' [.linebr]#/# +
+and to a mute stone, 'Arise.' [.linebr]#/# +
+It shall teach! [.linebr]#/# +
+Behold, it is overlaid with gold and silver [.linebr]#/# +
+and there is no breath at all in the midst of it.
+
+20 But the LORD is in his holy temple. [.linebr]#/# +
+Let all the earth keep silence before him."
+
+[%breakable]
+References::
+*[v.3]*: Quoted in xref:#heb010-037[Hebrews 10:37]. *[v.4]*: Quoted in xref:#rom001-017[Romans 1:17]; xref:#gal003-011[Galatians 3:11]; xref:#heb010-038[Hebrews 10:38].
+
+[#hab003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_Habakkuk, in his prayer, trembles at God's majesty, 1-16. The confidence of his faith, 17-19._
+
+[[hab003-001]]1 [_A prayer of Habakkuk the prophet upon Shigionoth._]
+
+2 O LORD, I have heard your speech and was afraid. [.linebr]#/# +
+O LORD, revive your work in the midst of the years. [.linebr]#/# +
+In the midst of the years make it known. [.linebr]#/# +
+In wrath remember mercy.
+
+3 God came from Teman, [.linebr]#/# +
+and the Holy One from mount Paran. [.linebr]#/# +
++[+ _Selah._ +]+ +
+His glory covered the heavens, [.linebr]#/# +
+and the earth was full of his praise.
+
+4 And his brightness was as the light. [.linebr]#/# +
+He had rays coming out of his hand, [.linebr]#/# +
+and there was the hiding of his power.
+
+5 Before him went the pestilence, [.linebr]#/# +
+and burning coals went forth at his feet.
+
+6 He stood and measured the earth. [.linebr]#/# +
+He beheld and drove apart the nations. [.linebr]#/# +
+The everlasting mountains were scattered [.linebr]#/# +
+and the perpetual hills bowed. [.linebr]#/# +
+His ways are everlasting.
+
+7 I saw the tents of Cushan in affliction. [.linebr]#/# +
+And the curtains of the land of Midian trembled.
+
+8 Was the LORD displeased with the rivers? [.linebr]#/# +
+Was your anger against the rivers? [.linebr]#/# +
+Was your wrath against the sea [.linebr]#/# +
+that you rode upon your horses [.linebr]#/# +
+and your chariots of salvation?
+
+9 Your bow was made quite ready, [.linebr]#/# +
+according to the oaths of the tribes, even your word. [.linebr]#/# +
++[+ _Selah._ +]+ +
+You cleaved the earth with rivers.
+
+10 The mountains saw you and they trembled. [.linebr]#/# +
+The overflowing of the water passed by. [.linebr]#/# +
+The deep uttered his voice [.linebr]#/# +
+and lifted up his hands on high.
+
+11 The sun and moon stood still in their habitation. [.linebr]#/# +
+At the light of your arrows they went, [.linebr]#/# +
+and at the shining of your glittering spear.
+
+12 You marched through the land in indignation. [.linebr]#/# +
+You threshed the heathen in anger.
+
+13 You went forth for the salvation of your people, [.linebr]#/# +
+even for salvation with your anointed. [.linebr]#/# +
+You wounded the head of the house of the wicked [.linebr]#/# +
+by uncovering the foundation to the neck. [.linebr]#/# +
++[+ _Selah._ +]+
+
+14 You struck through with his staffs [.linebr]#/# +
+the head of his villages. [.linebr]#/# +
+They came out as a whirlwind to scatter me. [.linebr]#/# +
+Their rejoicing was as to devour the poor secretly.
+
+15 You walked through the sea with your horses, [.linebr]#/# +
+through the heap of great waters.
+
+16 When I heard, my belly trembled. [.linebr]#/# +
+My lips quivered at the voice. [.linebr]#/# +
+Rottenness entered into my bones, [.linebr]#/# +
+and I trembled in myself, [.linebr]#/# +
+so that I might rest in the day of trouble. [.linebr]#/# +
+When he comes up to the people, [.linebr]#/# +
+he will invade them with his troops.
+
+17 Though the fig-tree does not blossom [.linebr]#/# +
+and no fruit is on the vines, [.linebr]#/# +
+though the labor of the olive fails [.linebr]#/# +
+and the fields yield no food, [.linebr]#/# +
+though the flock is cut off from the fold [.linebr]#/# +
+and there is no herd in the stalls,
+
+18 Yet I will rejoice in the LORD. [.linebr]#/# +
+I will be joyful in the God of my salvation.
+
+19 The LORD God is my strength, [.linebr]#/# +
+and he will make my feet like those of a doe [.linebr]#/# +
+and make me to walk upon my high places.
+
++[+ _To the chief singer on my stringed instruments._ +]+
+
+[.text-center]
+_[Tanach reading: go to xref:#zephaniah[Zephaniah]]_

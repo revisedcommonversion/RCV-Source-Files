@@ -1,0 +1,612 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#micah]
+== The Word of the Lord to Micah
+
+*Micah | Μιχαίας | מיכה*
+
+[#mic001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_The time when Micah prophesied, 1. He shows the wrath of God against Jacob for idolatry, 2-9. He exhorts to mourning, 10-16._
+
+1 [_The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem._]
+
+2 Hear, all you people. [.linebr]#/# +
+Listen, O earth and all who are therein. [.linebr]#/# +
+Let the Lord GOD be witness against you, [.linebr]#/# +
+the Lord from his holy temple.
+
+3 For behold, the LORD comes forth from his place, [.linebr]#/# +
+and will come down and tread [.linebr]#/# +
+upon the high places of the earth.
+
+4 And the mountains shall be melted under him, [.linebr]#/# +
+and the valleys shall be split, [.linebr]#/# +
+as wax before the fire [.linebr]#/# +
+and as the waters that are poured down a steep place.
+
+5 "All this is for the transgression of Jacob [.linebr]#/# +
+and for the sins of the house of Israel. [.linebr]#/# +
+What is the transgression of Jacob? [.linebr]#/# +
+Is it not Samaria? [.linebr]#/# +
+And what are the high places of Judah? [.linebr]#/# +
+Are they not Jerusalem?
+
+6 Therefore, I will make Samaria as a heap of the field [.linebr]#/# +
+and as plantings of a vineyard. [.linebr]#/# +
+And I will pour down her stones into the valley [.linebr]#/# +
+and lay her foundations bare.
+
+7 And all her engraved images shall be beaten to pieces, [.linebr]#/# +
+all her wages shall be burned with the fire, [.linebr]#/# +
+and all her idols I will lay desolate, [.linebr]#/# +
+for she gathered it from the payment of a harlot, [.linebr]#/# +
+and they shall return to the payment of a harlot."
+
+8 Therefore, I will wail and howl. [.linebr]#/# +
+I will go stripped and naked. [.linebr]#/# +
+I will make a wailing like the jackals [.linebr]#/# +
+and mourning as the owls.
+
+9 For her wound is incurable, [.linebr]#/# +
+and it has come to Judah. [.linebr]#/# +
+He has come to the gate of my people, [.linebr]#/# +
+even to Jerusalem.
+
+10 Do not declare it at Gath. [.linebr]#/# +
+Do not weep at all. [.linebr]#/# +
+In the house of Aphrah roll yourself in the dust.
+
+11 Pass on, you inhabitant of Saphir, [.linebr]#/# +
+having your shame exposed. [.linebr]#/# +
+The inhabitant of Zaanan did not come forth [.linebr]#/# +
+in the mourning of Beth-ezel. [.linebr]#/# +
+He shall receive from you his standing.
+
+12 For the inhabitant of Maroth [.linebr]#/# +
+waited anxiously for good, [.linebr]#/# +
+but evil came down from the LORD [.linebr]#/# +
+to the gate of Jerusalem.
+
+13 O inhabitant of Lachish, [.linebr]#/# +
+bind the chariot to the swift beast. [.linebr]#/# +
+She is the beginning of the sin [.linebr]#/# +
+to the daughter of Zion, [.linebr]#/# +
+for the transgressions of Israel [.linebr]#/# +
+were found in you.
+
+14 Therefore, you shall give presents [.linebr]#/# +
+to Moresheth-gath. [.linebr]#/# +
+The houses of Achzib shall be a lie [.linebr]#/# +
+to the kings of Israel.
+
+15 Yet I will bring an heir to you, [.linebr]#/# +
+O inhabitant of Mareshah. [.linebr]#/# +
+The glory of Israel shall come to Adullam.
+
+16 Make yourself bald and shave yourself [.linebr]#/# +
+for the children of your delight. [.linebr]#/# +
+Enlarge your baldness as the eagle, [.linebr]#/# +
+for they have gone into captivity from you.
+
+[#mic002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_Against oppression, 1-3. A lamentation, 4-6. A reproof of injustice and idolatry, 7-11. A promise of restoring Jacob, 12, 13._
+
+1 Woe to those who devise iniquity [.linebr]#/# +
+and work evil upon their beds! [.linebr]#/# +
+When the morning is light, they practice it, [.linebr]#/# +
+because it is in the power of their hand.
+
+2 And they covet fields and take them by violence, [.linebr]#/# +
+and also houses, and take them away. [.linebr]#/# +
+Thus they oppress a man and his house, [.linebr]#/# +
+even a man and his heritage.
+
+3 Therefore, thus says the LORD: [.linebr]#/# +
+"Behold, against this family I devise an evil, [.linebr]#/# +
+from which you shall not remove your necks, [.linebr]#/# +
+neither shall you go haughtily, for this time is evil.
+
+4 In that day one shall take up a parable against you [.linebr]#/# +
+and lament with a grievous lamentation, and say, [.linebr]#/# +
+'We are utterly wasted. [.linebr]#/# +
+He has changed the portion of my people. [.linebr]#/# +
+How he has removed it from me! [.linebr]#/# +
+To the rebellious he has divided our fields.'
+
+5 Therefore, you shall have no one [.linebr]#/# +
+who shall cast the line by lot [.linebr]#/# +
+in the congregation of the LORD.
+
+6 'Do not prophesy,' they say to those who prophesy. [.linebr]#/# +
+They shall not prophesy to them. [.linebr]#/# +
+Reproaches shall not depart.
+
+7 Shall it be said, O house of Jacob, [.linebr]#/# +
+'Is the Spirit of the LORD shortened? [.linebr]#/# +
+Are these his doings?' [.linebr]#/# +
+Do my words not do good [.linebr]#/# +
+to him who walks uprightly?
+
+8 Even of late my people have risen up [.linebr]#/# +
+as an enemy. [.linebr]#/# +
+You pull off the robe with the garment [.linebr]#/# +
+from those who pass by securely [.linebr]#/# +
+as men averse to war.
+
+9 The women of my people you have cast out [.linebr]#/# +
+from their pleasant houses. [.linebr]#/# +
+From their children [.linebr]#/# +
+you have taken away my glory forever.
+
+10 Arise, and depart, for this is not your rest. [.linebr]#/# +
+Because it is polluted, it shall destroy you, [.linebr]#/# +
+even with a grievous destruction.
+
+11 If a man walking in a spirit of falsehood lies, saying, [.linebr]#/# +
+'I will prophesy to you of wine and of strong drink,' [.linebr]#/# +
+he shall even be the prophet of this people.
+
+12 I will surely assemble, O Jacob, all of you. [.linebr]#/# +
+I will surely gather the remnant of Israel. [.linebr]#/# +
+I will put them together as the sheep of Bozrah, [.linebr]#/# +
+as the flock in the midst of their fold. [.linebr]#/# +
+They shall make great noise [.linebr]#/# +
+by reason of the multitude of men.
+
+13 The breaker has come up before them. [.linebr]#/# +
+They have broken up and have passed through the gate [.linebr]#/# +
+and gone out by it. [.linebr]#/# +
+And their king shall pass before them, [.linebr]#/# +
+and the LORD at their head."
+
+[#mic003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_The cruelty of the princes, 1-4. The falsehood of the prophets, 5-7. The ill-grounded security of them both, 8-12._
+
+1 And I said, [.linebr]#/# +
+"Hear, I pray you, O heads of Jacob [.linebr]#/# +
+and you princes of the house of Israel. [.linebr]#/# +
+Is it not for you to know judgment?
+
+2 You hate the good and love the evil. [.linebr]#/# +
+You pluck off their skin from them [.linebr]#/# +
+and their flesh from off their bones.
+
+3 You also eat the flesh of my people [.linebr]#/# +
+and flay their skin from off them. [.linebr]#/# +
+You break their bones [.linebr]#/# +
+and chop them in pieces, [.linebr]#/# +
+as that which is for the pot, [.linebr]#/# +
+and as flesh within the cauldron.
+
+4 Then you shall cry to the LORD, [.linebr]#/# +
+but he will not hear you. [.linebr]#/# +
+He will even hide his face from you at that time, [.linebr]#/# +
+as you have been ill behaved in your doings."
+
+5 Thus says the LORD concerning the prophets [.linebr]#/# +
+who deceive my people, [.linebr]#/# +
+who bite with their teeth, [.linebr]#/# +
+and cry, "Peace," [.linebr]#/# +
+and he who puts nothing into their mouths, [.linebr]#/# +
+they even prepare war against him:
+
+6 "Therefore, night shall be for you [.linebr]#/# +
+so that you shall not have a vision. [.linebr]#/# +
+And it shall be dark for you [.linebr]#/# +
+so that you shall not divine. [.linebr]#/# +
+And the sun shall go down over the prophets, [.linebr]#/# +
+and the day shall be dark over them.
+
+7 Then the seers shall be ashamed [.linebr]#/# +
+and the diviners confounded. [.linebr]#/# +
+Indeed, they shall all cover their lips, [.linebr]#/# +
+for there is no answer from God."
+
+8 But truly I am full of power by the Spirit of the LORD, [.linebr]#/# +
+and of judgment and of might, [.linebr]#/# +
+to declare to Jacob his transgression [.linebr]#/# +
+and to Israel his sin.
+
+9 Hear this, I pray you, you heads of the house of Jacob [.linebr]#/# +
+and princes of the house of Israel, [.linebr]#/# +
+who abhor judgment and pervert all equity.
+
+10 They build up Zion with blood [.linebr]#/# +
+and Jerusalem with iniquity.
+
+11 Her heads judge for bribes, [.linebr]#/# +
+her priests teach for payment, [.linebr]#/# +
+and her prophets divine for money. [.linebr]#/# +
+Yet they will lean upon the LORD and say, [.linebr]#/# +
+"Is the LORD not among us? [.linebr]#/# +
+No evil can come upon us."
+
+12 Therefore, Zion for your sake [.linebr]#/# +
+shall be plowed as a field, [.linebr]#/# +
+Jerusalem shall become heaps, [.linebr]#/# +
+and the mountain of the house [.linebr]#/# +
+as the high places of the forest.
+
+[#mic004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_The glory, 1, 2, and the peace of Christ's kingdom, 5. The restoration, 6-10, and victory of the church, 11-13._
+
+1 But in the last days it shall come to pass, [.linebr]#/# +
+that the mountain of the house of the LORD [.linebr]#/# +
+shall be established on the top of the mountains, [.linebr]#/# +
+and it shall be exalted above the hills, [.linebr]#/# +
+and people shall flow to it.
+
+2 And many nations shall come and say, [.linebr]#/# +
+"Come, and let us go up to the mountain of the LORD [.linebr]#/# +
+and to the house of the God of Jacob, [.linebr]#/# +
+and he will teach us of his ways, [.linebr]#/# +
+and we will walk in his paths." [.linebr]#/# +
+For the law shall go forth from Zion [.linebr]#/# +
+and the word of the LORD from Jerusalem.
+
+3 And he shall judge among many people [.linebr]#/# +
+and rebuke strong nations afar off. [.linebr]#/# +
+And they shall beat their swords into plow-shares [.linebr]#/# +
+and their spears into pruning-hooks. [.linebr]#/# +
+Nation shall not lift up a sword against nation, [.linebr]#/# +
+neither shall they learn war anymore.
+
+4 But they shall each sit under his vine [.linebr]#/# +
+and under his fig-tree, [.linebr]#/# +
+and no one shall make them afraid. [.linebr]#/# +
+For the mouth of the LORD of hosts has spoken it.
+
+5 For all people will each walk in the name of his god, [.linebr]#/# +
+and we will walk in the name of the LORD our God [.linebr]#/# +
+forever and ever.
+
+6 "In that day," says the LORD, [.linebr]#/# +
+"I will assemble her who is lame. [.linebr]#/# +
+I will gather her who is driven out [.linebr]#/# +
+and her whom I have afflicted.
+
+7 I will make her who was lame a remnant [.linebr]#/# +
+and her who was cast far off a strong nation. [.linebr]#/# +
+And the LORD will reign over them on mount Zion [.linebr]#/# +
+from now on, even forever."
+
+8 And you, O tower of the flock, [.linebr]#/# +
+the stronghold of the daughter of Zion, [.linebr]#/# +
+it shall come to you, [.linebr]#/# +
+even the former dominion shall come, [.linebr]#/# +
+the kingdom to the daughter of Jerusalem.
+
+9 Now why do you cry aloud? [.linebr]#/# +
+Is there no king in you? [.linebr]#/# +
+Has your counselor perished? [.linebr]#/# +
+For pangs have taken you as a woman in travail.
+
+10 Be in pain and labor to bring forth, O daughter of Zion, [.linebr]#/# +
+like a woman in travail. [.linebr]#/# +
+For now you shall go forth from the city [.linebr]#/# +
+and you shall dwell in the field, [.linebr]#/# +
+and you shall go even to Babylon. [.linebr]#/# +
+There you shall be delivered. [.linebr]#/# +
+There the LORD shall redeem you [.linebr]#/# +
+from the hand of your enemies.
+
+11 Now also many nations are gathered against you, [.linebr]#/# +
+who say, "Let her be defiled, [.linebr]#/# +
+and let our eye look upon Zion."
+
+12 But they do not know the thoughts of the LORD, [.linebr]#/# +
+neither do they understand his counsel, [.linebr]#/# +
+for he will gather them as sheaves into the floor.
+
+13 "Arise and thresh, O daughter of Zion, [.linebr]#/# +
+for I will make your horn iron [.linebr]#/# +
+and I will make your hooves brass. [.linebr]#/# +
+And you shall beat many people in pieces. [.linebr]#/# +
+And I will consecrate their gain to YAHWEH [.linebr]#/# +
+and their substance to the Lord of the whole earth."
+
+[#mic005%breakable]
+=== Chapter 5
+
+[.outline.text-center]
+_The birth of Christ, 1-3. His kingdom, 4-7. His conquest, 8-15._
+
+1 Now gather yourself in troops, [.linebr]#/# +
+O daughter of troops. [.linebr]#/# +
+He has laid siege against us. [.linebr]#/# +
+They shall smite the judge of Israel [.linebr]#/# +
+with a rod upon the cheek.
+
+[[mic005-002]]2 "But you, Beth-lehem Ephratah, [.linebr]#/# +
+though you are little among the thousands of Judah, [.linebr]#/# +
+yet out of you he shall come forth to me [.linebr]#/# +
+who is to be ruler in Israel, [.linebr]#/# +
+whose goings forth have been from of old, [.linebr]#/# +
+from everlasting."
+
+3 Therefore, he will give them up [.linebr]#/# +
+until the time that she who travails has brought forth. [.linebr]#/# +
+Then the remnant of his brothers shall return [.linebr]#/# +
+to the children of Israel.
+
+4 And he will stand and feed in the strength of the LORD, [.linebr]#/# +
+in the majesty of the name of the LORD his God. [.linebr]#/# +
+And they shall abide, for now he will be great [.linebr]#/# +
+to the ends of the earth.
+
+5 And this one will be peace. [.linebr]#/# +
+When the Assyrian comes into our land [.linebr]#/# +
+and treads in our palaces, [.linebr]#/# +
+we shall raise against him seven shepherds [.linebr]#/# +
+and eight principal men.
+
+6 And they shall waste the land of Assyria with the sword [.linebr]#/# +
+and the land of Nimrod in its entrances. [.linebr]#/# +
+Thus he will deliver us from the Assyrian [.linebr]#/# +
+when he comes into our land [.linebr]#/# +
+and treads within our borders.
+
+7 And the remnant of Jacob [.linebr]#/# +
+shall be in the midst of many people [.linebr]#/# +
+as a dew from the LORD, [.linebr]#/# +
+as the showers upon the grass, [.linebr]#/# +
+which do not wait for man, [.linebr]#/# +
+nor delay for the sons of men.
+
+8 And the remnant of Jacob [.linebr]#/# +
+shall be among the Gentiles [.linebr]#/# +
+in the midst of many people [.linebr]#/# +
+as a lion among the beasts of the forest, [.linebr]#/# +
+as a young lion among the flocks of sheep, [.linebr]#/# +
+who, if he goes through, [.linebr]#/# +
+both treads down and tears in pieces, [.linebr]#/# +
+and no one can deliver.
+
+9 Your hand shall be lifted up upon your adversaries, [.linebr]#/# +
+and all your enemies shall be cut off.
+
+10 "And it shall come to pass in that day," says the LORD, [.linebr]#/# +
+"that I will cut off your horses out of the midst of you [.linebr]#/# +
+and destroy your chariots.
+
+11 And I will cut off the cities of your land [.linebr]#/# +
+and throw down all your strongholds.
+
+12 And I will cut off witchcrafts out of your hand, [.linebr]#/# +
+and you shall have no more soothsayers.
+
+13 Your engraved images I will also cut off, [.linebr]#/# +
+and your standing images out of the midst of you, [.linebr]#/# +
+and you shall no longer worship the work of your hands.
+
+14 And I will pluck up your groves out of the midst of you. [.linebr]#/# +
+Thus I will destroy your cities.
+
+15 And I will execute vengeance in anger and fury [.linebr]#/# +
+upon the heathen who have not heard."
+
+[%breakable]
+References::
+*[v.2]*: Quoted in xref:#mth002-006[Matthew 2:6].
+
+[#mic006%breakable]
+=== Chapter 6
+
+[.outline.text-center]
+_God's controversy for ingratitude, 1-5; for ignorance, 6-9, for injustice, 10-15; and for idolatry, 16._
+
+1 Hear now what the LORD says. [.linebr]#/# +
+"Arise, contend before the mountains [.linebr]#/# +
+and let the hills hear your voice.
+
+2 Hear, O mountains, the LORD'S controversy, [.linebr]#/# +
+and you strong foundations of the earth, [.linebr]#/# +
+for the LORD has a controversy with his people [.linebr]#/# +
+and he will plead with Israel.
+
+3 O my people, what have I done to you? [.linebr]#/# +
+And how have I wearied you? [.linebr]#/# +
+Testify against me.
+
+4 For I brought you out of the land of Egypt [.linebr]#/# +
+and redeemed you from the house of servants, [.linebr]#/# +
+and I sent before you Moses, Aaron, and Miriam.
+
+5 O my people, remember now [.linebr]#/# +
+what Balak king of Moab consulted, [.linebr]#/# +
+and what Balaam the son of Beor answered him, [.linebr]#/# +
+[and what I did] from Shittim to Gilgal, [.linebr]#/# +
+so that you may know the righteousness of the LORD."
+
+6 How shall I come before the LORD [.linebr]#/# +
+and bow myself before the high God? [.linebr]#/# +
+Shall I come before him with burnt-offerings, [.linebr]#/# +
+with calves of a year old?
+
+7 Will the LORD be pleased with thousands of rams, [.linebr]#/# +
+or with tens of thousands of rivers of oil? [.linebr]#/# +
+Shall I give my first-born for my transgression, [.linebr]#/# +
+the fruit of my body for the sin of my soul?
+
+8 He has shown you, O man, what is good. [.linebr]#/# +
+And what does the LORD require of you, [.linebr]#/# +
+but to do justly, to love mercy, [.linebr]#/# +
+and to walk humbly with your God?
+
+9 The LORD'S voice cries to the city— [.linebr]#/# +
+and wisdom shall fear your name, [.linebr]#/# +
+"Hear the rod and who has appointed it.
+
+10 Are there yet the treasures of wickedness [.linebr]#/# +
+in the house of the ungodly, [.linebr]#/# +
+and the scant measure that is abominable?
+
+11 Shall I count them pure with the wicked balances [.linebr]#/# +
+and with the bag of deceitful weights?
+
+12 For the rich men thereof are full of violence [.linebr]#/# +
+and the inhabitants thereof have spoken lies, [.linebr]#/# +
+and their tongue is deceitful in their mouth.
+
+13 Therefore, I have also made you to grieve in smiting you. [.linebr]#/# +
+I have made you desolate because of your sins.
+
+14 You shall eat, but not be satisfied, [.linebr]#/# +
+and your emptiness shall be in the midst of you. [.linebr]#/# +
+And you shall take hold, [.linebr]#/# +
+but shall not preserve. [.linebr]#/# +
+And that which you preserve [.linebr]#/# +
+I will give up to the sword.
+
+15 You shall sow, but you shall not reap. [.linebr]#/# +
+You shall tread the olives, [.linebr]#/# +
+but you shall not anoint yourself with oil. [.linebr]#/# +
+You shall make sweet wine, [.linebr]#/# +
+but shall not drink wine.
+
+16 For the statutes of Omri [.linebr]#/# +
+and all the works of the house of Ahab are kept, [.linebr]#/# +
+and you walk in their counsels. [.linebr]#/# +
+Therefore, I will make you a desolation [.linebr]#/# +
+and the inhabitants thereof a hissing, [.linebr]#/# +
+and you shall bear the reproach of my people."
+
+[#mic007%breakable]
+=== Chapter 7
+
+[.outline.text-center]
+_The church, bewailing her small number, 1, 2, and the general corruption, 3, 4, puts her confidence not in man, but in God, 5-7. She triumphs over her enemies, 8-13. She prays to God, 14. God comforts her by promises of confusion to her enemies, 15-17, and by his mercies, 18-20._
+
+1 Woe is me! [.linebr]#/# +
+For I am as when they have gathered the summer fruits, [.linebr]#/# +
+as the grape-gleanings of the vintage. [.linebr]#/# +
+There is no cluster to eat. [.linebr]#/# +
+My soul desired the first ripe fruit.
+
+2 The godly man has perished from the earth [.linebr]#/# +
+and there is no one upright among men. [.linebr]#/# +
+They all lie in wait for blood. [.linebr]#/# +
+They each hunt his brother with a net.
+
+3 Their hands are upon that which is evil to do it thoroughly. [.linebr]#/# +
+The prince and also the judge ask for a reward. [.linebr]#/# +
+And the great man, he utters the evil desire of his soul. [.linebr]#/# +
+Thus they weave it together.
+
+4 The best of them is as a brier. [.linebr]#/# +
+The most upright is sharper than a thorn hedge. [.linebr]#/# +
+The day of your watchmen and your visitation comes. [.linebr]#/# +
+Now shall be their perplexity.
+
+5 Do not trust in a friend. [.linebr]#/# +
+Do not put confidence in a guide. [.linebr]#/# +
+Keep the doors of your mouth [.linebr]#/# +
+from her who lies in your bosom.
+
+[[mic007-006]]6 For the son dishonors the father, [.linebr]#/# +
+the daughter rises up against her mother, [.linebr]#/# +
+the daughter-in-law against her mother-in-law. [.linebr]#/# +
+A man's enemies are the men of his own house.
+
+7 Therefore, I will look to the LORD. [.linebr]#/# +
+I will wait for the God of my salvation. [.linebr]#/# +
+My God will hear me.
+
+8 Do not rejoice against me, O my enemy. [.linebr]#/# +
+When I fall, I shall arise. [.linebr]#/# +
+When I sit in darkness, [.linebr]#/# +
+the LORD will be a light to me.
+
+9 I will bear the indignation of the LORD, [.linebr]#/# +
+because I have sinned against him, [.linebr]#/# +
+until he pleads my cause [.linebr]#/# +
+and executes judgment for me. [.linebr]#/# +
+He will bring me forth to the light, [.linebr]#/# +
+and I shall behold his righteousness.
+
+10 Then she who is my enemy shall see it, [.linebr]#/# +
+and shame shall cover her who said to me, [.linebr]#/# +
+"Where is the LORD your God?" [.linebr]#/# +
+My eyes shall behold her. [.linebr]#/# +
+Now she shall be trodden down [.linebr]#/# +
+as the mire of the streets.
+
+11 In the day that your walls are to be built, [.linebr]#/# +
+in that day the decree shall be far removed.
+
+12 In that day they shall also come even to you [.linebr]#/# +
+from Assyria and from the fortified cities [.linebr]#/# +
+and from the fortress even to the river, [.linebr]#/# +
+from sea to sea [.linebr]#/# +
+and from mountain to mountain.
+
+13 But the land shall be desolate [.linebr]#/# +
+because of those who dwell in it, [.linebr]#/# +
+for the fruit of their doings.
+
+14 Feed your people with your rod, [.linebr]#/# +
+the flock of your heritage, [.linebr]#/# +
+who dwell solitarily in the forest, [.linebr]#/# +
+in the midst of Carmel. [.linebr]#/# +
+Let them feed in Bashan and Gilead, [.linebr]#/# +
+as in the days of old.
+
+15 "According to the days of your departure [.linebr]#/# +
+from the land of Egypt [.linebr]#/# +
+I will show to them marvelous things."
+
+16 The nations shall see and be confounded [.linebr]#/# +
+at all their might. [.linebr]#/# +
+They shall lay their hand upon their mouth. [.linebr]#/# +
+Their ears shall be deaf.
+
+17 They shall lick the dust like a serpent. [.linebr]#/# +
+They shall move out of their holes [.linebr]#/# +
+like worms of the earth. [.linebr]#/# +
+They shall be afraid of the LORD our God [.linebr]#/# +
+and shall fear because of you.
+
+18 Who is a God like you, who pardons iniquity [.linebr]#/# +
+and passes by the transgression [.linebr]#/# +
+of the remnant of his heritage? [.linebr]#/# +
+He does not retain his anger forever [.linebr]#/# +
+because he delights in mercy.
+
+19 He will return. He will have compassion upon us. [.linebr]#/# +
+He will tread our iniquities under foot. [.linebr]#/# +
+And you will cast all their sins [.linebr]#/# +
+into the depths of the sea.
+
+20 You will give the truth to Jacob [.linebr]#/# +
+and the mercy to Abraham, [.linebr]#/# +
+which you have sworn to our fathers [.linebr]#/# +
+from the days of old.
+
+[%breakable]
+References::
+*[v.6]*: Quoted in xref:#mth010-035[Matthew 10:35-36].
+
+[.text-center]
+_[Tanach reading: go to xref:#nahum[Nahum]]_

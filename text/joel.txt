@@ -1,0 +1,405 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#joel]
+== The Word of the Lord to Joel
+
+*Joel | Ἰωήλ | יואל*
+
+[#joe001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Joel, declaring various judgments of God, exhorts to observe them, 1-7, and to mourn, 8-13. He prescribes a solemn fast to deprecate those judgments, 14-20._
+
+1 [_The word of the LORD that came to Joel the son of Pethuel._]
+
+2 Hear this, you old men, [.linebr]#/# +
+and give ear, all you inhabitants of the land. [.linebr]#/# +
+Has this been in your days, [.linebr]#/# +
+or even in the days of your fathers?
+
+3 Tell your children of it, [.linebr]#/# +
+and let your children tell their children, [.linebr]#/# +
+and their children another generation.
+
+4 That which the cutting-locust has left [.linebr]#/# +
+the swarming-locust has eaten, [.linebr]#/# +
+that which the swarming-locust has left [.linebr]#/# +
+the licking-locust has eaten, [.linebr]#/# +
+and that which the licking-locust has left [.linebr]#/# +
+the ravaging-locust has eaten.
+
+5 Awake, you drunkards, and weep. [.linebr]#/# +
+Howl, all you drinkers of wine, [.linebr]#/# +
+because of the new wine, [.linebr]#/# +
+for it is cut off from your mouth.
+
+6 For a nation has come up upon my land, [.linebr]#/# +
+strong and without number, [.linebr]#/# +
+whose teeth are the teeth of a lion [.linebr]#/# +
+and he has the cheek teeth of a great lion.
+
+7 He has laid my vine waste [.linebr]#/# +
+and barked my fig-tree. [.linebr]#/# +
+He has made it thoroughly bare and cast it away. [.linebr]#/# +
+Its branches are made white.
+
+8 Lament like a virgin girded with sackcloth [.linebr]#/# +
+for the husband of her youth.
+
+9 The food-offering and the drink-offering are cut off [.linebr]#/# +
+from the house of the LORD. [.linebr]#/# +
+The priests, the LORD'S ministers, mourn.
+
+10 The field is wasted [.linebr]#/# +
+and the land mourns, [.linebr]#/# +
+for the grain is wasted. [.linebr]#/# +
+The new wine is dried up. [.linebr]#/# +
+The oil languishes.
+
+11 Be ashamed, O farmers. [.linebr]#/# +
+Howl, O vine-dressers, [.linebr]#/# +
+for the wheat and for the barley, [.linebr]#/# +
+because the harvest of the field has perished.
+
+12 The vine is dried up [.linebr]#/# +
+and the fig-tree languishes. [.linebr]#/# +
+The pomegranate-tree, the palm-tree, and the apple-tree, [.linebr]#/# +
+even all the trees of the field are withered, [.linebr]#/# +
+because joy has withered away from the sons of men.
+
+13 Gird yourselves and lament, you priests. [.linebr]#/# +
+Howl, you ministers of the altar. [.linebr]#/# +
+Come, lie all night in sackcloth, [.linebr]#/# +
+you ministers of my God, [.linebr]#/# +
+for the food-offering and the drink-offering are withheld [.linebr]#/# +
+from the house of your God.
+
+14 Sanctify a fast, [.linebr]#/# +
+call a solemn assembly, [.linebr]#/# +
+gather the elders [.linebr]#/# +
+and all the inhabitants of the land [.linebr]#/# +
+into the house of the LORD your God, [.linebr]#/# +
+and cry to the LORD.
+
+15 Alas for the day! [.linebr]#/# +
+For the day of the LORD is at hand, [.linebr]#/# +
+and as a destruction from the Almighty it shall come.
+
+16 Is the food not cut off [.linebr]#/# +
+before our eyes, [.linebr]#/# +
+and joy and gladness [.linebr]#/# +
+from the house of our God?
+
+17 The seed has perished under their clods, [.linebr]#/# +
+the granaries are laid desolate, [.linebr]#/# +
+and the barns are broken down, [.linebr]#/# +
+for the grain has withered.
+
+18 How the beasts groan! [.linebr]#/# +
+The herds of livestock are perplexed [.linebr]#/# +
+because they have no pasture. [.linebr]#/# +
+Even the flocks of sheep are made desolate.
+
+19 O LORD, I will cry to you, [.linebr]#/# +
+for the fire has devoured [.linebr]#/# +
+the pastures of the wilderness [.linebr]#/# +
+and the flame has burned [.linebr]#/# +
+all the trees of the field.
+
+20 The beasts of the field also cry to you, [.linebr]#/# +
+for the rivers of waters are dried up [.linebr]#/# +
+and the fire has devoured the pastures of the wilderness.
+
+[#joe002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_He shows to Zion the terribleness of God's judgment, 1-11. He exhorts to repentance, 12-14; prescribes a fast, 15-17; promises a blessing thereon, 18-20. He comforts Zion with present, 21-27, and future blessings, 28-32._
+
+1 Blow the trumpet in Zion [.linebr]#/# +
+and sound an alarm on my holy mountain. [.linebr]#/# +
+Let all the inhabitants of the land tremble, [.linebr]#/# +
+for the day of the LORD comes. [.linebr]#/# +
+It is near at hand,
+
+2 A day of darkness and of gloominess, [.linebr]#/# +
+a day of clouds and of thick darkness. [.linebr]#/# +
+As the morning spreading upon the mountains, [.linebr]#/# +
+so there is a great and strong people. [.linebr]#/# +
+There has never been the like, [.linebr]#/# +
+neither shall there be any more after it, [.linebr]#/# +
+even to the years of many generations.
+
+3 A fire devours before them, [.linebr]#/# +
+and behind them a flame burns. [.linebr]#/# +
+The land is as the garden of Eden before them, [.linebr]#/# +
+and behind them a desolate wilderness, [.linebr]#/# +
+and nothing shall escape them.
+
+4 Their appearance is as the appearance of horses. [.linebr]#/# +
+And as horsemen, so they shall run.
+
+5 Like the noise of chariots [.linebr]#/# +
+on the tops of mountains they shall leap, [.linebr]#/# +
+like the noise of a flame of fire [.linebr]#/# +
+that devours the stubble, [.linebr]#/# +
+as a strong people set in battle array.
+
+6 Before their face the people shall be much pained. [.linebr]#/# +
+All faces shall gather blackness.
+
+7 They shall run like mighty men. [.linebr]#/# +
+They shall climb the wall like men of war. [.linebr]#/# +
+They shall each march on his ways [.linebr]#/# +
+and shall not break their ranks,
+
+8 Neither shall one thrust another. [.linebr]#/# +
+They shall each walk in his path. [.linebr]#/# +
+And when they fall upon the sword, [.linebr]#/# +
+they shall not be wounded.
+
+9 They shall run to and fro in the city. [.linebr]#/# +
+They shall run upon the wall. [.linebr]#/# +
+They shall climb upon the houses. [.linebr]#/# +
+They shall enter in at the windows like a thief.
+
+10 The earth shall quake before them. [.linebr]#/# +
+The heavens shall tremble. [.linebr]#/# +
+The sun and the moon shall be dark, [.linebr]#/# +
+and the stars shall withdraw their shining.
+
+11 And the LORD will utter his voice before his army, [.linebr]#/# +
+for his camp is very great, [.linebr]#/# +
+and he is strong who executes his word. [.linebr]#/# +
+For the day of the LORD is great and very terrible. [.linebr]#/# +
+Who can endure it?
+
+12 "Yet even now," says the LORD, [.linebr]#/# +
+"turn to me with all your heart, [.linebr]#/# +
+with fasting, with weeping, and with mourning."
+
+13 And rend your heart and not your garments, [.linebr]#/# +
+and turn to the LORD your God, [.linebr]#/# +
+for he is gracious and merciful, [.linebr]#/# +
+slow to anger, and of great kindness, [.linebr]#/# +
+and repents of the evil.
+
+14 Who knows if he will return and repent [.linebr]#/# +
+and leave a blessing behind him, [.linebr]#/# +
+even a food-offering and a drink-offering [.linebr]#/# +
+to the LORD your God?
+
+15 Blow the trumpet in Zion. Sanctify a fast. [.linebr]#/# +
+Call a solemn assembly.
+
+16 Gather the people. [.linebr]#/# +
+Sanctify the congregation. [.linebr]#/# +
+Assemble the elders. [.linebr]#/# +
+Gather the children [.linebr]#/# +
+and those who nurse from the breasts. [.linebr]#/# +
+Let the bridegroom go forth from his room [.linebr]#/# +
+and the bride out of her chamber.
+
+17 Let the priests, the ministers of the LORD, [.linebr]#/# +
+weep between the porch and the altar, [.linebr]#/# +
+and let them say, "Spare your people, O LORD, [.linebr]#/# +
+and do not give your heritage to reproach [.linebr]#/# +
+so that the heathen should rule over them. [.linebr]#/# +
+Why should they say among the people, [.linebr]#/# +
+'Where is their God?'"
+
+18 Then the LORD will be jealous for his land [.linebr]#/# +
+and pity his people.
+
+19 And the LORD will answer and say to his people, [.linebr]#/# +
+"Behold, I will send you grain, wine, and oil, [.linebr]#/# +
+and you shall be satisfied with it, [.linebr]#/# +
+and I will no longer make you [.linebr]#/# +
+a reproach among the heathen.
+
+20 But I will remove far from you the northern army [.linebr]#/# +
+and drive him into a land barren and desolate [.linebr]#/# +
+with his face toward the east sea [.linebr]#/# +
+and his back parts toward the utmost sea, [.linebr]#/# +
+and his odious scent shall come up [.linebr]#/# +
+and his ill savor shall come up, [.linebr]#/# +
+because he has worked proudly."
+
+21 Do not fear, O land. Be glad and rejoice, [.linebr]#/# +
+for the LORD will do great things.
+
+22 Do not be afraid, you beasts of the field, [.linebr]#/# +
+for the pastures of the wilderness spring, [.linebr]#/# +
+the tree bears its fruit, [.linebr]#/# +
+and the fig-tree and the vine yield their strength.
+
+23 Be glad then, children of Zion, [.linebr]#/# +
+and rejoice in the LORD your God, [.linebr]#/# +
+for he has given you the former rain moderately. [.linebr]#/# +
+He will cause to come down for you the rain, [.linebr]#/# +
+the former rain and the latter rain, in the first month.
+
+24 And the floors shall be full of wheat [.linebr]#/# +
+and the vats shall overflow with wine and oil.
+
+25 "And I will restore to you the years [.linebr]#/# +
+that the swarming-locust, [.linebr]#/# +
+the licking-locust, the ravaging-locust, [.linebr]#/# +
+and the cutting-locust consumed— [.linebr]#/# +
+my great army which I sent among you.
+
+26 And you shall eat in plenty, be satisfied, [.linebr]#/# +
+and praise the name of the LORD your God, [.linebr]#/# +
+who has dealt wondrously with you. [.linebr]#/# +
+And my people shall never be ashamed.
+
+27 And you shall know that I am in the midst of Israel [.linebr]#/# +
+and that I am the LORD your God, and no one else. [.linebr]#/# +
+And my people shall never be ashamed.
+
+[[joe002-028]]28 And it shall come to pass afterward, [.linebr]#/# +
+that I will pour out my Spirit upon all flesh, [.linebr]#/# +
+and your sons and your daughters shall prophesy, [.linebr]#/# +
+your old men shall dream dreams, [.linebr]#/# +
+your young men shall see visions.
+
+[[joe002-029]]29 And also upon the men-servants [.linebr]#/# +
+and upon the women-servants [.linebr]#/# +
+in those days I will pour out my Spirit.
+
+[[joe002-030]]30 And I will show wonders in the heavens and on the earth: [.linebr]#/# +
+blood, fire, and pillars of smoke.
+
+[[joe002-031]]31 The sun shall be turned into darkness, [.linebr]#/# +
+and the moon into blood, [.linebr]#/# +
+before the great and terrible day of the LORD comes.
+
+[[joe002-032]]32 And it shall come to pass, [.linebr]#/# +
+that whoever calls on the name of the LORD shall be delivered. [.linebr]#/# +
+For on mount Zion and in Jerusalem [.linebr]#/# +
+there shall be deliverance, [.linebr]#/# +
+as the LORD has said, [.linebr]#/# +
+and in the remnant whom the LORD calls."
+
+[%breakable]
+References::
+*[v.28]*: Quoted in xref:#act002-017[Acts 2:17]. *[v.29]*: Quoted in xref:#act002-018[Acts 2:18]. *[v.30]*: Quoted in xref:#act002-019[Acts 2:19]. *[v.31]*: Quoted in xref:#act002-020[Acts 2:20]. *[v.32]*: Quoted in xref:#act002-021[Acts 2:21]; xref:#rom010-013[Romans 10:13].
+
+[#joe003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_God's judgments against the enemies of his people, 1-8. God will be known in his judgment, 9-17. His blessing upon the church, 18-21._
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 "For behold, in those days and in that time, [.linebr]#/# +
+when I bring back the captivity of Judah and Jerusalem,
+
+|
+|2 I will also gather all nations [.linebr]#/# +
+and bring them down into the valley of Jehoshaphat. [.linebr]#/# +
+I will plead with them there [.linebr]#/# +
+for my people and for my heritage Israel, [.linebr]#/# +
+whom they have scattered among the nations, [.linebr]#/# +
+and divided my land.
+
+|
+|3 And they have cast lots for my people, [.linebr]#/# +
+have given a boy for a harlot, [.linebr]#/# +
+and sold a girl for wine so that they might drink.
+|===
+
+4 "And what do you even have to do with me, O Tyre, Zidon, and all the regions of Palestine? Will you render me a recompense? And if you recompense me, swiftly and speedily I will return your recompense upon your own head, 5 Because you have taken my silver and my gold and have carried my finest treasures into your temples. 6 You have sold the children of Judah and the children of Jerusalem to the Grecians, so that you might remove them far from their border. 7 Behold, I will raise them out of the place where you have sold them and will return your recompense upon your own head. 8 And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off. For the LORD has spoken it."
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 Proclaim this among the Gentiles: [.linebr]#/# +
+"Prepare for war. [.linebr]#/# +
+Wake up the mighty men. [.linebr]#/# +
+Let all the men of war draw near. [.linebr]#/# +
+Let them come up.
+
+|
+|10 Beat your plow-shares into swords [.linebr]#/# +
+and your pruning-hooks into spears. [.linebr]#/# +
+Let the weak say, 'I am strong.'
+
+|
+|11 Assemble yourselves and come, all you heathen, [.linebr]#/# +
+and gather yourselves together around." [.linebr]#/# +
+Cause your mighty ones to come down there, O LORD.
+
+|
+|12 "Let the heathen be awakened and come up [.linebr]#/# +
+to the valley of Jehoshaphat, [.linebr]#/# +
+for there I will sit to judge [.linebr]#/# +
+all the heathen on every side.
+
+|
+|13 Put in the sickle, [.linebr]#/# +
+for the harvest is ripe. [.linebr]#/# +
+Come, tread, [.linebr]#/# +
+for the press is full. [.linebr]#/# +
+The vats overflow, [.linebr]#/# +
+for their wickedness is great."
+
+|
+|14 Multitudes, multitudes in the valley of decision, [.linebr]#/# +
+for the day of the LORD is near in the valley of decision.
+
+|
+|15 The sun and the moon shall be darkened, [.linebr]#/# +
+and the stars shall withdraw their shining.
+
+|
+|16 The LORD will also roar out of Zion [.linebr]#/# +
+and utter his voice from Jerusalem, [.linebr]#/# +
+and the heavens and the earth shall shake. [.linebr]#/# +
+But the LORD will be the hope of his people [.linebr]#/# +
+and the strength of the children of Israel.
+
+|
+|17 "And you shall know that I am the LORD your God [.linebr]#/# +
+dwelling in Zion, my holy mountain. [.linebr]#/# +
+Then Jerusalem shall be holy, [.linebr]#/# +
+and no strangers shall pass through her anymore.
+
+|
+|18 And it shall come to pass in that day, [.linebr]#/# +
+that the mountains shall drop down new wine, [.linebr]#/# +
+the hills shall flow with milk, [.linebr]#/# +
+and all the rivers of Judah shall flow with waters, [.linebr]#/# +
+and a fountain shall come forth from the house of the LORD [.linebr]#/# +
+and shall water the valley of Shittim.
+
+|
+|19 Egypt shall be a desolation [.linebr]#/# +
+and Edom shall be a desolate wilderness [.linebr]#/# +
+for the violence against the children of Judah, [.linebr]#/# +
+because they have shed innocent blood in their land.
+
+|
+|20 But Judah shall dwell forever, [.linebr]#/# +
+and Jerusalem from generation to generation.
+
+|
+|21 For I will cleanse their blood that I have not cleansed. [.linebr]#/# +
+For the LORD dwells in Zion."
+|===
+
+[.text-center]
+_[Tanach reading: go to xref:#amos[Amos]]_

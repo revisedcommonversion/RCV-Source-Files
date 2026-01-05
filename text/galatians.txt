@@ -1,0 +1,141 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#galatians]
+== Paul's Letter to the Galatians
+
+*Galatians | Προς Γαλάταις*
+
+[#gal001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Paul wonders that they have so soon left him and the gospel, 1-7; and accurses those who preach any other gospel than he did, 8-10. He learned the gospel not from men, but from God, 11-13; and shows what he was before his calling, 14-16; and what he did immediately after it, 17-24._
+
+1 Paul, an apostle (not from men, neither by man, but by Jesus Christ and God the Father who raised him from the dead), 2 And all the brothers who are with me, to the churches of Galatia:
+
+3 Grace to you and peace from God the Father and from our Lord Jesus Christ, 4 Who gave himself for our sins so that he might deliver us from this present evil world, according to the will of God and our Father, 5 To whom be the glory forever and ever. Amen.
+
+6 I marvel that you are so quickly deserting him who called you into the grace of Christ to another gospel, 7 Which is not another. But there are some who trouble you and would pervert the gospel of Christ. 8 But even if we or an angel from heaven should preach any other gospel to you than that which we have preached to you, let him be accursed. 9 As we said before, so I say now again: if any man preaches any other gospel to you than that which you have received, let him be accursed.
+
+10 For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be the servant of Christ.
+
+11 But I make known to you, brothers, that the gospel which was preached by me is not according to man. 12 For I did not receive it from man, nor was I taught it, but by the revelation of Jesus Christ.
+
+13 For you have heard of my manner of life in time past in the Jews' religion, that beyond measure I persecuted the church of God and wasted it, 14 And profited in the Jews' religion above many of my equals in my own nation, being more exceedingly zealous of the traditions of my fathers. 15 But when it pleased God, who separated me from my mother's womb and called me by his grace, 16 To reveal his Son in me, so that I might preach him among the heathen, immediately I did not confer with flesh and blood, 17 Neither did I go to Jerusalem to those who were apostles before me, but I went into Arabia and returned again to Damascus.
+
+18 Then after three years, I went to Jerusalem to see Peter and stayed with him for fifteen days. 19 But I saw none of the other apostles except James the Lord's brother. 20 Now about the things which I write to you, behold, before God, I do not lie. 21 Afterward, I came into the regions of Syria and Cilicia, 22 And was unknown by face to the churches of Judea which were in Christ. 23 But they had only heard: "He who persecuted us in times past now preaches the faith which he once destroyed." 24 And they glorified God in me.
+
+[#gal002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_Paul relates when he went up again to Jerusalem and for what purpose, 1, 2; and that Titus was not circumcised, 3-10; and that he resisted Peter and told him the reason, 11-13; why he and others, being Jews, do believe in Christ to be justified by faith and not by works, 14-19; and that they do not live in sin who are so justified, 20, 21._
+
+1 Then after fourteen years, I went up again to Jerusalem with Barnabas, taking Titus with me also. 2 And I went by revelation and communicated to them that gospel which I preach among the Gentiles, but privately to those who were of reputation, lest by any means I might be running, or had run, in vain. 3 But neither Titus, who was with me, being a Greek, was compelled to be circumcised. 4 That was because of false brothers unexpectedly brought in, who came in privately to spy out our liberty which we have in Christ Jesus so that they might bring us into bondage, 5 To whom we gave place by subjection, not even for an hour, so that the truth of the gospel might continue with you. 6 But of these, who seemed to be something (whatever they were, it makes no matter to me—God accepts no man's person), for those who seemed to be something, in conference added nothing to me. 7 But on the contrary, when they saw that the gospel of the uncircumcision was committed to me as the gospel of the circumcision was to Peter 8 (For he who wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles), 9 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given to me, they gave to Barnabas and me the right hands of fellowship so that we should go to the heathen and they to the circumcision. 10 Only they asked that we should remember the poor, the same which I was also eager to do.
+
+11 But when Peter had come to Antioch, I withstood him to the face because he was to be blamed. 12 For before some came from James, he used to eat with the Gentiles, but when they had come, he withdrew and separated himself, fearing those who were of the circumcision. 13 And the other Jews dissembled likewise with him so that Barnabas was also carried away with their dissimulation. 14 But when I saw that they did not walk uprightly according to the truth of the gospel, I said to Peter before them all, "If you, being a Jew, live after the manner of Gentiles and not as the Jews do, why do you compel the Gentiles to live as the Jews do?
+
+15 "We who are Jews by nature and not sinners of the Gentiles, 16 Knowing that a man is not justified by the works of the law but by the faith of Jesus Christ, even we have believed in Jesus Christ so that we may be justified by the faith of Christ and not by the works of the law, for by the works of the law no flesh shall be justified. 17 But if, while we seek to be justified by Christ, we ourselves are also found sinners, is therefore Christ the minister of sin? By no means. 18 For if I again build the things which I destroyed, I make myself a transgressor. 19 For I, through the law, am dead to the law so that I may live to God. 20 I am crucified with Christ, yet it is not I who live, but Christ lives in me. And the life which I now live in the flesh, I live by the faith of the Son of God, who loved me and gave himself for me. 21 I do not frustrate the grace of God. For if righteousness is attainable by the law, then Christ has died in vain."
+
+[#gal003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_Paul asks what moved them to leave the faith and hang upon the law, 1-5. Those who believe are justified, 6-8, and blessed with Abraham, 9. And this he shows by many reasons, 10-29._
+
+1 O foolish Galatians, who has bewitched you that you should not obey the truth, before whose eyes Jesus Christ was openly set forth among you as crucified? 2 I only wish to learn this from you: did you receive the Spirit by the works of the law, or by the hearing of faith? 3 Are you so foolish? Having begun in the Spirit, are you now made perfect by the flesh? 4 Have you suffered so many things in vain—if it is indeed in vain? 5 He therefore who ministers to you the Spirit and works miracles among you, does he do this by the works of the law, or by the hearing of faith?
+
+[[gal003-006]]6 Even so "_Abraham believed God, and it was accounted to him for righteousness._" 7 Know therefore, that those who are of faith, the same are the children of Abraham. [[gal003-008]]8 And the Scripture, foreseeing that God would justify the heathen through faith, preached the gospel beforehand to Abraham, saying, "_In you all nations shall be blessed._" 9 So then those who are of faith are blessed with faithful Abraham.
+
+[[gal003-010]]10 For as many as are of the works of the law are under the curse, for it is written, "_Accursed is everyone who does not continue in all things which are written in the book of the law to do them._" [[gal003-011]]11 Now it is evident that no man is justified by the law in the sight of God, for, "_The just shall live by faith._" [[gal003-012]]12 And the law is not of faith, but, "_The man who does them shall live by them._" [[gal003-013]]13 Christ has redeemed us from the curse of the law, being made a curse for us, for it is written, "_Accursed is everyone who hangs on a tree,_" 14 So that the blessing of Abraham might come on the Gentiles through Jesus Christ so that we might receive the promise of the Spirit through faith.
+
+15 Brothers, I speak after the manner of men. Though it is only a man's covenant, yet if it is confirmed, no man makes it void or adds to it. [[gal003-016]]16 Now the promises were made to Abraham and his offspring. He does not say, "And to offsprings," as of many, but as of one, "_And to your offspring,_" which is Christ. 17 And I say this: that the law, which was four hundred and thirty years after, cannot invalidate the covenant that was confirmed before by God in Christ so that it should make the promise of no effect. 18 For if the inheritance is by the law, it is no longer by promise. But God gave it to Abraham by promise.
+
+19 What purpose then does the law serve? It was added because of transgressions until the offspring should come to whom the promise was made. And it was ordained by angels in the hand of a mediator. 20 Now a mediator is not a mediator of one, but God is one. 21 Is the law then against the promises of God? By no means. For if there had been a law given which could give life, truly righteousness would have been by the law. 22 But the Scripture has enclosed all under sin so that the promise by faith of Jesus Christ might be given to those who believe.
+
+23 But before faith came, we were kept in custody under the law, shut up to the faith which should afterward be revealed. [[gal003-024]]24 Therefore, the law was our school-master to bring us to Christ so that we might be justified by faith. 25 But after faith has come, we are no longer under a school-master. 26 For you are all children of God by faith in Christ Jesus. 27 For as many of you as have been baptized into Christ, have put on Christ. 28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female, for you are all one in Christ Jesus. 29 And if you are Christ's, then you are Abraham's offspring and heirs according to the promise.
+
+[%breakable]
+Old Testament Quotes::
+*[v.6]*: xref:#gen015-006[Genesis 15:6].^LXX^ *[v.8]*: xref:#gen012-003[Genesis 12:3].^LXX^ ^(paraphrased)^ See also, xref:#gen022-018[Genesis 22:18]. *[v.10]*: xref:#deu027-026[Deuteronomy 27:26].^LXX^ ^(paraphrased)^ *[v.11]*: xref:#hab002-004[Habakkuk 2:4].^LXX^ *[v.12]*: xref:#lev018-005[Leviticus 18:5].^LXX^ *[v.13]*: xref:#deu021-023[Deuteronomy 21:23]. *[v.16]*: xref:#gen017-007[Genesis 17:7-8].^LXX^
+
+[#gal004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_We were under the law until Christ came, as the heir is under the guardian until he is of age, 1-4. But Christ freed us from the law, 5, 6; therefore we are servants no longer to it, 7-13. Paul remembers their good will to him and his to them, 14-21; and shows that we are the sons of Abraham by the free-woman, 22-31._
+
+1 Now I say, that the heir, as long as he is a child, differs nothing from a servant, though he is lord of all, 2 But is under guardians and governors until the time appointed by the father. 3 Even so we, when we were children, were in bondage under the elements of the world. 4 But when the fullness of the time had come, God sent forth his Son, born of a woman, born under the law, 5 To redeem those who were under the law so that we might receive the adoption of sons. 6 And because you are sons, God has sent forth the Spirit of his Son into your hearts, crying, "Abba, Father." 7 Therefore, you are no longer a servant, but a son, and if a son, then an heir of God through Christ.
+
+8 However then, when you did not know God, you did service to them which by nature are not gods. 9 But now, after you have known God, or rather are known by God, how do you turn back to the weak and beggarly elements to which you desire again to be in bondage? 10 You observe days, months, times, and years. 11 I am afraid for you, lest I have bestowed upon you labor in vain.
+
+12 Brothers, I implore you, be as I am, for I am as you are. You have not injured me at all. 13 You know that in infirmity of the flesh I preached the gospel to you at the first. 14 And that which was a trial to you in my flesh you did not despise or reject, but received me as an angel of God, even as Christ Jesus. 15 What then was the blessedness you spoke of? For I bear you testimony, that if it had been possible, you would have plucked out your own eyes and given them to me. 16 Have I therefore become your enemy because I tell you the truth? 17 They zealously affect you, but not in a good way. They wish to exclude you so that you may be zealous for them. 18 But it is good to be zealously affected always in a good thing, and not only when I am present with you. 19 My little children, of whom I travail in birth again until Christ is formed in you, 20 I desire to be present with you now and to change my voice, for I stand in doubt of you.
+
+21 Tell me, you who desire to be under the law, do you not hear the law? 22 For it is written that Abraham had two sons: one by a woman-servant, the other by a free woman. 23 But he who was of the woman-servant was born according to the flesh, but he of the free woman was by promise. 24 These things are an allegory, for these are the two covenants. One is from the mount Sinai, bearing children to bondage, which is Hagar. 25 For this Hagar is mount Sinai in Arabia, and answers to Jerusalem which now is, and is in bondage with her children. 26 But Jerusalem which is above is free, and she is the mother of us all. [[gal004-027]]27 For it is written,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"_Rejoice, you barren who do not bear._ [.linebr]#/# +
+_Break forth and cry, you who do not travail._ [.linebr]#/# +
+_For the desolate has many more children_ [.linebr]#/# +
+_than she who has a husband._"
+|===
+
+28 Now we, brothers, as Isaac was, are the children of promise. 29 But as then he who was born according to the flesh persecuted him who was born according to the Spirit, even so it is now.
+
+[[gal004-030]]30 Nevertheless, what does the Scripture say? "_Cast out the woman-servant and her son. For the son of the woman-servant shall not be heir with the son of the free woman._"
+
+31 So then, brothers, we are not children of the woman-servant, but of the free.
+
+[%breakable]
+Old Testament Quotes::
+*[v.27]*: xref:#isa054-001[Isaiah 54:1].^LXX^ *[v.30]*: xref:#gen021-010[Genesis 21:10].^LXX^ ^(paraphrased)^
+
+[#gal005%breakable]
+=== Chapter 5
+
+[.outline.text-center]
+_Paul desires them to stand in their liberty, 1, 2, and not to observe circumcision, 3-12; but rather love, which is the sum of the law, 13-18. He reckons up the works of the flesh, 19-21, and the fruits of the Spirit, 22-24, and exhorts to walk in the Spirit, 25, 26._
+
+1 Stand firm therefore in the liberty with which Christ has made us free, and do not be held again with the yoke of bondage.
+
+2 Behold, I, Paul, say to you, that if you are circumcised, Christ will profit you nothing. 3 For I testify again to every man who is circumcised, that he is a debtor to do the whole law. 4 Christ has become of no effect to you, you who would be justified by the law. You have fallen from grace. 5 For we, through the Spirit, wait for the hope of righteousness by faith. 6 For in Jesus Christ neither circumcision avails anything, nor uncircumcision, but faith which works by love.
+
+7 You were running well. Who hindered you that you should not obey the truth? 8 This persuasion does not come from him who calls you. 9 A little leaven leavens the whole lump. 10 I have confidence in you through the Lord that you will not be otherwise minded. But he who troubles you shall bear his judgment, whoever he may be. 11 And I, brothers, if I still preach circumcision, why do I still suffer persecution? Then the offense of the cross has ceased. 12 I wish those who trouble you were even cut off.
+
+13 For, brothers, you have been called to liberty. Only do not use liberty for an occasion for the flesh, but by love serve one another. [[gal005-014]]14 For all the law is fulfilled in one word, even in this: "_You shall love your neighbor as yourself._" 15 But if you bite and devour one another, take heed that you are not consumed by one another.
+
+16 But I say, walk in the Spirit and you will not fulfill the lust of the flesh. 17 For the flesh lusts against the Spirit, and the Spirit is against the flesh. And these are contrary to one another so that you cannot do the things that you wish. 18 But if you are led by the Spirit, you are not under the law. 19 Now the works of the flesh are manifest, which are these: Adultery, fornication, uncleanness, lasciviousness, 20 Idolatry, witchcraft, hatred, variance, jealousy, wrath, strife, dissensions, heresies, 21 Envyings, murders, drunkenness, revelings, and such like these, of which I tell you before, as I have also told you in time past, that those who do such things shall not inherit the kingdom of God. 22 But the fruit of the Spirit is love, joy, peace, patience, gentleness, goodness, faith, 23 Meekness, and temperance. Against such there is no law. 24 And those who are Christ's have crucified the flesh with the affections and lusts.
+
+25 If we live in the Spirit, let us also walk in the Spirit. 26 Let us not be desirous of vain-glory, provoking one another, envying one another.
+
+[%breakable]
+Old Testament Quotes::
+*[v.14]*: xref:#lev019-018[Leviticus 19:18].^LXX^
+
+[#gal006%breakable]
+=== Chapter 6
+
+[.outline.text-center]
+_Paul moves them to deal mildly with a brother who has slipped, 1, and to bear one another's burden, 2-5; to be liberal to their teachers, 6-8, and not weary of well-doing, 9-11. He shows what they intend who preach circumcision, 12, 13. He glories in nothing, except in the cross of Christ, 14-18._
+
+1 Brothers, if a man is overtaken in a fault, you who are spiritual, restore such a one in the spirit of meekness, considering yourself, lest you also be tempted. 2 Bear one another's burdens, and so fulfill the law of Christ. 3 For if a man thinks himself to be something when he is nothing, he deceives himself. 4 But let every man prove his own work, and then he shall have rejoicing in himself alone and not in another. 5 For every man shall bear his own burden.
+
+6 Let him who is taught in the word communicate to him who teaches in all good things. 7 Do not be deceived. God is not mocked. For whatever a man sows, that he shall also reap. 8 For he who sows to his flesh shall reap corruption from the flesh, but he who sows to the Spirit shall reap life everlasting from the Spirit. 9 And let us not be weary in well-doing, for in due season we shall reap if we do not faint. 10 As we therefore have opportunity, let us do good to all men, especially to those who are of the household of faith.
+
+11 You see how large a letter I have written to you with my own hand. 12 As many as desire to make a fair show in the flesh, they constrain you to be circumcised—only lest they should suffer persecution for the cross of Christ. 13 For neither they themselves who are circumcised keep the law, but desire to have you circumcised so that they may glory in your flesh. 14 But may it never be that I should glory, except in the cross of our Lord Jesus Christ, by whom the world is crucified to me and I to the world. 15 For in Christ Jesus, neither circumcision avails anything, nor uncircumcision, but a new creature. 16 And as many as walk according to this rule, may peace and mercy be upon them and upon the Israel of God.
+
+17 From now on let no man trouble me, for I bear in my body the marks of the Lord Jesus.
+
+18 Brothers, may the grace of our Lord Jesus Christ be with your spirit. Amen.

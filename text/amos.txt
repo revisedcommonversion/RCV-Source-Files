@@ -1,0 +1,1063 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#amos]
+== The Words of Amos
+
+*Amos | Ἀμώς | עמוס*
+
+[#amo001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_The time when Amos prophesied, 1, 2. He shows God's judgment upon Syria, 3-5, upon the Philistines, 6-8, upon Tyre, 9, 10, upon Edom, 11, 12, upon Ammon, 13-15._
+
+1 [_The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake._]
+
+2 And he said,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"The LORD will roar from Zion [.linebr]#/# +
+and utter his voice from Jerusalem, [.linebr]#/# +
+and the habitations of the shepherds shall mourn, [.linebr]#/# +
+and the top of Carmel shall wither."
+|===
+
+3 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Damascus, and for four, [.linebr]#/# +
+I will not turn away its punishment, [.linebr]#/# +
+because they have threshed Gilead [.linebr]#/# +
+with threshing instruments of iron.
+
+|
+|4 But I will send a fire into the house of Hazael [.linebr]#/# +
+which shall devour the palaces of Ben-hadad.
+
+|
+|5 I will also break the bar of Damascus [.linebr]#/# +
+and cut off the inhabitant from the plain of Aven [.linebr]#/# +
+and him who holds the scepter from the house of Eden. [.linebr]#/# +
+And the people of Syria shall go into captivity to Kir,"
+|===
+
+says the LORD.
+
+6 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Gaza, and for four, [.linebr]#/# +
+I will not turn away its punishment, [.linebr]#/# +
+because they carried away captive the whole captivity [.linebr]#/# +
+to deliver them up to Edom.
+
+|
+|7 But I will send a fire on the wall of Gaza [.linebr]#/# +
+which shall devour its palaces.
+
+|
+|8 And I will cut off the inhabitant from Ashdod [.linebr]#/# +
+and him who holds the scepter from Ashkelon, [.linebr]#/# +
+and I will turn my hand against Ekron. [.linebr]#/# +
+And the remnant of the Philistines shall perish,"
+|===
+
+says the Lord GOD.
+
+9 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Tyre, and for four, [.linebr]#/# +
+I will not turn away its punishment, [.linebr]#/# +
+because they delivered up the whole captivity to Edom [.linebr]#/# +
+and did not remember the brotherly covenant.
+
+|
+|10 But I will send a fire on the wall of Tyre [.linebr]#/# +
+which shall devour its palaces."
+|===
+
+11 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Edom, and for four, [.linebr]#/# +
+I will not turn away its punishment, [.linebr]#/# +
+because he pursued his brother with the sword [.linebr]#/# +
+and cast off all pity, [.linebr]#/# +
+and his anger tore perpetually [.linebr]#/# +
+and he kept his wrath forever.
+
+|
+|12 But I will send a fire upon Teman [.linebr]#/# +
+which shall devour the palaces of Bozrah."
+|===
+
+13 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of the children of Ammon, and for four, [.linebr]#/# +
+I will not turn away their punishment, [.linebr]#/# +
+because they have ripped up the women with child of Gilead [.linebr]#/# +
+so that they might enlarge their border.
+
+|
+|14 But I will kindle a fire in the wall of Rabbah, [.linebr]#/# +
+and it shall devour its palaces, [.linebr]#/# +
+with shouting in the day of battle, [.linebr]#/# +
+with a tempest in the day of the whirlwind.
+
+|
+|15 And their king shall go into captivity— [.linebr]#/# +
+he and his princes together,"
+|===
+
+says the LORD.
+
+[#amo002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_God's judgments upon Moab, 1-3, upon Judah, 4, 5, and upon Israel, 6-8. God accuses them of ingratitude, 9-16._
+
+1 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Moab, and for four, [.linebr]#/# +
+I will not turn away his punishment, [.linebr]#/# +
+because he burned the bones [.linebr]#/# +
+of the king of Edom into lime.
+
+|
+|2 But I will send a fire upon Moab, [.linebr]#/# +
+and it shall devour the palaces of Kirioth. [.linebr]#/# +
+And Moab shall die with tumult, [.linebr]#/# +
+with shouting, and with the sound of the trumpet.
+
+|
+|3 And I will cut off the judge from the midst of it [.linebr]#/# +
+and will slay all its princes with him,"
+|===
+
+says the LORD.
+
+4 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Judah, and for four, [.linebr]#/# +
+I will not turn away their punishment, [.linebr]#/# +
+because they have despised the law of the LORD [.linebr]#/# +
+and have not kept his commandments. [.linebr]#/# +
+And their lies caused them to err, [.linebr]#/# +
+after which their fathers have walked.
+
+|
+|5 But I will send a fire upon Judah, [.linebr]#/# +
+and it shall devour the palaces of Jerusalem."
+|===
+
+6 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"For three transgressions of Israel, and for four, [.linebr]#/# +
+I will not turn away their punishment, [.linebr]#/# +
+because they sold the righteous for silver [.linebr]#/# +
+and the poor for a pair of shoes.
+
+|
+|7 They pant after the dust of the earth [.linebr]#/# +
+on the head of the poor [.linebr]#/# +
+and turn aside the way of the meek. [.linebr]#/# +
+And a man and his father [.linebr]#/# +
+will go in to the same woman [.linebr]#/# +
+to profane my holy name.
+
+|
+|8 And they lay themselves down [.linebr]#/# +
+upon clothes laid to pledge by every altar [.linebr]#/# +
+and they drink the wine of the condemned [.linebr]#/# +
+in the house of their god.
+
+|
+|9 Yet I destroyed the Amorite before them, [.linebr]#/# +
+whose height was like the height of the cedars [.linebr]#/# +
+and he was strong as the oaks, [.linebr]#/# +
+yet I destroyed his fruit from above [.linebr]#/# +
+and his roots from beneath.
+
+|
+|10 Also I brought you from the land of Egypt [.linebr]#/# +
+and led you forty years through the wilderness [.linebr]#/# +
+to possess the land of the Amorite.
+
+|
+|11 And I raised up some of your sons for prophets [.linebr]#/# +
+and some of your young men for Nazarites. [.linebr]#/# +
+Is it not even so, O children of Israel?"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 "But you gave the Nazarites wine to drink [.linebr]#/# +
+and commanded the prophets, saying, 'Do not prophesy.'
+
+|
+|13 Behold, I am pressed under you [.linebr]#/# +
+as a cart is pressed that is full of sheaves.
+
+|
+|14 Therefore, the flight shall perish from the swift [.linebr]#/# +
+and the strong shall not strengthen his force, [.linebr]#/# +
+neither shall the mighty deliver himself;
+
+|
+|15 Neither shall he stand who handles the bow, [.linebr]#/# +
+and he who is swift of foot shall not deliver himself; [.linebr]#/# +
+neither shall he who rides the horse deliver himself.
+
+|
+|16 And he who is courageous among the mighty [.linebr]#/# +
+shall flee away naked in that day,"
+|===
+
+says the LORD.
+
+[#amo003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_The necessity of God's judgment against Israel, 1-8. The publication of it, with the causes thereof, 9-15._
+
+1 Hear this word that the LORD has spoken against you, O children of Israel, against the whole family which he brought up from the land of Egypt, saying,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 "I have only known you of all the families of the earth; [.linebr]#/# +
+therefore, I will punish you for all your iniquities."
+
+|
+|3 Can two walk together [.linebr]#/# +
+unless they have agreed?
+
+|
+|4 Will a lion roar in the forest [.linebr]#/# +
+when he has no prey? [.linebr]#/# +
+Will a young lion cry out of his den [.linebr]#/# +
+if he has taken nothing?
+
+|
+|5 Can a bird fall in a trap upon the earth [.linebr]#/# +
+where no snare is for him? [.linebr]#/# +
+Shall one take up a trap from the earth [.linebr]#/# +
+and have taken nothing at all?
+
+|
+|6 Shall a trumpet be blown in the city [.linebr]#/# +
+and the people not be afraid? [.linebr]#/# +
+Shall there be evil in a city [.linebr]#/# +
+and the LORD has not done it?
+
+|
+|7 Surely the Lord GOD will do nothing [.linebr]#/# +
+unless he reveals his secret [.linebr]#/# +
+to his servants the prophets.
+
+|
+|8 The lion has roared. [.linebr]#/# +
+Who will not fear? [.linebr]#/# +
+The Lord GOD has spoken. [.linebr]#/# +
+Who can but prophesy?
+
+|
+|9 Publish in the palaces at Ashdod [.linebr]#/# +
+and in the palaces in the land of Egypt, [.linebr]#/# +
+and say, "Assemble yourselves upon the mountains of Samaria, [.linebr]#/# +
+and behold the great tumults in the midst of it [.linebr]#/# +
+and the oppressed in the midst of it."
+
+|
+|10 "For they do not know to do right,"
+|===
+
+says the LORD,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"who store up violence and robbery [.linebr]#/# +
+in their palaces."
+|===
+
+11 Therefore, thus says the Lord GOD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"There shall even be an adversary around the land, [.linebr]#/# +
+and he shall bring down your strength from you, [.linebr]#/# +
+and your palaces shall be plundered."
+|===
+
+12 Thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"As the shepherd rescues out of the mouth of the lion [.linebr]#/# +
+two legs, or a piece of an ear, [.linebr]#/# +
+so the children of Israel shall be rescued [.linebr]#/# +
+who dwell in Samaria [.linebr]#/# +
+on the corner of a bed [.linebr]#/# +
+and in Damascus on a couch.
+
+|
+|13 Hear, and testify in the house of Jacob,"
+|===
+
+says the Lord GOD, the God of hosts,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|14 "For in the day that I visit the transgressions of Israel upon him, [.linebr]#/# +
+I will also visit the altars of Beth-el. [.linebr]#/# +
+And the horns of the altar shall be cut off [.linebr]#/# +
+and fall to the ground.
+
+|
+|15 And I will smite the winter-house [.linebr]#/# +
+together with the summer-house, [.linebr]#/# +
+the houses of ivory shall perish, [.linebr]#/# +
+and the great houses shall have an end,"
+|===
+
+says the LORD.
+
+[#amo004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_He reproves Israel for oppression, 1-3, for idolatry, 4-5, and for their refusal to be returned and reformed, 6-13._
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 Hear this word, you heifers of Bashan, [.linebr]#/# +
+who are in the mountain of Samaria, [.linebr]#/# +
+who oppress the poor, who crush the needy, [.linebr]#/# +
+who say to their masters, "Bring, and let us drink."
+|===
+
+2 The Lord GOD has sworn by his holiness:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"Behold, the days shall come upon you [.linebr]#/# +
+that he will take you away with hooks [.linebr]#/# +
+and your posterity with fish-hooks,
+
+|
+|3 And you shall go out at the breaches, [.linebr]#/# +
+every cow at that which is before her, [.linebr]#/# +
+and you shall cast them into the palace,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|4 "Come to Beth-el and transgress. [.linebr]#/# +
+At Gilgal multiply transgression. [.linebr]#/# +
+Bring your sacrifices every morning [.linebr]#/# +
+and your tithes after three years.
+
+|
+|5 And offer a sacrifice of thanksgiving with leaven [.linebr]#/# +
+and proclaim and publish the voluntary-offerings. [.linebr]#/# +
+For this pleases you, O children of Israel,"
+|===
+
+says the Lord GOD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|6 "And I also have given you [.linebr]#/# +
+cleanness of teeth in all your cities [.linebr]#/# +
+and lack of bread in all your places, [.linebr]#/# +
+yet you have not returned to me,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|7 "And also I have withheld the rain from you [.linebr]#/# +
+when there were yet three months to the harvest. [.linebr]#/# +
+And I caused it to rain upon one city [.linebr]#/# +
+and did not cause it to rain upon another city. [.linebr]#/# +
+One piece was rained upon, [.linebr]#/# +
+and the piece on which it did not rain withered.
+
+|
+|8 So two or three cities wandered to one city to drink water, [.linebr]#/# +
+but they were not satisfied. [.linebr]#/# +
+Yet you have not returned to me,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 "I have smitten you with blight and mildew. [.linebr]#/# +
+When your gardens, your vineyards, [.linebr]#/# +
+your fig-trees, and your olive-trees increased, [.linebr]#/# +
+the cutting-locust devoured them. [.linebr]#/# +
+Yet you have not returned to me,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|10 "I have sent among you the pestilence after the manner of Egypt. [.linebr]#/# +
+I have slain your young men with the sword [.linebr]#/# +
+and have taken away your horses. [.linebr]#/# +
+I have made the ill savor of your camps [.linebr]#/# +
+to come up to your nostrils. [.linebr]#/# +
+Yet you have not returned to me,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|11 "I have overthrown some of you, [.linebr]#/# +
+as God overthrew Sodom and Gomorrah, [.linebr]#/# +
+and you were as a fire-brand [.linebr]#/# +
+plucked out of the burning. [.linebr]#/# +
+Yet you have not returned to me,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 "Therefore, thus I will do to you, O Israel. [.linebr]#/# +
+And because I will do this to you, [.linebr]#/# +
+prepare to meet your God, O Israel.
+
+|
+|13 For behold, he who forms the mountains, [.linebr]#/# +
+creates the wind, [.linebr]#/# +
+declares to man what is his thought, [.linebr]#/# +
+makes the morning darkness, [.linebr]#/# +
+and treads upon the high places of the earth, [.linebr]#/# +
+Yahweh, the God of hosts, is his name."
+|===
+
+[#amo005%breakable]
+=== Chapter 5
+
+[.outline.text-center]
+_A lamentation for Israel, 1-3. An exhortation to repentance, 4-20. God rejects their hypocritical service, 21-27._
+
+1 Hear this word which I take up against you, even a lamentation, O house of Israel.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 "The virgin of Israel has fallen. [.linebr]#/# +
+She shall no longer rise. [.linebr]#/# +
+She is forsaken upon her land. [.linebr]#/# +
+There is no one to raise her up."
+|===
+
+3 For thus says the Lord GOD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"The city that went out by a thousand [.linebr]#/# +
+shall leave a hundred, [.linebr]#/# +
+and that which went forth by a hundred [.linebr]#/# +
+shall leave ten to the house of Israel."
+|===
+
+4 For thus says the LORD to the house of Israel:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"Seek me and you shall live.
+
+|
+|5 But do not seek Beth-el, [.linebr]#/# +
+nor enter into Gilgal, [.linebr]#/# +
+and do not pass to Beer-sheba, [.linebr]#/# +
+for Gilgal shall surely go into captivity [.linebr]#/# +
+and Beth-el shall come to nothing.
+
+|
+|6 Seek the LORD and you shall live, [.linebr]#/# +
+lest he break out like fire [.linebr]#/# +
+in the house of Joseph [.linebr]#/# +
+and devour it [.linebr]#/# +
+and there be no one to quench it in Beth-el.
+
+|
+|7 You who turn judgment to wormwood [.linebr]#/# +
+and leave off righteousness on the earth,
+
+|
+|8 Seek him who makes the seven stars and Orion, [.linebr]#/# +
+turns the shadow of death into the morning, [.linebr]#/# +
+makes the day dark with night, [.linebr]#/# +
+who calls for the waters of the sea, [.linebr]#/# +
+and pours them out upon the face of the earth. [.linebr]#/# +
+YAHWEH is his name.
+
+|
+|9 He causes destruction to flash upon the strong, [.linebr]#/# +
+so that the destruction shall come against the fortress.
+
+|
+|10 They hate him who rebukes in the gate [.linebr]#/# +
+and they abhor him who speaks uprightly.
+
+|
+|11 Because your treading is upon the poor [.linebr]#/# +
+and you take burdens of wheat from him, [.linebr]#/# +
+therefore you have built houses of hewn stone, [.linebr]#/# +
+but you shall not dwell in them. [.linebr]#/# +
+And you have planted pleasant vineyards, [.linebr]#/# +
+but you shall not drink their wine.
+
+|
+|12 For I know your manifold transgressions [.linebr]#/# +
+and your mighty sins. [.linebr]#/# +
+They afflict the just, they take a bribe, [.linebr]#/# +
+and they turn aside the poor in the gate.
+
+|
+|13 Therefore, the prudent shall keep silence in that time, [.linebr]#/# +
+for it is an evil time.
+
+|
+|14 Seek good and not evil, [.linebr]#/# +
+so that you may live. [.linebr]#/# +
+Then the LORD, the God of hosts, shall be with you, [.linebr]#/# +
+as you have spoken.
+
+|
+|15 Hate the evil and love the good, [.linebr]#/# +
+and establish judgment in the gate. [.linebr]#/# +
+It may be that the LORD God of hosts [.linebr]#/# +
+will be gracious to the remnant of Joseph."
+|===
+
+16 Therefore, Yahweh, the God of hosts, the Lord, says thus:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"Wailing shall be in all streets, [.linebr]#/# +
+and they shall say in all the highways, 'Alas! Alas!' [.linebr]#/# +
+And they shall call the farmer to mourning [.linebr]#/# +
+and those who are skillful in lamentation to wailing.
+
+|
+|17 And in all vineyards there shall be wailing, [.linebr]#/# +
+for I will pass through you,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|18 "Woe to you who desire the day of the LORD! [.linebr]#/# +
+To what end is it for you? [.linebr]#/# +
+The day of the LORD is darkness and not light,
+
+|
+|19 As if a man fled from a lion [.linebr]#/# +
+and a bear met him, [.linebr]#/# +
+or went into the house and leaned his hand on the wall [.linebr]#/# +
+and a serpent bit him.
+
+|
+|20 Shall the day of the LORD [.linebr]#/# +
+not be darkness rather than light, [.linebr]#/# +
+even very dark and no brightness in it?
+
+|
+|21 I hate, I despise your feast days [.linebr]#/# +
+and I will not smell in your solemn assemblies.
+
+|
+|22 Though you offer me burnt-offerings [.linebr]#/# +
+and your food-offerings, [.linebr]#/# +
+I will not accept them, [.linebr]#/# +
+neither will I regard [.linebr]#/# +
+the peace-offerings of your fat beasts.
+
+|
+|23 Take away from me the noise of your songs, [.linebr]#/# +
+for I will not hear the melody of your harps.
+
+|
+|24 But let judgment run down as waters [.linebr]#/# +
+and righteousness as a mighty stream.
+
+|
+|[[amo005-025]]25 "Have you offered to me sacrifices and offerings [.linebr]#/# +
+in the wilderness forty years, O house of Israel?
+
+|
+|[[amo005-026]]26 But you have borne Sikkuth your king [.linebr]#/# +
+and Chiun, your images, the star of your god, [.linebr]#/# +
+which you made for yourselves.
+
+|
+|[[amo005-027]]27 Therefore, I will cause you to go into captivity beyond Damascus,"
+|===
+
+says the LORD, whose name is the God of hosts.
+
+[%breakable]
+References::
+*[v.25]*: Quoted in xref:#act007-042[Acts 7:42]. *[v.26]*: Quoted in xref:#act007-043[Acts 7:43]. *[v.27]*: Quoted in xref:#act007-043[Acts 7:43].
+
+[#amo006%breakable]
+=== Chapter 6
+
+[.outline.text-center]
+_The wantonness of Israel, 1-6, shall be plagued with desolation, 7-11; and their refusal to reform shall end in affliction, 12-14._
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 Woe to those who are at ease in Zion [.linebr]#/# +
+and are secure on the mountain of Samaria, [.linebr]#/# +
+who are named chief of the nations, [.linebr]#/# +
+to whom the house of Israel came!
+
+|
+|2 Pass to Calneh and see, [.linebr]#/# +
+and from there go to Hamath the great. [.linebr]#/# +
+Then go down to Gath of the Philistines. [.linebr]#/# +
+Are they better than these kingdoms? [.linebr]#/# +
+Or is their border greater than your border?
+
+|
+|3 You put the evil day far away [.linebr]#/# +
+and cause the seat of violence to come near.
+
+|
+|4 You lie upon beds of ivory [.linebr]#/# +
+and stretch yourselves upon their couches, [.linebr]#/# +
+and eat lambs from the flock [.linebr]#/# +
+and calves from the midst of the stall.
+
+|
+|5 You chant to the sound of the harp [.linebr]#/# +
+and invent for yourselves instruments of music, like David.
+
+|
+|6 You drink wine in bowls [.linebr]#/# +
+and anoint yourselves with the chief ointments, [.linebr]#/# +
+but you are not grieved for the affliction of Joseph.
+
+|
+|7 Therefore, now they shall go captive with the first who go captive, [.linebr]#/# +
+and the revelry of those who stretched themselves out shall end.
+
+|
+|8 "The Lord GOD has sworn by himself,"
+|===
+
+says the LORD the God of hosts,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"I abhor the excellence of Jacob [.linebr]#/# +
+and hate his palaces; [.linebr]#/# +
+therefore, I will deliver up the city [.linebr]#/# +
+with all its abundance.
+|===
+
+9 "And it shall come to pass, if there remain ten men in one house, they shall die. 10 And a man's uncle shall take him up, and he who burns him, to bring the bones out of the house, and shall say to him who is by the sides of the house, 'Is there yet any with you?' And he shall say, 'No.' Then he shall say, 'Hold your tongue, for we may not make mention of the name of the LORD.' 11 For behold, the LORD commands, and he will smite the great house to ruins and the little house to pieces.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 "Shall horses run upon the rock? [.linebr]#/# +
+Will one plow there with oxen? [.linebr]#/# +
+For you have turned judgment into gall [.linebr]#/# +
+and the fruit of righteousness into hemlock,
+
+|
+|13 You who rejoice in a thing of nothing, [.linebr]#/# +
+who say, 'Have we not taken horns for ourselves [.linebr]#/# +
+by our own strength?'
+
+|
+|14 But behold, I will raise up against you a nation, [.linebr]#/# +
+O house of Israel,"
+|===
+
+says the LORD the God of hosts,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"and they shall afflict you [.linebr]#/# +
+from the entrance of Hamath [.linebr]#/# +
+to the river of the wilderness."
+|===
+
+[#amo007%breakable]
+=== Chapter 7
+
+[.outline.text-center]
+_The judgments of the swarm of locusts, 1-3, and of the fire are diverted by the prayer of Amos, 4-6. By the wall of a plumb-line is signified the rejection of Israel, 7-9. Amaziah makes an accusation against Amos, 10-13. Amos shows his calling, 14, 15; and Amaziah's judgment, 16, 17._
+
+1 Thus the Lord GOD has shown to me, and behold, he formed a swarm of locusts in the beginning of the shooting up of the latter growth, and behold, it was the latter growth after the king's mowings. 2 And it came to pass, that when they had made an end of eating the grass of the land, then I said,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"O Lord GOD, forgive, I implore you. [.linebr]#/# +
+By whom shall Jacob arise? [.linebr]#/# +
+For he is small."
+|===
+
+[[amo007-003]]3 The LORD repented for this. "It shall not be," says the LORD.
+
+4 Thus the Lord GOD has shown to me, and behold, the Lord GOD called to contend by fire, and it devoured the great deep and ate up a part. 5 Then I said,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"O Lord GOD, cease, I implore you. [.linebr]#/# +
+By whom shall Jacob arise? [.linebr]#/# +
+For he is small."
+|===
+
+6 The LORD repented for this. "This also shall not be," says the Lord GOD.
+
+7 Thus he showed me, and behold, the Lord stood upon a wall made by a plumb-line with a plumb-line in his hand. 8 And the LORD said to me, "Amos, what do you see?" And I said, "A plumb-line." Then the Lord said,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"Behold, I will set a plumb-line [.linebr]#/# +
+in the midst of my people Israel. [.linebr]#/# +
+I will not again pass by them anymore.
+
+|
+|9 And the high places of Isaac shall be desolate [.linebr]#/# +
+and the sanctuaries of Israel shall be laid waste. [.linebr]#/# +
+And I will rise against the house of Jeroboam [.linebr]#/# +
+with the sword."
+|===
+
+10 Then Amaziah the priest of Beth-el sent to Jeroboam king of Israel, saying, "Amos has conspired against you in the midst of the house of Israel. The land is not able to bear all his words. 11 For thus Amos says: 'Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.'" 12 Also Amaziah said to Amos, "O seer, go flee away into the land of Judah, eat bread there, and prophesy there. 13 But do not prophesy again anymore at Beth-el, for it is the king's chapel and it is the king's court."
+
+14 Then Amos answered and said to Amaziah, "I was no prophet, neither was I a prophet's son, but I was a herdsman and a gatherer of sycamore fruit. 15 And the LORD took me as I followed the flock, and the LORD said to me, 'Go, prophesy to my people Israel.' 16 Now therefore, hear the word of the LORD. You say, 'Do not prophesy against Israel and do not drop your word against the house of Isaac.' 17 Therefore, thus says the LORD:
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|'Your wife shall be a harlot in the city, [.linebr]#/# +
+and your sons and your daughters shall fall by the sword. [.linebr]#/# +
+Your land shall be divided by line, [.linebr]#/# +
+and you shall die in a polluted land. [.linebr]#/# +
+And Israel shall surely go from his land into captivity.'"
+|===
+
+[#amo008%breakable]
+=== Chapter 8
+
+[.outline.text-center]
+_By a basket of summer fruit is shown the approach of Israel's end, 1-3. Oppression is reproved, 4-10. A famine of the word of God threatened, 11-14._
+
+1 Thus the Lord GOD has shown to me, and behold, a basket of summer fruit. 2 And he said, "Amos, what do you see?" And I said, "A basket of summer fruit." Then the LORD said to me,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"The end has come upon my people of Israel. [.linebr]#/# +
+I will not again pass by them anymore.
+
+|
+|3 And the songs of the temple [.linebr]#/# +
+shall be howlings in that day,"
+|===
+
+says the Lord GOD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"There shall be many dead bodies in every place. [.linebr]#/# +
+They shall cast them forth with silence.
+
+|
+|4 Hear this, O you who swallow up the needy, [.linebr]#/# +
+even to make the poor of the land to fail,
+
+|
+|5 Saying, 'When will the new moon be gone [.linebr]#/# +
+so that we may sell grain, [.linebr]#/# +
+and the sabbath [.linebr]#/# +
+so that we may set forth wheat, [.linebr]#/# +
+making the ephah small [.linebr]#/# +
+and the shekel great, [.linebr]#/# +
+and falsifying the balances by deceit,
+
+|
+|6 So that we may buy the poor for silver [.linebr]#/# +
+and the needy for a pair of shoes, [.linebr]#/# +
+and even sell the refuse of the wheat?'"
+
+|
+|7 The LORD has sworn by the excellence of Jacob, [.linebr]#/# +
+"Surely I will never forget any of their works.
+
+|
+|8 Shall the land not tremble for this, [.linebr]#/# +
+and everyone mourn who dwells in it? [.linebr]#/# +
+It shall rise up wholly as a flood, [.linebr]#/# +
+and it shall be cast out and drowned [.linebr]#/# +
+as by the flood of Egypt.
+
+|
+|9 And it shall come to pass in that day,"
+|===
+
+says the Lord GOD,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"that I will cause the sun to go down at noon [.linebr]#/# +
+and I will darken the earth in the clear day,
+
+|
+|10 I will turn your feasts into mourning [.linebr]#/# +
+and all your songs into lamentation, [.linebr]#/# +
+I will bring up sackcloth upon all loins [.linebr]#/# +
+and baldness upon every head, [.linebr]#/# +
+and I will make it as the mourning of an only son [.linebr]#/# +
+and its end as a bitter day.
+
+|
+|11 Behold, the days come,"
+|===
+
+says the Lord GOD,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"that I will send a famine in the land, [.linebr]#/# +
+not a famine of bread, nor a thirst for water, [.linebr]#/# +
+but of hearing the words of the LORD.
+
+|
+|12 And they shall wander from sea to sea [.linebr]#/# +
+and from the north even to the east, [.linebr]#/# +
+they shall run to and fro [.linebr]#/# +
+to seek the word of the LORD [.linebr]#/# +
+and shall not find it.
+
+|
+|13 In that day the fair virgins [.linebr]#/# +
+and young men shall faint for thirst.
+
+|
+|14 Those who swear by the sin of Samaria, [.linebr]#/# +
+and say, 'Your god, O Dan, lives,' [.linebr]#/# +
+and, 'The manner of Beer-sheba lives,' [.linebr]#/# +
+even they shall fall and never rise again."
+|===
+
+[#amo009%breakable]
+=== Chapter 9
+
+[.outline.text-center]
+_The certainty of the desolation, 1-10. The restoring of the tabernacle of David, 11-15._
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 I saw the Lord standing upon the altar, and he said, [.linebr]#/# +
+"Smite the lintel of the door, [.linebr]#/# +
+so that the posts may shake. [.linebr]#/# +
+Cut them in the head, all of them. [.linebr]#/# +
+I will slay the last of them with the sword. [.linebr]#/# +
+He who flees of them shall not flee away, [.linebr]#/# +
+and he who escapes of them shall not be delivered.
+
+|
+|2 Though they dig into the place of the dead, [.linebr]#/# +
+from there my hand shall take them. [.linebr]#/# +
+Though they climb up to heaven, [.linebr]#/# +
+from there I will bring them down.
+
+|
+|3 Though they hide themselves on the top of Carmel, [.linebr]#/# +
+I will search and take them out from there. [.linebr]#/# +
+Though they are hid from my sight [.linebr]#/# +
+in the bottom of the sea, [.linebr]#/# +
+from there I will command the serpent, [.linebr]#/# +
+and he shall bite them.
+
+|
+|4 Though they go into captivity before their enemies, [.linebr]#/# +
+from there I will command the sword, [.linebr]#/# +
+and it shall slay them. [.linebr]#/# +
+And I will set my eyes upon them [.linebr]#/# +
+for evil and not for good."
+
+|
+|5 And the Lord GOD of hosts [.linebr]#/# +
+is he who touches the land, and it shall melt, [.linebr]#/# +
+and all who dwell in it shall mourn. [.linebr]#/# +
+And it shall rise up wholly like a flood, [.linebr]#/# +
+and shall be drowned as by the flood of Egypt.
+
+|
+|6 It is he who builds his upper chambers in the heaven [.linebr]#/# +
+and has founded his vault on the earth, [.linebr]#/# +
+he who calls for the waters of the sea [.linebr]#/# +
+and pours them out upon the face of the earth— [.linebr]#/# +
+Yahweh is his name.
+
+|
+|7 "Are you not as children of the Cushites to me, [.linebr]#/# +
+O children of Israel?"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"Have I not brought up Israel from the land of Egypt, [.linebr]#/# +
+the Philistines from Caphtor, [.linebr]#/# +
+and the Assyrians from Kir?
+
+|
+|8 Behold, the eyes of the Lord GOD [.linebr]#/# +
+are upon the sinful kingdom, [.linebr]#/# +
+and I will destroy it from off the face of the earth, [.linebr]#/# +
+except that I will not utterly destroy the house of Jacob,"
+|===
+
+says the LORD.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 "For behold, I will command, [.linebr]#/# +
+and I will sift the house of Israel among all nations [.linebr]#/# +
+as grain is sifted in a sieve, [.linebr]#/# +
+yet the least grain shall not fall upon the earth.
+
+|
+|10 All the sinners of my people shall die by the sword, [.linebr]#/# +
+who say, 'The evil shall not overtake nor fall upon us.'
+
+|
+|[[amo009-011]]11 In that day I will raise up [.linebr]#/# +
+the tabernacle of David that has fallen [.linebr]#/# +
+and close up its breaches. [.linebr]#/# +
+And I will raise up its ruins [.linebr]#/# +
+and build it as in the days of old,
+
+|
+|[[amo009-012]]12 So that they may possess the remnant of Edom [.linebr]#/# +
+and of all the heathen who are called by my name,"
+|===
+
+says the LORD who does this.
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|13 "Behold, the days come,"
+|===
+
+says the LORD,
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|"that the plowman shall overtake the reaper, [.linebr]#/# +
+and the treader of grapes [.linebr]#/# +
+shall overtake him who sows seed. [.linebr]#/# +
+And the mountains shall drop sweet wine, [.linebr]#/# +
+and all the hills shall melt.
+
+|
+|14 And I will bring back the captivity of my people of Israel, [.linebr]#/# +
+and they shall build the waste cities and inhabit them. [.linebr]#/# +
+And they shall plant vineyards and drink their wine. [.linebr]#/# +
+They shall also make gardens and eat their fruit.
+
+|
+|15 And I will plant them upon their land, [.linebr]#/# +
+and they shall no longer be pulled up [.linebr]#/# +
+out of their land which I have given them,"
+|===
+
+says the LORD your God.
+
+[%breakable]
+References::
+*[v.11]*: Quoted in xref:#act015-016[Acts 15:16]. *[v.12]*: Quoted in xref:#act015-017[Acts 15:17].
+
+[.text-center]
+_[Tanach reading: go to xref:#obadiah[Obadiah]]_

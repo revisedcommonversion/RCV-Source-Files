@@ -1,0 +1,42 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#philemon]
+== Paul's Letter to Philemon
+
+*Philemon | Προς Φιλήμονα*
+
+[#phm001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Paul rejoices to hear of the faith and love of Philemon, whom he desires to forgive his servant Onesimus and lovingly to receive him again, 1-25._
+
+1 Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved and fellow-laborer, 2 To our beloved Apphia, to Archippus our fellow-soldier, and to the church in your house:
+
+3 Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+4 I thank my God, making mention of you always in my prayers, 5 Hearing of your love and faith which you have toward the Lord Jesus and toward all saints, 6 That the fellowship of your faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus. 7 For we have great joy and consolation in your love because the hearts of the saints are refreshed by you, brother.
+
+8 Therefore, though I might be very bold in Christ to enjoin you to that which is appropriate, 9 Yet for love's sake I rather implore you, being such a one as Paul the aged and now also a prisoner of Jesus Christ.
+
+10 I implore you for my son Onesimus whom I have begotten in my bonds, 11 Who in time past was to you unprofitable, but now profitable to you and to me, 12 Whom I have sent back. Therefore, receive him (that is, my own heart), 13 Whom I wished to have retained with me, so that in your stead he might have ministered to me in the bonds of the gospel. 14 But without your consent I would do nothing so that your benefit would not be according to necessity, but willingly. 15 For perhaps he was therefore parted from you for a season so that you should receive him forever, 16 Not now as a servant, but above a servant, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.
+
+17 If you account me therefore a partner, receive him as you would me. 18 If he has wronged you or owes you anything, put that on my account. 19 I, Paul, have written it with my own hand, I will repay it—although I do not say to you that you owe to me even your own self as well. 20 Indeed, brother, let me have joy from you in the Lord. Refresh my heart in the Lord.
+
+21 Having confidence in your obedience I wrote to you, knowing that you will also do more than I say.
+
+22 But at the same time prepare me also a lodging, for I trust that through your prayers I shall be given to you.
+
+23 Epaphras, my fellow-prisoner in Christ Jesus, salutes you, 24 As do Marcus, Aristarchus, Demas, and Lucas, my fellow-laborers.
+
+25 May the grace of our Lord Jesus Christ be with your spirit. Amen.

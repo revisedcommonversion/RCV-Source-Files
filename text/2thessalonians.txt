@@ -1,0 +1,58 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#second-thessalonians]
+== Paul's Second Letter to the Thessalonians
+
+*2nd Thessalonians | Προς Θεσσαλονικείς Β'*
+
+[#sth001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_Paul certifies them of the good opinion which he had of their faith, love, and patience, 1-10; and in addition uses various reasons for the comforting of them in persecution, of which the chief is taken from the righteous judgment of God, 11, 12._
+
+1 Paul, Silvanus, and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ: 2 Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+3 We are bound to thank God always for you, brothers, as it is proper, because your faith grows exceedingly and the charity of each one of you all toward one another abounds, 4 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that you endure. 5 This is a manifest token of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer, 6 Seeing it is a righteous thing with God to recompense tribulation to those who trouble you, 7 And rest to you who are troubled, and also to us, when the Lord Jesus is revealed from heaven with his mighty angels, 8 In flaming fire, taking vengeance on those who do not know God and who do not obey the gospel of our Lord Jesus Christ. [[sth001-009]]9 They shall be punished with everlasting destruction from the presence of the Lord "_and from the glory of his power,_" 10 When he comes to be glorified in his saints and to be admired by all those who believe (because our testimony among you was believed) in that day. 11 Therefore, we also pray always for you, that our God would count you worthy of this calling and fulfill all the good pleasure of his goodness and the work of faith with power, 12 So that the name of our Lord Jesus Christ may be glorified in you and you in him, according to the grace of our God and of the Lord Jesus Christ.
+
+[%breakable]
+Old Testament Quotes::
+*[v.9]*: xref:#isa002-010[Isaiah 2:10], xref:#isa002-019[19], xref:#isa002-021[21].^All^ ^LXX^
+
+[#sth002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_Paul urges them to continue steadfast in the truth received, 1, 2; shows that there shall be a departure from the faith, 3-8, and a revealing of Antichrist before the day of the Lord comes, 9-14; and thereupon repeats his former exhortation and prays for them, 15-17._
+
+1 Now we implore you, brothers, by the coming of our Lord Jesus Christ and by our gathering to him, 2 That you not be soon shaken in mind, or be troubled, neither by spirit, by word, nor by letter as from us, saying that the day of Christ is at hand. 3 Let no man deceive you by any means. For that day shall not come unless the falling away comes first and that man of sin is revealed, the son of perdition, 4 Who opposes and exalts himself above all that is called God, or that is worshiped, so that he, as God, sits in the temple of God, showing himself that he is God. 5 Do you not remember that when I was still with you I told you these things? 6 And now you know that which restrains him, to the end that he may be revealed in his own season. 7 For the mystery of iniquity is already working. Only he who now restrains will restrain until he is taken out of the way. 8 And then that Wicked One is revealed, whom the Lord will consume with the spirit of his mouth and will destroy with the brightness of his coming, 9 Even him, whose coming is after the working of Satan with all power, signs, and lying wonders, 10 And with all deceitfulness of unrighteousness in those who perish because they did not receive the love of the truth so that they might be saved. 11 And for this cause God will send them strong delusion so that they should believe a lie, 12 So that they all may be condemned who did not believe the truth, but had pleasure in unrighteousness.
+
+13 But we are bound to give thanks always to God for you, brothers, beloved by the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth, 14 To which he called you by our gospel to the obtaining of the glory of our Lord Jesus Christ. 15 Therefore, brothers, stand firm and hold the traditions which you have been taught, whether by word, or our epistle.
+
+16 Now may our Lord Jesus Christ himself and God, even our Father, who has loved us and has given us everlasting consolation and good hope through grace, 17 Comfort your hearts and establish you in every good word and work.
+
+[#sth003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_Paul craves their prayers for himself, 1, 2; testifies what confidence he has in them, 3, 4; makes request to God on their behalf, 5; gives them various precepts, especially to shun idleness and ill company, 6-15; and then concludes with prayer and salutation, 16-18._
+
+1 Finally, brothers, pray for us, that the word of the Lord may have free course and be glorified, even as it is with you, 2 And that we may be delivered from unreasonable and wicked men, for all men do not have faith. 3 But the Lord is faithful, who will establish you and keep you from evil. 4 And we have confidence in the Lord concerning you, that you both do and will do the things which we command you. 5 And may the Lord direct your hearts into the love of God and into the patient waiting for Christ.
+
+6 Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks disorderly and not after the tradition which he received from us. 7 For you yourselves know how you ought to follow us. For we did not behave ourselves disorderly among you, 8 Neither did we eat any man's bread for nothing, but wrought with labor and toil night and day so that we might not be chargeable to any of you, 9 Not because we do not have power, but to make ourselves a pattern to you to follow us. 10 For even when we were with you, this we commanded you: that if any would not work, neither should he eat. 11 For we hear that there are some who walk among you disorderly, not working at all, but are busy-bodies. 12 Now those who are such we command and exhort by our Lord Jesus Christ that they work with quietness and eat their own bread. 13 But you, brothers, do not be weary in well-doing.
+
+14 And if any man does not obey our word by this epistle, note that man and have no company with him so that he may be ashamed. 15 Yet do not count him as an enemy, but admonish him as a brother.
+
+16 Now may the Lord of peace himself give you peace always by all means. May the Lord be with you all.
+
+17 The salutation of Paul with my own hand, which is the token in every epistle. Thus I write. 18 May the grace of our Lord Jesus Christ be with you all. Amen.

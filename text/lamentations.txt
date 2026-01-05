@@ -1,0 +1,1310 @@
+////
+  The Holy Bible: Revised Common Version
+  Copyright (c) 2026 William Masopust
+  http://www.revisedcommonversion.com
+  The source code of the RCV text is available at http://source.rcv.xyz.
+  
+  This project and the accompanying materials are made available under the 
+  terms of the Eclipse Public License 2.0 which is available at 
+  https://www.eclipse.org/legal/epl-2.0/.
+  
+  SPDX-License-Identifier: EPL-2.0
+////
+[#lamentations]
+== The Lamentations of Jeremiah
+
+*Lamentations | Θρῆνοι | איכה*
+
+[#lam001%breakable]
+=== Chapter 1
+
+[.outline.text-center]
+_The miseries of Jerusalem and of the Jews pathetically lamented, with confessions of their sins, 1-11. The attention and compassion of beholders demanded to this unprecedented case, 12-17. The justice of God acknowledged and his mercy supplicated, with prayers against insulting foes, 18-22._
+
++[+ _ALEPH_ - א +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 How the city sits solitary [.linebr]#/# +
+that was full of people! [.linebr]#/# +
+How she has become like a widow! [.linebr]#/# +
+She who was great among the nations [.linebr]#/# +
+and princess among the provinces, [.linebr]#/# +
+how she has become tributary!
+|===
+
++[+ _BET_ - ב +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 She weeps bitterly in the night, [.linebr]#/# +
+and her tears are on her cheeks. [.linebr]#/# +
+Among all her lovers [.linebr]#/# +
+she has no one to comfort her. [.linebr]#/# +
+All her friends have dealt treacherously with her. [.linebr]#/# +
+They have become her enemies.
+|===
+
++[+ _GIMEL_ - ג +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|3 Judah has gone into captivity because of affliction [.linebr]#/# +
+and because of great servitude. [.linebr]#/# +
+She dwells among the heathen. [.linebr]#/# +
+She finds no rest. [.linebr]#/# +
+All her persecutors overtook her [.linebr]#/# +
+in the midst of distress.
+|===
+
++[+ _DALET_ - ד +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|4 The ways of Zion mourn, [.linebr]#/# +
+because no one comes to the solemn feasts. [.linebr]#/# +
+All her gates are desolate. [.linebr]#/# +
+Her priests sigh. [.linebr]#/# +
+Her virgins are afflicted. [.linebr]#/# +
+She is in bitterness.
+|===
+
++[+ _HE_ - ה +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|5 Her adversaries are the chief. [.linebr]#/# +
+Her enemies prosper, [.linebr]#/# +
+for the LORD has afflicted her [.linebr]#/# +
+for the multitude of her transgressions. [.linebr]#/# +
+Her children have gone into captivity [.linebr]#/# +
+before the enemy.
+|===
+
++[+ _VAV_ - ו +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|6 And from the daughter of Zion [.linebr]#/# +
+all her beauty has departed. [.linebr]#/# +
+Her princes have become like bucks [.linebr]#/# +
+that find no pasture, [.linebr]#/# +
+and they have gone without strength [.linebr]#/# +
+before the pursuer.
+|===
+
++[+ _ZAYIN_ - ז +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|7 Jerusalem remembers [.linebr]#/# +
+in the days of her affliction and of her miseries [.linebr]#/# +
+all her pleasant things [.linebr]#/# +
+that she had in the days of old. [.linebr]#/# +
+When her people fell into the hand of the enemy, [.linebr]#/# +
+no one helped her. [.linebr]#/# +
+The adversaries saw her [.linebr]#/# +
+and mocked at her desolations.
+|===
+
++[+ _HET_ - ח +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|8 Jerusalem has grievously sinned; [.linebr]#/# +
+therefore, she has become unclean. [.linebr]#/# +
+All who honored her despise her [.linebr]#/# +
+because they have seen her nakedness. [.linebr]#/# +
+Indeed, she sighs [.linebr]#/# +
+and turns backward.
+|===
+
++[+ _TET_ - ט +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 Her filthiness is in her skirts. [.linebr]#/# +
+She does not remember her last end; [.linebr]#/# +
+therefore, she has been wonderfully abased. [.linebr]#/# +
+She had no comforter. [.linebr]#/# +
+O LORD, behold my affliction, [.linebr]#/# +
+for the enemy has magnified himself.
+|===
+
++[+ _YOD_ - י +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|10 The adversary has spread out his hand [.linebr]#/# +
+upon all her pleasant things, [.linebr]#/# +
+for she has seen that the heathen [.linebr]#/# +
+entered into her sanctuary, [.linebr]#/# +
+whom you commanded [.linebr]#/# +
+that they should not enter into your congregation.
+|===
+
++[+ _KAF_ - כ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|11 All her people sigh. [.linebr]#/# +
+They seek bread. [.linebr]#/# +
+They have given their pleasant things for food [.linebr]#/# +
+to relieve the soul. [.linebr]#/# +
+See, O LORD, and consider, [.linebr]#/# +
+for I have become vile.
+|===
+
++[+ _LAMED_ - ל +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 Is it nothing to you, all you who pass by? [.linebr]#/# +
+Behold, and see [.linebr]#/# +
+if there is any sorrow like my sorrow, [.linebr]#/# +
+which has fallen upon me, [.linebr]#/# +
+with which the LORD has afflicted me [.linebr]#/# +
+in the day of his fierce anger.
+|===
+
++[+ _MEM_ - מ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|13 From above he has sent fire into my bones, [.linebr]#/# +
+and it prevails against them. [.linebr]#/# +
+He has spread a net for my feet. [.linebr]#/# +
+He has turned me back. [.linebr]#/# +
+He has made me desolate [.linebr]#/# +
+and faint all the day.
+|===
+
++[+ _NUN_ - נ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|14 The yoke of my transgressions is bound by his hand. [.linebr]#/# +
+They are knit together [.linebr]#/# +
+and come up upon my neck. [.linebr]#/# +
+He has made my strength to fall. [.linebr]#/# +
+The Lord has delivered me into their hands, [.linebr]#/# +
+from whom I am not able to rise.
+|===
+
++[+ _SAMEKH_ - ס +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|15 The Lord has trodden under foot [.linebr]#/# +
+all my mighty men in the midst of me. [.linebr]#/# +
+He has called an assembly against me [.linebr]#/# +
+to crush my young men. [.linebr]#/# +
+The Lord has trodden the virgin, the daughter of Judah, [.linebr]#/# +
+as in a wine-press.
+|===
+
++[+ _AYIN_ - ע +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|16 For these things I weep. [.linebr]#/# +
+My eye, my eye runs down with water [.linebr]#/# +
+because the comforter who should relieve my soul [.linebr]#/# +
+is far from me. [.linebr]#/# +
+My children are desolate [.linebr]#/# +
+because the enemy prevailed.
+|===
+
++[+ _PE_ - פ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|17 Zion spreads forth her hands, [.linebr]#/# +
+and there is no one to comfort her. [.linebr]#/# +
+The LORD has commanded concerning Jacob, [.linebr]#/# +
+that his adversaries should be around him. [.linebr]#/# +
+Jerusalem has becaome [.linebr]#/# +
+an unclean thing among them.
+|===
+
++[+ _TSADI_ - צ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|18 The LORD is righteous, [.linebr]#/# +
+for I have rebelled against his commandment. [.linebr]#/# +
+Hear, I pray you, all people, [.linebr]#/# +
+and behold my sorrow. [.linebr]#/# +
+My virgins and my young men [.linebr]#/# +
+have gone into captivity.
+|===
+
++[+ _QOF_ - ק +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|19 I called for my lovers, [.linebr]#/# +
+but they deceived me. [.linebr]#/# +
+My priests and my elders [.linebr]#/# +
+resigned their breath in the city [.linebr]#/# +
+while they sought their food [.linebr]#/# +
+to relieve their souls.
+|===
+
++[+ _RESH_ - ר +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|20 Behold, O LORD, for I am in distress. [.linebr]#/# +
+My heart is troubled. [.linebr]#/# +
+My heart is turned within me, [.linebr]#/# +
+for I have grievously rebelled. [.linebr]#/# +
+Abroad the sword bereaves, [.linebr]#/# +
+at home it is as death.
+|===
+
++[+ _SHIN_ - ש +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|21 They have heard that I sigh. [.linebr]#/# +
+There is no one to comfort me. [.linebr]#/# +
+All my enemies have heard of my trouble. [.linebr]#/# +
+They are glad that you have done it. [.linebr]#/# +
+You will bring the day that you have called, [.linebr]#/# +
+and they shall be like me.
+|===
+
++[+ _TAV_ - ת +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|22 Let all their wickedness come before you, [.linebr]#/# +
+and do to them [.linebr]#/# +
+as you have done to me [.linebr]#/# +
+for all my transgressions. [.linebr]#/# +
+For my sighs are many [.linebr]#/# +
+and my heart is faint.
+|===
+
+[#lam002%breakable]
+=== Chapter 2
+
+[.outline.text-center]
+_Jeremiah laments the misery of Jerusalem, 1-19. He addresses God for this, 20-22._
+
++[+ _ALEPH_ - א +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 How the Lord has covered the daughter of Zion [.linebr]#/# +
+with a cloud in his anger, [.linebr]#/# +
+and cast down from heaven to the earth [.linebr]#/# +
+the beauty of Israel, [.linebr]#/# +
+and not remembered his footstool [.linebr]#/# +
+in the day of his anger!
+|===
+
++[+ _BET_ - ב +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 The Lord has swallowed up all the habitations of Jacob [.linebr]#/# +
+and has not pitied. [.linebr]#/# +
+He has thrown down in his wrath [.linebr]#/# +
+the strongholds of the daughter of Judah. [.linebr]#/# +
+He has brought them down to the ground. [.linebr]#/# +
+He has polluted the kingdom and its princes.
+|===
+
++[+ _GIMEL_ - ג +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|3 He has cut off in his fierce anger [.linebr]#/# +
+all the horn of Israel. [.linebr]#/# +
+He has drawn back his right hand [.linebr]#/# +
+from before the enemy, [.linebr]#/# +
+and he burned against Jacob like a flaming fire, [.linebr]#/# +
+which devours on every side.
+|===
+
++[+ _DALET_ - ד +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|4 He has bent his bow like an enemy. [.linebr]#/# +
+He stood with his right hand as an adversary [.linebr]#/# +
+and slew all who were pleasant to the eye [.linebr]#/# +
+in the tabernacle of the daughter of Zion. [.linebr]#/# +
+He poured out his fury like fire.
+|===
+
++[+ _HE_ - ה +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|5 The Lord was like an enemy. [.linebr]#/# +
+He has swallowed up Israel. [.linebr]#/# +
+He has swallowed up all her palaces. [.linebr]#/# +
+He has destroyed his strongholds [.linebr]#/# +
+and has increased in the daughter of Judah [.linebr]#/# +
+mourning and lamentation.
+|===
+
++[+ _VAV_ - ו +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|6 And he has violently taken away his tabernacle [.linebr]#/# +
+as if it were of a garden. [.linebr]#/# +
+He has destroyed his places of the assembly. [.linebr]#/# +
+The LORD has caused the solemn feasts and sabbaths [.linebr]#/# +
+to be forgotten in Zion, [.linebr]#/# +
+and in the indignation of his anger has despised [.linebr]#/# +
+the king and the priest.
+|===
+
++[+ _ZAYIN_ - ז +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|7 The Lord has cast off his altar. [.linebr]#/# +
+He has abhorred his sanctuary. [.linebr]#/# +
+He has given up into the hand of the enemy [.linebr]#/# +
+the walls of her palaces. [.linebr]#/# +
+They have made a noise in the house of the LORD [.linebr]#/# +
+as in the day of a solemn feast.
+|===
+
++[+ _HET_ - ח +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|8 The LORD has purposed to destroy [.linebr]#/# +
+the wall of the daughter of Zion. [.linebr]#/# +
+He has stretched out a line. [.linebr]#/# +
+He has not withdrawn his hand from destroying. [.linebr]#/# +
+Therefore, he made the rampart and the wall to lament. [.linebr]#/# +
+They languished together.
+|===
+
++[+ _TET_ - ט +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 Her gates are sunk into the ground. [.linebr]#/# +
+He has destroyed and broken her bars. [.linebr]#/# +
+Her king and her princes are among the Gentiles. [.linebr]#/# +
+The law is no more. [.linebr]#/# +
+Her prophets also find [.linebr]#/# +
+no vision from the LORD.
+|===
+
++[+ _YOD_ - י +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|10 The elders of the daughter of Zion [.linebr]#/# +
+sit upon the ground and keep silence. [.linebr]#/# +
+They have cast up dust upon their heads. [.linebr]#/# +
+They have girded themselves with sackcloth. [.linebr]#/# +
+The virgins of Jerusalem hang down [.linebr]#/# +
+their heads to the ground.
+|===
+
++[+ _KAF_ - כ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|11 My eyes fail with tears. [.linebr]#/# +
+My heart is troubled. [.linebr]#/# +
+My liver is poured upon the earth [.linebr]#/# +
+for the destruction of the daughter of my people, [.linebr]#/# +
+because the children and the infants swoon [.linebr]#/# +
+in the streets of the city.
+|===
+
++[+ _LAMED_ - ל +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 They say to their mothers, [.linebr]#/# +
+"Where is grain and wine?" [.linebr]#/# +
+when they swooned as the wounded [.linebr]#/# +
+in the streets of the city, [.linebr]#/# +
+when their soul was poured out [.linebr]#/# +
+into their mothers' bosom.
+|===
+
++[+ _MEM_ - מ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|13 What thing shall I take to witness for you? [.linebr]#/# +
+What thing shall I compare to you, [.linebr]#/# +
+O daughter of Jerusalem? [.linebr]#/# +
+What shall I equal to you so that I may comfort you, [.linebr]#/# +
+O virgin daughter of Zion? [.linebr]#/# +
+For your breach is great like the sea. [.linebr]#/# +
+Who can heal you?
+|===
+
++[+ _NUN_ - נ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|14 Your prophets have seen [.linebr]#/# +
+vain and foolish things for you. [.linebr]#/# +
+And they have not revealed your iniquity [.linebr]#/# +
+to turn away your captivity, [.linebr]#/# +
+but have seen for you false burdens [.linebr]#/# +
+and causes of banishment.
+|===
+
++[+ _SAMEKH_ - ס +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|15 All who pass by clap [.linebr]#/# +
+their hands at you. [.linebr]#/# +
+They hiss and wag their head [.linebr]#/# +
+at the daughter of Jerusalem, saying, [.linebr]#/# +
+"Is this the city that men call [.linebr]#/# +
+The Perfection of Beauty, [.linebr]#/# +
+The Joy of the Whole Earth?"
+|===
+
++[+ _AYIN_ - ע +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|16 All your enemies have opened [.linebr]#/# +
+their mouth against you. [.linebr]#/# +
+They hiss and gnash the teeth. [.linebr]#/# +
+They say, "We have swallowed her up. [.linebr]#/# +
+Certainly this is the day that we looked for. [.linebr]#/# +
+We have found it. We have seen it."
+|===
+
++[+ _PE_ - פ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|17 The LORD has done that which he had devised. [.linebr]#/# +
+He has fulfilled his word [.linebr]#/# +
+that he had commanded in the days of old. [.linebr]#/# +
+He has thrown down and has not pitied. [.linebr]#/# +
+He has caused your enemy to rejoice over you. [.linebr]#/# +
+He has set up the horn of your adversaries.
+|===
+
++[+ _TSADI_ - צ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|18 Their heart cried to the Lord, [.linebr]#/# +
+"O wall of the daughter of Zion, [.linebr]#/# +
+let tears run down like a river [.linebr]#/# +
+day and night. [.linebr]#/# +
+Give yourself no rest. [.linebr]#/# +
+Do not let the apple of your eye cease.
+|===
+
++[+ _QOF_ - ק +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|19 Arise, cry out in the night. [.linebr]#/# +
+In the beginning of the watches [.linebr]#/# +
+pour out your heart like water [.linebr]#/# +
+before the face of the Lord. [.linebr]#/# +
+Lift up your hands toward him [.linebr]#/# +
+for the life of your young children, [.linebr]#/# +
+who faint for hunger [.linebr]#/# +
+at the head of every street."
+|===
+
++[+ _RESH_ - ר +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|20 Behold, O LORD, and consider [.linebr]#/# +
+to whom you have done this. [.linebr]#/# +
+Shall the women eat their fruit, [.linebr]#/# +
+the children which they nursed? [.linebr]#/# +
+Shall the priest and the prophet be slain [.linebr]#/# +
+in the sanctuary of the Lord?
+|===
+
++[+ _SHIN_ - ש +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|21 The young and the old lie [.linebr]#/# +
+on the ground in the streets. [.linebr]#/# +
+My virgins and my young men [.linebr]#/# +
+have fallen by the sword. [.linebr]#/# +
+You have slain them in the day of your anger. [.linebr]#/# +
+You have killed and not pitied.
+|===
+
++[+ _TAV_ - ת +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|22 You have called, as in the day of a solemn assembly [.linebr]#/# +
+my terrors on every side. [.linebr]#/# +
+And in the day of the LORD'S anger [.linebr]#/# +
+no one escaped or remained. [.linebr]#/# +
+Those whom I have swaddled and brought up, [.linebr]#/# +
+my enemy has consumed.
+|===
+
+[#lam003%breakable]
+=== Chapter 3
+
+[.outline.text-center]
+_The prophet bewails his own calamities, 1-21. By the mercies of God he nourishes his hope, 22-36. He acknowledges God's justice, 37-54. He prays for deliverance, 55-63, and vengeance on his enemies, 64-66._
+
++[+ _ALEPH_ - א +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 I am the man who has seen affliction [.linebr]#/# +
+by the rod of his wrath.
+
+|
+|2 He has led me and brought me into darkness, [.linebr]#/# +
+but not into light.
+
+|
+|3 Surely against me he is turned. [.linebr]#/# +
+He turns his hand against me all the day.
+|===
+
++[+ _BET_ - ב +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|4 My flesh and my skin he has made old. [.linebr]#/# +
+He has broken my bones.
+
+|
+|5 He has built against me and compassed me [.linebr]#/# +
+with gall and labor.
+
+|
+|6 He has set me in dark places, [.linebr]#/# +
+like those who are dead of old.
+|===
+
++[+ _GIMEL_ - ג +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|7 He has hedged me in so that I cannot get out. [.linebr]#/# +
+He has made my chain heavy.
+
+|
+|8 Also, when I cry and shout, [.linebr]#/# +
+he shuts out my prayer.
+
+|
+|9 He has enclosed my ways with hewn stone. [.linebr]#/# +
+He has made my paths crooked.
+|===
+
++[+ _DALET_ - ד +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|10 He was to me like a bear lying in wait [.linebr]#/# +
+and like a lion in secret places.
+
+|
+|11 He has turned aside my ways and pulled me in pieces. [.linebr]#/# +
+He has made me desolate.
+
+|
+|12 He has bent his bow [.linebr]#/# +
+and set me as a mark for the arrow.
+|===
+
++[+ _HE_ - ה +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|13 He has caused the arrows of his quiver [.linebr]#/# +
+to enter into my kidneys.
+
+|
+|14 I was a derision to all my people [.linebr]#/# +
+and their song all the day.
+
+|
+|15 He has filled me with bitterness. [.linebr]#/# +
+He has made me drunken with wormwood.
+|===
+
++[+ _VAV_ - ו +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|16 He has also broken my teeth with gravel stones. [.linebr]#/# +
+He has covered me with ashes.
+
+|
+|17 And you have cast my soul far off from peace. [.linebr]#/# +
+I forgot prosperity.
+
+|
+|18 And I said, "My strength [.linebr]#/# +
+and my hope has perished from the LORD."
+|===
+
++[+ _ZAYIN_ - ז +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|19 Remember my affliction and my misery, [.linebr]#/# +
+the wormwood and the gall.
+
+|
+|20 My soul has them still in remembrance [.linebr]#/# +
+and is humbled in me.
+
+|
+|21 This I recall to my mind; [.linebr]#/# +
+therefore, I have hope.
+|===
+
++[+ _HET_ - ח +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|22 It is because of the LORD'S mercies that we are not consumed, [.linebr]#/# +
+because his compassions do not fail.
+
+|
+|23 They are new every morning. [.linebr]#/# +
+Your faithfulness is great.
+
+|
+|24 "The LORD is my portion," says my soul, [.linebr]#/# +
+"therefore, I will hope in him."
+|===
+
++[+ _TET_ - ט +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|25 The LORD is good to those who wait for him, [.linebr]#/# +
+to the soul who seeks him.
+
+|
+|26 It is good that a man should both hope and quietly wait [.linebr]#/# +
+for the salvation of the LORD.
+
+|
+|27 It is good for a man [.linebr]#/# +
+that he should bear the yoke in his youth.
+|===
+
++[+ _YOD_ - י +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|28 He sits alone and keeps silence [.linebr]#/# +
+because he has borne it upon him.
+
+|
+|29 He puts his mouth in the dust, [.linebr]#/# +
+if there may be hope.
+
+|
+|30 He gives his cheek to him who smites him. [.linebr]#/# +
+He is filled full with reproach.
+|===
+
++[+ _KAF_ - כ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|31 For the Lord will not [.linebr]#/# +
+cast off forever.
+
+|
+|32 But though he causes grief, yet he will have compassion [.linebr]#/# +
+according to the multitude of his mercies.
+
+|
+|33 For he does not afflict willingly [.linebr]#/# +
+nor grieve the children of men.
+|===
+
++[+ _LAMED_ - ל +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|34 To crush under his feet [.linebr]#/# +
+all the prisoners of the earth,
+
+|
+|35 To turn aside the right of a man [.linebr]#/# +
+before the face of the most High,
+
+|
+|36 To subvert a man in his cause, [.linebr]#/# +
+the Lord does not approve.
+|===
+
++[+ _MEM_ - מ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|37 Who is he who speaks and it comes to pass [.linebr]#/# +
+when the Lord does not command it?
+
+|
+|38 Out of the mouth of the most High, [.linebr]#/# +
+does evil and good not proceed?
+
+|
+|39 Why does a living man complain, [.linebr]#/# +
+a man for the punishment of his sins?
+|===
+
++[+ _NUN_ - נ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|40 Let us search and try our ways [.linebr]#/# +
+and turn back to the LORD.
+
+|
+|41 Let us lift up our heart with our hands [.linebr]#/# +
+to God in the heavens.
+
+|
+|42 We have transgressed and have rebelled. [.linebr]#/# +
+You have not pardoned.
+|===
+
++[+ _SAMEKH_ - ס +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|43 You have covered with anger and persecuted us. [.linebr]#/# +
+You have slain. You have not pitied.
+
+|
+|44 You have covered yourself with a cloud [.linebr]#/# +
+so that our prayer should not pass through.
+
+|
+|45 You have made us as the offscouring and refuse [.linebr]#/# +
+in the midst of the people.
+|===
+
++[+ _AYIN_ - ע +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|46 All our enemies have opened their mouths [.linebr]#/# +
+against us.
+
+|
+|47 Fear and a snare have come upon us, [.linebr]#/# +
+desolation and destruction.
+
+|
+|48 My eye runs down with rivers of water [.linebr]#/# +
+for the destruction of the daughter of my people.
+|===
+
++[+ _PE_ - פ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|49 My eye trickles down and does not cease [.linebr]#/# +
+without any intermission,
+
+|
+|50 Until the LORD looks down [.linebr]#/# +
+and beholds from heaven.
+
+|
+|51 My eye affects my heart [.linebr]#/# +
+because of all the daughters of my city.
+|===
+
++[+ _TSADI_ - צ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|52 My enemies chased me fiercely, [.linebr]#/# +
+like a bird without cause.
+
+|
+|53 They have cut off my life in the dungeon [.linebr]#/# +
+and cast a stone upon me.
+
+|
+|54 Waters flowed over my head. [.linebr]#/# +
+Then I said, "I am cut off."
+|===
+
++[+ _QOF_ - ק +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|55 I called upon your name, O LORD, [.linebr]#/# +
+out of the low dungeon.
+
+|
+|56 You have heard my voice. Do not hide your ear [.linebr]#/# +
+at my breathing, at my cry.
+
+|
+|57 You drew near in the day that I called upon you. [.linebr]#/# +
+You said, "Do not fear."
+|===
+
++[+ _RESH_ - ר +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|58 O Lord, you have pleaded the causes of my soul. [.linebr]#/# +
+You have redeemed my life.
+
+|
+|59 O LORD, you have seen my wrong. [.linebr]#/# +
+Judge my cause.
+
+|
+|60 You have seen all their vengeance [.linebr]#/# +
+and all their imaginations against me.
+|===
+
++[+ _SHIN_ - ש +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|61 You have heard their reproach, O LORD, [.linebr]#/# +
+and all their imaginations against me,
+
+|
+|62 The lips of those who rose up against me, [.linebr]#/# +
+and their device against me all the day.
+
+|
+|63 Behold their sitting down and their rising up. [.linebr]#/# +
+I am their music.
+|===
+
++[+ _TAV_ - ת +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|64 Render to them a recompense, O LORD, [.linebr]#/# +
+according to the work of their hands.
+
+|
+|65 Give them sorrow of heart, [.linebr]#/# +
+your curse to them.
+
+|
+|66 Persecute and destroy them in anger [.linebr]#/# +
+from under the heavens of the LORD.
+|===
+
+[#lam004%breakable]
+=== Chapter 4
+
+[.outline.text-center]
+_Zion bewails her pitiful estate, 1-12. She confesses her sins, 13-20. Edom is threatened and Zion comforted, 21, 22._
+
++[+ _ALEPH_ - א +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|1 How the gold has become dim! [.linebr]#/# +
+How the most fine gold has changed! [.linebr]#/# +
+The stones of the sanctuary are poured out [.linebr]#/# +
+at the head of every street.
+|===
+
++[+ _BET_ -  +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|2 The precious sons of Zion, [.linebr]#/# +
+comparable to fine gold, [.linebr]#/# +
+how they are esteemed as earthen pitchers, [.linebr]#/# +
+the work of the hands of the potter!
+|===
+
++[+ _GIMEL_ - ג +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|3 Even the jackals draw out the breast [.linebr]#/# +
+to nurse their young ones. [.linebr]#/# +
+The daughter of my people has become cruel, [.linebr]#/# +
+like the ostriches in the wilderness.
+|===
+
++[+ _DALET_ - ד +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|4 The tongue of the nursing child cleaves [.linebr]#/# +
+to the roof of his mouth for thirst. [.linebr]#/# +
+The young children ask for bread, [.linebr]#/# +
+and no man breaks it for them.
+|===
+
++[+ _HE_ - ה +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|5 Those who fed delicately [.linebr]#/# +
+are desolate in the streets. [.linebr]#/# +
+Those who were brought up in scarlet [.linebr]#/# +
+embrace dunghills.
+|===
+
++[+ _VAV_ - ו +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|6 For the punishment of the iniquity of the daughter of my people is greater [.linebr]#/# +
+than the punishment of the sin of Sodom, [.linebr]#/# +
+which was overthrown as in a moment, [.linebr]#/# +
+and no hands stayed on her.
+|===
+
++[+ _ZAYIN_ - ז +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|7 Her Nazarites were purer than snow. [.linebr]#/# +
+They were whiter than milk. [.linebr]#/# +
+They were more ruddy in body than rubies. [.linebr]#/# +
+Their polishing was like sapphire.
+|===
+
++[+ _HET_ - ח +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|8 Their visage is blacker than a coal. [.linebr]#/# +
+They are not known in the streets. [.linebr]#/# +
+Their skin cleaves to their bones. [.linebr]#/# +
+It is withered. It has become like a stick.
+|===
+
++[+ _TET_ - ט +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|9 Those who are slain with the sword are better [.linebr]#/# +
+than those who are slain with hunger, [.linebr]#/# +
+for these pine away, stricken through [.linebr]#/# +
+for lack of the fruits of the field.
+|===
+
++[+ _YOD_ - י +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|10 The hands of the pitiful women [.linebr]#/# +
+have boiled their own children. [.linebr]#/# +
+They were their food [.linebr]#/# +
+in the destruction of the daughter of my people.
+|===
+
++[+ _KAF_ - כ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|11 The LORD has accomplished his fury. [.linebr]#/# +
+He has poured out his fierce anger [.linebr]#/# +
+and has kindled a fire in Zion, [.linebr]#/# +
+and it has devoured her foundations.
+|===
+
++[+ _LAMED_ - ל +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|12 The kings of the earth [.linebr]#/# +
+and all the inhabitants of the world would not have believed [.linebr]#/# +
+that the adversary and the enemy would have entered [.linebr]#/# +
+into the gates of Jerusalem.
+|===
+
++[+ _MEM_ - מ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|13 It is for the sins of her prophets [.linebr]#/# +
+and the iniquities of her priests, [.linebr]#/# +
+who have shed the blood of the just [.linebr]#/# +
+in the midst of her.
+|===
+
++[+ _NUN_ - נ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|14 They have wandered as blind men in the streets. [.linebr]#/# +
+They have polluted themselves with blood [.linebr]#/# +
+so that men could not [.linebr]#/# +
+touch their garments.
+|===
+
++[+ _SAMEKH_ - ס +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|15 They cried to them, "Depart. It is unclean. [.linebr]#/# +
+Depart, depart. Do not touch." [.linebr]#/# +
+When they fled away and wandered, [.linebr]#/# +
+they said among the heathen, [.linebr]#/# +
+"They shall no longer sojourn there."
+|===
+
++[+ _AYIN_ - ע +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|16 The anger of the LORD has divided them. [.linebr]#/# +
+He will no longer regard them. [.linebr]#/# +
+They did not respect the persons of the priests. [.linebr]#/# +
+They did not favor the elders.
+|===
+
++[+ _PE_ - פ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|17 As for us, our eyes still fail, [.linebr]#/# +
+looking in vain for our help. [.linebr]#/# +
+In our watching we have watched [.linebr]#/# +
+for a nation that could not save us.
+|===
+
++[+ _TSADI_ - צ +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|18 They hunt our steps [.linebr]#/# +
+so that we cannot go in our streets. [.linebr]#/# +
+Our end is near. Our days are fulfilled, [.linebr]#/# +
+for our end has come.
+|===
+
++[+ _QOF_ - ק +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|19 Our persecutors are swifter [.linebr]#/# +
+than the eagles of heaven. [.linebr]#/# +
+They pursued us upon the mountains. [.linebr]#/# +
+They laid wait for us in the wilderness.
+|===
+
++[+ _RESH_ - ר +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|20 The breath of our nostrils, the anointed of the LORD, [.linebr]#/# +
+was taken in their pits, [.linebr]#/# +
+of whom we said, "Under his shadow [.linebr]#/# +
+we shall live among the heathen."
+|===
+
++[+ _SHIN_ - ש +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|21 Rejoice and be glad, O daughter of Edom, [.linebr]#/# +
+who dwells in the land of Uz. [.linebr]#/# +
+The cup shall also pass through to you. [.linebr]#/# +
+You shall be drunken and shall make yourself naked.
+|===
+
++[+ _TAV_ - ת +]+
+
+[cols="7%,93%",grid=none,frame=none]
+|===
+|
+|22 The punishment of your iniquity is accomplished, O daughter of Zion. [.linebr]#/# +
+He will no longer carry you away into captivity. [.linebr]#/# +
+He will visit your iniquity, O daughter of Edom. [.linebr]#/# +
+He will disclose your sins.
+|===
+
+[#lam005%breakable]
+=== Chapter 5
+
+[.outline.text-center]
+_A humble prayer, presenting to the Lord their great misery, 1-15, confessing their sins, 16-18, and imploring deliverance, 19-22._
+
+1 Remember, O LORD, what has come upon us. [.linebr]#/# +
+Consider and behold our reproach.
+
+2 Our inheritance is turned to strangers, [.linebr]#/# +
+our houses to foreigners.
+
+3 We are orphans and fatherless. [.linebr]#/# +
+Our mothers are like widows.
+
+4 We have drank our water for money. [.linebr]#/# +
+Our wood is sold to us.
+
+5 Our necks are under persecution. [.linebr]#/# +
+We labor and have no rest.
+
+6 We have given the hand to the Egyptians [.linebr]#/# +
+and to the Assyrians to be satisfied with bread.
+
+7 Our fathers have sinned and are no more, [.linebr]#/# +
+and we have borne their iniquities.
+
+8 Servants have ruled over us. [.linebr]#/# +
+There is no one who delivers us out of their hand.
+
+9 We procured our bread with the peril of our lives, [.linebr]#/# +
+because of the sword of the wilderness.
+
+10 Our skin was black like an oven [.linebr]#/# +
+because of the terrible famine.
+
+11 They ravished the women in Zion [.linebr]#/# +
+and the virgins in the cities of Judah.
+
+12 Princes were hanged by their hand. [.linebr]#/# +
+The faces of elders were not honored.
+
+13 They took the young men to grind, [.linebr]#/# +
+and the children fell under the wood.
+
+14 The elders have ceased from the gate, [.linebr]#/# +
+the young men from their music.
+
+15 The joy of our heart has ceased. [.linebr]#/# +
+Our dance has turned into mourning.
+
+16 The crown has fallen from our head. [.linebr]#/# +
+Woe to us, that we have sinned!
+
+17 For this our heart is faint, [.linebr]#/# +
+for these things our eyes are dim,
+
+18 Because of the mountain of Zion, which is desolate. [.linebr]#/# +
+The foxes walk upon it.
+
+19 You, O LORD, remain forever. [.linebr]#/# +
+Your throne is from generation to generation.
+
+20 Why do you forget us forever [.linebr]#/# +
+and forsake us for such a long time?
+
+21 Turn us to you, O LORD, and we shall be turned. [.linebr]#/# +
+Renew our days as of old.
+
+22 But you have utterly rejected us. [.linebr]#/# +
+You are very angry against us.
+
+[.text-center]
+_[Tanach reading: go to xref:#ecclesiastes[Ecclesiastes]]_
