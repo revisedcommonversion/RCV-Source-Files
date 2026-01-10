@@ -1,589 +1,633 @@
 = The Lamentations of Jeremiah
+:toc:
 
-[frame=ends,grid=rows,cols="20%,40%,40%"]
+== Chapter 1
+
+[frame=ends,grid=rows,cols="10%,45%,45%"]
 |===
 |*Verse*
 |*WBS*
 |*RCV*
 
-|**Lam 1:1**
+|**1:1**
 |How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary.
 |[ALEPH] How the city sits solitary that was full of people! How she has become like a widow! She who was great among the nations and princess among the provinces, how she has become tributary!
 
-|**Lam 1:2**
+|**1:2**
 |She weepeth bitterly in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
 |[BET] She weeps bitterly in the night, and her tears are on her cheeks. Among all her lovers she has no one to comfort her. All her friends have dealt treacherously with her. They have become her enemies.
 
-|**Lam 1:3**
+|**1:3**
 |Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
 |[GIMEL] Judah has gone into captivity because of affliction and because of great servitude. She dwells among the heathen. She finds no rest. All her persecutors overtook her in the midst of distress.
 
-|**Lam 1:4**
+|**1:4**
 |The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.
 |[DALET] The ways of Zion mourn, because no one comes to the solemn feasts. All her gates are desolate. Her priests sigh. Her virgins are afflicted. She is in bitterness.
 
-|**Lam 1:5**
+|**1:5**
 |Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
 |[HE] Her adversaries are the chief. Her enemies prosper, for the LORD has afflicted her for the multitude of her transgressions. Her children have gone into captivity before the enemy.
 
-|**Lam 1:6**
+|**1:6**
 |And from the daughter of Zion all her beauty hath departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
 |[VAV] And from the daughter of Zion all her beauty has departed. Her princes have become like bucks that find no pasture, and they have gone without strength before the pursuer.
 
-|**Lam 1:7**
+|**1:7**
 |Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none helped her: the adversaries saw her, and mocked at her sabbaths.
 |[ZAYIN] Jerusalem remembers in the days of her affliction and of her miseries all her pleasant things that she had in the days of old. When her people fell into the hand of the enemy, no one helped her. The adversaries saw her and mocked at her desolations.
 
-|**Lam 1:8**
+|**1:8**
 |Jerusalem hath grievously sinned; therefore she is removed: all that honored her despise her, because they have seen her nakedness: yes, she sigheth and turneth backward.
 |[HET] Jerusalem has grievously sinned; therefore, she has become unclean. All who honored her despise her because they have seen her nakedness. Indeed, she sighs and turns backward.
 
-|**Lam 1:9**
+|**1:9**
 |Her filthiness is in her skirts; she remembereth not her last end; therefore she hath been wonderfully abased: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.
 |[TET] Her filthiness is in her skirts. She does not remember her last end; therefore, she has been wonderfully abased. She had no comforter. O LORD, behold my affliction, for the enemy has magnified himself.
 
-|**Lam 1:10**
+|**1:10**
 |The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.
 |[YOD] The adversary has spread out his hand upon all her pleasant things, for she has seen that the heathen entered into her sanctuary, whom you commanded that they should not enter into your congregation.
 
-|**Lam 1:11**
+|**1:11**
 |All her people sigh, they seek bread; they have given their pleasant things for food to relieve the soul: see, O LORD, and consider; for I am become vile.
 |[KAF] All her people sigh. They seek bread. They have given their pleasant things for food to relieve the soul. See, O LORD, and consider, for I have become vile.
 
-|**Lam 1:12**
+|**1:12**
 |Is it nothing to you, all ye that pass by? behold, and see if there is any sorrow like my sorrow, which hath fallen upon me, with which the LORD hath afflicted me in the day of his fierce anger.
 |[LAMED] Is it nothing to you, all you who pass by? Behold, and see if there is any sorrow like my sorrow, which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
 
-|**Lam 1:13**
+|**1:13**
 |From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.
 |[MEM] From above he has sent fire into my bones, and it prevails against them. He has spread a net for my feet. He has turned me back. He has made me desolate and faint all the day.
 
-|**Lam 1:14**
+|**1:14**
 |The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise.
 |[NUN] The yoke of my transgressions is bound by his hand. They are knit together and come up upon my neck. He has made my strength to fall. The Lord has delivered me into their hands, from whom I am not able to rise.
 
-|**Lam 1:15**
+|**1:15**
 |The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a wine-press.
 |[SAMEKH] The Lord has trodden under foot all my mighty men in the midst of me. He has called an assembly against me to crush my young men. The Lord has trodden the virgin, the daughter of Judah, as in a wine-press.
 
-|**Lam 1:16**
+|**1:16**
 |For these things I weep; my eye, my eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
 |[AYIN] For these things I weep. My eye, my eye runs down with water because the comforter who should relieve my soul is far from me. My children are desolate because the enemy prevailed.
 
-|**Lam 1:17**
+|**1:17**
 |Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be around him: Jerusalem is as a menstruous woman among them.
 |[PE] Zion spreads forth her hands, and there is no one to comfort her. The LORD has commanded concerning Jacob, that his adversaries should be around him. Jerusalem has become an unclean thing among them.
 
-|**Lam 1:18**
+|**1:18**
 |The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
 |[TSADI] The LORD is righteous, for I have rebelled against his commandment. Hear, I pray you, all people, and behold my sorrow. My virgins and my young men have gone into captivity.
 
-|**Lam 1:19**
+|**1:19**
 |I called for my lovers, but they deceived me: my priests and my elders resigned their breath in the city, while they sought their food to relieve their souls.
 |[QOF] I called for my lovers, but they deceived me. My priests and my elders resigned their breath in the city while they sought their food to relieve their souls.
 
-|**Lam 1:20**
+|**1:20**
 |Behold, O LORD; for I am in distress: my bowels are troubled; my heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.
 |[RESH] Behold, O LORD, for I am in distress. My heart is troubled. My heart is turned within me, for I have grievously rebelled. Abroad the sword bereaves, at home it is as death.
 
-|**Lam 1:21**
+|**1:21**
 |They have heard that I sigh: there is none to comfort me: all my enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like me.
 |[SHIN] They have heard that I sigh. There is no one to comfort me. All my enemies have heard of my trouble. They are glad that you have done it. You will bring the day that you have called, and they shall be like me.
 
-|**Lam 1:22**
+|**1:22**
 |Let all their wickedness come before thee; and do to them, as thou hast done to me for all my transgressions: for my sighs are many, and my heart is faint.
 |[TAV] Let all their wickedness come before you, and do to them as you have done to me for all my transgressions. For my sighs are many and my heart is faint.
 
-|**Lam 2:1**
+|===
+
+== Chapter 2
+
+[frame=ends,grid=rows,cols="10%,45%,45%"]
+|===
+|*Verse*
+|*WBS*
+|*RCV*
+
+|**2:1**
 |How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven to the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 |[ALEPH] How the Lord has covered the daughter of Zion with a cloud in his anger, and cast down from heaven to the earth the beauty of Israel, and not remembered his footstool in the day of his anger!
 
-|**Lam 2:2**
+|**2:2**
 |The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and its princes.
 |[BET] The Lord has swallowed up all the habitations of Jacob and has not pitied. He has thrown down in his wrath the strongholds of the daughter of Judah. He has brought them down to the ground. He has polluted the kingdom and its princes.
 
-|**Lam 2:3**
+|**2:3**
 |He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth on every side.
 |[GIMEL] He has cut off in his fierce anger all the horn of Israel. He has drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devours on every side.
 
-|**Lam 2:4**
+|**2:4**
 |He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 |[DALET] He has bent his bow like an enemy. He stood with his right hand as an adversary and slew all who were pleasant to the eye in the tabernacle of the daughter of Zion. He poured out his fury like fire.
 
-|**Lam 2:5**
+|**2:5**
 |The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.
 |[HE] The Lord was like an enemy. He has swallowed up Israel. He has swallowed up all her palaces. He has destroyed his strongholds and has increased in the daughter of Judah mourning and lamentation.
 
-|**Lam 2:6**
+|**2:6**
 |And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and in the indignation of his anger hath despised the king and the priest.
 |[VAV] And he has violently taken away his tabernacle as if it were of a garden. He has destroyed his places of the assembly. The LORD has caused the solemn feasts and sabbaths to be forgotten in Zion, and in the indignation of his anger has despised the king and the priest.
 
-|**Lam 2:7**
+|**2:7**
 |The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.
 |[ZAYIN] The Lord has cast off his altar. He has abhorred his sanctuary. He has given up into the hand of the enemy the walls of her palaces. They have made a noise in the house of the LORD as in the day of a solemn feast.
 
-|**Lam 2:8**
+|**2:8**
 |The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
 |[HET] The LORD has purposed to destroy the wall of the daughter of Zion. He has stretched out a line. He has not withdrawn his hand from destroying. Therefore, he made the rampart and the wall to lament. They languished together.
 
-|**Lam 2:9**
+|**2:9**
 |Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more: her prophets also find no vision from the LORD.
 |[TET] Her gates are sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the Gentiles. The law is no more. Her prophets also find no vision from the LORD.
 
-|**Lam 2:10**
+|**2:10**
 |The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
 |[YOD] The elders of the daughter of Zion sit upon the ground and keep silence. They have cast up dust upon their heads. They have girded themselves with sackcloth. The virgins of Jerusalem hang down their heads to the ground.
 
-|**Lam 2:11**
+|**2:11**
 |My eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
 |[KAF] My eyes fail with tears. My heart is troubled. My liver is poured upon the earth for the destruction of the daughter of my people, because the children and the infants swoon in the streets of the city.
 
-|**Lam 2:12**
+|**2:12**
 |They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 |[LAMED] They say to their mothers, "Where is grain and wine?" when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 
-|**Lam 2:13**
+|**2:13**
 |What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? What shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?
 |[MEM] What thing shall I take to witness for you? What thing shall I compare to you, O daughter of Jerusalem? What shall I equal to you so that I may comfort you, O virgin daughter of Zion? For your breach is great like the sea. Who can heal you?
 
-|**Lam 2:14**
+|**2:14**
 |Thy prophets have seen vain and foolish things for thee: and they have not revealed thy iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 |[NUN] Your prophets have seen vain and foolish things for you. And they have not revealed your iniquity to turn away your captivity, but have seen for you false burdens and causes of banishment.
 
-|**Lam 2:15**
+|**2:15**
 |All that pass by, clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call the Perfection of beauty, the Joy of the whole earth?
 |[SAMEKH] All who pass by clap their hands at you. They hiss and wag their head at the daughter of Jerusalem, saying, "Is this the city that men call The Perfection of Beauty, The Joy of the Whole Earth?"
 
-|**Lam 2:16**
+|**2:16**
 |All thy enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
 |[AYIN] All your enemies have opened their mouth against you. They hiss and gnash the teeth. They say, "We have swallowed her up. Certainly this is the day that we looked for. We have found it. We have seen it."
 
-|**Lam 2:17**
+|**2:17**
 |The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thy enemy to rejoice over thee, he hath set up the horn of thy adversaries.
 |[PE] The LORD has done that which he had devised. He has fulfilled his word that he had commanded in the days of old. He has thrown down and has not pitied. He has caused your enemy to rejoice over you. He has set up the horn of your adversaries.
 
-|**Lam 2:18**
+|**2:18**
 |Their heart cried to the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thy eye cease.
 |[TSADI] Their heart cried to the Lord, "O wall of the daughter of Zion, let tears run down like a river day and night. Give yourself no rest. Do not let the apple of your eye cease.
 
-|**Lam 2:19**
+|**2:19**
 |Arise, cry out in the night: in the beginning of the watches pour out thy heart like water before the face of the Lord: lift up thy hands towards him for the life of thy young children, that faint for hunger at the head of every street.
 |[QOF] Arise, cry out in the night. In the beginning of the watches pour out your heart like water before the face of the Lord. Lift up your hands toward him for the life of your young children, who faint for hunger at the head of every street."
 
-|**Lam 2:20**
+|**2:20**
 |Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
 |[RESH] Behold, O LORD, and consider to whom you have done this. Shall the women eat their fruit, the children which they nursed? Shall the priest and the prophet be slain in the sanctuary of the Lord?
 
-|**Lam 2:21**
+|**2:21**
 |The young and the old lie on the ground in the streets: my virgins and my young men have fallen by the sword; thou hast slain them in the day of thy anger; thou hast killed, and not pitied.
 |[SHIN] The young and the old lie on the ground in the streets. My virgins and my young men have fallen by the sword. You have slain them in the day of your anger. You have killed and not pitied.
 
-|**Lam 2:22**
+|**2:22**
 |Thou hast called as in a solemn day my terrors around, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up, hath my enemy consumed.
 |[TAV] You have called, as in the day of a solemn assembly, my terrors on every side. And in the day of the LORD'S anger no one escaped or remained. Those whom I have swaddled and brought up, my enemy has consumed.
 
-|**Lam 3:1**
+|===
+
+== Chapter 3
+
+[frame=ends,grid=rows,cols="10%,45%,45%"]
+|===
+|*Verse*
+|*WBS*
+|*RCV*
+
+|**3:1**
 |I am the man that hath seen affliction by the rod of his wrath.
 |[ALEPH] I am the man who has seen affliction by the rod of his wrath.
 
-|**Lam 3:2**
+|**3:2**
 |He hath led me, and brought me into darkness, but not into light.
 |He has led me and brought me into darkness, but not into light.
 
-|**Lam 3:3**
+|**3:3**
 |Surely against me is he turned; he turneth his hand against me all the day.
 |Surely against me he is turned. He turns his hand against me all the day.
 
-|**Lam 3:4**
+|**3:4**
 |My flesh and my skin hath he made old; he hath broken my bones.
 |[BET] My flesh and my skin he has made old. He has broken my bones.
 
-|**Lam 3:5**
+|**3:5**
 |He hath built against me, and compassed me with gall and labor.
 |He has built against me and compassed me with gall and labor.
 
-|**Lam 3:6**
+|**3:6**
 |He hath set me in dark places, as they that are dead of old.
 |He has set me in dark places, like those who are dead of old.
 
-|**Lam 3:7**
+|**3:7**
 |He hath hedged me about, that I cannot get out: he hath made my chain heavy.
 |[GIMEL] He has hedged me in so that I cannot get out. He has made my chain heavy.
 
-|**Lam 3:8**
+|**3:8**
 |Also when I cry and shout, he shutteth out my prayer.
 |Also, when I cry and shout, he shuts out my prayer.
 
-|**Lam 3:9**
+|**3:9**
 |He hath inclosed my ways with hewn stone, he hath made my paths crooked.
 |He has enclosed my ways with hewn stone. He has made my paths crooked.
 
-|**Lam 3:10**
+|**3:10**
 |He was to me as a bear lying in wait, and as a lion in secret places.
 |[DALET] He was to me like a bear lying in wait and like a lion in secret places.
 
-|**Lam 3:11**
+|**3:11**
 |He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.
 |He has turned aside my ways and pulled me in pieces. He has made me desolate.
 
-|**Lam 3:12**
+|**3:12**
 |He hath bent his bow, and set me as a mark for the arrow.
 |He has bent his bow and set me as a mark for the arrow.
 
-|**Lam 3:13**
+|**3:13**
 |He hath caused the arrows of his quiver to enter into my reins.
 |[HE] He has caused the arrows of his quiver to enter into my kidneys.
 
-|**Lam 3:14**
+|**3:14**
 |I was a derision to all my people; and their song all the day.
 |I was a derision to all my people and their song all the day.
 
-|**Lam 3:15**
+|**3:15**
 |He hath filled me with bitterness, he hath made me drunken with wormwood.
 |He has filled me with bitterness. He has made me drunken with wormwood.
 
-|**Lam 3:16**
+|**3:16**
 |He hath also broken my teeth with gravel stones, he hath covered me with ashes.
 |[VAV] He has also broken my teeth with gravel stones. He has covered me with ashes.
 
-|**Lam 3:17**
+|**3:17**
 |And thou hast removed my soul far off from peace: I forgat prosperity.
 |And you have cast my soul far off from peace. I forgot prosperity.
 
-|**Lam 3:18**
+|**3:18**
 |And I said, My strength and my hope hath perished from the LORD:
 |And I said, "My strength and my hope has perished from the LORD."
 
-|**Lam 3:19**
+|**3:19**
 |Remembering my affliction and my misery, the wormwood and the gall.
 |[ZAYIN] Remember my affliction and my misery, the wormwood and the gall.
 
-|**Lam 3:20**
+|**3:20**
 |My soul hath them still in remembrance, and is humbled in me.
 |My soul has them still in remembrance and is humbled in me.
 
-|**Lam 3:21**
+|**3:21**
 |This I recall to my mind, therefore have I hope.
 |This I recall to my mind; therefore, I have hope.
 
-|**Lam 3:22**
+|**3:22**
 |It is of the LORD'S mercies that we are not consumed, because his compassions fail not.
 |[HET] It is because of the LORD'S mercies that we are not consumed, because his compassions do not fail.
 
-|**Lam 3:23**
+|**3:23**
 |They are new every morning: great is thy faithfulness.
 |They are new every morning. Your faithfulness is great.
 
-|**Lam 3:24**
+|**3:24**
 |The LORD is my portion, saith my soul; therefore will I hope in him.
 |"The LORD is my portion," says my soul, "therefore, I will hope in him."
 
-|**Lam 3:25**
+|**3:25**
 |The LORD is good to them that wait for him, to the soul that seeketh him.
 |[TET] The LORD is good to those who wait for him, to the soul who seeks him.
 
-|**Lam 3:28**
+|**3:28**
 |He sitteth alone, and keepeth silence, because he hath borne it upon him.
 |[YOD] He sits alone and keeps silence because he has borne it upon him.
 
-|**Lam 3:29**
+|**3:29**
 |He putteth his mouth in the dust; if there may be hope.
 |He puts his mouth in the dust, if there may be hope.
 
-|**Lam 3:30**
+|**3:30**
 |He giveth his cheek to him that smiteth him: he is filled full with reproach.
 |He gives his cheek to him who smites him. He is filled full with reproach.
 
-|**Lam 3:31**
+|**3:31**
 |For the Lord will not cast off for ever:
 |[KAF] For the Lord will not cast off forever.
 
-|**Lam 3:32**
+|**3:32**
 |But though he causeth grief, yet will he have compassion according to the multitude of his mercies.
 |But though he causes grief, yet he will have compassion according to the multitude of his mercies.
 
-|**Lam 3:33**
+|**3:33**
 |For he doth not afflict willingly nor grieve the children of men.
 |For he does not afflict willingly nor grieve the children of men.
 
-|**Lam 3:34**
+|**3:34**
 |To crush under his feet all the prisoners of the earth,
 |[LAMED] To crush under his feet all the prisoners of the earth,
 
-|**Lam 3:36**
+|**3:36**
 |To subvert a man in his cause, the Lord approveth not.
 |To subvert a man in his cause, the Lord does not approve.
 
-|**Lam 3:37**
+|**3:37**
 |Who is he that saith, and it cometh to pass, when the Lord commandeth it not?
 |[MEM] Who is he who speaks and it comes to pass when the Lord does not command it?
 
-|**Lam 3:38**
+|**3:38**
 |Out of the mouth of the most High proceedeth not evil and good?
 |Out of the mouth of the most High, does evil and good not proceed?
 
-|**Lam 3:39**
+|**3:39**
 |Why doth a living man complain, a man for the punishment of his sins?
 |Why does a living man complain, a man for the punishment of his sins?
 
-|**Lam 3:40**
+|**3:40**
 |Let us search and try our ways, and turn again to the LORD.
 |[NUN] Let us search and try our ways and turn back to the LORD.
 
-|**Lam 3:42**
+|**3:42**
 |We have transgressed and have rebelled: thou hast not pardoned.
 |We have transgressed and have rebelled. You have not pardoned.
 
-|**Lam 3:43**
+|**3:43**
 |Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
 |[SAMEKH] You have covered with anger and persecuted us. You have slain. You have not pitied.
 
-|**Lam 3:44**
+|**3:44**
 |Thou hast covered thyself with a cloud, that our prayer should not pass through.
 |You have covered yourself with a cloud so that our prayer should not pass through.
 
-|**Lam 3:45**
+|**3:45**
 |Thou hast made us as the offscouring and refuse in the midst of the people.
 |You have made us as the offscouring and refuse in the midst of the people.
 
-|**Lam 3:46**
+|**3:46**
 |All our enemies have opened their mouths against us.
 |[AYIN] All our enemies have opened their mouths against us.
 
-|**Lam 3:47**
+|**3:47**
 |Fear and a snare is come upon us, desolation and destruction.
 |Fear and a snare have come upon us, desolation and destruction.
 
-|**Lam 3:48**
+|**3:48**
 |My eye runneth down with rivers of water for the destruction of the daughter of my people.
 |My eye runs down with rivers of water for the destruction of the daughter of my people.
 
-|**Lam 3:49**
+|**3:49**
 |My eye trickleth down, and ceaseth not, without any intermission,
 |[PE] My eye trickles down and does not cease without any intermission,
 
-|**Lam 3:50**
+|**3:50**
 |Till the LORD shall look down, and behold from heaven.
 |Until the LORD looks down and beholds from heaven.
 
-|**Lam 3:51**
+|**3:51**
 |My eye affecteth my heart because of all the daughters of my city.
 |My eye affects my heart because of all the daughters of my city.
 
-|**Lam 3:52**
+|**3:52**
 |My enemies chased me fiercely, like a bird without cause.
 |[TSADI] My enemies chased me fiercely, like a bird without cause.
 
-|**Lam 3:53**
+|**3:53**
 |They have cut off my life in the dungeon, and cast a stone upon me.
 |They have cut off my life in the dungeon and cast a stone upon me.
 
-|**Lam 3:54**
+|**3:54**
 |Waters flowed over my head; then I said, I am cut off.
 |Waters flowed over my head. Then I said, "I am cut off."
 
-|**Lam 3:55**
+|**3:55**
 |I called upon thy name, O LORD, out of the low dungeon.
 |[QOF] I called upon your name, O LORD, out of the low dungeon.
 
-|**Lam 3:56**
+|**3:56**
 |Thou hast heard my voice: hide not thy ear at my breathing, at my cry.
 |You have heard my voice. Do not hide your ear at my breathing, at my cry.
 
-|**Lam 3:57**
+|**3:57**
 |Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
 |You drew near in the day that I called upon you. You said, "Do not fear."
 
-|**Lam 3:58**
+|**3:58**
 |O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
 |[RESH] O Lord, you have pleaded the causes of my soul. You have redeemed my life.
 
-|**Lam 3:59**
+|**3:59**
 |O LORD, thou hast seen my wrong: judge thou my cause.
 |O LORD, you have seen my wrong. Judge my cause.
 
-|**Lam 3:60**
+|**3:60**
 |Thou hast seen all their vengeance and all their imaginations against me.
 |You have seen all their vengeance and all their imaginations against me.
 
-|**Lam 3:61**
+|**3:61**
 |Thou hast heard their reproach, O LORD, and all their imaginations against me;
 |[SHIN] You have heard their reproach, O LORD, and all their imaginations against me,
 
-|**Lam 3:62**
+|**3:62**
 |The lips of those that rose up against me, and their device against me all the day.
 |The lips of those who rose up against me, and their device against me all the day.
 
-|**Lam 3:63**
+|**3:63**
 |Behold their sitting down, and their rising up; I am their music.
 |Behold their sitting down and their rising up. I am their music.
 
-|**Lam 3:64**
+|**3:64**
 |Render to them a recompense, O LORD, according to the work of their hands.
 |[TAV] Render to them a recompense, O LORD, according to the work of their hands.
 
-|**Lam 3:65**
+|**3:65**
 |Give them sorrow of heart, thy curse to them.
 |Give them sorrow of heart, your curse to them.
 
-|**Lam 4:1**
+|===
+
+== Chapter 4
+
+[frame=ends,grid=rows,cols="10%,45%,45%"]
+|===
+|*Verse*
+|*WBS*
+|*RCV*
+
+|**4:1**
 |How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out at the head of every street.
 |[ALEPH] How the gold has become dim! How the most fine gold has changed! The stones of the sanctuary are poured out at the head of every street.
 
-|**Lam 4:2**
+|**4:2**
 |The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
 |[BET] The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter!
 
-|**Lam 4:3**
+|**4:3**
 |Even the sea-monsters draw out the breast, they nurse their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
 |[GIMEL] Even the jackals draw out the breast to nurse their young ones. The daughter of my people has become cruel, like the ostriches in the wilderness.
 
-|**Lam 4:4**
+|**4:4**
 |The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it to them.
 |[DALET] The tongue of the nursing child cleaves to the roof of his mouth for thirst. The young children ask for bread, and no man breaks it for them.
 
-|**Lam 4:5**
+|**4:5**
 |They that fed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
 |[HE] Those who fed delicately are desolate in the streets. Those who were brought up in scarlet embrace dunghills.
 
-|**Lam 4:6**
+|**4:6**
 |For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
 |[VAV] For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, which was overthrown as in a moment, and no hands stayed on her.
 
-|**Lam 4:7**
+|**4:7**
 |Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
 |[ZAYIN] Her Nazarites were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire.
 
-|**Lam 4:8**
+|**4:8**
 |Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
 |[HET] Their visage is blacker than a coal. They are not known in the streets. Their skin cleaves to their bones. It is withered. It has become like a stick.
 
-|**Lam 4:9**
+|**4:9**
 |They that are slain with the sword are better than they that are slain with hunger: for these pine away, stricken through for want of the fruits of the field.
 |[TET] Those who are slain with the sword are better than those who are slain with hunger, for these pine away, stricken through for lack of the fruits of the field.
 
-|**Lam 4:10**
+|**4:10**
 |The hands of the pitiful women have boiled their own children: they were their food in the destruction of the daughter of my people.
 |[YOD] The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people.
 
-|**Lam 4:11**
+|**4:11**
 |The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured her foundations.
 |[KAF] The LORD has accomplished his fury. He has poured out his fierce anger and has kindled a fire in Zion, and it has devoured her foundations.
 
-|**Lam 4:12**
+|**4:12**
 |The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy would have entered into the gates of Jerusalem.
 |[LAMED] The kings of the earth and all the inhabitants of the world would not have believed that the adversary and the enemy would have entered into the gates of Jerusalem.
 
-|**Lam 4:13**
+|**4:13**
 |For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her.
 |[MEM] It is for the sins of her prophets and the iniquities of her priests, who have shed the blood of the just in the midst of her.
 
-|**Lam 4:14**
+|**4:14**
 |They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.
 |[NUN] They have wandered as blind men in the streets. They have polluted themselves with blood so that men could not touch their garments.
 
-|**Lam 4:15**
+|**4:15**
 |They cried to them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.
 |[SAMEKH] They cried to them, "Depart. It is unclean. Depart, depart. Do not touch." When they fled away and wandered, they said among the heathen, "They shall no longer sojourn there."
 
-|**Lam 4:16**
+|**4:16**
 |The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favored not the elders.
 |[AYIN] The anger of the LORD has divided them. He will no longer regard them. They did not respect the persons of the priests. They did not favor the elders.
 
-|**Lam 4:17**
+|**4:17**
 |As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
 |[PE] As for us, our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save us.
 
-|**Lam 4:18**
+|**4:18**
 |They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
 |[TSADI] They hunt our steps so that we cannot go in our streets. Our end is near. Our days are fulfilled, for our end has come.
 
-|**Lam 4:19**
+|**4:19**
 |Our persecutors are swifter than the eagles of heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
 |[QOF] Our persecutors are swifter than the eagles of heaven. They pursued us upon the mountains. They laid wait for us in the wilderness.
 
-|**Lam 4:20**
+|**4:20**
 |The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.
 |[RESH] The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, "Under his shadow we shall live among the heathen."
 
-|**Lam 4:21**
+|**4:21**
 |Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through to thee: thou shalt be drunken, and shalt make thyself naked.
 |[SHIN] Rejoice and be glad, O daughter of Edom, who dwells in the land of Uz. The cup shall also pass through to you. You shall be drunken and shall make yourself naked.
 
-|**Lam 4:22**
+|**4:22**
 |The punishment of thy iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thy iniquity, O daughter of Edom; he will disclose thy sins.
 |[TAV] The punishment of your iniquity is accomplished, O daughter of Zion. He will no longer carry you away into captivity. He will visit your iniquity, O daughter of Edom. He will disclose your sins.
 
-|**Lam 5:1**
+|===
+
+== Chapter 5
+
+[frame=ends,grid=rows,cols="10%,45%,45%"]
+|===
+|*Verse*
+|*WBS*
+|*RCV*
+
+|**5:1**
 |Remember, O LORD, what is come upon us: consider, and behold our reproach.
 |Remember, O LORD, what has come upon us. Consider and behold our reproach.
 
-|**Lam 5:2**
+|**5:2**
 |Our inheritance is turned to strangers, our houses to aliens.
 |Our inheritance is turned to strangers, our houses to foreigners.
 
-|**Lam 5:3**
+|**5:3**
 |We are orphans and fatherless, our mothers are as widows.
 |We are orphans and fatherless. Our mothers are like widows.
 
-|**Lam 5:4**
+|**5:4**
 |We have drank our water for money; our wood is sold to us.
 |We have drank our water for money. Our wood is sold to us.
 
-|**Lam 5:5**
+|**5:5**
 |Our necks are under persecution: we labor, and have no rest.
 |Our necks are under persecution. We labor and have no rest.
 
-|**Lam 5:6**
+|**5:6**
 |We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.
 |We have given the hand to the Egyptians and to the Assyrians to be satisfied with bread.
 
-|**Lam 5:7**
+|**5:7**
 |Our fathers have sinned, and are not; and we have borne their iniquities.
 |Our fathers have sinned and are no more, and we have borne their iniquities.
 
-|**Lam 5:8**
+|**5:8**
 |Servants have ruled over us: there is none that doth deliver us out of their hand.
 |Servants have ruled over us. There is no one who delivers us out of their hand.
 
-|**Lam 5:11**
+|**5:11**
 |They ravished the women in Zion, and the maids in the cities of Judah.
 |They ravished the women in Zion and the virgins in the cities of Judah.
 
-|**Lam 5:12**
+|**5:12**
 |Princes were hanged by their hand: the faces of elders were not honored.
 |Princes were hanged by their hand. The faces of elders were not honored.
 
-|**Lam 5:15**
+|**5:15**
 |The joy of our heart hath ceased; our dance is turned into mourning.
 |The joy of our heart has ceased. Our dance has turned into mourning.
 
-|**Lam 5:16**
+|**5:16**
 |The crown is fallen from our head: woe to us, that we have sinned!
 |The crown has fallen from our head. Woe to us, that we have sinned!
 
-|**Lam 5:17**
+|**5:17**
 |For this our heart is faint; for these things our eyes are dim.
 |For this our heart is faint, for these things our eyes are dim,
 
-|**Lam 5:18**
+|**5:18**
 |Because of the mountain of Zion, which is desolate, the foxes walk upon it.
 |Because of the mountain of Zion, which is desolate. The foxes walk upon it.
 
-|**Lam 5:19**
+|**5:19**
 |Thou, O LORD, remainest for ever; thy throne from generation to generation.
 |You, O LORD, remain forever. Your throne is from generation to generation.
 
-|**Lam 5:20**
+|**5:20**
 |Why dost thou forget us for ever, and forsake us so long time?
 |Why do you forget us forever and forsake us for such a long time?
 
-|**Lam 5:21**
+|**5:21**
 |Turn thou us to thee, O LORD, and we shall be turned; renew our days as of old.
 |Turn us to you, O LORD, and we shall be turned. Renew our days as of old.
 
-|**Lam 5:22**
+|**5:22**
 |But thou hast utterly rejected us; thou art very wroth against us.
 |But you have utterly rejected us. You are very angry against us.
 
 |===
+
