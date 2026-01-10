@@ -22,8 +22,8 @@ In addition to the source files, I have also included some additional resources.
 - In the _Database_ folder, I have included a database file for the chapter outlines.
 - There's a folder named _Differences_ that contains three subfolders. Each of these folders contains a comparison between two Biblical texts. There is a difference folder comparing the KJV and the Webster, one comparing the Webster and the RCV, and comparing for the KJV and the RCV. Here are a few notes on these files.
   - The files are in AsciiDoctor format and can be displayed in this repository.
-  - The files contain a table showing only the verses that are different between the two translations. Verses are displayed side by side in the table.
-  - Currently, the files do not have chapter divisions. I have plans to add this in the future, along with a table of contents. The files can be searched with `Ctrl+F` or by using your browser's find-in-page feature.
+  - The files contain tables showing only the verses that are different between the two translations.
+  - Verses are displayed side by side in the table.
 
 ## Change Log
 
