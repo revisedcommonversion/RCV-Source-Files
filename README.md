@@ -6,15 +6,18 @@ This repository contains the source files for the RCV project. These files satis
 
 There are two different source file types in this repository:
 1. A text database
-2. The text presented in AsciiDoc
+2. The text presented in AsciiDoctor format
 
 ## Database
 
-The database is a plain text file that is pipe (`|`) delimited into four fields: 1) book abbreviation, 2) chapter number, 3) verse number, and 4) verse text.
+The database is a plain text file that is pipe (`|`) delimited into two fields: 1) verse ID, and 2) verse text. The verse ID is colon (`:`) delimited into three fields: 1) book abbreviation, 2) chapter number, and 3) verse number.
+
+Example:
+- `gen:1:1|In the beginning God created the heaven and the earth.`
 
 ## Text File
 
-The text files are presented in AsciiDoc and include the full text of the RCV in paragraph form, with each book containing its own file. The `.txt` files are formatted with AsciiDoc syntax and can be opened with a plain text editor. Changing the file extension from `.txt` to `.adoc` will allow text editors to utilize AsciiDoc syntax highlighting and facilitate conversion to other formats using [AsciiDoctor](https://asciidoctor.org/#installation). I chose to upload these files as `.txt` files to prevent Codeberg from showing the rednered file, and instead, show the text as "source code."
+The text files are presented in AsciiDoctor format and include the full text of the RCV in paragraph form, with each book containing its own file. The `.txt` files are formatted with AsciiDoctor syntax and can be opened with a plain text editor. Changing the file extension from `.txt` to `.adoc` will allow text editors to utilize AsciiDoctor syntax highlighting and facilitate conversion to other formats using [AsciiDoctor](https://asciidoctor.org/#installation). I chose to upload these files as `.txt` files to prevent Github from showing the rednered file, and instead, show the text as "source code."
 
 ## Additional Resources
 
