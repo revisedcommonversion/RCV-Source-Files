@@ -1,5 +1,5 @@
 = The First Book of Moses, Called Genesis
-:source-highlighter: none
+:stylesheet: monospace.css
 
 [frame=ends,grid=rows,cols="20%,40%,40%"]
 |===
