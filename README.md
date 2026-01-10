@@ -27,7 +27,7 @@ In addition to the source files, I have also included some additional resources.
 
 ## Change Log
 
-If you're interested in seeing a change log of the RCV text, use the [Commits link](https://codeberg.org/revisedcommonversion/rcv-source-files/commits/branch/main) above the file listing.
+If you're interested in seeing a change log of the RCV text, visit the [Commits page](https://github.com/revisedcommonversion/revisedcommonversion.github.io/commits/master/) for the RCV website.
 
 ## License
 
