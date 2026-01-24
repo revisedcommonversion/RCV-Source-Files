@@ -4539,11 +4539,11 @@
 
 |**37:15**
 |And he made the staffs of shittim wood, and overlaid them with gold, to bear the table.
-|And he made the staffs of shittim wood and overlaid them with gold to bear the table.
+|And he made the staffs of shittim wood to bear the table and overlaid them with gold.
 
 |**37:16**
 |And he made the vessels which were upon the table, its dishes, and its spoons, and its bowls, and its covers to cover with, of pure gold.
-|And he made the vessels which were upon the table, its dishes, its spoons, its bowls, and its covers to cover with, of pure gold.
+|And he made the vessels which were upon the table of pure gold: its dishes, its spoons, its bowls, and its covers to cover with.
 
 |**37:17**
 |And he made the candlestick of pure gold; of beaten work he made the candlestick; its shaft, and its branch, its bowls, its knobs, and its flowers were of the same:
@@ -4555,7 +4555,7 @@
 
 |**37:19**
 |Three bowls made after the fashion of almonds in one branch, a knob and a flower; and three bowls made like almonds in another branch, a knob and a flower: so throughout the six branches proceeding from the candlestick.
-|Three bowls made after the fashion of almonds in one branch, a bud and a flower, and three bowls made like almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the candlestick.
+|Three bowls were made after the fashion of almonds in one branch, a bud and a flower, and three bowls were made like almonds in another branch, a bud and a flower—likewise throughout the six branches proceeding from the candlestick.
 
 |**37:20**
 |And in the candlestick were four bowls made like almonds, its knobs, and its flowers:
@@ -4654,6 +4654,10 @@
 |**38:12**
 |And for the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars, and their fillets, of silver.
 |And for the west side were hangings of fifty cubits, their pillars ten and their sockets ten. The hooks of the pillars and their fillets were made of silver.
+
+|**38:13**
+|And for the east side eastward fifty cubits.
+|And for the east side eastward, fifty cubits.
 
 |**38:14**
 |The hangings of the one side of the gate were fifteen cubits; their pillars three, and their sockets three.
@@ -4835,7 +4839,7 @@
 
 |**39:29**
 |And a girdle of fine twined linen, and blue, and purple, and scarlet, of needle-work; as the LORD commanded Moses.
-|And a girdle of fine twined linen, blue, purple, and scarlet, of needle-work, as the LORD commanded Moses.
+|And a girdle of fine twined linen and blue, purple, and scarlet, of needle-work, as the LORD commanded Moses.
 
 |**39:30**
 |And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like to the engravings of a signet, HOLINESS TO THE LORD.
@@ -4851,35 +4855,39 @@
 
 |**39:33**
 |And they brought the tabernacle to Moses, the tent, and all its furniture, its buttons, its boards, its bars, and its pillars, and its sockets,
-|And they brought the tabernacle to Moses, the tent, all its vessels, its buttons, its boards, its bars, its pillars, and its sockets,
+|And they brought the tabernacle to Moses: the tent, all its vessels, its buttons, its boards, its bars, its pillars, and its sockets;
 
 |**39:34**
 |And the covering of rams' skins dyed red, and the covering of badgers' skins, and the vail of the covering,
-|The covering of rams' skins dyed red, the covering of badgers' skins, the veil of the covering,
+|The covering of rams' skins dyed red, the covering of badgers' skins, and the veil of the covering;
 
 |**39:35**
 |The ark of the testimony, and its staffs, and the mercy-seat,
-|The ark of the testimony and its staffs, the mercy-seat,
+|The ark of the testimony, its staffs, and the mercy-seat;
 
 |**39:36**
 |The table, and all its vessels, and the show-bread,
-|The table, all its vessels, the show-bread,
+|The table, all its vessels, and the show-bread;
 
 |**39:37**
 |The pure candlestick, with its lamps, even with the lamps to be set in order, and all its vessels, and the oil for light,
-|The pure candlestick with its lamps, even with the lamps to be set in order, all its vessels, the oil for light,
+|The pure candlestick, its lamps, even the lamps to be set in order, all its vessels, and the oil for light;
 
 |**39:38**
 |And the golden altar, and the anointing oil, and the sweet incense, and the hanging for the tabernacle-door,
-|The golden altar, the anointing oil, the sweet incense, the hanging for the tabernacle door,
+|The golden altar, the anointing oil, and the sweet incense; the hanging for the tabernacle door;
 
 |**39:39**
 |The brazen altar, and its grate of brass, its staffs, and all its vessels, the laver and its foot,
-|The brazen altar and its grate of brass, its staffs, and all its vessels, the basin and its foot,
+|The brazen altar, its grate of brass, its staffs, and all its vessels; the basin and its foot;
+
+|**39:40**
+|The hangings of the court, its pillars, and its sockets, and the hanging for the court-gate, its cords, and its pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
+|The hangings of the court with its pillars and its sockets, the hanging for the court-gate with its cords and its pins, and all the vessels of the service of the tabernacle for the tent of the congregation;
 
 |**39:41**
 |The clothes of service to do service in the holy place, and the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office.
-|The clothes of service to do service in the holy place, the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office.
+|And the clothes of service to do service in the holy place, both the holy garments for Aaron the priest and the garments for his sons to minister in the priest's office.
 
 |**39:43**
 |And Moses looked upon all the work, and behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them.
