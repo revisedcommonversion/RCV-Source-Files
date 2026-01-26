@@ -79,19 +79,19 @@
 
 |**1:21**
 |And God created great whales, and every living creature that moveth, which the waters brought forth abundantly after their kind, and every winged fowl after his kind: and God saw that it was good.
-|And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after his kind. And God saw that it was good.
+|And God created the great sea-creatures and every living creature that moves, which the waters brought forth abundantly after their kind, and every winged bird after its kind. And God saw that it was good.
 
 |**1:22**
 |And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
-|And God blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and let birds multiply in the earth."
+|And God blessed them, saying, "Be fruitful, multiply, fill the waters in the seas, and let birds multiply on the earth."
 
 |**1:24**
 |And God said, Let the earth bring forth the living creature after his kind, cattle, and the creeping animal, and the beast of the earth after his kind: and it was so.
-|And God said, "Let the earth bring forth the living creature after his kind: livestock, the creeping animal, and the beast of the earth after his kind." And it was so.
+|And God said, "Let the earth bring forth the living creature after its kind: livestock, the creeping animal, and the beast of the earth after its kind." And it was so.
 
 |**1:25**
 |And God made the beast of the earth after his kind, and cattle after their kind, and every animal that creepeth upon the earth after his kind: and God saw that it was good.
-|And God made the beast of the earth after his kind, livestock after their kind, and every animal that creeps upon the earth after his kind. And God saw that it was good.
+|And God made the beast of the earth after its kind, livestock after their kind, and every animal that creeps upon the earth after its kind. And God saw that it was good.
 
 |**1:26**
 |And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping animal that creepeth upon the earth.
@@ -209,7 +209,7 @@
 
 |**2:23**
 |And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of man.
-|And Adam said, "This is now bone of my bones and flesh of my flesh. She shall be called Woman, because she was taken out of man."
+|And Adam said, "This is now bone of my bones and flesh of my flesh. She shall be called 'Woman,' because she was taken out of man."
 
 |**2:24**
 |Therefore shall a man leave his father and his mother, and shall cleave to his wife: and they shall be one flesh.
@@ -311,7 +311,7 @@
 
 |**3:22**
 |And the LORD God said, Behold, the man hath become as one of us, to know good and evil. And now, lest he should put forth his hand, and take also of the tree of life, and eat, and live for ever:
-|And the LORD God said, "Behold, the man has become as one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
+|And the LORD God said, "Behold, the man has become like one of us, to know good and evil. And now, lest he should put forth his hand and take from the tree of life and eat and live forever—"
 
 |**3:23**
 |Therefore the LORD God sent him forth from the garden of Eden, to till the ground from which he was taken.
@@ -397,7 +397,7 @@
 
 |**4:18**
 |And to Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
-|And to Enoch was born Irad; and Irad begot Mehujael; and Mehujael begot Methusael; and Methusael begot Lamech.
+|And to Enoch was born Irad, and Irad begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech.
 
 |**4:19**
 |And Lamech took to him two wives: the name of the one was Adah, and the name of the other Zillah.
@@ -581,7 +581,7 @@
 
 |**6:1**
 |And it came to pass, when men began to multiply on the face of the earth, and daughters were born to them,
-|And it came to pass, when men began to multiply on the face of the earth and daughters were born to them,
+|And it came to pass when men began to multiply on the face of the earth and daughters were born to them,
 
 |**6:2**
 |That the sons of God saw the daughters of men that they were fair; and they took them wives of all whom they chose.
@@ -653,7 +653,7 @@
 
 |**6:21**
 |And take thou to thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.
-|And take for yourself from all food that is eaten, and you shall gather it to yourself, and it shall be for food for you and for them."
+|And take for yourself some of all food that is eaten, and you shall gather it for yourself, and it shall be food for you and for them."
 
 |**6:22**
 |Thus did Noah; according to all that God commanded him, so did he.
@@ -703,7 +703,7 @@
 
 |**7:13**
 |In the same day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark.
-|In the same day Noah, and Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three wives of his sons with them, entered into the ark—
+|In the same day Noah, along with Shem, Ham, and Japheth (the sons of Noah), Noah's wife, and the three wives of his sons with them, entered into the ark—
 
 |**7:14**
 |They, and every beast after his kind, and all the cattle after their kind, and every creeping animal that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.
@@ -715,7 +715,7 @@
 
 |**7:16**
 |And they that entered, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.
-|And those that entered, went in male and female of all flesh, as God had commanded him. And the LORD shut him in.
+|And those that entered went in male and female of all flesh, as God had commanded him. And the LORD shut him in.
 
 |**7:17**
 |And the flood was forty days upon the earth: and the waters increased, and bore up the ark, and it was lifted above the earth.
@@ -781,15 +781,15 @@
 
 |**8:8**
 |Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
-|Also he sent forth a dove from him to see if the waters were abated from off the face of the ground,
+|He also sent forth a dove from him to see if the waters were abated from off the face of the ground,
 
 |**8:9**
 |But the dove found no rest for the sole of her foot, and she returned to him into the ark; for the waters were on the face of the whole earth. Then he put forth his hand, and took her, and pulled her in to him into the ark.
-|But the dove found no rest for the sole of her foot and she returned to him into the ark, because the waters were on the face of the whole earth. Then he put forth his hand, took her, and pulled her in to him into the ark.
+|But the dove found no rest for the sole of her foot and she returned to him into the ark, because the waters were on the face of the whole earth. Then he put forth his hand, took her, and brought her to himself into the ark.
 
 |**8:10**
 |And he stayed yet other seven days, and again he sent forth the dove out of the ark;
-|And he stayed yet another seven days, and again he sent forth the dove out of the ark.
+|And he waited yet another seven days, and again he sent forth the dove out of the ark.
 
 |**8:11**
 |And the dove came in to him in the evening, and lo, in her mouth was an olive-leaf plucked off: So Noah knew that the waters were abated from off the earth.
@@ -797,7 +797,7 @@
 
 |**8:12**
 |And he stayed yet other seven days, and sent forth the dove; which returned not again to him any more.
-|And he stayed yet another seven days and sent forth the dove, which did not return again to him anymore.
+|And he waited yet another seven days and sent forth the dove, which did not return again to him anymore.
 
 |**8:13**
 |And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried from off the earth: and Noah removed the covering of the ark, and looked, and behold, the face of the ground was dry.
@@ -899,7 +899,7 @@
 
 |**9:14**
 |And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:
-|And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud,
+|And it shall come to pass when I bring a cloud over the earth, that the bow shall be seen in the cloud,
 
 |**9:15**
 |And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
@@ -997,7 +997,7 @@
 
 |**10:8**
 |And Cush begat Nimrod: he began to be a mighty one in the earth.
-|And Cush begot Nimrod. He began to be a mighty one in the earth.
+|And Cush begot Nimrod. He began to be a mighty one on the earth.
 
 |**10:9**
 |He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
@@ -1037,7 +1037,7 @@
 
 |**10:18**
 |And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites dispersed.
-|The Arvadite, the Zemarite, and the Hamathite. And afterward the families of the Canaanites were dispersed.
+|The Arvadite, the Zemarite, and the Hamathite. And afterward, the families of the Canaanites were dispersed.
 
 |**10:19**
 |And the border of the Canaanites was from Sidon, as thou comest to Gerar, to Gaza; as thou goest to Sodom and Gomorrah, and Admah, and Zeboim, even to Lashah.
@@ -1093,7 +1093,7 @@
 
 |**10:32**
 |These are the families of the sons of Noah after their generations, in their nations: and by these were the nations divided in the earth after the flood.
-|These are the families of the sons of Noah after their generations, in their nations. And by these the nations were divided in the earth after the flood.
+|These are the families of the sons of Noah after their generations, in their nations. And by these the nations were divided on the earth after the flood.
 
 |===
 
@@ -1227,7 +1227,7 @@
 
 |**11:31**
 |And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter-in-law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came to Haran, and dwelt there.
-|And Terah took Abram his son and Lot the son of Haran his son's son and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
+|And Terah took Abram his son and Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan. And they came to Haran and dwelt there.
 
 |**11:32**
 |And the days of Terah were two hundred and five years: and Terah died in Haran.
@@ -1387,7 +1387,7 @@
 
 |**13:16**
 |And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.
-|And I will make your offspring as the dust of the earth, so that if a man can number the dust of the earth, then your offspring shall also be numbered.
+|And I will make your offspring like the dust of the earth, so that if a man can number the dust of the earth, then your offspring shall also be numbered.
 
 |**13:17**
 |Arise, walk through the land in the length of it and in the breadth of it; for I will give it to thee.
@@ -1469,7 +1469,7 @@
 
 |**14:19**
 |And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
-|And he blessed him and said, "Blessed is Abram of the most high God, possessor of heaven and earth.
+|And he blessed him and said, "Blessed be Abram of the most high God, possessor of heaven and earth.
 
 |**14:20**
 |And blessed be the most high God, who hath delivered thy enemies into thy hand. And he gave him tithes of all.
@@ -1555,7 +1555,7 @@
 
 |**15:14**
 |And also that nation which they shall serve, will I judge: and afterward shall they come out with great substance.
-|And also that nation which they shall serve, I will judge. And afterward they shall come out with great substance.
+|And also that nation which they shall serve, I will judge. And afterward, they shall come out with great substance.
 
 |**15:15**
 |And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
@@ -1711,7 +1711,7 @@
 
 |**17:12**
 |And he that is eight days old shall be circumcised among you, every male-child in your generations, he that is born in the house, or bought with money of any stranger, who is not of thy seed.
-|And he who is eight days old shall be circumcised among you, every male child in your generations, he who is born in the house, or bought with money from any stranger who is not of your offspring.
+|And he who is eight days old shall be circumcised among you, every male child in your generations—he who is born in the house or bought with money from any stranger who is not of your offspring.
 
 |**17:13**
 |He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.
@@ -1743,7 +1743,7 @@
 
 |**17:20**
 |And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
-|And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. Twelve princes he shall beget, and I will make him a great nation.
+|And as for Ishmael, I have heard you. Behold, I have blessed him and will make him fruitful and will multiply him exceedingly. He shall beget twelve princes, and I will make him a great nation.
 
 |**17:21**
 |But my covenant will I establish with Isaac, whom Sarah shall bear to thee at this set time in the next year.
@@ -1789,7 +1789,7 @@
 
 |**18:3**
 |And said, My Lord, if now I have found favor in thy sight, pass not away, I pray thee, from thy servant:
-|And said, "My Lord, if now I have found favor in your sight, do not pass away, I pray you, from your servant.
+|And said, "My Lord, if now I have found favor in your sight, I pray you, do not pass your servant by.
 
 |**18:4**
 |Let a little water, I pray you, be brought, and wash your feet, and rest yourselves under the tree:
@@ -1797,7 +1797,7 @@
 
 |**18:5**
 |And I will bring a morsel of bread, and comfort ye your hearts; after that you shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
-|And I will bring a morsel of bread, and you may comfort your hearts. After that you shall pass on, for therefore you have come to your servant." And they said, "Do so, as you have said."
+|And I will bring a morsel of bread, and you may comfort your hearts. After that, you may go your way, for therefore you have come to your servant." And they said, "Do so, as you have said."
 
 |**18:6**
 |And Abraham hastened into the tent to Sarah, and said, Make ready quickly three measures of fine meal, knead it, and make cakes upon the hearth.
@@ -1861,7 +1861,7 @@
 
 |**18:22**
 |And the men turned their faces from thence, and went towards Sodom: but Abraham stood yet before the LORD.
-|And the men turned their faces from there and went toward Sodom, but Abraham stood yet before the LORD.
+|And the men turned their faces from there and went toward Sodom, but Abraham still stood before the LORD.
 
 |**18:23**
 |And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?
@@ -1877,7 +1877,7 @@
 
 |**18:26**
 |And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.
-|And the LORD said, "If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes."
+|And the LORD said, "If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sakes."
 
 |**18:27**
 |And Abraham answered and said, Behold now, I, who am dust and ashes, have taken upon me to speak to the Lord.
@@ -1893,7 +1893,7 @@
 
 |**18:30**
 |And he said, Oh, let not the Lord be angry, and I will speak: Peradventure there will thirty be found there. And he said, I will not do it, if I find thirty there.
-|And he said, "Oh, do not let the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
+|And he said, "Oh do not let the Lord be angry, and I will speak. Perhaps there will be thirty found there." And he said, "I will not do it if I find thirty there."
 
 |**18:31**
 |And he said, Behold now, I have taken upon me to speak to the Lord: Peradventure there will be twenty found there. And he said, I will not destroy it for twenty's sake.
@@ -1901,7 +1901,7 @@
 
 |**18:32**
 |And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten will be found there. And he said, I will not destroy it for ten's sake.
-|And he said, "Oh do not let the Lord be angry, and I will speak yet but this once. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
+|And he said, "Oh do not let the Lord be angry, and I will speak just once more. Perhaps ten will be found there." And he said, "I will not destroy it for ten's sake."
 
 |**18:33**
 |And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned to his place.
@@ -1983,7 +1983,7 @@
 
 |**19:17**
 |And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life: look not behind thee, neither stay thou in all the plain: escape to the mountain, lest thou be consumed.
-|And it came to pass, when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
+|And it came to pass when they had brought them forth abroad, that he said, "Escape for your life. Do not look behind you, neither stay in all the plain. Escape to the mountain, lest you be consumed."
 
 |**19:18**
 |And Lot said to them, Oh, not so, my Lord!
@@ -2023,11 +2023,11 @@
 
 |**19:28**
 |And he looked towards Sodom and Gomorrah, and towards all the land of the plain, and beheld, and lo, the smoke of the country went up as the smoke of a furnace.
-|And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and behold, the smoke of the country went up as the smoke of a furnace.
+|And he looked toward Sodom and Gomorrah and toward all the land of the plain and beheld, and behold, the smoke of the country went up like the smoke of a furnace.
 
 |**19:29**
 |And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in which Lot dwelt.
-|And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot dwelt.
+|And it came to pass when God destroyed the cities of the plain, that God remembered Abraham and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot dwelt.
 
 |**19:30**
 |And Lot went up from Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he, and his two daughters.
@@ -2059,11 +2059,11 @@
 
 |**19:37**
 |And the first-born bore a son, and called his name Moab: the same is the father of the Moabites to this day.
-|And the first-born bore a son and called his name Moab, the same is the father of the Moabites to this day.
+|And the first-born bore a son and called his name Moab. The same is the father of the Moabites to this day.
 
 |**19:38**
 |And the younger, she also bore a son, and called his name Ben-ammi: the same is the father of the children of Ammon to this day.
-|And the younger, she also bore a son and called his name Ben-ammi, the same is the father of the children of Ammon to this day.
+|And the younger, she also bore a son and called his name Ben-ammi. The same is the father of the children of Ammon to this day.
 
 |===
 
@@ -2081,11 +2081,11 @@
 
 |**20:2**
 |And Abraham said of Sarah his wife, she is my sister: And Abimelech king of Gerar sent and took Sarah.
-|And Abraham said of Sarah his wife, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
+|And Abraham said about Sarah his wife, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
 
 |**20:3**
 |But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, on account of the woman whom thou hast taken: for she is a man's wife.
-|But God came to Abimelech in a dream by night and said to him, "Behold, you are but a dead man on account of the woman whom you have taken, for she is a man's wife."
+|But God came to Abimelech in a dream by night and said to him, "Behold, you are a dead man on account of the woman whom you have taken, for she is a man's wife."
 
 |**20:4**
 |But Abimelech had not come near her: and he said, Lord, wilt thou also slay a righteous nation?
@@ -2125,7 +2125,7 @@
 
 |**20:13**
 |And it came to pass, when God caused me to wander from my father's house, that I said to her, This is thy kindness which thou shalt show to me; At every place whither we shall come, say of me, He is my brother.
-|And it came to pass, when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
+|And it came to pass when God caused me to wander from my father's house, that I said to her, 'This is your kindness which you shall show to me: at every place where we go, say of me, "He is my brother."'"
 
 |**20:14**
 |And Abimelech took sheep, and oxen, and men-servants, and women-servants, and gave them to Abraham, and restored to him Sarah his wife.
