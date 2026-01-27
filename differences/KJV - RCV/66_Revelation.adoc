@@ -599,6 +599,10 @@
 |*KJV*
 |*RCV*
 
+|**8:1**
+|And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+|And when he had opened the seventh seal, there was silence in heaven for about half an hour.
+
 |**8:2**
 |And I saw the seven angels which stood before God; and to them were given seven trumpets.
 |And I saw the seven angels who stood before God, and seven trumpets were given to them.
@@ -1117,7 +1121,7 @@
 
 |**14:20**
 |And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs.
-|And the wine-press was trodden outside the city, and blood came out of the wine-press, even to the horses' bridles, by the space of one thousand and six hundred furlongs.
+|And the wine-press was trodden outside the city, and blood came out of the wine-press, even to the horses' bridles, as far as one thousand and six hundred furlongs.
 
 |===
 

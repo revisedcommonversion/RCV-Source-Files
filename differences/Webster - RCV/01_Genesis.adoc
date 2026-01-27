@@ -2243,7 +2243,7 @@
 
 |**21:26**
 |And Abimelech said, I know not who hath done this thing: neither didst thou tell me, neither yet have I heard of it, but to-day.
-|And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither yet have I heard of it, but today."
+|And Abimelech said, "I do not know who has done this thing, neither did you tell me, neither did I hear about it until today."
 
 |**21:27**
 |And Abraham took sheep and oxen, and gave them to Abimelech: and both of them made a covenant.
@@ -2255,7 +2255,7 @@
 
 |**21:30**
 |And he said, For these seven ewe-lambs shalt thou take from my hand, that they may be a witness to me, that I have digged this well.
-|And he said, "For these seven ewe-lambs you shall take from my hand so that they may be a witness to me that I have dug this well."
+|And he said, "You shall take these seven ewe-lambs from my hand so that they may be a witness to me that I have dug this well."
 
 |**21:31**
 |Wherefore he called that place Beer-sheba: because there they swore both of them.
@@ -2537,7 +2537,7 @@
 
 |**24:21**
 |And the man, wondering at her, held his peace, to know whether the LORD had made his journey prosperous, or not.
-|And the man, wondering at her, held his peace to know whether the LORD had made his journey prosperous, or not.
+|And the man, wondering at her, held his peace to know whether the LORD had made his journey prosperous or not.
 
 |**24:22**
 |And it came to pass as the camels had done drinking, that the man took a golden ear-ring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold;
@@ -2681,7 +2681,7 @@
 
 |**24:57**
 |And they said, We will call the damsel, and inquire at her mouth.
-|And they said, "We will call the young woman and inquire at her mouth."
+|And they said, "We will call the young woman and ask her."
 
 |**24:58**
 |And they called Rebekah, and said to her, Wilt thou go with this man? And she said, I will go.
@@ -2819,11 +2819,11 @@
 
 |**25:25**
 |And the first was born red, all over like a hairy garment: and they called his name Esau.
-|And the first was born red all over like a hairy garment. And they called his name Esau.
+|And the first was born red, and the whole of him was like a hairy garment. And they called his name Esau.
 
 |**25:26**
 |And after that his brother was born, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was sixty years old when she bore them.
-|And after that his brother was born, and his hand took hold of Esau's heel. And his name was called Jacob. And Isaac was sixty years old when she bore them.
+|And after that, his brother was born, and his hand took hold of Esau's heel. And his name was called Jacob. And Isaac was sixty years old when she bore them.
 
 |**25:27**
 |And the boys grew: and Esau was a skillful hunter, a man of the field; and Jacob was a plain man dwelling in tents.
@@ -2831,7 +2831,7 @@
 
 |**25:28**
 |And Isaac loved Esau, because he ate of his venison: but Rebekah loved Jacob.
-|And Isaac loved Esau because he ate of his wild game, but Rebekah loved Jacob.
+|And Isaac loved Esau because he ate his wild game, but Rebekah loved Jacob.
 
 |**25:29**
 |And Jacob boiled pottage: and Esau came from the field, and he was faint.
@@ -2921,7 +2921,7 @@
 
 |**26:14**
 |For he had possession of flocks, and possession of herds, and very many servants: And the Philistines envied him.
-|For he had possession of flocks and possession of herds, and very many servants. And the Philistines envied him.
+|For he had possessions of flocks and possessions of herds, and very many servants. And the Philistines envied him.
 
 |**26:15**
 |For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
@@ -3035,7 +3035,7 @@
 
 |**27:7**
 |Bring me venison, and make me savory meat, that I may eat, and bless thee before the LORD, before my death.
-|'Bring me wild game and make me savory food so that I may eat and bless you before the LORD before my death.'
+|'Bring me wild game and make me savory food so that I may eat and bless you in the presence of the LORD before my death.'
 
 |**27:8**
 |Now therefore, my son, obey my voice, according to that which I command thee.
@@ -3091,7 +3091,7 @@
 
 |**27:21**
 |And Isaac said to Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou art my very son Esau, or not.
-|And Isaac said to Jacob, "Come near, I pray you, so that I may feel you, my son, whether you are my very son Esau, or not."
+|And Isaac said to Jacob, "Come near, I pray you, so that I may feel you, my son, whether you are my very son Esau or not."
 
 |**27:22**
 |And Jacob went near to Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.
@@ -3099,7 +3099,7 @@
 
 |**27:23**
 |And he discerned him not, because his hands were hairy, as his brother Esau's hands: So he blessed him.
-|And he did not discern him because his hands were hairy, as his brother Esau's hands. So he blessed him.
+|And he did not discern him because his hands were hairy, like his brother Esau's hands. So he blessed him.
 
 |**27:24**
 |And he said, Art thou my very son Esau? And he said, I am.
@@ -3115,7 +3115,7 @@
 
 |**27:27**
 |And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:
-|And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is as the smell of a field which the LORD has blessed.
+|And he came near and kissed him. And he smelled the smell of his clothing and blessed him and said, "Behold, the smell of my son is like the smell of a field which the LORD has blessed.
 
 |**27:28**
 |Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
@@ -3125,13 +3125,17 @@
 |Let people serve thee, and nations bow down to thee; be lord over thy brethren, and let thy mother's sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee.
 |Let people serve you and nations bow down to you. Be lord over your brothers, and let your mother's sons bow down to you. Cursed is everyone who curses you, and blessed is he who blesses you."
 
+|**27:30**
+|And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob had yet scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+|And it came to pass as soon as Isaac had made an end of blessing Jacob, and Jacob had scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
+
 |**27:31**
 |And he also had made savory meat, and brought it to his father; and said to his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.
 |And he also had made savory food and brought it to his father, and said to his father, "Let my father arise and eat some of his son's wild game so that your soul may bless me."
 
 |**27:32**
 |And Isaac his father said to him, Who art thou? And he said, I am thy son, thy first-born Esau.
-|And Isaac his father said to him, "Who are you?" And he said, "I am your son, your first-born Esau."
+|And Isaac his father said to him, "Who are you?" And he said, "I am your son, your first-born, Esau."
 
 |**27:33**
 |And Isaac trembled exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed.
@@ -3163,7 +3167,7 @@
 
 |**27:40**
 |And by thy sword shalt thou live, and shalt serve thy brother: and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
-|And by your sword you shall live, and you shall serve your brother. And it shall come to pass, when you have the dominion, that you shall break his yoke from off your neck."
+|And by your sword you shall live, and you shall serve your brother. And it shall come to pass when you have the dominion, that you shall break his yoke from off your neck."
 
 |**27:41**
 |And Esau hated Jacob, because of the blessing with which his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
@@ -3253,7 +3257,7 @@
 
 |**28:14**
 |And thy seed shall be as the dust of the earth; and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
-|And your offspring shall be as the dust of the earth, and you shall spread abroad to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
+|And your offspring shall be like the dust of the earth, and you shall spread abroad to the west, to the east, to the north, and to the south. And in you and in your offspring all the families of the earth shall be blessed.
 
 |**28:15**
 |And behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land: for I will not leave thee, until I have done that which I have declared to thee.
@@ -3335,7 +3339,7 @@
 
 |**29:10**
 |And it came to pass, when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother; that Jacob went near, and rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.
-|And it came to pass, when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
+|And it came to pass when Jacob saw Rachel, the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near and rolled the stone from the well's mouth and watered the flock of Laban his mother's brother.
 
 |**29:11**
 |And Jacob kissed Rachel, and lifted up his voice, and wept.
@@ -3351,7 +3355,7 @@
 
 |**29:14**
 |And Laban said to him, Surely thou art my bone and my flesh: and he abode with him the space of a month.
-|And Laban said to him, "Surely you are my bone and my flesh." And he stayed with him the space of a month.
+|And Laban said to him, "Surely you are my bone and my flesh." And he stayed with him for a month.
 
 |**29:15**
 |And Laban said to Jacob, Because thou art my brother, shouldest thou therefore serve me for naught? tell me, what shall thy wages be?
@@ -3371,7 +3375,7 @@
 
 |**29:20**
 |And Jacob served seven years for Rachel; and they seemed to him but a few days, for the love he had to her.
-|And Jacob served seven years for Rachel, and they seemed to him but a few days because of the love he had for her.
+|And Jacob served seven years for Rachel, and they seemed to him only a few days because of the love he had for her.
 
 |**29:21**
 |And Jacob said to Laban, Give me my wife (for my days are fulfilled) that I may go in to her.
@@ -3399,7 +3403,7 @@
 
 |**29:27**
 |Fulfill her week, and we will give thee this also, for the service which thou shalt serve with me yet seven other years.
-|Fulfill her week, and we will give you the other also, for the service which you shall serve with me yet seven other years."
+|Fulfill her week, and we will give you the other also for the service which you shall serve with me for seven more years."
 
 |**29:28**
 |And Jacob did so, and fulfilled her week: and he gave him Rachel, his daughter, for a wife also.
@@ -3411,7 +3415,7 @@
 
 |**29:30**
 |And he went in also to Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.
-|And he went in also to Rachel, and he also loved Rachel more than Leah, and served with him yet seven other years.
+|And he went in also to Rachel, and he also loved Rachel more than Leah, and served with him for seven more years.
 
 |**29:31**
 |And when the LORD saw that Leah was hated, he made her fruitful: but Rachel was barren.
@@ -3509,7 +3513,7 @@
 
 |**30:17**
 |And God hearkened to Leah, and she conceived, and bore Jacob the fifth son.
-|And God listened to Leah, and she conceived and bore Jacob the fifth son.
+|And God listened to Leah, and she conceived and bore Jacob a fifth son.
 
 |**30:18**
 |And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
@@ -3517,7 +3521,7 @@
 
 |**30:19**
 |And Leah conceived again, and bore Jacob the sixth son.
-|And Leah conceived again and bore Jacob the sixth son.
+|And Leah conceived again and bore Jacob a sixth son.
 
 |**30:20**
 |And Leah said, God hath endowed me with a good dower; now will my husband dwell with me, because I have borne him six sons: and she called his name Zebulun.
@@ -3525,7 +3529,7 @@
 
 |**30:21**
 |And afterwards she bore a daughter, and called her name Dinah.
-|And afterward she bore a daughter and called her name Dinah.
+|And afterward, she bore a daughter and called her name Dinah.
 
 |**30:22**
 |And God remembered Rachel, and God hearkened to her, and rendered her fruitful.
@@ -3541,7 +3545,7 @@
 
 |**30:25**
 |And it came to pass, when Rachel had borne Joseph, that Jacob said to Laban, Send me away, that I may go to my own place, and to my country.
-|And it came to pass, when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
+|And it came to pass when Rachel had borne Joseph, that Jacob said to Laban, "Send me away so that I may go to my own place and to my country.
 
 |**30:26**
 |Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
@@ -3589,7 +3593,7 @@
 
 |**30:37**
 |And Jacob took to him rods of green poplar, and of the hazel and chesnut-tree; and peeled white streaks in them, and made the white appear which was in the rods.
-|And Jacob took for himself rods of green poplar and of the hazel and plane-tree, and peeled white streaks in them, and made the white appear which was in the rods.
+|And Jacob took for himself rods of green poplar, hazel, and plane-tree, and peeled white streaks in them and made the white appear which was in the rods.
 
 |**30:38**
 |And he set the rods, which he had peeled, before the flocks in the gutters in the watering-troughs, when the flocks came to drink, that they should conceive when they came to drink.
