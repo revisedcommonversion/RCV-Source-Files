@@ -3767,11 +3767,11 @@
 
 |**31:14**
 |And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father's house?
-|And Rachel and Leah answered and said to him, "Is there yet any portion or inheritance for us in our father's house?
+|And Rachel and Leah answered and said to him, "Is there still any portion or inheritance for us in our father's house?
 
 |**31:15**
 |Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
-|Are we not counted by him strangers? For he has sold us and has also quite consumed our money.
+|Are we not regarded by him as strangers? For he has sold us and has also quite consumed our money.
 
 |**31:16**
 |For all the riches which God hath taken from our father, that is ours, and our children's: now then, whatsoever God hath said unto thee, do.
@@ -3819,11 +3819,11 @@
 
 |**31:27**
 |Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?
-|Why did you flee away secretly, and steal away from me and not tell me so that I might have sent you away with mirth, with songs, with tambourine, and with harp,
+|Why did you flee away secretly and steal away from me and not tell me? I would have sent you away with mirth, with songs, with tambourine, and with harp.
 
 |**31:28**
 |And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.
-|And have not allowed me to kiss my sons and my daughters? You have now done foolishly in so doing.
+|You have not allowed me to kiss my sons and my daughters. You have now done foolishly in so doing.
 
 |**31:29**
 |It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
@@ -3867,7 +3867,7 @@
 
 |**31:39**
 |That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night.
-|That which was torn by beasts, I did not bring to you. I bore the loss of it. From my hand you required it, whether stolen by day, or stolen by night.
+|That which was torn by beasts, I did not bring to you. I bore the loss of it. From my hand you required it, whether stolen by day or stolen by night.
 
 |**31:40**
 |Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
@@ -3985,7 +3985,7 @@
 
 |**32:12**
 |And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
-|And you said, 'I will surely do you good and make your offspring as the sand of the sea which cannot be numbered for multitude.'"
+|And you said, 'I will surely do you good and make your offspring like the sand of the sea which cannot be numbered for multitude.'"
 
 |**32:13**
 |And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
@@ -4017,7 +4017,7 @@
 
 |**32:20**
 |And say ye moreover, Behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
-|And say moreover, 'Behold, your servant Jacob is behind us.'" For he said, "I will appease him with the present that goes before me, and afterward I will see his face. Perhaps he will accept me."
+|And say moreover, 'Behold, your servant Jacob is behind us.'" For he said, "I will appease him with the present that goes before me, and afterward, I will see his face. Perhaps he will accept me."
 
 |**32:21**
 |So went the present over before him: and himself lodged that night in the company.
@@ -4359,7 +4359,7 @@
 
 |**35:16**
 |And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
-|And they journeyed from Beth-el. And there was but a little way to come to Ephrath, and Rachel travailed and had hard labor.
+|And they journeyed from Beth-el. And there was only a little distance to come to Ephrath, and Rachel travailed and had hard labor.
 
 |**35:17**
 |And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
@@ -4367,7 +4367,7 @@
 
 |**35:18**
 |And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin.
-|And it came to pass as her soul was departing (for she died) that she called his name Ben-oni, but his father called him Benjamin.
+|And it came to pass as her soul was departing (for she died), that she called his name Ben-oni, but his father called him Benjamin.
 
 |**35:19**
 |And Rachel died, and was buried in the way to Ephrath, which is Bethlehem.
@@ -4383,7 +4383,7 @@
 
 |**35:22**
 |And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine: and Israel heard it. Now the sons of Jacob were twelve:
-|And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine. And Israel heard it. Now the sons of Jacob were twelve.
+|And it came to pass when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine. And Israel heard it. Now the sons of Jacob were twelve.
 
 |**35:23**
 |The sons of Leah; Reuben, Jacob's firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun:
@@ -4425,7 +4425,7 @@
 
 |**36:2**
 |Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
-|Esau took his wives from the daughters of Canaan: Adah the daughter of Elon the Hittite, Aholibamah the daughter of Anah the daughter of Zibeon the Hivite,
+|Esau took his wives from the daughters of Canaan: Adah the daughter of Elon the Hittite; Aholibamah the daughter of Anah, the daughter of Zibeon the Hivite;
 
 |**36:3**
 |And Bashemath Ishmael's daughter, sister of Nebajoth.
@@ -4603,7 +4603,7 @@
 
 |**37:5**
 |And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.
-|And Joseph dreamed a dream and he told it to his brothers, and they hated him yet the more.
+|And Joseph dreamed a dream and he told it to his brothers, and they hated him even more.
 
 |**37:6**
 |And he said unto them, Hear, I pray you, this dream which I have dreamed:
@@ -4615,7 +4615,7 @@
 
 |**37:8**
 |And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
-|And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him yet the more for his dreams and for his words.
+|And his brothers said to him, "Shall you indeed reign over us? Or shall you indeed have dominion over us?" And they hated him even more for his dreams and for his words.
 
 |**37:9**
 |And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
@@ -4727,7 +4727,7 @@
 
 |**37:36**
 |And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
-|And the Midianites sold him into Egypt to Potiphar, an officer of Pharaoh and captain of the guard.
+|And the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.
 
 |===
 
@@ -4769,11 +4769,11 @@
 
 |**38:8**
 |And Judah said unto Onan, Go in unto thy brother's wife, and marry her, and raise up seed to thy brother.
-|And Judah said to Onan, "Go in to your brother's wife and marry her, and raise up a child for your brother."
+|And Judah said to Onan, "Go in to your brother's wife and marry her and raise up a child for your brother."
 
 |**38:9**
 |And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother's wife, that he spilled it on the ground, lest that he should give seed to his brother.
-|And Onan knew that the child would not be his. And it came to pass, when he went in to his brother's wife, that he frustrated the purpose, lest he should give a child to his brother.
+|And Onan knew that the child would not be his. And it came to pass when he went in to his brother's wife, that he frustrated the purpose, lest he should give a child to his brother.
 
 |**38:10**
 |And the thing which he did displeased the LORD: wherefore he slew him also.
@@ -4857,7 +4857,7 @@
 
 |**38:30**
 |And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
-|And afterward his brother came out who had the scarlet thread upon his hand, and his name was called Zarah.
+|And afterward, his brother came out who had the scarlet thread upon his hand, and his name was called Zarah.
 
 |===
 
@@ -4907,11 +4907,11 @@
 
 |**39:10**
 |And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
-|And it came to pass, as she spoke to Joseph day by day, that he did not listen to her, to lie by her, or to be with her.
+|And it came to pass as she spoke to Joseph day by day, that he did not listen to her, to lie by her or to be with her.
 
 |**39:11**
 |And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
-|And it came to pass, about this time, that Joseph went into the house to do his work, and there were none of the men of the house there within.
+|And it came to pass about this time, that Joseph went into the house to do his work, and there were none of the men of the house there within.
 
 |**39:12**
 |And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
@@ -4919,7 +4919,7 @@
 
 |**39:13**
 |And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
-|And it came to pass, when she saw that he had left his garment in her hand and had fled forth,
+|And it came to pass when she saw that he had left his garment in her hand and had fled forth,
 
 |**39:14**
 |That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
@@ -4927,7 +4927,7 @@
 
 |**39:15**
 |And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
-|And it came to pass, when he heard that I raised my voice and cried, that he left his garment with me and fled and went out."
+|And it came to pass when he heard that I raised my voice and cried, that he left his garment with me and fled and went out."
 
 |**39:16**
 |And she laid up his garment by her, until his lord came home.
@@ -4939,11 +4939,11 @@
 
 |**39:18**
 |And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.
-|And it came to pass, as I raised my voice and cried, that he left his garment with me and fled."
+|And it came to pass as I raised my voice and cried, that he left his garment with me and fled."
 
 |**39:19**
 |And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.
-|And it came to pass, when his master heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
+|And it came to pass when his master heard the words of his wife which she spoke to him, saying, "After this manner your servant did to me," that his wrath was kindled.
 
 |**39:20**
 |And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison.
@@ -5079,7 +5079,7 @@
 
 |**41:3**
 |And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
-|And behold, seven other cows came up after them out of the river, ill-favored and lean-fleshed, and stood by the other cows upon the brink of the river.
+|And behold, seven other cows came up after them out of the river, ill-favored and lean-fleshed, and stood by the other cows upon the bank of the river.
 
 |**41:4**
 |And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
@@ -5099,7 +5099,7 @@
 
 |**41:8**
 |And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.
-|And it came to pass in the morning, that his spirit was troubled and he sent and called for all the magicians of Egypt and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could interpret them to Pharaoh.
+|And it came to pass in the morning, that his spirit was troubled, and he sent and called for all the magicians of Egypt and all the wise men thereof. And Pharaoh told them his dream, but there was no one who could interpret them to Pharaoh.
 
 |**41:9**
 |Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:
@@ -5175,7 +5175,7 @@
 
 |**41:27**
 |And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
-|And the seven thin and ill-favored cows that came up after them are seven years and the seven empty heads blasted with the east wind will be seven years of famine.
+|And the seven thin and ill-favored cows that came up after them are seven years, and the seven empty heads blasted with the east wind will be seven years of famine.
 
 |**41:28**
 |This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh.
@@ -5200,6 +5200,10 @@
 |**41:33**
 |Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
 |Now therefore, let Pharaoh look for a man discreet and wise and set him over the land of Egypt.
+
+|**41:34**
+|Let Pharaoh do this, and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
+|Let Pharaoh do this: let him appoint officers over the land to take up the fifth part of the land of Egypt in the seven plenteous years.
 
 |**41:35**
 |And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
@@ -5231,7 +5235,7 @@
 
 |**41:42**
 |And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
-|And Pharaoh took off his ring from his hand and put it upon Joseph's hand, and arrayed him in vestures of fine linen and put a gold chain around his neck.
+|And Pharaoh took off his ring from his hand and put it upon Joseph's hand, arrayed him in vestures of fine linen, and put a gold chain around his neck.
 
 |**41:43**
 |And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt.
@@ -5255,7 +5259,7 @@
 
 |**41:49**
 |And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
-|And Joseph gathered grain as the sand of the sea, very much, until he ceased numbering, for it was without number.
+|And Joseph gathered grain in great abundance, like the sand of the sea, until he ceased numbering, for it was without number.
 
 |**41:50**
 |And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.
@@ -5333,7 +5337,7 @@
 
 |**42:9**
 |And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come.
-|And Joseph remembered the dreams which he dreamed of them and said to them, "You are spies. You have come to see the nakedness of the land."
+|And Joseph remembered the dreams which he dreamed about them and said to them, "You are spies. You have come to see the nakedness of the land."
 
 |**42:10**
 |And they said unto him, Nay, my lord, but to buy food are thy servants come.
@@ -5365,7 +5369,7 @@
 
 |**42:17**
 |And he put them all together into ward three days.
-|And he put them all together into custody three days.
+|And he put them all together into custody for three days.
 
 |**42:18**
 |And Joseph said unto them the third day, This do, and live; for I fear God:
@@ -5389,7 +5393,7 @@
 
 |**42:23**
 |And they knew not that Joseph understood them; for he spake unto them by an interpreter.
-|And they did not know that Joseph understood them because he spoke to them by an interpreter.
+|And they did not know that Joseph understood them because he spoke to them through an interpreter.
 
 |**42:24**
 |And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.
@@ -5409,7 +5413,7 @@
 
 |**42:28**
 |And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?
-|And he said to his brothers, "My money is restored, and see it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
+|And he said to his brothers, "My money is restored, and behold, it is even in my sack." And their hearts failed them and they were afraid, saying to one another, "What is this that God has done to us?"
 
 |**42:29**
 |And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,
@@ -5445,7 +5449,7 @@
 
 |**42:37**
 |And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.
-|And Reuben spoke to his father, saying, "Slay my two sons if I do not bring him to you. Deliver him into my hand, and I will bring him to you again."
+|And Reuben spoke to his father, saying, "Slay my two sons if I do not bring him to you. Deliver him into my hand, and I will bring him back to you."
 
 |**42:38**
 |And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.
@@ -5681,7 +5685,7 @@
 
 |**44:19**
 |My lord asked his servants, saying, Have ye a father, or a brother?
-|My lord asked his servants, saying, 'Do you have a father, or a brother?'
+|My lord asked his servants, saying, 'Do you have a father or a brother?'
 
 |**44:20**
 |And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.
@@ -5701,7 +5705,7 @@
 
 |**44:24**
 |And it came to pass when we came up unto thy servant my father, we told him the words of my lord.
-|And it came to pass, when we came to your servant, my father, we told him the words of my lord.
+|And it came to pass when we came to your servant, my father, that we told him the words of my lord.
 
 |**44:25**
 |And our father said, Go again, and buy us a little food.
@@ -5729,7 +5733,7 @@
 
 |**44:31**
 |It shall come to pass, when he seeth that the lad is not with us, that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.
-|It shall come to pass, when he sees that the boy is not with us, that he will die, and your servants will bring down the gray hairs of your servant our father with sorrow to the grave.
+|It shall come to pass when he sees that the boy is not with us, that he will die, and your servants will bring down the gray hairs of your servant our father with sorrow to the grave.
 
 |**44:32**
 |For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.
@@ -5737,7 +5741,7 @@
 
 |**44:33**
 |Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
-|Now therefore, I pray you, let your servant abide instead of the boy, as a slave to my lord, and let the boy return with his brothers.
+|Now therefore, I pray you, let your servant abide as a slave to my lord instead of the boy, and let the boy return with his brothers.
 
 |**44:34**
 |For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.
@@ -5771,7 +5775,7 @@
 
 |**45:5**
 |Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
-|Now therefore, do not be grieved, nor angry with yourselves that you sold me here because God sent me before you to preserve life.
+|Now therefore, do not be grieved nor angry with yourselves that you sold me here, because God sent me before you to preserve life.
 
 |**45:6**
 |For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
@@ -5803,7 +5807,7 @@
 
 |**45:13**
 |And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
-|And you shall tell my father of all my glory in Egypt and of all that you have seen. And you shall hasten and bring down my father here."
+|And you shall tell my father about all my glory in Egypt and about all that you have seen. And you shall hasten and bring down my father here."
 
 |**45:14**
 |And he fell upon his brother Benjamin's neck, and wept; and Benjamin wept upon his neck.
@@ -5811,7 +5815,7 @@
 
 |**45:15**
 |Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
-|Moreover, he kissed all his brothers and wept upon them. And afterward his brothers talked with him.
+|Moreover, he kissed all his brothers and wept upon them. And afterward, his brothers talked with him.
 
 |**45:16**
 |And the fame thereof was heard in Pharaoh's house, saying, Joseph's brethren are come: and it pleased Pharaoh well, and his servants.
@@ -5831,7 +5835,7 @@
 
 |**45:20**
 |Also regard not your stuff; for the good of all the land of Egypt is yours.
-|Also do not regard your belongings, for the good of all the land of Egypt is yours.'"
+|Also, do not regard your belongings, for the good of all the land of Egypt is yours.'"
 
 |**45:21**
 |And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
@@ -6005,7 +6009,7 @@
 
 |**46:33**
 |And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
-|And it shall come to pass, when Pharaoh calls you and says, 'What is your occupation?'
+|And it shall come to pass when Pharaoh calls you and says, 'What is your occupation?'
 
 |**46:34**
 |That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
@@ -6131,7 +6135,7 @@
 
 |**47:28**
 |And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
-|And Jacob lived in the land of Egypt seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
+|And Jacob lived in the land of Egypt for seventeen years. So the whole age of Jacob was one hundred and forty-seven years.
 
 |**47:29**
 |And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
@@ -6181,7 +6185,7 @@
 
 |**48:7**
 |And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Bethlehem.
-|And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way, when yet there was but a little way to come to Ephrath, and I buried her there on the way of Ephrath (the same is Beth-lehem)."
+|And as for me, when I came from Padan, Rachel died beside me in the land of Canaan, on the way when there was only a little distance to come to Ephrath, and I buried her there on the way of Ephrath (the same is Beth-lehem)."
 
 |**48:8**
 |And Israel beheld Joseph's sons, and said, Who are these?
@@ -6189,7 +6193,7 @@
 
 |**48:9**
 |And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them.
-|And Joseph said to his father, "They are my sons, whom God has given me in this place." And he said, "Bring them, I pray you, to me and I will bless them."
+|And Joseph said to his father, "They are my sons, whom God has given to me in this place." And he said, "Bring them, I pray you, to me and I will bless them."
 
 |**48:10**
 |Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them.
@@ -6283,11 +6287,11 @@
 
 |**49:9**
 |Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
-|Judah is a lion's whelp. From the prey, my son, you have gone up. He stooped down. He couched as a lion and as an old lion. Who shall rouse him up?
+|Judah is a lion's whelp. From the prey, my son, you have gone up. He stooped down. He couched like a lion and like an old lion. Who shall rouse him up?
 
 |**49:10**
 |The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
-|The scepter shall not depart from Judah, nor a lawgiver from between his feet until Shiloh comes. And to him shall be the gathering of the people.
+|The scepter shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh comes. And to him shall be the gathering of the people.
 
 |**49:11**
 |Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
@@ -6315,7 +6319,7 @@
 
 |**49:17**
 |Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.
-|Dan shall be a serpent by the way, an adder in the path, that bites the horse-heels so that his rider shall fall backward.
+|Dan shall be a serpent by the way, an adder in the path that bites the horse-heels so that his rider shall fall backward.
 
 |**49:18**
 |I have waited for thy salvation, O LORD.
@@ -6339,7 +6343,7 @@
 
 |**49:23**
 |The archers have sorely grieved him, and shot at him, and hated him:
-|The archers have sorely grieved him, and shot at him and hated him,
+|The archers have sorely grieved him, shot at him, and hated him,
 
 |**49:24**
 |But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
@@ -6355,7 +6359,7 @@
 
 |**49:27**
 |Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
-|"Benjamin is a ravenous wolf. In the morning he shall devour the prey and at night he shall divide the plunder."
+|"Benjamin is a ravenous wolf. In the morning he shall devour the prey, and at night he shall divide the plunder."
 
 |**49:28**
 |All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
