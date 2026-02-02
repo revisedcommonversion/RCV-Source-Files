@@ -31,7 +31,7 @@
 
 |**1:6**
 |And Joseph died, and all his brethren, and all that generation.
-|And Joseph died, and all his brothers, and all that generation.
+|And Joseph, all his brothers, and all that generation died.
 
 |**1:7**
 |And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
@@ -79,7 +79,7 @@
 
 |**1:19**
 |And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.
-|And the midwives said to Pharaoh, "Because the Hebrew women are not as the Egyptian women. For they are lively and deliver before the midwives come to them."
+|And the midwives said to Pharaoh, "Because the Hebrew women are not like the Egyptian women. For they are lively and deliver before the midwives come to them."
 
 |**1:20**
 |Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
@@ -105,7 +105,7 @@
 
 |**2:2**
 |And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.
-|And the woman conceived and bore a son. And when she saw him that he was a handsome child, she hid him three months.
+|And the woman conceived and bore a son. And when she saw him that he was a handsome child, she hid him for three months.
 
 |**2:3**
 |And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river's brink.
@@ -125,7 +125,7 @@
 
 |**2:7**
 |Then said his sister to Pharaoh's daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
-|Then his sister said to Pharaoh's daughter, "Shall I go and call for you a nurse of the Hebrew women so that she may nurse the child for you?"
+|Then his sister said to Pharaoh's daughter, "Shall I go and call for you a nurse from the Hebrew women so that she may nurse the child for you?"
 
 |**2:8**
 |And Pharaoh's daughter said to her, Go. And the maid went and called the child's mother.
@@ -149,7 +149,7 @@
 
 |**2:13**
 |And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
-|And when he went out the second day, behold, two men of the Hebrews strove together. And he said to him who did the wrong, "Why do you smite your fellow?"
+|And when he went out the second day, behold, two Hebrew men strove together. And he said to him who did the wrong, "Why do you smite your fellow?"
 
 |**2:14**
 |And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
@@ -189,7 +189,7 @@
 
 |**2:23**
 |And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
-|And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their cry ascended to God, by reason of the bondage.
+|And it came to pass in process of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage and they cried. And their cry because of the bondage ascended to God.
 
 |**2:25**
 |And God looked upon the children of Israel, and God had respect unto them.
@@ -283,7 +283,7 @@
 
 |**3:20**
 |And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.
-|And I will stretch out my hand and smite Egypt with all my wonders which I will do in the midst thereof. And after that he will let you go.
+|And I will stretch out my hand and smite Egypt with all my wonders which I will do in the midst thereof. And after that, he will let you go.
 
 |**3:21**
 |And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:
@@ -305,7 +305,7 @@
 
 |**4:1**
 |And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.
-|And Moses answered and said, "But behold, they will not believe me, nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
+|And Moses answered and said, "But behold, they will not believe me nor listen to my voice, for they will say, 'The LORD has not appeared to you.'"
 
 |**4:2**
 |And the LORD said unto him, What is that in thine hand? And he said, A rod.
@@ -341,7 +341,7 @@
 
 |**4:10**
 |And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.
-|And Moses said to the LORD, "O my Lord, I am not eloquent, neither before, nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
+|And Moses said to the LORD, "O my Lord, I am not eloquent, neither before nor since you have spoken to your servant, but I am slow of speech and of a slow tongue."
 
 |**4:11**
 |And the LORD said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?
@@ -377,7 +377,7 @@
 
 |**4:19**
 |And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.
-|And the LORD said to Moses in Midian, "Go, return into Egypt. For all the men are dead who sought your life."
+|And the LORD said to Moses in Midian, "Go, return to Egypt. For all the men are dead who sought your life."
 
 |**4:20**
 |And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.
@@ -439,7 +439,7 @@
 
 |**5:1**
 |And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
-|And afterward Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
+|And afterward, Moses and Aaron went in and told Pharaoh, "Thus says the LORD God of Israel: 'Let my people go so that they may hold a feast to me in the wilderness.'"
 
 |**5:2**
 |And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.
@@ -569,7 +569,7 @@
 
 |**6:9**
 |And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.
-|And Moses thus spoke to the children of Israel, but they did not listen to Moses by reason of anguish of spirit and cruel bondage.
+|And Moses told this to the children of Israel, but they did not listen to Moses by reason of anguish of spirit and cruel bondage.
 
 |**6:10**
 |And the LORD spake unto Moses, saying,
@@ -915,7 +915,7 @@
 
 |**9:2**
 |For if thou refuse to let them go, and wilt hold them still,
-|For if you refuse to let them go and will hold them still,
+|For if you refuse to let them go and continue to hold them,
 
 |**9:3**
 |Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.
@@ -975,7 +975,7 @@
 
 |**9:17**
 |As yet exaltest thou thyself against my people, that thou wilt not let them go?
-|Still you exalt yourself against my people so that you will not let them go.
+|Still you exalt yourself against my people and will not let them go.
 
 |**9:18**
 |Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.
@@ -1035,11 +1035,11 @@
 
 |**9:32**
 |But the wheat and the rie were not smitten: for they were not grown up.
-|But the wheat and the spelt were not smitten, for they were not grown up.
+|But the wheat and the spelt were not smitten, because they were late.
 
 |**9:33**
 |And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.
-|And Moses went out of the city from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased and the rain was not poured upon the earth.
+|And Moses went out of the city from Pharaoh and spread abroad his hands to the LORD, and the thunders and hail ceased, and the rain was not poured upon the earth.
 
 |**9:34**
 |And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
@@ -1081,7 +1081,7 @@
 
 |**10:6**
 |And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers' fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
-|And they shall fill your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers, nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from Pharaoh.
+|And they shall fill your houses, the houses of all your servants, and the houses of all the Egyptians, which neither your fathers nor your fathers' fathers have seen since the day that they were upon the earth to this day.'" And he turned himself and went out from Pharaoh.
 
 |**10:7**
 |And Pharaoh's servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?
@@ -1145,7 +1145,7 @@
 
 |**10:22**
 |And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:
-|And Moses stretched forth his hand toward heaven, and there was a thick darkness in all the land of Egypt three days.
+|And Moses stretched forth his hand toward heaven, and there was a thick darkness in all the land of Egypt for three days.
 
 |**10:23**
 |They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
@@ -1183,7 +1183,7 @@
 
 |**11:1**
 |And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.
-|And the LORD said to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
+|And the LORD said to Moses, "Yet I will bring one more plague upon Pharaoh and upon Egypt. Afterward, he will let you go from here. When he lets you go, he shall surely thrust you out from here altogether.
 
 |**11:2**
 |Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.
@@ -1211,7 +1211,7 @@
 
 |**11:8**
 |And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
-|And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that I will depart." And he went out from Pharaoh in a great anger.
+|And all these servants of yours shall come down to me and bow down themselves to me, saying, 'Depart—you and all the people who follow you.' And after that, I will depart." And he went out from Pharaoh in a great anger.
 
 |**11:9**
 |And the LORD said unto Moses, Pharaoh shall not hearken unto you; that my wonders may be multiplied in the land of Egypt.
@@ -1265,7 +1265,7 @@
 
 |**12:9**
 |Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof.
-|Do not eat any of it raw, nor boiled at all with water, but roasted with fire, its head with its legs and with its entrails.
+|Do not eat any of it raw or boiled at all with water, but roasted with fire, its head with its legs and with its entrails.
 
 |**12:10**
 |And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.
@@ -1305,7 +1305,7 @@
 
 |**12:19**
 |Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
-|Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he is a stranger, or born in the land.
+|Seven days there shall be no leaven found in your houses. For whoever eats that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he is a stranger or born in the land.
 
 |**12:20**
 |Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.
@@ -1321,7 +1321,7 @@
 
 |**12:23**
 |For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.
-|For the LORD will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will pass over the door and will not allow the destroyer to come in to your houses to smite you.
+|For the LORD will pass through to smite the Egyptians. And when he sees the blood upon the lintel and on the two side-posts, the LORD will pass over the door and will not allow the destroyer to come into your houses to smite you.
 
 |**12:24**
 |And ye shall observe this thing for an ordinance to thee and to thy sons for ever.
@@ -1329,11 +1329,11 @@
 
 |**12:25**
 |And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service.
-|And it shall come to pass, when you have come to the land which the LORD will give you, according as he has promised, that you shall keep this service.
+|And it shall come to pass when you have come to the land which the LORD will give you, according as he has promised, that you shall keep this service.
 
 |**12:26**
 |And it shall come to pass, when your children shall say unto you, What mean ye by this service?
-|And it shall come to pass, when your children say to you, 'What do you mean by this service?'
+|And it shall come to pass when your children say to you, 'What do you mean by this service?'
 
 |**12:27**
 |That ye shall say, It is the sacrifice of the LORD'S passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.
@@ -1349,7 +1349,7 @@
 
 |**12:30**
 |And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.
-|And Pharaoh rose in the night—he, all his servants, and all the Egyptians—and there was a great cry in Egypt, for there was not a house where there was not one dead.
+|And Pharaoh rose in the night—he, all his servants, and all the Egyptians—and there was a great cry in Egypt, for there was not a house where there was not someone dead.
 
 |**12:31**
 |And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.
@@ -1357,7 +1357,7 @@
 
 |**12:32**
 |Also take your flocks and your herds, as ye have said, and be gone; and bless me also.
-|Also take your flocks and your herds, as you have said, and be gone, and bless me also."
+|Also, take your flocks and your herds, as you have said, and be gone, and bless me also."
 
 |**12:33**
 |And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.
@@ -1381,7 +1381,7 @@
 
 |**12:38**
 |And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.
-|And a mixed multitude went up also with them, and also flocks and herds, even a very large number of livestock.
+|And a mixed multitude also went up with them, and also flocks and herds, even a very large number of livestock.
 
 |**12:39**
 |And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
@@ -1393,7 +1393,7 @@
 
 |**12:41**
 |And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.
-|And it came to pass, at the end of the four hundred and thirty years, even the same day it came to pass, that all the hosts of the LORD departed from the land of Egypt.
+|And it came to pass at the end of the four hundred and thirty years, even the same day it came to pass, that all the hosts of the LORD departed from the land of Egypt.
 
 |**12:42**
 |It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations.
@@ -1499,7 +1499,7 @@
 
 |**13:15**
 |And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.
-|And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
+|And it came to pass when Pharaoh would hardly let us go, that the LORD slew all the first-born in the land of Egypt, both the first-born of man and the first-born of beasts. Therefore, I sacrifice to the LORD all that opens the womb, being males, but all the first-born of my children I redeem.'
 
 |**13:16**
 |And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.
@@ -1507,7 +1507,7 @@
 
 |**13:17**
 |And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
-|And it came to pass, when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
+|And it came to pass when Pharaoh had let the people go, that God did not lead them through the way of the land of the Philistines, although that was near, for God said, "Lest perhaps the people repent when they see war and they return to Egypt."
 
 |**13:18**
 |But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
@@ -1527,7 +1527,7 @@
 
 |**13:22**
 |He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.
-|He did not take away the pillar of the cloud by day, nor the pillar of fire by night from before the people.
+|He did not take away the pillar of the cloud by day nor the pillar of fire by night from before the people.
 
 |===
 
@@ -1549,7 +1549,7 @@
 
 |**14:3**
 |For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness hath shut them in.
-|For Pharaoh will say of the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
+|For Pharaoh will say about the children of Israel, 'They wander aimlessly in the land. The wilderness has shut them in.'
 
 |**14:4**
 |And I will harden Pharaoh's heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I am the LORD. And they did so.
@@ -1605,7 +1605,7 @@
 
 |**14:17**
 |And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen.
-|And I, behold I, will harden the hearts of the Egyptians, and they shall follow them, and I will get myself honor upon Pharaoh and upon all his host, upon his chariots and upon his horsemen.
+|And I, behold, I will harden the hearts of the Egyptians, and they shall follow them, and I will get myself honor upon Pharaoh and upon all his host, upon his chariots and upon his horsemen.
 
 |**14:18**
 |And the Egyptians shall know that I am the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
@@ -1691,7 +1691,7 @@
 
 |**15:5**
 |The depths have covered them: they sank into the bottom as a stone.
-|The depths have covered them. They sunk to the bottom as a stone.
+|The depths have covered them. They sunk to the bottom like a stone.
 
 |**15:6**
 |Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy.
@@ -1699,11 +1699,11 @@
 
 |**15:7**
 |And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.
-|And in the greatness of your excellence you have overthrown those who rose up against you. You sent forth your wrath, which consumed them as stubble.
+|And in the greatness of your excellence you have overthrown those who rose up against you. You sent forth your wrath, which consumed them like stubble.
 
 |**15:8**
 |And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.
-|And with the blast of your nostrils the waters were collected, the floods stood upright as a heap, and the depths were congealed in the heart of the sea.
+|And with the blast of your nostrils the waters were collected, the floods stood upright like a heap, and the depths were congealed in the heart of the sea.
 
 |**15:9**
 |The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
@@ -1711,7 +1711,7 @@
 
 |**15:10**
 |Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.
-|You blew with your wind, the sea covered them. They sunk as lead in the mighty waters.
+|You blew with your wind, the sea covered them. They sunk like lead in the mighty waters.
 
 |**15:11**
 |Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?
