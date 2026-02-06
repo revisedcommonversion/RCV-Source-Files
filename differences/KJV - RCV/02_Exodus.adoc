@@ -3049,7 +3049,7 @@
 
 |**26:6**
 |And thou shalt make fifty taches of gold, and couple the curtains together with the taches: and it shall be one tabernacle.
-|And you shall make fifty buttons of gold, and couple the curtains together with the buttons. And it shall be one tabernacle.
+|And you shall make fifty buttons of gold and couple the curtains together with the buttons. And it shall be one tabernacle.
 
 |**26:7**
 |And thou shalt make curtains of goats' hair to be a covering upon the tabernacle: eleven curtains shalt thou make.
@@ -3089,11 +3089,11 @@
 
 |**26:16**
 |Ten cubits shall be the length of a board, and a cubit and a half shall be the breadth of one board.
-|Ten cubits shall be the length of a board and a cubit and a half shall be the breadth of one board.
+|Ten cubits shall be the length of a board and a cubit and a half shall be the breadth of each board.
 
 |**26:17**
 |Two tenons shall there be in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.
-|There shall be two tenons in one board, set in order one against another. You shall do likewise for all the boards of the tabernacle.
+|There shall be two tenons in each board, set in order one against another. You shall do likewise for all the boards of the tabernacle.
 
 |**26:18**
 |And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.
@@ -3393,7 +3393,7 @@
 
 |**28:32**
 |And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.
-|And there shall be a hole in its top in the midst of it. It shall have a binding of woven work around its hole, as the hole of a habergeon, so that it is not rent.
+|And there shall be a hole in its top in the midst of it. It shall have a binding of woven work around its hole, like the hole of a habergeon, so that it is not rent.
 
 |**28:33**
 |And beneath upon the hem of it thou shalt make pomegranates of blue, and of purple, and of scarlet, round about the hem thereof; and bells of gold between them round about:
@@ -3425,7 +3425,7 @@
 
 |**28:40**
 |And for Aaron's sons thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beauty.
-|"And for Aaron's sons you shall make coats, and you shall make for them girdles and you shall make for them caps for glory and for beauty.
+|"And for Aaron's sons you shall make coats, you shall make for them girdles, and you shall make for them caps, for glory and for beauty.
 
 |**28:41**
 |And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest's office.
@@ -3567,7 +3567,7 @@
 
 |**29:30**
 |And that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy place.
-|And that son, who is priest in his stead, shall put them on seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
+|And that son, who is priest in his stead, shall put them on for seven days when he comes into the Tabernacle of the Congregation to minister in the holy place.
 
 |**29:31**
 |And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.
@@ -3579,11 +3579,11 @@
 
 |**29:33**
 |And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy.
-|And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a stranger shall not eat of them because they are holy.
+|And they shall eat those things with which the atonement was made to consecrate and to sanctify them, but a stranger shall not eat them because they are holy.
 
 |**29:34**
 |And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it is holy.
-|And if anything of the flesh of the consecration, or of the bread, remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
+|And if anything of the flesh of the consecration or of the bread remains until the morning, then you shall burn the remainder with fire. It shall not be eaten because it is holy.
 
 |**29:35**
 |And thus shalt thou do unto Aaron, and to his sons, according to all things which I have commanded thee: seven days shalt thou consecrate them.
@@ -3603,11 +3603,11 @@
 
 |**29:39**
 |The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:
-|One lamb you shall offer in the morning and the other lamb you shall offer at evening.
+|One lamb you shall offer in the morning, and the other lamb you shall offer at evening.
 
 |**29:40**
 |And with the one lamb a tenth deal of flour mingled with the fourth part of an hin of beaten oil; and the fourth part of an hin of wine for a drink offering.
-|And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil and the fourth part of a hin of wine for a drink-offering.
+|And with one lamb [you shall offer] a tenth-portion of flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.
 
 |**29:41**
 |And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.
@@ -3717,7 +3717,7 @@
 
 |**30:20**
 |When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:
-|When they go into the Tabernacle of the Congregation, they shall wash with water so that they do not die, or when they come near to the altar to minister, to burn an offering made by fire to the LORD.
+|When they go into the Tabernacle of the Congregation or when they come near to the altar to minister to burn an offering made by fire to the LORD, they shall wash with water so that they do not die.
 
 |**30:21**
 |So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.
@@ -3729,11 +3729,11 @@
 
 |**30:23**
 |Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,
-|"Take also for yourself principal spices: of pure myrrh five hundred shekels, of sweet cinnamon half as much, even two hundred and fifty shekels, of sweet calamus two hundred and fifty shekels,
+|"Take also for yourself principal spices: of pure myrrh five hundred shekels, of sweet cinnamon half as much (even two hundred and fifty shekels), of sweet calamus two hundred and fifty shekels,
 
 |**30:24**
 |And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:
-|Of cassia five hundred shekels, after the shekel of the sanctuary, and of olive-oil a hin.
+|Of cassia five hundred shekels (after the shekel of the sanctuary), and of olive-oil a hin.
 
 |**30:25**
 |And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.
@@ -3945,7 +3945,7 @@
 
 |**32:16**
 |And the tables were the work of God, and the writing was the writing of God, graven upon the tables.
-|And the tablets were the work of God and the writing was the writing of God, engraved upon the tablets.
+|And the tablets were the work of God, and the writing was the writing of God, engraved upon the tablets.
 
 |**32:17**
 |And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.
@@ -3981,7 +3981,7 @@
 
 |**32:25**
 |And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)
-|And when Moses saw that the people were naked (for Aaron had made them naked to their shame, among their enemies),
+|And when Moses saw that the people were naked (for Aaron had made them naked to their shame among their enemies),
 
 |**32:26**
 |Then Moses stood in the gate of the camp, and said, Who is on the LORD'S side? let him come unto me. And all the sons of Levi gathered themselves together unto him.
@@ -4053,9 +4053,13 @@
 |For the LORD had said unto Moses, Say unto the children of Israel, Ye are a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.
 |For the LORD had said to Moses, "Say to the children of Israel, 'You are a stiff-necked people. I will come up into the midst of you in a moment and consume you. And now, take off your ornaments from you so that I may know what to do to you.'"
 
+|**33:6**
+|And the children of Israel stripped themselves of their ornaments by the mount Horeb.
+|And the children of Israel stripped themselves of their ornaments by mount Horeb.
+
 |**33:7**
 |And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, that every one which sought the LORD went out unto the tabernacle of the congregation, which was without the camp.
-|And Moses took the tabernacle and pitched it outside the camp far from the camp and called it the Tabernacle of the Congregation. And it came to pass, that everyone who sought the LORD went out to the Tabernacle of the Congregation, which was outside the camp.
+|And Moses took the tabernacle and pitched it outside the camp, far from the camp, and called it the Tabernacle of the Congregation. And it came to pass, that everyone who sought the LORD went out to the Tabernacle of the Congregation, which was outside the camp.
 
 |**33:8**
 |And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle.
@@ -4115,11 +4119,11 @@
 
 |**33:22**
 |And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:
-|And it shall come to pass, while my glory passes by, that I will put you in a cleft of the rock and will cover you with my hand while I pass by.
+|And it shall come to pass while my glory passes by, that I will put you in a cleft of the rock and will cover you with my hand while I pass by.
 
 |**33:23**
 |And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
-|Then I will take away my hand and you shall see my back, but my face shall not be seen."
+|Then I will take away my hand, and you shall see my back, but my face shall not be seen."
 
 |===
 
@@ -4137,7 +4141,7 @@
 
 |**34:2**
 |And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.
-|And be ready in the morning and come up in the morning to mount Sinai and present yourself there to me on the top of the mountain.
+|Be ready in the morning, and come up in the morning to mount Sinai and present yourself there to me on the top of the mountain.
 
 |**34:3**
 |And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.
@@ -4217,7 +4221,7 @@
 
 |**34:22**
 |And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.
-|And you shall observe the feast of weeks, of the first-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
+|And you shall observe the feast of weeks with the first-fruits of wheat-harvest, and the feast of in-gathering at the year's end.
 
 |**34:23**
 |Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.
@@ -4241,7 +4245,7 @@
 
 |**34:28**
 |And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
-|And he was there with the LORD forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
+|And he was there with the LORD for forty days and forty nights. He neither ate bread nor drank water. And he wrote upon the tablets the words of the covenant, the Ten Commandments.
 
 |**34:29**
 |And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
@@ -4257,7 +4261,7 @@
 
 |**34:32**
 |And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.
-|And afterward all the children of Israel came near, and he gave them in commandment all that the LORD had spoken with him on mount Sinai.
+|And afterward, all the children of Israel came near, and he gave them in commandment all that the LORD had spoken with him on mount Sinai.
 
 |**34:33**
 |And till Moses had done speaking with them, he put a vail on his face.
@@ -4359,7 +4363,7 @@
 
 |**35:21**
 |And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD'S offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
-|And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the LORD'S offering to the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
+|And they came, each whose heart excited him, and each whom his spirit made willing, and they brought the LORD'S offering for the work of the Tabernacle of the Congregation, and for all his service and for the holy garments.
 
 |**35:22**
 |And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD.
@@ -4375,7 +4379,7 @@
 
 |**35:25**
 |And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.
-|And all the women who were wise-hearted spun with their hands and brought that which they had spun, both of blue, of purple, of scarlet, and of fine linen.
+|And all the women who were wise-hearted spun with their hands and brought that which they had spun: the blue, purple, scarlet, and fine linen.
 
 |**35:26**
 |And all the women whose heart stirred them up in wisdom spun goats' hair.
@@ -4415,7 +4419,7 @@
 
 |**35:35**
 |Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.
-|He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any work, and of those who devise skillful work."
+|He has filled them with wisdom of heart to work all manner of work of the engraver, of the skillful workmen, of the embroiderer in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any work and of those who devise skillful work."
 
 |===
 
@@ -4449,7 +4453,7 @@
 
 |**36:6**
 |And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
-|And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from bringing.
+|And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, "Let neither man nor woman make any more work for the offering of the sanctuary." So the people were restrained from bringing,
 
 |**36:7**
 |For the stuff they had was sufficient for all the work to make it, and too much.
@@ -4793,7 +4797,7 @@
 
 |**38:25**
 |And the silver of them that were numbered of the congregation was an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
-|And the silver of those who were numbered of the congregation was one hundred talents and one thousand seven hundred and seventy-five shekels, after the shekel of the sanctuary,
+|And the silver of those who were numbered of the congregation was one hundred talents and one thousand seven hundred and seventy-five shekels, after the shekel of the sanctuary—
 
 |**38:26**
 |A bekah for every man, that is, half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men.
@@ -4813,7 +4817,7 @@
 
 |**38:30**
 |And therewith he made the sockets to the door of the tabernacle of the congregation, and the brasen altar, and the brasen grate for it, and all the vessels of the altar,
-|And with this he made the sockets to the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the vessels of the altar,
+|And with this he made the sockets for the door of the Tabernacle of the Congregation, the brazen altar, the brazen grate for it, all the vessels of the altar,
 
 |**38:31**
 |And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about.
@@ -4847,7 +4851,7 @@
 
 |**39:5**
 |And the curious girdle of his ephod, that was upon it, was of the same, according to the work thereof; of gold, blue, and purple, and scarlet, and fine twined linen; as the LORD commanded Moses.
-|And the skillfully woven girdle of his ephod that was upon it, was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined linen, as the LORD commanded Moses.
+|And the skillfully woven girdle of his ephod that was upon it was of the same, according to the work thereof, of gold, blue, purple, scarlet, and fine twined linen, as the LORD commanded Moses.
 
 |**39:6**
 |And they wrought onyx stones inclosed in ouches of gold, graven, as signets are graven, with the names of the children of Israel.
@@ -4915,7 +4919,7 @@
 
 |**39:23**
 |And there was an hole in the midst of the robe, as the hole of an habergeon, with a band round about the hole, that it should not rend.
-|And there was a hole in the midst of the robe, as the hole of a habergeon, with a band around the hole so that it should not rend.
+|And there was a hole in the midst of the robe, like the hole of a habergeon, with a band around the hole so that it should not rend.
 
 |**39:24**
 |And they made upon the hems of the robe pomegranates of blue, and purple, and scarlet, and twined linen.
