@@ -2867,7 +2867,7 @@
 
 |**23:8**
 |But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day is an holy convocation: ye shall do no servile work therein.
-|But you shall offer an offering made by fire to the LORD seven days. On the seventh day is a holy convocation, you shall do no servile work on it.'"
+|But you shall offer an offering made by fire to the LORD for seven days. On the seventh day is a holy convocation, you shall do no servile work on it.'"
 
 |**23:9**
 |And the LORD spake unto Moses, saying,
@@ -2991,7 +2991,7 @@
 
 |**23:39**
 |Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.
-|'Also on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep a feast to the LORD seven days. On the first day there shall be a sabbath and on the eighth day there shall be a sabbath.
+|'Also, on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep a feast to the LORD for seven days. On the first day there shall be a sabbath, and on the eighth day there shall be a sabbath.
 
 |**23:40**
 |And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.
@@ -2999,11 +2999,11 @@
 
 |**23:41**
 |And ye shall keep it a feast unto the LORD seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.
-|And you shall keep it a feast to the LORD seven days in the year. It shall be a statute forever in your generations. You shall celebrate it in the seventh month.
+|And you shall keep it a feast to the LORD for seven days in the year. It shall be a statute forever in your generations. You shall celebrate it in the seventh month.
 
 |**23:42**
 |Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:
-|You shall dwell in booths seven days. All who are natives of Israel shall dwell in booths,
+|You shall dwell in booths for seven days. All who are natives of Israel shall dwell in booths,
 
 |**23:43**
 |That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God.
@@ -3135,7 +3135,7 @@
 
 |**25:4**
 |But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.
-|But in the seventh year there shall be a sabbath of rest for the land, a sabbath for the LORD. You shall neither sow your field, nor prune your vineyard.
+|But in the seventh year there shall be a sabbath of rest for the land, a sabbath for the LORD. You shall neither sow your field nor prune your vineyard.
 
 |**25:5**
 |That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.
@@ -3179,11 +3179,11 @@
 
 |**25:15**
 |According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee:
-|According to the number of years after the jubilee you shall buy from your neighbor and according to the number of years of the fruits he shall sell to you.
+|According to the number of years after the jubilee you shall buy from your neighbor, and according to the number of years of the fruits he shall sell to you.
 
 |**25:16**
 |According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.
-|According to the multitude of years you shall increase its price and according to the fewness of years you shall diminish its price, for according to the number of the years of the fruits he sells to you.
+|According to the multitude of years you shall increase its price, and according to the fewness of years you shall diminish its price, for he is selling to you according to the number of the years of the fruits.
 
 |**25:17**
 |Ye shall not therefore oppress one another; but thou shalt fear thy God: for I am the LORD your God.
@@ -3200,10 +3200,6 @@
 |**25:20**
 |And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
 |And if you say, "What shall we eat the seventh year? Behold, we shall not sow nor gather in our increase,"
-
-|**25:21**
-|Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
-|Then I will command my blessing upon you in the sixth year and it shall bring forth fruit for three years.
 
 |**25:22**
 |And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store.
@@ -3231,7 +3227,7 @@
 
 |**25:28**
 |But if he be not able to restore it to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession.
-|But if he is not able to restore it to him, then that which is sold shall remain in the hand of him who has bought it until the year of jubilee. And in the jubilee it shall go out and he shall return to his possession.
+|But if he is not able to restore it to him, then that which is sold shall remain in the hand of him who has bought it until the year of jubilee. And in the jubilee it shall go out, and he shall return to his possession.
 
 |**25:29**
 |And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it.
@@ -3267,7 +3263,7 @@
 
 |**25:37**
 |Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
-|You shall not give him your money upon interest, nor lend him your food for increase.
+|You shall not give him your money upon interest nor lend him your food for increase.
 
 |**25:38**
 |I am the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.
@@ -3445,7 +3441,7 @@
 
 |**26:24**
 |Then will I also walk contrary unto you, and will punish you yet seven times for your sins.
-|Then I will also walk contrary to you and I will punish you yet seven times for your sins.
+|Then I will also walk contrary to you and I will punish you seven times for your sins.
 
 |**26:25**
 |And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.
@@ -3453,7 +3449,7 @@
 
 |**26:26**
 |And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied.
-|And when I have broken the staff of your bread, ten women shall bake your bread in one oven and they shall deliver you your bread again by weight, and you shall eat and not be satisfied.
+|And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight, and you shall eat and not be satisfied.
 
 |**26:27**
 |And if ye will not for all this hearken unto me, but walk contrary unto me;
@@ -3493,7 +3489,7 @@
 
 |**26:36**
 |And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
-|And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall flee as fleeing from a sword, and they shall fall when no one pursues.
+|And upon those who are left alive of you, I will send a faintness into their hearts in the lands of their enemies. And the sound of a shaken leaf shall chase them, and they shall flee as one flees from the sword, and they shall fall when no one pursues.
 
 |**26:37**
 |And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
@@ -3501,7 +3497,7 @@
 
 |**26:38**
 |And ye shall perish among the heathen, and the land of your enemies shall eat you up.
-|And you shall perish among the heathen and the land of your enemies shall eat you up.
+|And you shall perish among the heathen, and the land of your enemies shall eat you up.
 
 |**26:39**
 |And they that are left of you shall pine away in their iniquity in your enemies' lands; and also in the iniquities of their fathers shall they pine away with them.
@@ -3583,7 +3579,7 @@
 
 |**27:10**
 |He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.
-|He shall not alter it, nor exchange it, a good for a bad or a bad for a good. And if he at all exchanges beast for beast, then it and its exchange shall be holy.
+|He shall not alter it nor exchange it, a good for a bad or a bad for a good. And if he at all exchanges beast for beast, then it and its exchange shall be holy.
 
 |**27:11**
 |And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:
