@@ -399,7 +399,7 @@
 
 |**3:12**
 |And I, behold, I have taken the Levites from among the children of Israel, instead of all the first-born that openeth the matrix among the children of Israel: therefore the Levites shall be mine;
-|"And I, behold, I have taken the Levites from among the children of Israel instead of all the first-born who opens the womb among the children of Israel. Therefore, the Levites shall be mine,
+|"And I, behold, I have taken the Levites from among the children of Israel instead of every first-born who opens the womb among the children of Israel. Therefore, the Levites shall be mine,
 
 |**3:13**
 |Because all the first-born are mine; for on the day that I smote all the first-born in the land of Egypt, I hallowed to me all the first-born in Israel, both man and beast: mine they shall be: I am the LORD.
@@ -775,7 +775,7 @@
 
 |**5:15**
 |Then shall the man bring his wife to the priest, and he shall bring her offering for her, the tenth part of an ephah of barley-meal; he shall pour no oil upon it, nor put frankincense upon it; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
-|Then the man shall bring his wife to the priest and bring her offering for her, the tenth part of an ephah of barley-meal. He shall pour no oil upon it, nor put frankincense upon it, for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
+|Then the man shall bring his wife to the priest and bring her offering for her, the tenth part of an ephah of barley-meal. He shall pour no oil upon it nor put frankincense upon it, for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
 
 |**5:16**
 |And the priest shall bring her near, and set her before the LORD:
@@ -783,7 +783,7 @@
 
 |**5:17**
 |And the priest shall take holy water in an earthen vessel; and of the dust that is on the floor of the tabernacle the priest shall take, and put it into the water:
-|And the priest shall take holy water in an earthen vessel, and some of the dust that is on the floor of the tabernacle the priest shall take and put it into the water.
+|And the priest shall take holy water in an earthen vessel, and the priest shall take some of the dust that is on the floor of the tabernacle and put it into the water.
 
 |**5:18**
 |And the priest shall set the woman before the LORD, and uncover the woman's head, and put the offering of memorial in her hands, which is the jealousy-offering: and the priest shall have in his hand the bitter water that causeth the curse:
@@ -857,11 +857,11 @@
 
 |**6:3**
 |He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
-|He shall separate himself from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist or dried grapes.
+|He shall separate himself from wine and strong drink and shall drink no vinegar of wine or vinegar of strong drink, neither shall he drink any liquor of grapes nor eat moist or dried grapes.
 
 |**6:4**
 |All the days of his separation shall he eat nothing that is made of the vine-tree, from the kernels even to the husk.
-|All the days of his separation he shall eat nothing that is made of the vine-tree, from the kernels even to the husk.
+|All the days of his separation he shall eat nothing that is made from the vine-tree, from the seeds even to the skins.
 
 |**6:5**
 |All the days of the vow of his separation there shall no razor come upon his head: until the days shall be fulfilled, in which he separateth himself to the LORD, he shall be holy, and shall let the locks of the hair of his head grow.
@@ -1361,7 +1361,7 @@
 
 |**8:15**
 |And after that shall the Levites go in to perform the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering.
-|And after that the Levites shall go in to perform the service of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
+|And after that, the Levites shall go in to perform the service of the Tabernacle of the Congregation. And you shall cleanse them and offer them for an offering,
 
 |**8:16**
 |For they are wholly given to me from among the children of Israel; instead of such as open every womb, even instead of the first-born of all the children of Israel, have I taken them to me.
@@ -1401,7 +1401,7 @@
 
 |**8:26**
 |But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do to the Levites concerning their charge.
-|But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge and shall do no service. Thus you shall do to the Levites concerning their charge."
+|But shall minister with their brothers in the Tabernacle of the Congregation to keep the charge, and shall do no service. Thus you shall do to the Levites concerning their charge."
 
 |===
 
@@ -1455,7 +1455,7 @@
 
 |**9:12**
 |They shall leave none of it to the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
-|They shall leave none of it until the morning, nor break any bone of it. According to all the ordinances of the passover they shall keep it.
+|They shall leave none of it until the morning nor break any bone of it. According to all the ordinances of the passover they shall keep it.
 
 |**9:13**
 |But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in its appointed season, that man shall bear his sin.
@@ -1475,7 +1475,7 @@
 
 |**9:17**
 |And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.
-|And when the cloud was taken up from the tabernacle, after that the children of Israel journeyed. And in the place where the cloud stayed, there the children of Israel pitched their tents.
+|And when the cloud was taken up from the tabernacle, after that, the children of Israel journeyed. And in the place where the cloud stayed, there the children of Israel pitched their tents.
 
 |**9:18**
 |At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they encamped: as long as the cloud abode upon the tabernacle they rested in their tents.
@@ -1521,7 +1521,7 @@
 
 |**10:4**
 |And if they blow but with one trumpet, then the princes, who are heads of the thousands of Israel, shall assemble themselves to thee.
-|And if they blow but with one trumpet, then the princes who are heads of the thousands of Israel shall assemble themselves to you.
+|And if they blow with only one trumpet, then the princes who are heads of the thousands of Israel shall assemble themselves to you.
 
 |**10:5**
 |When ye blow an alarm, then the camps that lie on the east parts shall go forward.
@@ -1545,7 +1545,7 @@
 
 |**10:10**
 |Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt-offerings, and over the sacrifices of your peace-offerings; that they may be to you for a memorial before your God: I am the LORD your God.
-|Also in the day of your gladness, in your solemn days, and in the beginnings of your months, you shall blow with the trumpets over your burnt-offerings and over the sacrifices of your peace-offerings so that they may be to you for a memorial before your God. I am the LORD your God."
+|Also, in the day of your gladness, in your solemn days, and in the beginnings of your months, you shall blow with the trumpets over your burnt-offerings and over the sacrifices of your peace-offerings so that they may be to you for a memorial before your God. I am the LORD your God."
 
 |**10:12**
 |And the children of Israel took their journeys from the wilderness of Sinai; and the cloud rested in the wilderness of Paran.
@@ -1647,11 +1647,11 @@
 
 |**11:7**
 |And the manna was as coriander-seed, and the color of it as the color of bdellium.
-|And the manna was as coriander-seed, and its color as the color of bdellium.
+|And the manna was like coriander-seed, and its color like the color of bdellium.
 
 |**11:8**
 |And the people went about, and gathered it and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
-|And the people went around and gathered it, ground it in mills or beat it in a mortar, and baked it in pans and made cakes with it. And its taste was as the taste of fresh oil.
+|And the people went around and gathered it, ground it in mills or beat it in a mortar, and baked it in pans and made cakes with it. And its taste was like the taste of fresh oil.
 
 |**11:10**
 |Then Moses heard the people weeping throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly: Moses also was displeased.
@@ -1747,7 +1747,7 @@
 
 |**11:33**
 |And while the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
-|And while the flesh was still between their teeth, before it was chewed, the wrath of the LORD was kindled against the people and the LORD smote the people with a very great plague.
+|And while the flesh was still between their teeth, before it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague.
 
 |**11:34**
 |And he called the name of that place Kibroth-hattaavah: because there they buried the people that lusted.
@@ -1821,7 +1821,7 @@
 
 |**12:14**
 |And the LORD said to Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received again.
-|And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? Let her be shut out from the camp seven days, and after that let her be received again."
+|And the LORD said to Moses, "If her father had but spit in her face, should she not be ashamed seven days? Let her be shut out from the camp seven days, and after that, let her be received again."
 
 |**12:15**
 |And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.
@@ -1903,11 +1903,11 @@
 
 |**13:18**
 |And see the land, what it is; and the people that dwell therein, whether they are strong or weak, few or many;
-|And see the land, what it is, and the people who dwell therein, whether they are strong or weak, few or many,
+|And see the land, what it is, and the people who dwell therein, whether they are strong or weak, few or many;
 
 |**13:19**
 |And what the land is that they dwell in, whether it is good or bad; and what cities they are that they dwell in, whether in tents, or in strong holds;
-|And what the land is that they dwell in, whether it is good or bad, and what cities they are that they dwell in, whether in tents or in strongholds,
+|And what the land is that they dwell in, whether it is good or bad, and what cities they are that they dwell in, whether in tents or in strongholds;
 
 |**13:20**
 |And what the land is, whether it is fertile or barren, whether there is wood in it, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the first ripe grapes.
@@ -2215,7 +2215,7 @@
 
 |**15:19**
 |Then it shall be, that when ye eat of the bread of the land, ye shall offer up a heave-offering to the LORD.
-|It shall be, that when you eat of the bread of the land, you shall offer up a heave-offering to the LORD.
+|It shall be, that when you eat the bread of the land, you shall offer up a heave-offering to the LORD.
 
 |**15:20**
 |Ye shall offer a cake of the first of your dough for a heave-offering: as ye do the heave-offering of the threshing-floor, so shall ye heave it.
@@ -2365,7 +2365,7 @@
 
 |**16:14**
 |Moreover, thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
-|Moreover, you have not brought us into a land that flows with milk and honey, or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
+|Moreover, you have not brought us into a land that flows with milk and honey or given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up."
 
 |**16:15**
 |And Moses was very wroth, and said to the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
@@ -2425,7 +2425,7 @@
 
 |**16:31**
 |And it came to pass, as he had made an end of speaking all these words, that the ground cleaved asunder that was under them:
-|And it came to pass, as he had made an end of speaking all these words, that the ground that was under them cleaved apart,
+|And it came to pass as he had made an end of speaking all these words, that the ground that was under them cleaved apart,
 
 |**16:32**
 |And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained to Korah, and all their goods.
@@ -2657,7 +2657,7 @@
 
 |**18:26**
 |Thus speak to the Levites, and say to them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up a heave-offering of it for the LORD, even a tenth part of the tithe.
-|"Thus speak to the Levites and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the LORD, even a tenth part of the tithe.
+|"You shall also speak to the Levites and say to them, 'When you take from the children of Israel the tithes which I have given you from them for your inheritance, you shall offer up a heave-offering of it for the LORD, even a tenth part of the tithe.
 
 |**18:27**
 |And this your heave-offering shall be reckoned to you, as though it were the corn of the threshing-floor, and as the fullness of the wine-press.
@@ -2715,7 +2715,7 @@
 
 |**19:7**
 |Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the evening.
-|Then the priest shall wash his clothes and bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the evening.
+|Then the priest shall wash his clothes and bathe his flesh in water. And afterward, he shall come into the camp, and the priest shall be unclean until the evening.
 
 |**19:8**
 |And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the evening.
@@ -2731,11 +2731,11 @@
 
 |**19:11**
 |He that toucheth the dead body of any man shall be unclean seven days.
-|'He who touches the dead body of any man shall be unclean seven days.
+|'He who touches the dead body of any man shall be unclean for seven days.
 
 |**19:12**
 |He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he shall not purify himself the third day, then the seventh day he shall not be clean.
-|He shall purify himself with water on the third day, and on the seventh day he shall be clean. But if he does not purify himself the third day, then the seventh day he shall not be clean.
+|He shall purify himself with water on the third day, and on the seventh day he shall be clean. But if he does not purify himself on the third day, then on the seventh day he shall not be clean.
 
 |**19:13**
 |Whoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.
@@ -2743,7 +2743,7 @@
 
 |**19:14**
 |This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days.
-|'This is the law when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean seven days.
+|'This is the law when a man dies in a tent. All who come into the tent and all that is in the tent shall be unclean for seven days.
 
 |**19:15**
 |And every open vessel, which hath no covering bound upon it, is unclean.
@@ -2751,7 +2751,7 @@
 
 |**19:16**
 |And whoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.
-|And whoever touches someone who is slain with a sword in the open fields, or a dead body, a bone of a man, or a grave, shall be unclean seven days.
+|And whoever touches someone who is slain with a sword in the open fields, or a dead body, a bone of a man, or a grave, shall be unclean for seven days.
 
 |**19:17**
 |And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put to it in a vessel:
@@ -2841,7 +2841,7 @@
 
 |**20:16**
 |And when we cried to the LORD, he heard our voice, and sent an angel, and hath brought us forth from Egypt: and behold, we are in Kadesh, a city in the uttermost of thy border:
-|And when we cried to the LORD, he heard our voice and sent an angel and has brought us forth from Egypt, and behold, we are in Kadesh, a city in the uttermost of your border.
+|And when we cried to the LORD, he heard our voice and sent an angel and has brought us forth from Egypt. And behold, we are in Kadesh, a city in the uttermost of your border.
 
 |**20:17**
 |Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king's high-way, we will not turn to the right hand nor to the left, until we have passed thy borders.
@@ -2891,6 +2891,10 @@
 |And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there on the top of the mount: and Moses and Eleazar came down from the mount.
 |And Moses stripped Aaron of his garments and put them upon Eleazar his son. And Aaron died there on the top of the mountain. And Moses and Eleazar came down from the mountain.
 
+|**20:29**
+|And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel.
+|And when all the congregation saw that Aaron was dead, they mourned for Aaron for thirty days, even all the house of Israel.
+
 |===
 
 == Chapter 21
@@ -2935,7 +2939,7 @@
 
 |**21:9**
 |And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
-|And Moses made a serpent of brass and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
+|And Moses made a serpent of brass and put it upon a pole. And it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 
 |**21:10**
 |And the children of Israel moved forward, and pitched in Oboth.
@@ -3003,7 +3007,7 @@
 
 |**21:27**
 |Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared.
-|Therefore, those who speak in proverbs say, "Come into Heshbon, let the city of Sihon be built and prepared.
+|Therefore, those who speak in proverbs say, "Come into Heshbon. Let the city of Sihon be built and prepared.
 
 |**21:28**
 |For there has a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, and the lords of the high places of Arnon.
