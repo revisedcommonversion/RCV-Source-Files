@@ -559,9 +559,9 @@ _Balak's first message for Balaam is refused, 1-14. His second message obtains h
 
 21 And Balaam rose in the morning, saddled his donkey, and went with the princes of Moab.
 
-22 And God's anger was kindled because he went. And the angel of the LORD stood in the way as an adversary against him. Now he was riding upon his donkey, and his two servants were with him. 23 And the donkey saw the angel of the LORD standing in the way and his sword drawn in his hand. And the donkey turned aside out of the way and went into the field. And Balaam smote the donkey to turn her into the way. 24 But the angel of the LORD stood in a path of the vineyards, a wall being on this side and a wall on that side. 25 And when the donkey saw the angel of the LORD, she thrust herself against the wall and crushed Balaam's foot against the wall. And he smote her again. 26 And the angel of the LORD went further and stood in a narrow place where there was no way to turn either to the right hand or to the left. 27 And when the donkey saw the angel of the LORD, she fell down under Balaam. And Balaam's anger was kindled and he smote the donkey with a staff. 28 And the LORD opened the mouth of the donkey, and she said to Balaam, "What have I done to you that you have smitten me these three times?" 29 And Balaam said to the donkey, "Because you have mocked me. I wished there were a sword in my hand, for now I would kill you." 30 And the donkey said to Balaam, "Am I not your donkey upon which you have ridden ever since I was yours to this day? Was I ever accustomed to do so to you?" And he said, "No."
+22 And God's anger was kindled because he went. And the angel of the LORD stood in the way as an adversary against him. Now he was riding upon his donkey, and his two servants were with him. 23 And the donkey saw the angel of the LORD standing in the way with his sword drawn in his hand. And the donkey turned aside out of the way and went into the field. And Balaam smote the donkey to turn her into the way. 24 But the angel of the LORD stood in a path of the vineyards, a wall being on this side and a wall on that side. 25 And when the donkey saw the angel of the LORD, she thrust herself against the wall and crushed Balaam's foot against the wall. And he smote her again. 26 And the angel of the LORD went further and stood in a narrow place where there was no way to turn either to the right hand or to the left. 27 And when the donkey saw the angel of the LORD, she fell down under Balaam. And Balaam's anger was kindled and he smote the donkey with a staff. 28 And the LORD opened the mouth of the donkey, and she said to Balaam, "What have I done to you that you have smitten me these three times?" 29 And Balaam said to the donkey, "Because you have mocked me. I wished there were a sword in my hand, for now I would kill you." 30 And the donkey said to Balaam, "Am I not your donkey upon which you have ridden ever since I was yours to this day? Was I ever accustomed to do so to you?" And he said, "No."
 
-31 Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way and his sword drawn in his hand. And he bowed down his head and fell flat on his face. 32 And the angel of the LORD said to him, "Why have you smitten your donkey these three times? Behold, I went out to withstand you because your way is perverse before me. 33 And the donkey saw me and turned from me these three times. If she had not turned from me, surely now I would have also slain you and saved her alive." 34 And Balaam said to the angel of the LORD, "I have sinned. For I did not know that you stood in the way against me. Now therefore, if it displeases you, I will return again." 35 And the angel of the LORD said to Balaam, "Go with the men. But only the word that I speak to you, you shall speak." So Balaam went with the princes of Balak.
+31 Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way with his sword drawn in his hand. And he bowed down his head and fell flat on his face. 32 And the angel of the LORD said to him, "Why have you smitten your donkey these three times? Behold, I went out to withstand you because your way is perverse before me. 33 And the donkey saw me and turned from me these three times. If she had not turned from me, surely now I would have also slain you and saved her alive." 34 And Balaam said to the angel of the LORD, "I have sinned. For I did not know that you stood in the way against me. Now therefore, if it displeases you, I will return again." 35 And the angel of the LORD said to Balaam, "Go with the men. But only the word that I speak to you, you shall speak." So Balaam went with the princes of Balak.
 
 36 And when Balak heard that Balaam had come, he went out to meet him at the city of Moab, which is in the border of Arnon, which is in the utmost limit. 37 And Balak said to Balaam, "Did I not earnestly send to you to call you? Why did you not come to me? Am I not able indeed to promote you to honor?" 38 And Balaam said to Balak, "Behold, I have come to you. Have I now any power at all to say anything? The word that God puts in my mouth, that I shall speak." 39 And Balaam went with Balak, and they came to Kirjath-huzoth. 40 And Balak offered oxen and sheep and sent to Balaam and to the princes who were with him.
 
@@ -573,7 +573,7 @@ _Balak's first message for Balaam is refused, 1-14. His second message obtains h
 [.outline.text-center]
 _Balak's sacrifices, 1-6, 13-17, 25-30. Balaam's parables, 7-12, 18-24._
 
-1 And Balaam said to Balak, "Build me seven altars here and prepare me seven oxen and seven rams here." 2 And Balak did as Balaam had spoken. And Balak and Balaam offered on every altar a bull and a ram. 3 And Balaam said to Balak, "Stand by your burnt-offering, and I will go. It may be that the LORD will come to meet me. And whatever he shows me I will tell you." And he went to a high place.
+1 And Balaam said to Balak, "Build for me seven altars here and prepare for me seven oxen and seven rams here." 2 And Balak did as Balaam had spoken. And Balak and Balaam offered on every altar a bull and a ram. 3 And Balaam said to Balak, "Stand by your burnt-offering, and I will go. It may be that the LORD will come to meet me. And whatever he shows me I will tell you." And he went to a high place.
 
 4 And God met Balaam. And he said to him, "I have prepared seven altars and I have offered upon every altar a bull and a ram." 5 And the LORD put a word in Balaam's mouth and said, "Return to Balak, and thus you shall speak." 6 And he returned to him and behold, he stood by his burnt-sacrifice—he and all the princes of Moab. 7 And he took up his parable and said,
 
@@ -604,7 +604,7 @@ and let my last end be like his!"
 
 11 And Balak said to Balaam, "What have you done to me? I took you to curse my enemies, and behold, you have blessed them altogether." 12 And he answered and said, "Must I not take heed to speak that which the LORD has put in my mouth?"
 
-13 And Balak said to him, "Come, I pray you, with me to another place, from where you may see them. You shall see but the utmost part of them, and shall not see them all. And from there curse them for me." 14 And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on every altar. 15 And he said to Balak, "Stand here by your burnt-offering while I meet the LORD yonder." 16 And the LORD met Balaam and put a word in his mouth and said, "Go back to Balak and say this." 17 And when he came to him, behold, he stood by his burnt-offering, and the princes of Moab with him. And Balak said to him, "What has the LORD spoken?" 18 And he took up his parable and said,
+13 And Balak said to him, "Come, I pray you, with me to another place, from where you may see them. You shall see only the utmost part of them, but not all of them. And from there curse them for me." 14 And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on every altar. 15 And he said to Balak, "Stand here by your burnt-offering while I meet the LORD yonder." 16 And the LORD met Balaam and put a word in his mouth and said, "Go back to Balak and say this." 17 And when he came to him, behold, he stood by his burnt-offering, and the princes of Moab with him. And Balak said to him, "What has the LORD spoken?" 18 And he took up his parable and said,
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -647,7 +647,7 @@ and drinks the blood of the slain."
 
 25 And Balak said to Balaam, "Neither curse them at all nor bless them at all." 26 But Balaam answered and said to Balak, "Did I not tell you, saying, 'All that the LORD speaks, that I must do'?"
 
-27 And Balak said to Balaam, "Come, I pray you, I will bring you to another place. Perhaps it will please God that you may from there curse them for me." 28 And Balak brought Balaam to the top of Peor that looks toward Jeshimon. 29 And Balaam said to Balak, "Build me seven altars here and prepare me seven bulls and seven rams here." 30 And Balak did as Balaam had said and offered a bull and a ram on every altar.
+27 And Balak said to Balaam, "Come, I pray you, I will bring you to another place. Perhaps it will please God that you may from there curse them for me." 28 And Balak brought Balaam to the top of Peor that looks toward Jeshimon. 29 And Balaam said to Balak, "Build for me seven altars here and prepare for me seven bulls and seven rams here." 30 And Balak did as Balaam had said and offered a bull and a ram on every altar.
 
 [#num024%breakable]
 === Chapter 24
@@ -673,15 +673,15 @@ falling into a trance, but having his eyes open:
 and your tabernacles, O Israel!
 
 |
-|6 As the valleys they are spread forth, [.linebr]#/# +
-as gardens by the river's side, [.linebr]#/# +
-as the trees of lign-aloes which the LORD has planted, [.linebr]#/# +
-and as cedar-trees beside the waters.
+|6 Like the valleys they are spread forth, [.linebr]#/# +
+like gardens by the river's side, [.linebr]#/# +
+like the trees of lign-aloes which the LORD has planted, [.linebr]#/# +
+and like cedar-trees beside the waters.
 
 |
-|7 He shall pour the water out of his buckets [.linebr]#/# +
-and his seed shall be in many waters, [.linebr]#/# +
-and his king shall be higher than Agag [.linebr]#/# +
+|7 He shall pour the water out of his buckets, [.linebr]#/# +
+and his seed shall be in many waters. [.linebr]#/# +
+His king shall be higher than Agag, [.linebr]#/# +
 and his kingdom shall be exalted.
 
 |
@@ -692,8 +692,8 @@ and shall break their bones [.linebr]#/# +
 and pierce them through with his arrows.
 
 |
-|9 He couched, he lay down as a lion [.linebr]#/# +
-and as a great lion. Who shall rouse him? [.linebr]#/# +
+|9 He couched, he lay down like a lion [.linebr]#/# +
+and like a great lion. Who shall rouse him? [.linebr]#/# +
 Blessed is he who blesses you, [.linebr]#/# +
 and cursed is he who curses you."
 |===
@@ -723,7 +723,7 @@ and shall smite the corners of Moab [.linebr]#/# +
 and destroy all the children of Sheth.
 
 |
-|18 And Edom shall be a possession, [.linebr]#/# +
+|18 And Edom shall be a possession. [.linebr]#/# +
 Seir also shall be a possession for his enemies. [.linebr]#/# +
 And Israel shall do valiantly.
 
