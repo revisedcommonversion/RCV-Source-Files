@@ -135,7 +135,7 @@
 
 |**1:33**
 |Who went in the way before you, to search out for you a place to pitch your tents in, in fire by night, to show you by what way ye should go, and in a cloud by day.
-|Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go, and in a cloud by day.
+|Who went in the way before you to search out for you a place to pitch your tents in, in fire by night to show you by what way you should go and in a cloud by day.
 
 |**1:34**
 |And the LORD heard the voice of your words, and was wroth, and swore, saying,
@@ -201,7 +201,7 @@
 
 |**2:1**
 |Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spoke to me: and we compassed mount Seir many days.
-|"Then we turned, and took our journey into the wilderness by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many days.
+|"Then we turned and took our journey into the wilderness by the way of the Red Sea, as the LORD spoke to me. And we compassed mount Seir many days.
 
 |**2:3**
 |Ye have compassed this mountain long enough: turn you northward.
@@ -251,9 +251,13 @@
 |And the space in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
 |And the time in which we came from Kadesh-barnea, until we passed the brook Zered, was thirty-eight years, until all the generation of the men of war were wasted from among the host, as the LORD swore to them.
 
+|**2:15**
+|For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.
+|For indeed the hand of the LORD was against them, to destroy them from among the host until they were consumed.
+
 |**2:16**
 |So it came to pass, when all the men of war were consumed and dead from among the people,
-|"So it came to pass, when all the men of war were consumed and dead from among the people,
+|"So it came to pass when all the men of war were consumed and dead from among the people,
 
 |**2:18**
 |Thou art to pass over through Ar, the coast of Moab, this day:
@@ -261,7 +265,7 @@
 
 |**2:19**
 |And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it to the children of Lot for a possession.
-|And when you come near over against the children of Ammon, do not distress them, nor meddle with them, for I will not give you any possession of the land of the children of Ammon, because I have given it to the children of Lot for a possession.'
+|And when you come near over against the children of Ammon, do not distress them nor meddle with them, for I will not give you any possession of the land of the children of Ammon, because I have given it to the children of Lot for a possession.'
 
 |**2:20**
 |(That also was accounted a land of giants: giants dwelt in it in old time; and the Ammonites call them Zamzummims;
@@ -667,7 +671,7 @@
 
 |**5:1**
 |And Moses called all Israel, and said to them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.
-|And Moses called all Israel, and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
+|And Moses called all Israel and said to them, "Hear, O Israel, the statutes and judgments which I speak in your ears this day so that you may learn them and observe to do them.
 
 |**5:3**
 |The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.
@@ -1037,7 +1041,7 @@
 
 |**8:3**
 |And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.
-|And he humbled you and allowed you to be hungry, and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that proceeds out of the mouth of the LORD.
+|And he humbled you and allowed you to be hungry and fed you with manna which you did not know, neither did your fathers know, so that he might make you know that man does not live by bread only, but man lives by every word that proceeds out of the mouth of the LORD.
 
 |**8:4**
 |Thy raiment hath not become old upon thee, neither hath thy foot swelled these forty years.
@@ -1305,7 +1309,7 @@
 
 |**10:16**
 |Circumcise therefore the foreskin of your heart, and be no more stiff-necked.
-|Therefore, circumcise the foreskin of your heart, and be stiff-necked no longer.
+|Therefore, circumcise the foreskin of your heart and be stiff-necked no longer.
 
 |**10:17**
 |For the LORD your God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, who regardeth not persons, nor taketh reward:
@@ -1403,7 +1407,7 @@
 
 |**11:17**
 |And then the LORD'S wrath shall be kindled against you, and he shall shut up the heaven, that there shall be no rain, and the land shall not yield her fruit; and lest ye perish quickly from off the good land which the LORD giveth you.
-|And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain and the land shall not yield her fruit; and lest you perish quickly from off the good land which the LORD gives you.
+|And the LORD'S wrath be kindled against you, and he restrain the heavens so that there shall be no rain, and the land shall not yield her fruit; and lest you perish quickly from off the good land which the LORD gives you.
 
 |**11:18**
 |Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
@@ -1643,11 +1647,11 @@
 
 |**13:8**
 |Thou shalt not consent to him, nor hearken to him; neither shall thy eye pity him, neither shalt thou spare, neither shalt thou conceal him:
-|You shall not consent to him, nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you conceal him.
+|You shall not consent to him nor listen to him, neither shall your eye pity him, neither shall you spare, neither shall you conceal him.
 
 |**13:9**
 |But thou shalt surely kill him; thy hand shall be first upon him to put him to death, and afterwards the hand of all the people.
-|But you shall surely kill him. Your hand shall be first upon him to put him to death, and afterward the hand of all the people.
+|But you shall surely kill him. Your hand shall be first upon him to put him to death, and afterward, the hand of all the people.
 
 |**13:10**
 |And thou shalt stone him with stones that he shall die; because he hath sought to thrust thee away from the LORD thy God, who brought thee out of the land of Egypt from the house of bondage.
@@ -1697,7 +1701,7 @@
 
 |**14:1**
 |Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
-|"You are the children of the LORD your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead.
+|"You are the children of the LORD your God. You shall not cut yourselves nor make any baldness between your eyes for the dead.
 
 |**14:2**
 |For thou art a holy people to the LORD thy God, and the LORD hath chosen thee to be a peculiar people to himself, above all the nations that are upon the earth.
@@ -1745,15 +1749,15 @@
 
 |**14:13**
 |And the glede, and the kite, and the vultur after his kind,
-|The glede, the kite, the falcon after his kind,
+|The glede, the kite, the falcon after its kind,
 
 |**14:14**
 |And every raven after his kind,
-|Every raven after his kind,
+|Every raven after its kind,
 
 |**14:15**
 |And the owl, and the night-hawk, and the cuckow, and the hawk after his kind,
-|The owl, the night-hawk, the gull, the hawk after his kind,
+|The owl, the night-hawk, the gull, the hawk after its kind,
 
 |**14:16**
 |The little owl, and the great owl, and the swan,
@@ -1765,7 +1769,7 @@
 
 |**14:18**
 |And the stork, and the heron after her kind, and the lapwing, and the bat.
-|The stork, the heron after her kind, the lapwing, and the bat.
+|The stork, the heron after its kind, the lapwing, and the bat.
 
 |**14:19**
 |And every creeping animal that flieth is unclean to you: they shall not be eaten.
@@ -1797,7 +1801,7 @@
 
 |**14:26**
 |And thou shalt bestow that money for whatever thy soul desireth, for oxen, or for sheep, or for wine, or for strong drink, or for whatever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thy household.
-|And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your God, and you shall rejoice—you, and your household.
+|And you shall bestow that money for whatever your soul desires, for oxen, for sheep, for wine, for strong drink, or for whatever your soul desires. And you shall eat there before the LORD your God, and you shall rejoice—you and your household.
 
 |**14:27**
 |And the Levite that is within thy gates, thou shalt not forsake him; for he hath no part nor inheritance with thee.
@@ -1911,7 +1915,7 @@
 
 |**15:23**
 |Only thou shalt not eat its blood; thou shalt pour it upon the ground as water.
-|Only you shall not eat its blood. You shall pour it upon the ground as water."
+|Only you shall not eat its blood. You shall pour it upon the ground like water."
 
 |===
 
