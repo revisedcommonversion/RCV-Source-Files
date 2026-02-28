@@ -2009,7 +2009,7 @@
 
 |**16:15**
 |Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose: because the LORD thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice.
-|Seven days you shall keep a solemn feast to the LORD your God in the place which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands; therefore, you shall surely rejoice.
+|Seven days you shall keep a solemn feast to the LORD your God in the place which the LORD chooses, because the LORD your God shall bless you in all your increase and in all the works of your hands, and you shall surely rejoice.
 
 |**16:16**
 |Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
@@ -2103,7 +2103,7 @@
 
 |**17:14**
 |When thou art come unto the land which the LORD thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;
-|"When you come into the land which the LORD your God gives you and possess it and dwell in it, and say, 'I will set a king over me like all the nations who are around me,'
+|"When you come into the land which the LORD your God gives you and possess it and dwell in it and say, 'I will set a king over me like all the nations who are around me,'
 
 |**17:15**
 |Thou shalt in any wise set him king over thee, whom the LORD thy God shall choose: one from among thy brethren shalt thou set king over thee: thou mayest not set a stranger over thee, which is not thy brother.
@@ -2111,7 +2111,7 @@
 
 |**17:16**
 |But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD hath said unto you, Ye shall henceforth return no more that way.
-|But he shall not multiply horses for himself nor cause the people to return to Egypt, to the end that he should multiply horses, because the LORD has said to you, 'You shall not return that way anymore.'
+|But he shall not multiply horses for himself nor cause the people to return to Egypt to multiply horses, because the LORD has said to you, 'You shall not return that way anymore.'
 
 |**17:17**
 |Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.
@@ -2209,7 +2209,7 @@
 
 |**18:18**
 |I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
-|I will raise up to them a prophet like you from among their brothers and will put my words in his mouth. And he shall speak to them all that I shall command him.
+|I will raise up to them a Prophet like you from among their brothers and will put my words in his mouth. And he shall speak to them all that I shall command him.
 
 |**18:19**
 |And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.
@@ -2271,7 +2271,7 @@
 
 |**19:9**
 |If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
-|If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to walk ever in his ways, then you shall add three cities more for yourself, besides these three,
+|If you keep all these commandments to do them, which I command you this day, to love the LORD your God and to always walk in his ways, then you shall add three cities more for yourself, besides these three,
 
 |**19:10**
 |That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee.
@@ -2353,7 +2353,7 @@
 
 |**20:6**
 |And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.
-|And what man is he who has planted a vineyard and has not yet eaten of it? Let him also go and return to his house, lest he should die in the battle and another man should eat of it.
+|And what man is he who has planted a vineyard and has not yet eaten any of it? Let him also go and return to his house, lest he should die in the battle and another man should make use of it.
 
 |**20:7**
 |And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
@@ -2365,7 +2365,7 @@
 
 |**20:9**
 |And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.
-|And it shall be, when the officers have made an end of speaking to the people, that they shall make captains of the armies to lead the people.
+|And it shall be when the officers have made an end of speaking to the people, that they shall make captains of the armies to lead the people.
 
 |**20:10**
 |When thou comest nigh unto a city to fight against it, then proclaim peace unto it.
@@ -2381,7 +2381,7 @@
 
 |**20:13**
 |And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:
-|And when the LORD your God has delivered it into your hands, you shall smite every male of it with the edge of the sword,
+|And when the LORD your God has delivered it into your hands, you shall smite every male in it with the edge of the sword,
 
 |**20:14**
 |But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.
@@ -2459,7 +2459,7 @@
 
 |**21:10**
 |When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,
-|"When you go forth to war against your enemies, and the LORD your God has delivered them into your hands and you have taken them captive,
+|"When you go forth to war against your enemies, and the LORD your God has delivered them into your hands, and you have taken them captive,
 
 |**21:11**
 |And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;
@@ -2471,7 +2471,7 @@
 
 |**21:13**
 |And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.
-|And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
+|And she shall take off from her the clothing of her captivity and shall remain in your house and bewail her father and her mother for a full month. And after that, you shall go in to her and be her husband, and she shall be your wife.
 
 |**21:14**
 |And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.
@@ -2483,7 +2483,7 @@
 
 |**21:16**
 |Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:
-|Then it shall be, when he makes his sons inherit that which he has, that he may not prefer the son of the beloved first-born before the son of the hated, which is indeed the first-born,
+|Then it shall be, when he makes his sons inherit that which he has, that he may not make the son of the beloved the first-born over the son of the hated, who is indeed the first-born,
 
 |**21:17**
 |But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his.
@@ -2597,7 +2597,7 @@
 
 |**22:19**
 |And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
-|And they shall amerce him one hundred shekels of silver, and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his wife. He may not put her away all his days.
+|And they shall amerce him one hundred shekels of silver and give them to the father of the young woman, because he has brought an evil name upon a virgin of Israel. And she shall be his wife. He may not put her away all his days.
 
 |**22:20**
 |But if this thing be true, and the tokens of virginity be not found for the damsel:
@@ -2641,7 +2641,7 @@
 
 |**22:30**
 |A man shall not take his father's wife, nor discover his father's skirt.
-|"A man shall not take his father's wife, nor discover his father's skirt."
+|"A man shall not take his father's wife nor discover his father's skirt."
 
 |===
 
@@ -2667,7 +2667,7 @@
 
 |**23:4**
 |Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.
-|Because they did not meet you with bread and with water in the way when you came forth from Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia to curse you.
+|Because they did not meet you with bread and with water on the way when you came forth from Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia to curse you.
 
 |**23:5**
 |Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.
@@ -2675,7 +2675,7 @@
 
 |**23:6**
 |Thou shalt not seek their peace nor their prosperity all thy days for ever.
-|You shall not seek their peace, nor their prosperity all your days forever.
+|You shall not seek their peace nor their prosperity all your days forever.
 
 |**23:7**
 |Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
@@ -2695,7 +2695,7 @@
 
 |**23:11**
 |But it shall be, when evening cometh on, he shall wash himself with water: and when the sun is down, he shall come into the camp again.
-|But it shall be, when evening comes near, he shall wash himself with water, and when the sun is down, he shall come into the camp again.
+|But it shall be when evening comes near, that he shall wash himself with water, and when the sun is down, he shall come into the camp again.
 
 |**23:12**
 |Thou shalt have a place also without the camp, whither thou shalt go forth abroad:
@@ -2719,7 +2719,7 @@
 
 |**23:17**
 |There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.
-|"There shall be no harlot among the daughters of Israel, nor a temple prostitute among the sons of Israel.
+|"There shall be no harlot among the daughters of Israel, neither a temple prostitute among the sons of Israel.
 
 |**23:18**
 |Thou shalt not bring the hire of a whore, or the price of a dog, into the house of the LORD thy God for any vow: for even both these are abomination unto the LORD thy God.
@@ -2797,7 +2797,7 @@
 
 |**24:9**
 |Remember what the LORD thy God did unto Miriam by the way, after that ye were come forth out of Egypt.
-|Remember what the LORD your God did to Miriam by the way after you came forth from Egypt.
+|Remember what the LORD your God did to Miriam on the way after you came forth from Egypt.
 
 |**24:10**
 |When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge.
@@ -2809,7 +2809,7 @@
 
 |**24:12**
 |And if the man be poor, thou shalt not sleep with his pledge:
-|And if the man is poor, you shall not sleep with his pledge.
+|And if the man is poor, you shall not go to sleep with his pledge.
 
 |**24:13**
 |In any case thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless thee: and it shall be righteousness unto thee before the LORD thy God.
@@ -2829,7 +2829,7 @@
 
 |**24:17**
 |Thou shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's raiment to pledge:
-|"You shall not pervert the judgment of the stranger, nor of the fatherless, nor take a widow's clothing for a pledge.
+|"You shall not pervert the judgment of the stranger nor of the fatherless, nor take a widow's clothing for a pledge.
 
 |**24:18**
 |But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing.
