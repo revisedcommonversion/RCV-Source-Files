@@ -2863,11 +2863,11 @@
 
 |**25:7**
 |And if the man shall not like to take his brother's wife, then let his brother's wife go up to the gate to the elders, and say, My husband's brother refuseth to raise up to his brother a name in Israel, he will not perform the duty of my husband's brother.
-|And if the man does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders, and say, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
+|And if the man does not want to take his brother's wife, then let his brother's wife go up to the gate to the elders and say, 'My husband's brother refuses to raise up for his brother a name in Israel. He will not perform the duty of my husband's brother.'
 
 |**25:8**
 |Then the elders of his city shall call him, and speak to him: and if he shall stand to it, and say, I like not to take her,
-|Then the elders of his city shall call him and speak to him. And if he stands to it, and says, 'I do not want to take her,'
+|Then the elders of his city shall call him and speak to him. And if he stands to it and says, 'I do not want to take her,'
 
 |**25:9**
 |Then shall his brother's wife come to him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done to that man that will not build up his brother's house.
@@ -2903,11 +2903,11 @@
 
 |**25:17**
 |Remember what Amalek did to thee by the way, when ye had come forth from Egypt;
-|"Remember what Amalek did to you by the way when you had come forth from Egypt,
+|"Remember what Amalek did to you on the way when you had come forth from Egypt,
 
 |**25:18**
 |How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.
-|How he met you by the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not fear God.
+|How he met you on the way and smote the hindmost of you, even all who were feeble behind you, when you were faint and weary. And he did not fear God.
 
 |**25:19**
 |Therefore it shall be, when the LORD thy God hath given thee rest from all thy enemies on all sides, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.
@@ -2925,7 +2925,7 @@
 
 |**26:1**
 |And it shall be, when thou hast come in to the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;
-|"And it shall be, when you come in to the land which the LORD your God gives you for an inheritance and possess it and dwell therein,
+|"And it shall be when you come in to the land which the LORD your God gives you for an inheritance and possess it and dwell therein,
 
 |**26:2**
 |That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put it in a basket, and shalt go to the place which the LORD thy God shall choose to place his name there.
@@ -2933,7 +2933,7 @@
 
 |**26:3**
 |And thou shalt go to the priest that shall be in those days, and say to him, I profess this day to the LORD thy God, that I have come to the country which the LORD swore to our fathers to give us.
-|And you shall go to the priest who shall be in those days, and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
+|And you shall go to the priest who shall be in those days and say to him, 'I profess this day to the LORD your God, that I have come to the country which the LORD swore to our fathers to give us.'
 
 |**26:4**
 |And the priest shall take the basket from thy hand, and set it down before the altar of the LORD thy God.
@@ -2969,7 +2969,7 @@
 
 |**26:12**
 |When thou hast made an end of tithing all the tithes of thy increase the third year, which is the year of tithing, and hast given it to the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled:
-|"When you have made an end of tithing all the tithes of your increase the third year, which is the year of tithing, and have given it to the Levite, the stranger, the fatherless, and the widow, so that they may eat within your gates and be filled,
+|"When you have made an end of tithing all the tithes of your increase in the third year, which is the year of tithing, and have given it to the Levite, the stranger, the fatherless, and the widow, so that they may eat within your gates and be filled,
 
 |**26:13**
 |Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of my house, and also have given them to the Levite, and to the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten them:
@@ -3019,11 +3019,11 @@
 
 |**27:3**
 |And thou shalt write upon them all the words of this law, when thou hast passed over, that thou mayest enter in to the land which the LORD thy God giveth thee, a land that floweth with milk and honey; as the LORD God of thy fathers hath promised thee.
-|And you shall write upon them all the words of this law when you have passed over so that you may enter in to the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your fathers has promised you.
+|And you shall write upon them all the words of this law when you have passed over so that you may enter the land which the LORD your God gives you, a land that flows with milk and honey, as the LORD God of your fathers has promised you.
 
 |**27:4**
 |Therefore it shall be when ye have gone over Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaster them with plaster.
-|Therefore, it shall be, when you have gone over the Jordan, that you shall set up these stones which I command you this day on mount Ebal, and you shall plaster them with plaster.
+|Therefore, it shall be when you have gone over the Jordan, that you shall set up these stones which I command you this day on mount Ebal, and you shall plaster them with plaster.
 
 |**27:5**
 |And there shalt thou build an altar to the LORD thy God, an altar of stones: thou shalt not lift up any iron tool upon them.
@@ -3056,6 +3056,10 @@
 |**27:13**
 |And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
 |And these shall stand upon mount Ebal to curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+
+|**27:14**
+|And the Levites shall speak, and say to all the men of Israel with a loud voice,
+|And the Levites shall speak and say to all the men of Israel with a loud voice,
 
 |**27:15**
 |Cursed be the man that maketh any graven or molten image, an abomination to the LORD, the work of the hands of the artificer, and putteth it in a secret place: and all the people shall answer, and say Amen.
@@ -3125,7 +3129,7 @@
 
 |**28:3**
 |Blessed shalt thou be in the city, and blessed shalt thou be in the field.
-|"Blessed you shall be in the city, and blessed you shall be in the field.
+|"Blessed shall you be in the city, and blessed shall you be in the field.
 
 |**28:4**
 |Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy cattle, and the flocks of thy sheep.
@@ -3137,7 +3141,7 @@
 
 |**28:6**
 |Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out.
-|"Blessed you shall be when you come in, and blessed you shall be when you go out.
+|"Blessed shall you be when you come in, and blessed shall you be when you go out.
 
 |**28:7**
 |The LORD shall cause thy enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways.
@@ -3149,7 +3153,7 @@
 
 |**28:9**
 |The LORD shall establish thee a holy people to himself, as he hath sworn to thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways.
-|The LORD shall establish you a holy people to himself, as he has sworn to you, if you keep the commandments of the LORD your God and walk in his ways.
+|The LORD shall establish you as a holy people to himself, as he has sworn to you, if you keep the commandments of the LORD your God and walk in his ways.
 
 |**28:10**
 |And all the people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee.
@@ -3177,7 +3181,7 @@
 
 |**28:16**
 |Cursed shalt thou be in the city, and cursed shalt thou be in the field.
-|"Cursed you shall be in the city, and cursed you shall be in the field.
+|"Cursed shall you be in the city, and cursed shall you be in the field.
 
 |**28:17**
 |Cursed shall be thy basket and thy store.
@@ -3189,7 +3193,7 @@
 
 |**28:19**
 |Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.
-|"Cursed you shall be when you come in, and cursed you shall be when you go out.
+|"Cursed shall you be when you come in, and cursed shall you be when you go out.
 
 |**28:20**
 |The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou undertakest to perform, until thou shalt be destroyed, and until thou shalt perish quickly; because of the wickedness of thy doings by which thou hast forsaken me.
@@ -3289,7 +3293,7 @@
 
 |**28:44**
 |He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
-|He shall lend to you and you shall not lend to him. He shall be the head and you shall be the tail.
+|He shall lend to you, and you shall not lend to him. He shall be the head, and you shall be the tail.
 
 |**28:45**
 |Moreover, all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou art destroyed: because thou hearkenedst not to the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:
@@ -3313,7 +3317,7 @@
 
 |**28:50**
 |A nation of fierce countenance, which shall not regard the person of the old, nor show favor to the young:
-|A nation of fierce countenance which shall not regard the person of the old, nor show favor to the young.
+|A nation of fierce countenance which shall not regard the person of the old nor show favor to the young.
 
 |**28:51**
 |And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou art destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy cattle, or flocks of thy sheep, until he hath destroyed thee.
@@ -3341,7 +3345,7 @@
 
 |**28:57**
 |And towards her young one, her own offspring, and towards her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness with which thy enemy shall distress thee in thy gates.
-|Toward her young one, her own offspring, and toward her children which she shall bear, for she shall eat them for lack of all things secretly in the siege and distress with which your enemy shall distress you in your gates.
+|Toward her young one, her own offspring, and toward her children which she shall bear, for she shall eat them secretly for lack of all things in the siege and distress with which your enemy shall distress you in your gates.
 
 |**28:58**
 |If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;
@@ -3349,7 +3353,7 @@
 
 |**28:59**
 |Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and severe sicknesses, and of long continuance.
-|Then the LORD will make your plagues and the plagues of your offspring wonderful, even great plagues and of long continuance, and severe sicknesses and of long continuance.
+|Then the LORD will make your plagues and the plagues of your offspring wonderful, even great and lasting plagues, and severe and lasting sicknesses.
 
 |**28:60**
 |Moreover, he will bring upon thee all the diseases of Egypt, of which thou wast afraid; and they shall cleave to thee.
@@ -3399,7 +3403,7 @@
 
 |**29:2**
 |And Moses called to all Israel, and said to them, Ye have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh, and to all his servants, and to all his land;
-|And Moses called to all Israel, and said to them, "You have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh, to all his servants, and to all his land—
+|And Moses called to all Israel and said to them, "You have seen all that the LORD did before your eyes in the land of Egypt to Pharaoh, to all his servants, and to all his land—
 
 |**29:3**
 |The great temptations which thy eyes have seen, the signs, and those great miracles:
@@ -3443,7 +3447,7 @@
 
 |**29:13**
 |That he may establish thee to-day for a people to himself, and that he may be to thee a God, as he hath said to thee, and as he hath sworn to thy fathers, to Abraham, to Isaac, and to Jacob.
-|So that he may establish you today for a people to himself, and that he may be to you a God, as he has said to you and as he has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
+|So that he may establish you today as a people to himself, and that he may be to you a God, as he has said to you and as he has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
 
 |**29:14**
 |Neither with you only do I make this covenant and this oath;
@@ -3467,7 +3471,7 @@
 
 |**29:19**
 |And it should come to pass, when he heareth the words of this curse, that he should bless himself in his heart, saying, I shall have peace, though I walk in the imagination of my heart, to add drunkenness to thirst:
-|And it should come to pass, when he hears the words of this curse, that he should bless himself in his heart, saying, 'I shall have peace, though I walk in the imagination of my heart,' to sweep away the moist with the dry.
+|And it should come to pass when he hears the words of this curse, that he should bless himself in his heart, saying, 'I shall have peace, though I walk in the imagination of my heart,' to sweep away the moist with the dry.
 
 |**29:20**
 |The LORD will not spare him, but then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the LORD shall blot out his name from under heaven.
@@ -3521,7 +3525,7 @@
 
 |**30:1**
 |And it shall come to pass, when all these things have come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations whither the LORD thy God hath driven thee,
-|"And it shall come to pass, when all these things have come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the LORD your God has driven you
+|"And it shall come to pass when all these things have come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the LORD your God has driven you
 
 |**30:2**
 |And shalt return to the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thy heart, and with all thy soul;
@@ -3565,11 +3569,11 @@
 
 |**30:12**
 |It is not in heaven, that thou shouldst say, Who shall ascend for us to heaven, and bring it to us, that we may hear it, and do it?
-|It is not in heaven, so that you should say, 'Who shall ascend for us to heaven and bring it to us so that we may hear it and do it?'
+|It is not in heaven so that you should say, 'Who shall ascend for us to heaven and bring it to us so that we may hear it and do it?'
 
 |**30:13**
 |Neither is it beyond the sea, that thou shouldst say, Who shall go over the sea for us, and bring it to us, that we may hear it, and do it?
-|Neither is it beyond the sea, so that you should say, 'Who shall go over the sea for us and bring it to us so that we may hear it and do it?'
+|Neither is it beyond the sea so that you should say, 'Who shall go over the sea for us and bring it to us so that we may hear it and do it?'
 
 |**30:14**
 |But the word is very nigh to thee, in thy mouth, and in thy heart, that thou mayest do it.
