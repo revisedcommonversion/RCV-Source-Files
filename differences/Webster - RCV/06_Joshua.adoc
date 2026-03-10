@@ -1227,11 +1227,11 @@
 
 |**13:1**
 |Now Joshua was old and advanced in years; and the LORD said to him Thou art old and advanced in years, and there remaineth yet very much land to be possessed.
-|Now Joshua was old and advanced in years, and the LORD said to him, "You are old and advanced in years, and there remains yet very much land to be possessed.
+|Now Joshua was old and advanced in years, and the LORD said to him, "You are old and advanced in years, and there remains very much land still to be possessed.
 
 |**13:2**
 |This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,
-|This is the land that yet remains: all the borders of the Philistines, and all Geshuri,
+|This is the land that still remains: all the borders of the Philistines, and all Geshuri,
 
 |**13:3**
 |From Sihor, which is before Egypt, even to the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
@@ -1303,7 +1303,7 @@
 
 |**13:22**
 |Balaam also the son of Beor, the sooth-sayer, did the children of Israel slay with the sword, among them that were slain by them.
-|Balaam, the son of Beor, the soothsayer, the children of Israel also slayed with the sword, among those who were slain by them.
+|Balaam the son of Beor, the soothsayer, the children of Israel also slayed with the sword, among those who were slain by them.
 
 |**13:23**
 |And the border of the children of Reuben was Jordan, and its border. This was the inheritance of the children of Reuben after their families, the cities and their villages.
@@ -1357,7 +1357,7 @@
 
 |**14:3**
 |For Moses had given the inheritance of two tribes and a half-tribe on the other side of Jordan: but to the Levites he gave no inheritance among them.
-|For Moses had given the inheritance of two tribes and a half-tribe on the other side of the Jordan, but to the Levites he gave no inheritance among them.
+|For Moses had given the inheritance of the two tribes and the half-tribe on the other side of the Jordan, but to the Levites he gave no inheritance among them.
 
 |**14:4**
 |For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part to the Levites in the land, save cities to dwell in, with their suburbs for their cattle, and for their substance.
@@ -1365,7 +1365,7 @@
 
 |**14:6**
 |Then the children of Judah came to Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said to him, Thou knowest the thing that the LORD said to Moses the man of God concerning me and thee in Kadesh-barnea.
-|Then the children of Judah came to Joshua in Gilgal. And Caleb the son of Jephunneh the Kenezite said to him, "You know the thing that the LORD said to Moses the man of God concerning me and you in Kadesh-barnea.
+|Then the children of Judah came to Joshua in Gilgal. And Caleb the son of Jephunneh the Kenezite said to him, "You know the thing that the LORD said to Moses the man of God concerning you and me in Kadesh-barnea.
 
 |**14:7**
 |Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to explore the land; and I brought him word again as it was in my heart.
@@ -1727,7 +1727,7 @@
 
 |**17:4**
 |And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren: therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.
-|And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, "The LORD commanded Moses to give us an inheritance among our brothers." Therefore, according to the commandment of the LORD, he gave them an inheritance among the brothers of their father.
+|And they came near before Eleazar the priest, before Joshua the son of Nun, and before the princes, saying, "The LORD commanded Moses to give us an inheritance among our brothers." Therefore, according to the commandment of the LORD, he gave them an inheritance among the brothers of their father.
 
 |**17:5**
 |And there fell ten portions to Manasseh, besides the land of Gilead and Bashan, which were on the other side of Jordan;
@@ -1821,11 +1821,11 @@
 
 |**18:7**
 |But the Levites have no part among you; for the priesthood of the LORD is their inheritance. And Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.
-|But the Levites have no part among you, for the priesthood of the LORD is their inheritance. And Gad, Reuben, and half the tribe of Manasseh have received their inheritance beyond the Jordan on the east, which Moses the servant of the LORD gave them."
+|But the Levites have no part among you, for the priesthood of the LORD is their inheritance. And Gad, Reuben, and the half the tribe of Manasseh have received their inheritance beyond the Jordan on the east, which Moses the servant of the LORD gave them."
 
 |**18:8**
 |And the men arose, and departed: and Joshua charged them that went to describe the land, saying, Go, and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.
-|And the men arose and departed. And Joshua charged those who went to describe the land, saying, "Go, and walk through the land, describe it, and come back to me so that I may cast lots for you here before the LORD in Shiloh."
+|And the men arose and departed. And Joshua charged those who went to describe the land, saying, "Go and walk through the land, describe it, and come back to me so that I may cast lots for you here before the LORD in Shiloh."
 
 |**18:9**
 |And the men went and passed through the land, and described it by cities in seven parts in a book, and came again, to Joshua to the host at Shiloh.
@@ -1841,7 +1841,7 @@
 
 |**18:12**
 |And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the limits of it were at the wilderness of Beth-aven.
-|And their border on the north side was from the Jordan. And the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of Beth-aven.
+|And their border on the north side was from the Jordan, and the border went up to the side of Jericho on the north side and went up through the mountains westward. And its limits were at the wilderness of Beth-aven.
 
 |**18:13**
 |And the border went over from thence towards Luz, to the side of Luz (which is Beth-el) southward; and the border descended to Ataroth-adar, near the hill that lieth on the south side of the nether Beth-horon.
@@ -2161,6 +2161,10 @@
 |The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 |The children of Merari by their families had out of the tribe of Reuben, out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 
+|**21:9**
+|And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,
+|And out of the tribe of the children of Judah and out of the tribe of the children of Simeon they gave these cities which are here mentioned by name,
+
 |**21:10**
 |Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.
 |Which the children of Aaron had, being of the families of the Kohathites, who were of the children of Levi, for theirs was the first lot.
@@ -2265,7 +2269,7 @@
 
 |**22:1**
 |Then Joshua called the Reubenites, and the Gadites, and the half-tribe of Manasseh,
-|Then Joshua called the Reubenites, the Gadites, and the half-tribe of Manasseh,
+|Then Joshua called the Reubenites, the Gadites, and the half-tribe of Manasseh
 
 |**22:2**
 |And said to them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:
@@ -2289,11 +2293,11 @@
 
 |**22:7**
 |Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but to the other half of it gave Joshua among their brethren on this side of Jordan westward. And when Joshua sent them away also to their tents, then he blessed them,
-|Now to one half of the tribe of Manasseh, Moses had given possession in Bashan, but to its other half Joshua gave among their brothers on this side of the Jordan westward. And when Joshua sent them away also to their tents, he blessed them,
+|Now to one half of the tribe of Manasseh, Moses had given possession in Bashan, but to its other half Joshua gave among their brothers on this side of the Jordan westward. And when Joshua sent them away also to their tents, he blessed them
 
 |**22:8**
 |And he spoke to them, saying, Return with much riches to your tents, and with very many cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
-|And he spoke to them, saying, "Return with great riches to your tents, and with a very large number of livestock, with silver, with gold, with brass, with iron, and with very many clothes. Divide the plunder of your enemies with your brothers."
+|And he spoke to them, saying, "Return to your tents with great riches, with a very large number of livestock, with silver, with gold, with brass, with iron, and with very many clothes. Divide the plunder of your enemies with your brothers."
 
 |**22:9**
 |And the children of Reuben, and the children of Gad, and the half-tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go to the country of Gilead, to the land of their possession, of which they were possessed, according to the word of the LORD by the hand of Moses.
@@ -2317,7 +2321,7 @@
 
 |**22:14**
 |And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was a head of the house of their fathers among the thousands of Israel.
-|And with him ten princes, of each chief house a prince throughout all the tribes of Israel, and each one was a head of the house of their fathers among the thousands of Israel.
+|And with him ten princes, from each chief house a prince throughout all the tribes of Israel, and each one was a head of the house of their fathers among the thousands of Israel.
 
 |**22:15**
 |And they came to the children of Reuben, and to the children of Gad, and to the half-tribe of Manasseh, to the land of Gilead, and they spoke with them, saying,
@@ -2333,7 +2337,7 @@
 
 |**22:19**
 |Not withstanding, if the land of your possession is unclean, then pass ye over to the land of the possession of the LORD, in which the LORD'S tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar besides the altar of the LORD our God.
-|However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD'S tabernacle dwells, and take possession among us. But do not rebel against the LORD, nor rebel against us, in building yourselves an altar besides the altar of the LORD our God.
+|However, if the land of your possession is unclean, then pass over to the land of the possession of the LORD, in which the LORD'S tabernacle dwells, and take possession among us. But do not rebel against the LORD nor rebel against us in building yourselves an altar besides the altar of the LORD our God.
 
 |**22:20**
 |Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fall on all the congregation of Israel? and that man perished not alone in his iniquity.
@@ -2341,7 +2345,7 @@
 
 |**22:21**
 |Then the children of Reuben, and the children of Gad, and the half-tribe of Manasseh answered, and said to the heads of the thousands of Israel,
-|Then the children of Reuben, the children of Gad, and the half-tribe of Manasseh answered, and said to the heads of the thousands of Israel,
+|Then the children of Reuben, the children of Gad, and the half-tribe of Manasseh answered and said to the heads of the thousands of Israel,
 
 |**22:22**
 |The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if it is in rebellion, or if in transgression against the LORD, (save us not this day,)
@@ -2349,7 +2353,7 @@
 
 |**22:23**
 |That we have built us an altar to turn from following the LORD, or if to offer on it burnt-offering, or meat-offering, or if to offer peace-offerings on it, let the LORD himself require it;
-|If we have built us an altar to turn from following the LORD, or to offer on it burnt-offering, food-offering, or to offer peace-offerings on it, let the LORD himself require it.
+|If we have built for ourselves an altar to turn from following the LORD or to offer on it burnt-offering, food-offering, or to offer peace-offerings on it, let the LORD himself require it.
 
 |**22:24**
 |And if we have not rather done it for fear of this thing, saying, In time to come your children may speak to our children, saying, What have ye to do with the LORD God of Israel?
@@ -2369,7 +2373,7 @@
 
 |**22:28**
 |Therefore said we, that it shall be, when they shall so say to us or to our generations in time to come, that we may say, Behold the pattern of the altar of the LORD, which our fathers made, not for burnt-offerings, nor for sacrifices; but it is a witness between us and you.
-|Therefore, we said that it shall be, when they say so to us or to our generations in time to come, that we may say, 'Behold the pattern of the altar of the LORD which our fathers made, not for burnt-offerings nor for sacrifices, but as a witness between us and you.'
+|Therefore, we said that it shall be when they say this to us or to our generations in time to come, that we may say, 'Behold the pattern of the altar of the LORD which our fathers made, not for burnt-offerings nor for sacrifices, but as a witness between us and you.'
 
 |**22:29**
 |Far be it from us that we should rebel against the LORD, and turn this day from following the LORD, to build an altar for burnt-offerings, for meat-offerings, or for sacrifices, besides the altar of the LORD our God that is before his tabernacle.
@@ -2529,7 +2533,7 @@
 
 |**24:13**
 |And I have given you a land for which ye did not labor, and cities which ye built not, and ye dwell in them; of the vineyards and olive-yards which ye planted not do ye eat.
-|And I have given you a land for which you did not labor and cities which you did not build, and you dwell in them. You eat of the vineyards and olive-groves which you did not plant.'
+|And I have given you a land for which you did not labor and cities which you did not build, and you dwell in them. You eat from the vineyards and olive-groves which you did not plant.'
 
 |**24:14**
 |Now therefore fear the LORD, and serve him in sincerity and in truth; and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.
@@ -2541,7 +2545,7 @@
 
 |**24:16**
 |And the people answered, and said, Be it far from us that we should forsake the LORD, to serve other gods;
-|And the people answered, and said, "Be it far from us that we should forsake the LORD to serve other gods.
+|And the people answered and said, "Be it far from us that we should forsake the LORD to serve other gods.
 
 |**24:17**
 |For the LORD our God, he it is that brought us, and our fathers, out of the land of Egypt, from the house of bondage, and who did those great signs in our sight, and preserved us in all the way in which we went, and among all the people through whom we passed:
@@ -2605,7 +2609,7 @@
 
 |**24:32**
 |And the bones of Joseph which the children of Israel brought out of Egypt, they buried in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for a hundred pieces of silver; and it became the inheritance of the children of Joseph.
-|And the bones of Joseph which the children of Israel brought out of Egypt, they buried in Shechem in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for one hundred pieces of silver. And it became the inheritance of the children of Joseph.
+|And the bones of Joseph which the children of Israel brought out of Egypt, they buried in Shechem in a parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for one hundred pieces of silver. And it became the inheritance of the children of Joseph.
 
 |**24:33**
 |And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
