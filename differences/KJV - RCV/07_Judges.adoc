@@ -1899,9 +1899,13 @@
 |And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put them upon his shoulders, and carried them up to the top of an hill that is before Hebron.
 |And Samson lay until midnight. Then at midnight he arose and took the doors of the gate of the city, with the two posts, and went away with them, bar and all, and put them upon his shoulders and carried them up to the top of a hill that is before Hebron.
 
+|**16:4**
+|And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah.
+|And it came to pass afterward, that he loved a woman in the valley of Sorek whose name was Delilah.
+
 |**16:5**
 |And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength lieth, and by what means we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred pieces of silver.
-|And the lords of the Philistines came to her, and said to her, "Entice him, and see in what his great strength lies and by what means we may prevail against him so that we may bind him to afflict him. And we will each give you eleven hundred pieces of silver."
+|And the lords of the Philistines came to her and said to her, "Entice him, and see in what his great strength lies and by what means we may prevail against him so that we may bind him to afflict him. And we will each give you eleven hundred pieces of silver."
 
 |**16:6**
 |And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.
@@ -1909,7 +1913,7 @@
 
 |**16:7**
 |And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man.
-|And Samson said to her, "If they bind me with seven green cords that were never dried, then I shall be weak and be as another man."
+|And Samson said to her, "If they bind me with seven green cords that were never dried, then I shall become weak and be like any other man."
 
 |**16:8**
 |Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.
@@ -1925,11 +1929,11 @@
 
 |**16:11**
 |And he said unto her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man.
-|And he said to her, "If they bind me firmly with new ropes that were never used, then I shall be weak and be as another man."
+|And he said to her, "If they bind me firmly with new ropes that were never used, then I shall become weak and be like any other man."
 
 |**16:12**
 |Delilah therefore took new ropes, and bound him therewith, and said unto him, The Philistines be upon thee, Samson. And there were liers in wait abiding in the chamber. And he brake them from off his arms like a thread.
-|Delilah therefore took new ropes and bound him with them, and said to him, "The Philistines are upon you, Samson." (And there were men lying in wait and abiding in the chamber.) And he broke them from off his arms like a thread.
+|Delilah therefore took new ropes and bound him with them and said to him, "The Philistines are upon you, Samson." (And there were men lying in wait and abiding in the chamber.) And he broke them from off his arms like a thread.
 
 |**16:13**
 |And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web.
@@ -1937,7 +1941,7 @@
 
 |**16:14**
 |And she fastened it with the pin, and said unto him, The Philistines be upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
-|And she fastened it with the pin, and said to him, "The Philistines are upon you, Samson." And he awoke out of his sleep and went away with the pin of the beam and with the web.
+|And she fastened it with the pin and said to him, "The Philistines are upon you, Samson." And he awoke out of his sleep and went away with the pin of the beam and with the web.
 
 |**16:15**
 |And she said unto him, How canst thou say, I love thee, when thine heart is not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength lieth.
@@ -1949,7 +1953,7 @@
 
 |**16:17**
 |That he told her all his heart, and said unto her, There hath not come a rasor upon mine head; for I have been a Nazarite unto God from my mother's womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any other man.
-|That he told her all his heart, and said to her, "There has not come a razor upon my head, for I have been a Nazarite to God from my birth. If I am shaved, then my strength will go from me, and I shall become weak and be like any other man."
+|That he told her all his heart and said to her, "No razor has ever come upon my head, for I have been a Nazarite to God from my birth. If I am shaved, then my strength will go from me, and I shall become weak and be like any other man."
 
 |**16:18**
 |And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand.
@@ -1961,7 +1965,7 @@
 
 |**16:20**
 |And she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.
-|And she said, "The Philistines are upon you, Samson." And he awoke out of his sleep, and said, "I will go out as at other times before and shake myself." And he did not know that the LORD had departed from him.
+|And she said, "The Philistines are upon you, Samson." And he awoke out of his sleep and said, "I will go out as at other times before and shake myself." And he did not know that the LORD had departed from him.
 
 |**16:21**
 |But the Philistines took him, and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass; and he did grind in the prison house.
@@ -1993,7 +1997,7 @@
 
 |**16:28**
 |And Samson called unto the LORD, and said, O Lord GOD, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
-|And Samson called to the LORD, and said, "O Lord GOD, remember me, I pray you, and strengthen me, I pray you, only this once, O God, so that I may be at once avenged of the Philistines for my two eyes."
+|And Samson called to the LORD and said, "O Lord GOD, remember me, I pray you, and strengthen me, I pray you, only this once, O God, so that I may be at once avenged of the Philistines for my two eyes."
 
 |**16:29**
 |And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
@@ -2017,6 +2021,10 @@
 |*KJV*
 |*RCV*
 
+|**17:1**
+|And there was a man of mount Ephraim, whose name was Micah.
+|And there was a man from mount Ephraim, whose name was Micah.
+
 |**17:2**
 |And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the LORD, my son.
 |And he said to his mother, "The eleven hundred shekels of silver that were taken from you, about which you cursed and also spoke about in my ears, behold, the silver is with me. I took it." And his mother said, "Blessed are you of the LORD, my son."
@@ -2031,7 +2039,7 @@
 
 |**17:5**
 |And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his priest.
-|And the man Micah had a house of gods, and made an ephod and teraphim and consecrated one of his sons, who became his priest.
+|And the man Micah had a house of gods, and he made an ephod and teraphim and consecrated one of his sons, who became his priest.
 
 |**17:7**
 |And there was a young man out of Bethlehemjudah of the family of Judah, who was a Levite, and he sojourned there.
@@ -2051,7 +2059,7 @@
 
 |**17:11**
 |And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.
-|And the Levite was content to dwell with the man, and the young man was to him as one of his sons.
+|And the Levite was content to dwell with the man, and the young man became like one of his sons to him.
 
 |**17:12**
 |And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.
@@ -2145,7 +2153,7 @@
 
 |**18:19**
 |And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: is it better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?
-|And they said to him, "Hold your peace, lay your hand upon your mouth, and go with us, and be to us a father and a priest. Is it better for you to be a priest to the house of one man, or that you should be a priest to a tribe and a family in Israel?"
+|And they said to him, "Hold your peace. Lay your hand upon your mouth and go with us, and be to us a father and a priest. Is it better for you to be a priest for the house of one man or that you should be a priest for a tribe and a family in Israel?"
 
 |**18:20**
 |And the priest's heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
@@ -2223,7 +2231,7 @@
 
 |**19:5**
 |And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.
-|And it came to pass on the fourth day when they arose early in the morning, that he arose to depart, and the young woman's father said to his son-in-law, "Comfort your heart with a morsel of bread and afterward depart."
+|And it came to pass on the fourth day when they arose early in the morning, that he arose to depart, and the young woman's father said to his son-in-law, "Comfort your heart with a morsel of bread, and afterward, you may depart."
 
 |**19:6**
 |And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.
@@ -2247,7 +2255,7 @@
 
 |**19:11**
 |And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.
-|And when they were by Jebus, the day was far spent. And the servant said to his master, "Come, I pray you, and let us turn in to this city of the Jebusites and lodge in it."
+|And when they were by Jebus, the day was far spent. And the servant said to his master, "Come, I pray you, and let us turn aside into this city of the Jebusites and lodge in it."
 
 |**19:12**
 |And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah.
@@ -2291,7 +2299,7 @@
 
 |**19:22**
 |Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
-|Now as they were making their hearts merry, behold, the men of the city, some sons of Belial, beset the house on all sides and beat at the door, and spoke to the master of the house, the old man, saying, "Bring forth the man who came into your house so that we may know him."
+|Now as they were making their hearts merry, behold, the men of the city, some sons of Belial, beset the house on all sides and beat at the door and spoke to the master of the house, the old man, saying, "Bring forth the man who came into your house so that we may know him."
 
 |**19:23**
 |And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.
@@ -2311,7 +2319,7 @@
 
 |**19:27**
 |And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, and her hands were upon the threshold.
-|And her lord rose in the morning, opened the doors of the house, and went out to go his way. And behold, the woman his concubine had fallen down at the door of the house, and her hands were upon the threshold.
+|And her lord rose in the morning, opened the doors of the house, and went out to go his way. And behold, the woman, his concubine, had fallen down at the door of the house, and her hands were upon the threshold.
 
 |**19:28**
 |And he said unto her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him unto his place.
@@ -2341,7 +2349,7 @@
 
 |**20:2**
 |And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword.
-|And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God—four hundred thousand footmen who drew sword.
+|And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God—four hundred thousand footmen who drew the sword.
 
 |**20:3**
 |(Now the children of Benjamin heard that the children of Israel were gone up to Mizpeh.) Then said the children of Israel, Tell us, how was this wickedness?
@@ -2349,7 +2357,7 @@
 
 |**20:4**
 |And the Levite, the husband of the woman that was slain, answered and said, I came into Gibeah that belongeth to Benjamin, I and my concubine, to lodge.
-|And the Levite, the husband of the woman who was slain, answered and said, "I came into Gibeah that belongs to Benjamin—I and my concubine—to lodge.
+|And the Levite, the husband of the woman who was slain, answered and said, "I came into Gibeah that belongs to Benjamin—my concubine and I—to lodge.
 
 |**20:5**
 |And the men of Gibeah rose against me, and beset the house round about upon me by night, and thought to have slain me: and my concubine have they forced, that she is dead.
@@ -2385,11 +2393,11 @@
 
 |**20:14**
 |But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
-|But the children of Benjamin assembled out of the cities to Gibeah to go out to battle against the children of Israel.
+|But the children of Benjamin assembled out of the cities at Gibeah to go out to battle against the children of Israel.
 
 |**20:15**
 |And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men.
-|And the children of Benjamin were numbered at that time out of the cities twenty-six thousand men who drew sword, besides the inhabitants of Gibeah, who were numbered seven hundred chosen men.
+|And the children of Benjamin were numbered at that time out of the cities twenty-six thousand men who drew the sword, besides the inhabitants of Gibeah, who were numbered seven hundred chosen men.
 
 |**20:16**
 |Among all this people there were seven hundred chosen men lefthanded; every one could sling stones at an hair breadth, and not miss.
@@ -2397,11 +2405,11 @@
 
 |**20:17**
 |And the men of Israel, beside Benjamin, were numbered four hundred thousand men that drew sword: all these were men of war.
-|And the men of Israel, besides Benjamin, were numbered four hundred thousand men who drew sword. All these were men of war.
+|And the men of Israel, besides Benjamin, were numbered four hundred thousand men who drew the sword. All these were men of war.
 
 |**20:18**
 |And the children of Israel arose, and went up to the house of God, and asked counsel of God, and said, Which of us shall go up first to the battle against the children of Benjamin? And the LORD said, Judah shall go up first.
-|And the children of Israel arose and went up to the house of God and asked counsel of God, and said, "Which of us shall go up first to the battle against the children of Benjamin?" And the LORD said, "Judah shall go up first."
+|And the children of Israel arose, went up to the house of God, and asked counsel of God and said, "Which of us shall go up first to the battle against the children of Benjamin?" And the LORD said, "Judah shall go up first."
 
 |**20:19**
 |And the children of Israel rose up in the morning, and encamped against Gibeah.
@@ -2417,15 +2425,19 @@
 
 |**20:22**
 |And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day.
-|And the people, the men of Israel, encouraged themselves and set their battle again in array in the place where they put themselves in array the first day.
+|And the people, the men of Israel, encouraged themselves and set their battle again in array in the place where they put themselves in array on the first day.
 
 |**20:23**
 |(And the children of Israel went up and wept before the LORD until even, and asked counsel of the LORD, saying, Shall I go up again to battle against the children of Benjamin my brother? And the LORD said, Go up against him.)
 |(And the children of Israel went up and wept before the LORD until evening and asked counsel of the LORD, saying, "Shall I go up again to battle against the children of Benjamin my brother?" And the LORD said, "Go up against him.")
 
+|**20:24**
+|And the children of Israel came near against the children of Benjamin the second day.
+|And the children of Israel came near against the children of Benjamin on the second day.
+
 |**20:25**
 |And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword.
-|And Benjamin went forth against them out of Gibeah the second day and again destroyed down to the ground eighteen thousand men of the children of Israel. All these drew the sword.
+|And Benjamin went forth against them out of Gibeah on the second day and again destroyed down to the ground eighteen thousand men of the children of Israel. All these drew the sword.
 
 |**20:26**
 |Then all the children of Israel, and all the people, went up, and came unto the house of God, and wept, and sat there before the LORD, and fasted that day until even, and offered burnt offerings and peace offerings before the LORD.
@@ -2513,7 +2525,7 @@
 
 |**20:47**
 |But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
-|But six hundred men turned and fled to the wilderness to the rock Rimmon and stayed at the rock Rimmon four months.
+|But six hundred men turned and fled to the wilderness to the rock of Rimmon and stayed at the rock of Rimmon four months.
 
 |**20:48**
 |And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, as well the men of every city, as the beast, and all that came to hand: also they set on fire all the cities that they came to.
@@ -2535,7 +2547,7 @@
 
 |**21:2**
 |And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;
-|And the people came to the house of God and stayed there until evening before God and lifted up their voices and wept bitterly,
+|And the people came to the house of God and stayed there until evening before God, and they lifted up their voices and wept bitterly
 
 |**21:3**
 |And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?
@@ -2551,7 +2563,7 @@
 
 |**21:6**
 |And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.
-|And the children of Israel repented for Benjamin their brother, and said, "There is one tribe cut off from Israel this day.
+|And the children of Israel repented for Benjamin their brother and said, "There is one tribe cut off from Israel this day.
 
 |**21:7**
 |How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?
@@ -2567,7 +2579,7 @@
 
 |**21:10**
 |And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
-|And the congregation sent there twelve thousand men of the most valiant, and commanded them, saying, "Go and smite the inhabitants of Jabesh-gilead with the edge of the sword, along with the women and the children.
+|And the congregation sent there twelve thousand men of the most valiant and commanded them, saying, "Go and smite the inhabitants of Jabesh-gilead with the edge of the sword, along with the women and the children.
 
 |**21:11**
 |And this is the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man.
@@ -2575,11 +2587,11 @@
 
 |**21:12**
 |And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which is in the land of Canaan.
-|And they found among the inhabitants of Jabesh-gilead four hundred young virgins who had known no man by lying with any male, and they brought them to the camp to Shiloh, which is in the land of Canaan.
+|And they found among the inhabitants of Jabesh-gilead four hundred young virgins who had known no man by lying with any male, and they brought them to the camp at Shiloh, which is in the land of Canaan.
 
 |**21:13**
 |And the whole congregation sent some to speak to the children of Benjamin that were in the rock Rimmon, and to call peaceably unto them.
-|And the whole congregation sent some to speak to the children of Benjamin who were in the rock Rimmon and to call peaceably to them.
+|And the whole congregation sent some to speak to the children of Benjamin who were in the rock of Rimmon and to call peaceably to them.
 
 |**21:14**
 |And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabeshgilead: and yet so they sufficed them not.
@@ -2615,7 +2627,7 @@
 
 |**21:22**
 |And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, that ye should be guilty.
-|And it shall be, when their fathers or their brothers come to us to complain, that we will say to them, 'Be favorable to them for our sakes, because we did not reserve to each man his wife in the war, neither did you give them to them; otherwise, you would now be guilty.'"
+|And it shall be when their fathers or their brothers come to us to complain, that we will say to them, 'Be favorable to them for our sakes, because we did not reserve to each man his wife in the war, neither did you give them to them; otherwise, you would now be guilty.'"
 
 |**21:23**
 |And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
