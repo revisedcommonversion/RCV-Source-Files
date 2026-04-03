@@ -11,11 +11,11 @@
 
 |**1:1**
 |Now it came to pass after the death of Saul, when David had returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
-|Now it came to pass after the death of Saul, when David had returned from the slaughter of the Amalekites and David had stayed two days in Ziklag,
+|Now it came to pass after the death of Saul when David had returned from the slaughter of the Amalekites and David had stayed two days in Ziklag,
 
 |**1:2**
 |It came even to pass on the third day, that behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
-|It came even to pass on the third day, that behold, a man came out of the camp from Saul with his clothes rent and earth upon his head. And so it was, when he came to David, that he fell to the earth and did obeisance.
+|It came even to pass on the third day, that behold, a man came out of the camp from Saul with his clothes rent and earth upon his head. And it came to pass when he came to David, that he fell to the earth and did obeisance.
 
 |**1:3**
 |And David said to him, From whence comest thou? And he said to him, Out of the camp of Israel have I escaped.
@@ -371,7 +371,7 @@
 
 |**3:28**
 |And afterward when David heard it, he said, I and my kingdom are guiltless before the LORD for ever from the blood of Abner the son of Ner:
-|And afterward when David heard it, he said, "I and my kingdom are guiltless before the LORD forever from the blood of Abner the son of Ner.
+|And afterward, when David heard it, he said, "I and my kingdom are guiltless before the LORD forever from the blood of Abner the son of Ner.
 
 |**3:29**
 |Let it rest on the head of Joab, and on all his father's house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.
@@ -433,7 +433,7 @@
 
 |**4:4**
 |And Jonathan, Saul's son, had a son that was lame of his feet: he was five years old when the tidings came of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name was Mephibosheth.
-|And Jonathan, Saul's son, had a son who was lame in his feet. He was five years old when the tidings of Saul and Jonathan came out of Jezreel, and his nurse took him up and fled. And it came to pass, as she made haste to flee, that he fell and became lame. And his name was Mephibosheth.
+|And Jonathan, Saul's son, had a son who was lame in his feet. He was five years old when the tidings of Saul and Jonathan came out of Jezreel, and his nurse took him up and fled. And it came to pass as she made haste to flee, that he fell and became lame. And his name was Mephibosheth.
 
 |**4:5**
 |And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ish-bosheth, who lay on a bed at noon.
@@ -547,7 +547,7 @@
 
 |**5:20**
 |And David came to Baal-perazim, and David smote them there, and said, The LORD hath broken forth upon my enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.
-|And David came to Baal-perazim, and David smote them there and said, "The LORD has broken forth upon my enemies before me, like a breach of waters." Therefore, he called the name of that place Baal-perazim.
+|And David came to Baal-perazim, and David smote them there and said, "The LORD has broken forth upon my enemies before me like a breach of waters." Therefore, he called the name of that place Baal-perazim.
 
 |**5:22**
 |And the Philistines came yet again, and spread themselves in the valley of Rephaim.
@@ -559,7 +559,7 @@
 
 |**5:24**
 |And let it be, when thou hearest the sound of a going in the tops of the mulberry-trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.
-|And let it be, when you hear the sound of a going in the tops of the mulberry-trees, you shall move quickly, for then the LORD shall go out before you to smite the host of the Philistines."
+|And it shall come to pass when you hear the sound of a going in the tops of the mulberry-trees, that you shall move quickly, for then the LORD shall go out before you to smite the host of the Philistines."
 
 |**5:25**
 |And David did so as the LORD had commanded him; and smote the Philistines from Geba until thou comest to Gazer.
@@ -645,7 +645,7 @@
 
 |**6:20**
 |Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to-day, who uncovered himself to-day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!
-|Then David returned to bless his household. And Michal the daughter of Saul came out to meet David and said, "How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants' women-servants, as one of the vain fellows shamelessly uncovers himself!"
+|Then David returned to bless his household. And Michal the daughter of Saul came out to meet David and said, "How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants' women-servants like one of the vain fellows shamelessly uncovers himself!"
 
 |**6:21**
 |And David said to Michal, It was before the LORD, who chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.
@@ -671,7 +671,7 @@
 
 |**7:1**
 |And it came to pass, when the king sat in his house, and the LORD had given him rest around from all his enemies;
-|And it came to pass, when the king sat in his house, and the LORD had given him rest around from all his enemies,
+|And it came to pass when the king sat in his house and the LORD had given him rest around from all his enemies,
 
 |**7:2**
 |That the king said to Nathan the prophet, See now, I dwell in a house of cedar, but the ark of God dwelleth within curtains.
@@ -755,7 +755,7 @@
 
 |**7:23**
 |And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people which thou redeemedst to thee from Egypt, from the nations and their gods?
-|And what one nation in the earth is like your people, even like Israel, whom God went to redeem for a people to himself, to make a name for himself, and to do for you great and awesome things, driving out nations and their gods before your people, which you redeemed for yourself from Egypt?
+|And what one nation on the earth is like your people, even like Israel, whom God went to redeem for a people to himself, to make a name for himself, and to do for you great and awesome things, driving out nations and their gods before your people, which you redeemed for yourself from Egypt?
 
 |**7:24**
 |For thou hast confirmed to thyself thy people Israel to be a people to thee for ever: and thou, LORD, art become their God.
@@ -837,7 +837,7 @@
 
 |**8:13**
 |And David made him a name when he returned from smiting of the Syrians in the valley of Salt, being eighteen thousand men.
-|And David made himself a name when he returned from smiting the Syrians in the Valley of Salt, even eighteen thousand men.
+|And David made a name for himself when he returned from smiting the Syrians in the Valley of Salt, even eighteen thousand men.
 
 |**8:14**
 |And he put garrisons in Edom; throughout all Edom he put garrisons, and all they of Edom became David's servants. And the LORD preserved David whithersoever he went.
@@ -993,7 +993,7 @@
 
 |**10:18**
 |And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there.
-|And the Syrians fled before Israel. And David slew the men of seven hundred chariots of the Syrians and forty thousand horsemen, and he smote Shobach the captain of their host, who died there.
+|And the Syrians fled before Israel. And David slew of the Syrians the men of seven hundred chariots and forty thousand horsemen, and he smote Shobach the captain of their host, who died there.
 
 |**10:19**
 |And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.
@@ -1011,7 +1011,7 @@
 
 |**11:1**
 |And it came to pass, after the year had expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and destroyed Rabbah. But David tarried still at Jerusalem.
-|And it came to pass, after the year had expired, at the time when kings go forth to battle, that David sent Joab and his servants with him and all Israel. And they destroyed the children of Ammon and destroyed Rabbah. But David remained in Jerusalem.
+|And it came to pass after the year had expired, at the time when kings go forth to battle, that David sent Joab and his servants with him and all Israel. And they destroyed the children of Ammon and destroyed Rabbah. But David remained in Jerusalem.
 
 |**11:2**
 |And it came to pass in an evening, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
@@ -1027,7 +1027,7 @@
 
 |**11:5**
 |And the woman conceived, and sent and told David, and said, I am with child.
-|And the woman conceived, and sent and told David and said, "I am with child."
+|And the woman conceived and sent and told David and said, "I am with child."
 
 |**11:6**
 |And David sent to Joab, saying, Send me Uriah the Hittite. And Joab sent Uriah to David.
@@ -1068,6 +1068,10 @@
 |**11:15**
 |And he wrote in the letter, saying, Set ye Uriah in the front of the hottest battle, and retire ye from him, that he may be smitten, and die.
 |And he wrote in the letter, saying, "Set Uriah in the front of the hottest battle and retire from him so that he may be smitten and die."
+
+|**11:16**
+|And it came to pass, when Joab observed the city, that he assigned Uriah to a place where he knew that valiant men were.
+|And it came to pass when Joab observed the city, that he assigned Uriah to a place where he knew that valiant men were.
 
 |**11:17**
 |And the men of the city went out, and fought with Joab: and there fell some of the people of the servants of David; and Uriah the Hittite died also.
@@ -1213,7 +1217,7 @@
 
 |**12:24**
 |And David comforted Bath-sheba his wife, and went in to her, and lay with her: and she bore a son, and he called his name Solomon: and the LORD loved him.
-|And David comforted Bath-sheba his wife and went in to her and lay with her. And she bore a son, and he called his name Solomon. And the LORD loved him,
+|And David comforted Bath-sheba his wife and went in to her and lay with her. And she bore a son, and he called his name Solomon. And the LORD loved him
 
 |**12:25**
 |And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.
@@ -1375,7 +1379,7 @@
 
 |**13:32**
 |And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose that they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
-|And Jonadab, the son of Shimeah David's brother, answered and said, "Do not let my lord suppose that they have slain all the young men, the king's sons, for only Amnon is dead. For by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.
+|And Jonadab the son of Shimeah, David's brother, answered and said, "Do not let my lord suppose that they have slain all the young men, the king's sons, for only Amnon is dead. For by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.
 
 |**13:33**
 |Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead.
@@ -1391,7 +1395,7 @@
 
 |**13:36**
 |And it came to pass, as soon as he had made an end of speaking, that behold, the king's sons came, and lifted up their voice and wept: and the king also and all his servants wept exceedingly.
-|And it came to pass, as soon as he had made an end of speaking, that behold, the king's sons came and lifted up their voice and wept. And the king and all his servants also wept exceedingly.
+|And it came to pass as soon as he had made an end of speaking, that behold, the king's sons came and lifted up their voice and wept. And the king and all his servants also wept exceedingly.
 
 |**13:37**
 |But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day.
@@ -1421,7 +1425,7 @@
 
 |**14:2**
 |And Joab sent to Tekoah, and brought thence a wise woman, and said to her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
-|And Joab sent to Tekoah and brought from there a wise woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but be as a woman who had a long time mourned for the dead.
+|And Joab sent to Tekoah and brought from there a wise woman and said to her, "I pray you, feign yourself to be a mourner and put on mourning apparel and do not anoint yourself with oil, but act like a woman who has mourned for the dead a long time.
 
 |**14:3**
 |And come to the king, and speak in this manner to him. So Joab put the words in her mouth.
@@ -1469,7 +1473,7 @@
 
 |**14:14**
 |For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him.
-|For we must die and are as water spilled on the ground which cannot be gathered up again. God does not respect any person, yet he devises means so that his banished is not expelled from him.
+|For we must die and are like water spilled on the ground which cannot be gathered up again. God does not respect any person, yet he devises means so that his banished is not expelled from him.
 
 |**14:15**
 |Now therefore that I have come to speak of this thing to my lord the king, it is because the people have made me afraid: and thy handmaid said, I will now speak to the king; it may be that the king will perform the request of his handmaid.
@@ -1567,7 +1571,7 @@
 
 |**15:3**
 |And Absalom said to him, See, thy matters are good and right; but there is no man deputed by the king to hear thee.
-|And Absalom said to him, "See, your matters are good and right, but there is no man deputed by the king to hear you."
+|And Absalom said to him, "Behold, your matters are good and right, but there is no man deputed by the king to hear you."
 
 |**15:4**
 |Absalom said moreover, Oh that I were made judge in the land, that every man who hath any suit or cause might come to me, and I would do him justice!
@@ -1623,7 +1627,7 @@
 
 |**15:17**
 |And the king went forth, and all the people after him, and tarried in a place that was far off.
-|And the king went forth, and all the people followed him, and stayed in Beth-merhak.
+|And the king went forth, and all the people followed him, and they stayed in Beth-merhak.
 
 |**15:18**
 |And all his servants passed on by his side; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men who came after him from Gath, passed on before the king.
@@ -1663,7 +1667,7 @@
 
 |**15:27**
 |The king said also to Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.
-|The king said also to Zadok the priest, "Are you not a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son and Jonathan the son of Abiathar.
+|The king also said to Zadok the priest, "Are you not a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son and Jonathan the son of Abiathar.
 
 |**15:28**
 |See, I will tarry in the plain of the wilderness, until word shall come from you to certify me.
@@ -1851,11 +1855,11 @@
 
 |**17:9**
 |Behold, he is hid now in some pit, or in some other place: and it will come to pass, when some of them are overthrown at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom.
-|Behold, he is now hid in some pit, or in some other place. And it will come to pass, when some of them are overthrown at the first, that whoever hears it will say, 'There is a slaughter among the people who follow Absalom.'
+|Behold, he is now hid in some pit or in some other place. And it will come to pass when some of them are overthrown at the first, that whoever hears it will say, 'There is a slaughter among the people who follow Absalom.'
 
 |**17:10**
 |And he also that is valiant, whose heart is as the heart of a lion, will utterly melt: for all Israel knoweth that thy father is a mighty man, and they who are with him are valiant men.
-|And he also who is valiant, whose heart is as the heart of a lion, will utterly melt, for all Israel knows that your father is a mighty man, and those who are with him are valiant men.
+|And he also who is valiant, whose heart is like the heart of a lion, will utterly melt, for all Israel knows that your father is a mighty man, and those who are with him are valiant men.
 
 |**17:11**
 |Therefore I counsel that all Israel should be generally gathered to thee, from Dan even to Beer-sheba, as the sand that is by the sea for multitude; and that thou shouldst go to battle in thy own person.
@@ -1899,7 +1903,7 @@
 
 |**17:21**
 |And it came to pass, after they had departed, that they came out of the well, and went and told king David, and said to David, Arise, and pass quickly over the water: for thus hath Ahithophel counseled against you.
-|And it came to pass, after they had departed, that they came out of the well and went and told king David and said to David, "Arise and pass quickly over the water, for in this manner Ahithophel has counseled against you."
+|And it came to pass after they had departed, that they came out of the well and went and told king David and said to David, "Arise and pass quickly over the water, for in this manner Ahithophel has counseled against you."
 
 |**17:22**
 |Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that had not gone over Jordan.
@@ -1919,7 +1923,7 @@
 
 |**17:27**
 |And it came to pass, when David had come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lo-debar, and Barzillai the Gileadite of Rogelim,
-|And it came to pass, when David had come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, Machir the son of Ammiel of Lo-debar, and Barzillai the Gileadite of Rogelim,
+|And it came to pass when David had come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, Machir the son of Ammiel of Lo-debar, and Barzillai the Gileadite of Rogelim,
 
 |**17:28**
 |Brought beds, and basins, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentils, and parched pulse,
@@ -2009,7 +2013,7 @@
 
 |**18:18**
 |Now Absalom in his life-time had taken and raised for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called to this day, Absalom's place.
-|Now Absalom in his life-time had taken and raised for himself a pillar, which is in the king's valley, for he said, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
+|Now Absalom in his lifetime had taken and raised for himself a pillar, which is in the king's valley, for he said, "I have no son to keep my name in remembrance." And he called the pillar after his own name, and it is called to this day, Absalom's Place.
 
 |**18:19**
 |Then said Ahimaaz the son of Zadok, Let me now run, and inform the king, how the LORD hath avenged himself of his enemies.
