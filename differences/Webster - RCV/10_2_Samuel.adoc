@@ -2151,7 +2151,7 @@
 
 |**19:18**
 |And there went over a ferry-boat to carry over the king's household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he came over Jordan;
-|And a ferry-boat went to carry over the king's household and to do what he thought good. And Shimei the son of Gera fell down before the king as he came over the Jordan,
+|And a ferry-boat went to carry over the king's household and to do what he thought good. And Shimei the son of Gera fell down before the king as he came over the Jordan
 
 |**19:19**
 |And said to the king, Let not my lord impute iniquity to me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart.
@@ -2187,7 +2187,7 @@
 
 |**19:27**
 |And he hath slandered thy servant to my lord the king; but my lord the king is as an angel of God: do therefore what is good in thy eyes.
-|And he has slandered your servant to my lord the king. But my lord the king is as an angel of God. Do therefore what is good in your eyes.
+|And he has slandered your servant to my lord the king. But my lord the king is like an angel of God. Do therefore what is good in your eyes.
 
 |**19:28**
 |For all of my father's house were but dead men before my lord the king: yet didst thou set thy servant among them that ate at thy own table. What right therefore have I yet to cry any more to the king?
@@ -2379,7 +2379,7 @@
 
 |**21:1**
 |Then there was a famine in the days of David three years, year after year; and David inquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.
-|Then there was a famine in the days of David for three years, year after year. And David inquired of the LORD. And the LORD answered, "It is for Saul and for his bloody house because he slew the Gibeonites."
+|Then there was a famine in the days of David for three years, year after year, and David inquired of the LORD. And the LORD answered, "It is for Saul and for his bloody house because he slew the Gibeonites."
 
 |**21:2**
 |And the king called the Gibeonites, and said to them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn to them: and Saul sought to slay them, in his zeal to the children of Israel and Judah.)
@@ -2411,7 +2411,7 @@
 
 |**21:10**
 |And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night.
-|And Rizpah the daughter of Aiah took sackcloth and spread it for herself upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and allowed neither the birds of the air to rest on them by day, nor the beasts of the field by night.
+|And Rizpah the daughter of Aiah took sackcloth and spread it for herself upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and allowed neither the birds of the air to rest on them by day nor the beasts of the field by night.
 
 |**21:11**
 |And it was told David what Rizpah the daughter of Aiah the concubine of Saul had done.
@@ -2431,7 +2431,7 @@
 
 |**21:15**
 |Moreover, the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David became faint.
-|Moreover, the Philistines had yet warred again with Israel, and David went down, and his servants with him, and fought against the Philistines. And David became faint.
+|Moreover, the Philistines made war again with Israel, and David went down, and his servants with him, and fought against the Philistines. And David became faint.
 
 |**21:16**
 |And Ishbi-benob, who was of the sons of the giant, the weight of whose spear was three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David.
@@ -2439,7 +2439,7 @@
 
 |**21:17**
 |But Abishai the son of Zeruiah succored him, and smote the Philistine, and killed him. Then the men of David swore to him, saying, Thou shalt go out no more with us to battle, that thou mayest not extinguish the light of Israel.
-|But Abishai the son of Zeruiah helped him, and smote the Philistine and killed him. Then the men of David swore to him, saying, "You shall no longer go out with us to battle so that you may not extinguish the light of Israel."
+|But Abishai the son of Zeruiah helped him and smote the Philistine and killed him. Then the men of David swore to him, saying, "You shall no longer go out with us to battle so that you may not extinguish the light of Israel."
 
 |**21:18**
 |And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, who was of the sons of the giant.
@@ -2522,6 +2522,10 @@
 |**22:15**
 |And he sent out arrows, and scattered them; lightning, and discomfited them.
 |And he sent out arrows and scattered them, lightning, and completely defeated them.
+
+|**22:16**
+|And the channels of the sea appeared, the foundations of the world were laid open, at the rebuking of the LORD, at the blast of the breath of his nostrils.
+|And the channels of the sea appeared, the foundations of the world were laid open at the rebuking of the LORD, at the blast of the breath of his nostrils.
 
 |**22:17**
 |He sent from above, he took me; he drew me out of many waters;
@@ -2629,7 +2633,7 @@
 
 |**22:43**
 |Then I beat them as small as the dust of the earth, I stamped them as the mire of the street, and spread them abroad.
-|Then I beat them as small as the dust of the earth. I stamped them as the mire of the street and spread them abroad.
+|Then I beat them as small as the dust of the earth. I crushed them like the mire of the street and spread them abroad.
 
 |**22:44**
 |Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people which I knew not shall serve me.
@@ -2675,7 +2679,7 @@
 
 |**23:1**
 |Now these are the last words of David. David the son of Jesse said, and the man who was raised on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
-|Now these are the last words of David. David the son of Jesse and the man who was raised on high, the anointed of the God of Jacob and the sweet psalmist of Israel, said,
+|Now these are the last words of David. David the son of Jesse, the man who was raised on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 
 |**23:2**
 |The Spirit of the LORD spoke by me, and his word was on my tongue.
@@ -2687,7 +2691,7 @@
 
 |**23:4**
 |And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain.
-|And he shall be as the light of the morning when the sun rises, even a morning without clouds, as the tender grass springing out of the earth from clear shining after the rain.'
+|And he shall be like the light of the morning when the sun rises, even a morning without clouds, like the tender grass springing out of the earth from clear shining after the rain.'
 
 |**23:5**
 |Although my house is not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he maketh it not to grow.
@@ -2695,7 +2699,7 @@
 
 |**23:6**
 |But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:
-|But the sons of Belial shall all be as thorns thrust away because they cannot be taken with hands.
+|But the sons of Belial shall all be like thorns thrust away because they cannot be taken with hands.
 
 |**23:7**
 |But the man that shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the same place.
@@ -2727,11 +2731,11 @@
 
 |**23:15**
 |And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, which is by the gate!
-|And David longed and said, "Oh that one would give me drink of the water of the well of Beth-lehem, which is by the gate!"
+|And David longed and said, "Oh that someone would give me a drink of the water from the well of Beth-lehem which is by the gate!"
 
 |**23:16**
 |And the three mighty men broke through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink of it, but poured it out to the LORD.
-|And the three mighty men broke through the host of the Philistines, drew water out of the well of Beth-lehem that was by the gate, took it, and brought it to David. Nevertheless, he would not drink of it, but poured it out to the LORD.
+|And the three mighty men broke through the host of the Philistines, drew water out of the well of Beth-lehem that was by the gate, took it, and brought it to David. Nevertheless, he would not drink it, but poured it out to the LORD.
 
 |**23:17**
 |And he said, Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.
@@ -2739,11 +2743,11 @@
 
 |**23:18**
 |And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
-|And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, slew them, and had the name among three.
+|And Abishai, the brother of Joab, the son of Zeruiah, was chief among the three. And he lifted up his spear against three hundred, slew them, and had a name among the three.
 
 |**23:19**
 |Was he not most honorable of three? therefore he was their captain: yet he attained not to the first three.
-|Was he not most honorable of three? Therefore, he was their captain, yet he did not attain to the first three.
+|Was he not most honorable of the three? Therefore, he was their captain, yet he did not attain to the first three.
 
 |**23:20**
 |And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lion-like men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
