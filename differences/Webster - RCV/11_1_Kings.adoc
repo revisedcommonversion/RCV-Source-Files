@@ -131,7 +131,7 @@
 
 |**1:31**
 |Then Bath-sheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.
-|Then Bath-sheba bowed with her face to the earth and did reverence to the king, and said, "Let my lord king David live forever."
+|Then Bath-sheba bowed with her face to the earth and did reverence to the king and said, "Let my lord king David live forever."
 
 |**1:32**
 |And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
@@ -199,7 +199,7 @@
 
 |**1:48**
 |And also thus said the king, Blessed be the LORD God of Israel, who hath given one to sit on my throne this day, my eyes even seeing it.
-|And also the king said, 'Blessed be the LORD God of Israel who has given one to sit on my throne this day, my eyes even seeing it.'"
+|And also the king said, 'Blessed be the LORD God of Israel who has given someone to sit on my throne this day, my eyes even seeing it.'"
 
 |**1:49**
 |And all the guests that were with Adonijah were afraid, and arose, and went every man his way.
@@ -451,7 +451,7 @@
 
 |**3:7**
 |And now, O LORD my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in.
-|And now, O LORD my God, you have made your servant king instead of David my father, and I am but a little child. I do not know how to go out or come in.
+|And now, O LORD my God, you have made your servant king instead of David my father, and I am only a little child. I do not know how to go out or come in.
 
 |**3:8**
 |And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.
@@ -487,7 +487,7 @@
 
 |**3:17**
 |And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house.
-|And one woman said, "O my lord, I and this woman dwell in one house, and I had delivered a child with her in the house.
+|And one woman said, "O my lord, this woman and I dwell in one house, and I had delivered a child with her in the house.
 
 |**3:18**
 |And it came to pass the third day after I was delivered, that this woman was delivered also: and we were together; there was no stranger with us in the house, save us two in the house.
@@ -523,11 +523,11 @@
 
 |**3:26**
 |Then spoke the woman whose the living child was to the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it.
-|Then the woman whose child the living one was spoke to the king, for her heart yearned upon her son, and she said, "O my lord, give her the living child and in no way slay it." But the other said, "Let it be neither mine nor yours, but divide it."
+|Then the woman whose child the living one was spoke to the king, for her heart yearned upon her son, and she said, "O my lord, give her the living child and in no way slay him." But the other said, "Let him be neither mine nor yours, but divide him."
 
 |**3:27**
 |Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother of it.
-|Then the king answered and said, "Give her the living child and in no way slay it. She is its mother."
+|Then the king answered and said, "Give her the living child and in no way slay him. She is his mother."
 
 |**3:28**
 |And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment.
@@ -687,7 +687,7 @@
 
 |**5:3**
 |Thou knowest how that David my father could not build a house to the name of the LORD his God, for the wars which were about him on every side, until the LORD put them under the soles of his feet.
-|"You know how David my father could not build a house to the name of the LORD his God, for the wars which were around him on every side, until the LORD put them under the soles of his feet.
+|"You know how David my father could not build a house for the name of the LORD his God, because of the wars which were around him on every side, until the LORD put them under the soles of his feet.
 
 |**5:4**
 |But now the LORD my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.
@@ -695,7 +695,7 @@
 
 |**5:5**
 |And behold, I purpose to build a house to the name of the LORD my God, as the LORD spoke to David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build a house to my name.
-|And behold, I purpose to build a house to the name of the LORD my God, as the LORD spoke to David my father, saying, 'Your son, whom I will set upon your throne in your stead, he shall build a house to my name.'
+|And behold, I purpose to build a house for the name of the LORD my God, as the LORD spoke to David my father, saying, 'Your son, whom I will set upon your throne in your stead, he shall build a house for my name.'
 
 |**5:6**
 |Now therefore command thou, that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and to thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that is skilled in hewing timber like the Sidonians.
@@ -817,7 +817,7 @@
 
 |**6:20**
 |And the oracle in the forepart was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the hight of it, and he overlaid it with pure gold; and so covered the altar which was of cedar.
-|And the oracle in the forepart was twenty cubits in length, twenty cubits in breadth, and twenty cubits in its height, and he overlaid it with pure gold. And he also overlaid the altar which was of cedar.
+|And the oracle in the forepart was twenty cubits in length, twenty cubits in breadth, and twenty cubits in its height, and he overlaid it with pure gold. And he also overlaid the altar of cedar.
 
 |**6:21**
 |So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.
@@ -825,7 +825,7 @@
 
 |**6:22**
 |And the whole house he overlaid with gold, until he had finished all the house: also the whole altar that was by the oracle he overlaid with gold.
-|And the whole house he overlaid with gold until he had finished all the house. Also the whole altar that was by the oracle he overlaid with gold.
+|And the whole house he overlaid with gold until he had finished all the house. Also, the whole altar that was by the oracle he overlaid with gold.
 
 |**6:24**
 |And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing to the uttermost part of the other were ten cubits.
@@ -857,7 +857,7 @@
 
 |**6:32**
 |The two doors also were of olive tree; and he carved upon them carvings of cherubim, and palm trees, and open flowers, and overlaid them with gold, and spread gold upon the cherubim, and upon the palm trees.
-|The two doors were also of olive tree, and he carved upon them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold. And he spread gold upon the cherubim and upon the palm trees.
+|The two doors were also made of olive tree, and he carved upon them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold. And he spread gold upon the cherubim and upon the palm trees.
 
 |**6:33**
 |So also he made for the door of the temple posts of olive tree a fourth part of the wall.
@@ -865,7 +865,7 @@
 
 |**6:34**
 |And the two doors were of fir tree: the two leaves of the one door were folding, and the two leaves of the other door were folding.
-|And the two doors were of fir tree. The two leaves of one door were folding and the two leaves of the other door were folding.
+|And the two doors were made of fir tree. The two leaves of one door were folding and the two leaves of the other door were folding.
 
 |**6:35**
 |And he carved thereon cherubim, and palm trees, and open flowers; and covered them with gold, fitted upon the carved work.
@@ -895,7 +895,7 @@
 
 |**7:1**
 |But Solomon was building his own house thirteen years, and he finished all his house.
-|And Solomon built his own house in thirteen years, and finished all his house.
+|And Solomon built his own house in thirteen years, and he finished all his house.
 
 |**7:2**
 |He built also the house of the forest of Lebanon; its length was a hundred cubits, and its breadth fifty cubits, and its hight thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
@@ -931,7 +931,7 @@
 
 |**7:10**
 |And the foundation was of costly stones, even great stones; stones of ten cubits, and stones of eight cubits.
-|And the foundation was of costly stones, even great stones, stones of ten cubits and stones of eight cubits.
+|And the foundation was made of costly stones, even great stones, stones of ten cubits and stones of eight cubits.
 
 |**7:12**
 |And the great court around was with three rows of hewn stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.
@@ -959,7 +959,7 @@
 
 |**7:20**
 |And the capitals upon the two pillars had pomegranates also above, over against the belly which was by the net-work: and the pomegranates were two hundred in rows around upon the other capital.
-|And the capitals upon the two pillars also had pomegranates above, over against the belly which was by the net-work. And the pomegranates were two hundred in rows around upon the other capital.
+|And the capitals upon the two pillars also had pomegranates above, over against the rounded projection which was by the net-work. And the pomegranates were two hundred in rows around upon the other capital.
 
 |**7:21**
 |And he set up the pillars in the porch of the temple: and he set up the right pillar, and called its name Jachin: and he set up the left pillar, and called its name Boaz.
@@ -1149,11 +1149,11 @@
 
 |**8:18**
 |And the LORD said to David my father, Whereas it was in thy heart to build a house to my name, thou didst well that it was in thy heart.
-|And the LORD said to David my father, 'Whereas it was in your heart to build a house to my name, you did well that it was in your heart.
+|And the LORD said to David my father, 'Whereas it was in your heart to build a house for my name, you did well that it was in your heart.
 
 |**8:19**
 |Nevertheless, thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house to my name.
-|Nevertheless, you shall not build the house, but your son who shall come forth out of your loins, he shall build the house to my name.'
+|Nevertheless, you shall not build the house, but your son who shall come forth out of your loins, he shall build the house for my name.'
 
 |**8:20**
 |And the LORD hath performed his word that he spoke, and I have risen in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built a house for the name of the LORD God of Israel.
@@ -1301,7 +1301,7 @@
 
 |**8:57**
 |The LORD our God be with us, as he was with our fathers: let him not leave us, nor forsake us:
-|May the LORD our God be with us, as he was with our fathers. May he not leave us, nor forsake us,
+|May the LORD our God be with us, as he was with our fathers. May he not leave us nor forsake us,
 
 |**8:58**
 |That he may incline our hearts to him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers.
@@ -1379,7 +1379,7 @@
 
 |**9:10**
 |And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king's house,
-|And it came to pass at the end of twenty years when Solomon had built the two houses, the house of the LORD, and the king's house
+|And it came to pass at the end of twenty years when Solomon had built the two houses, the house of the LORD and the king's house
 
 |**9:11**
 |(Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
@@ -1461,7 +1461,7 @@
 
 |**10:2**
 |And she came to Jerusalem with a very great train, with camels that bore spices, and very much gold, and precious stones: and when she had come to Solomon, she communed with him of all that was in her heart.
-|And she came to Jerusalem with a very great train, with camels that bore spices, very much gold, and precious stones. And when she had come to Solomon, she spoke with him about all that was in her heart.
+|And she came to Jerusalem with a very great train, with camels that bore spices, a great abundance of gold, and precious stones. And when she had come to Solomon, she spoke with him about all that was in her heart.
 
 |**10:3**
 |And Solomon told her all her questions: there was not any thing hid from the king, which he told her not.
@@ -1537,7 +1537,7 @@
 
 |**10:21**
 |And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon.
-|And all king Solomon's drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold. None were of silver, for it was nothing accounted of in the days of Solomon.
+|And all king Solomon's drinking vessels were gold, and all the vessels of the house of the forest of Lebanon were pure gold. None were silver, for it was nothing accounted of in the days of Solomon.
 
 |**10:22**
 |For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
@@ -1595,7 +1595,7 @@
 
 |**11:4**
 |For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father.
-|For it came to pass, when Solomon was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
+|For it came to pass when Solomon was old, that his wives turned away his heart after other gods, and his heart was not perfect with the LORD his God, as the heart of David his father was.
 
 |**11:5**
 |For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
@@ -1603,7 +1603,7 @@
 
 |**11:6**
 |And Solomon did evil in the sight of the LORD, and went not fully after the LORD, as did David his father.
-|And Solomon did evil in the sight of the LORD, and did not go fully after the LORD, as David his father did.
+|And Solomon did evil in the sight of the LORD and did not go fully after the LORD, as David his father did.
 
 |**11:7**
 |Then Solomon built a high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
@@ -1639,7 +1639,7 @@
 
 |**11:15**
 |For it came to pass, when David was in Edom, and Joab the captain of the host had gone up to bury the slain, after he had smitten every male in Edom;
-|For it came to pass, when David was in Edom, and Joab the captain of the host had gone up to bury the slain, after he had smitten every male in Edom
+|For it came to pass when David was in Edom, and Joab the captain of the host had gone up to bury the slain, after he had smitten every male in Edom
 
 |**11:16**
 |(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
@@ -1671,11 +1671,11 @@
 
 |**11:23**
 |And God stirred him up another adversary, Rezon the son of Eliadah, who fled from his lord Hadadezer king of Zobah:
-|And God stirred him up another adversary: Rezon the son of Eliadah, who fled from his lord Hadadezer king of Zobah.
+|And God stirred up another adversary for him: Rezon the son of Eliadah, who fled from his lord Hadadezer king of Zobah.
 
 |**11:24**
 |And he gathered men to him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt in it, and reigned in Damascus.
-|And he gathered men to him and became captain over a band when David slew them of Zobah. And they went to Damascus, dwelt in it, and reigned in Damascus.
+|And he gathered men to him and became captain over a band when David slew those of Zobah. And they went to Damascus, dwelt in it, and reigned in Damascus.
 
 |**11:25**
 |And he was an adversary to Israel all the days of Solomon, besides the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.
@@ -1761,7 +1761,7 @@
 
 |**12:2**
 |And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
-|And it came to pass, when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
+|And it came to pass when Jeroboam the son of Nebat, who was still in Egypt, heard of it (for he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt),
 
 |**12:3**
 |That they sent and called him. And Jeroboam and all the congregation of Israel came, and spoke to Rehoboam, saying,
@@ -1805,7 +1805,7 @@
 
 |**12:13**
 |And the king answered the people roughly, and forsook the old men's counsel that they gave him;
-|And the king answered the people roughly and forsook the old men's counsel that they gave him,
+|And the king answered the people roughly and forsook the old men's counsel that they gave him
 
 |**12:14**
 |And spoke to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions.
@@ -1825,7 +1825,7 @@
 
 |**12:20**
 |And it came to pass when all Israel heard that Jeroboam had come again, that they sent and called him to the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.
-|And it came to pass when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who followed the house of David, but the tribe of Judah only.
+|And it came to pass when all Israel heard that Jeroboam had come back, that they sent and called him to the congregation and made him king over all Israel. There was none who followed the house of David except the tribe of Judah only.
 
 |**12:21**
 |And when Rehoboam had come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, a hundred and eighty thousand chosen men, who were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.
@@ -1837,11 +1837,11 @@
 
 |**12:24**
 |Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
-|'Thus says the LORD: "You shall not go up, nor fight against your brothers the children of Israel. Everyone return to his house, for this thing is from me."'" They listened therefore to the word of the LORD and returned to depart, according to the word of the LORD.
+|'Thus says the LORD: "You shall not go up nor fight against your brothers the children of Israel. Everyone return to his house, for this thing is from me."'" They listened therefore to the word of the LORD and returned to depart, according to the word of the LORD.
 
 |**12:25**
 |Then Jeroboam built Shechem in mount Ephraim, and dwelt in it, and went out from thence, and built Penuel.
-|Then Jeroboam built Shechem on mount Ephraim and dwelt in it, and went out from there and built Penuel.
+|Then Jeroboam built Shechem on mount Ephraim and dwelt in it, and he went out from there and built Penuel.
 
 |**12:26**
 |And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
@@ -1853,7 +1853,7 @@
 
 |**12:28**
 |Upon which the king took counsel, and made two calves of gold, and said to them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee out of the land of Egypt.
-|Upon this the king took counsel and made two calves of gold, and said to them, "It is too much for you to go up to Jerusalem. Behold your gods, O Israel, which brought you out of the land of Egypt."
+|Upon this the king took counsel and made two calves of gold and said to them, "It is too much for you to go up to Jerusalem. Behold your gods, O Israel, which brought you out of the land of Egypt."
 
 |**12:29**
 |And he set the one in Beth-el, and the other he placed in Dan.
