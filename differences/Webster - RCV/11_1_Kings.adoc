@@ -2763,7 +2763,7 @@
 
 |**19:13**
 |And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And behold, there came a voice to him, and said, What doest thou here, Elijah?
-|And it was so, when Elijah heard it, that he wrapped his face in his mantle, went out, and stood in the entrance of the cave. And behold, there came a voice to him and said, "What are you doing here, Elijah?"
+|And it came to pass when Elijah heard it, that he wrapped his face in his mantle, went out, and stood in the entrance of the cave. And behold, there came a voice to him and said, "What are you doing here, Elijah?"
 
 |**19:14**
 |And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thy altars, and slain thy prophets with the sword; and I, I only, am left; and they seek my life, to take it away.
@@ -2787,7 +2787,7 @@
 
 |**19:19**
 |So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
-|So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth. And Elijah passed by him and cast his mantle upon him.
+|So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he was with the twelfth. And Elijah passed by him and cast his mantle upon him.
 
 |**19:20**
 |And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said to him, Go back again: for what have I done to thee?
@@ -2837,7 +2837,7 @@
 
 |**20:8**
 |And all the elders and all the people said to him, Hearken not to him, nor consent.
-|And all the elders and all the people said to him, "Do not listen to him, nor consent."
+|And all the elders and all the people said to him, "Do not listen to him nor consent."
 
 |**20:9**
 |Wherefore he said to the messengers of Ben-hadad, Tell my lord the king, All that thou didst send for to thy servant at the first, I will do: but this thing I may not do. And the messengers departed, and brought him word again.
@@ -2853,7 +2853,7 @@
 
 |**20:12**
 |And it came to pass, when Ben-hadad heard this message as he was drinking, he and the kings in the pavilions, that he said to his servants, Set yourselves in array. And they set themselves in array against the city.
-|And it came to pass, when Ben-hadad heard this message as he was drinking—he and the kings in the pavilions—that he said to his servants, "Set yourselves in array." And they set themselves in array against the city.
+|And it came to pass when Ben-hadad heard this message as he was drinking—he and the kings in the pavilions—that he said to his servants, "Set yourselves in array." And they set themselves in array against the city.
 
 |**20:13**
 |And behold, there came a prophet to Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thy hand this day; and thou shalt know that I am the LORD.
@@ -2969,7 +2969,7 @@
 
 |**20:41**
 |And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets.
-|And he hastened and took the ashes away from his face, and the king of Israel discerned him that he was of the prophets.
+|And he hastened and took the ashes away from his face, and the king of Israel discerned him that he was one of the prophets.
 
 |**20:42**
 |And he said to him, Thus saith the LORD, Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.
@@ -3047,11 +3047,11 @@
 
 |**21:15**
 |And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.
-|And it came to pass, when Jezebel heard that Naboth had been stoned and was dead, that Jezebel said to Ahab, "Arise, take possession of the vineyard of Naboth the Jezreelite which he refused to give you for money, for Naboth is not alive, but dead."
+|And it came to pass when Jezebel heard that Naboth had been stoned and was dead, that Jezebel said to Ahab, "Arise, take possession of the vineyard of Naboth the Jezreelite which he refused to give you for money, for Naboth is not alive, but dead."
 
 |**21:16**
 |And it came to pass, when Ahab heard that Naboth was dead, that Ahab arose to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
-|And it came to pass, when Ahab heard that Naboth was dead, that Ahab arose to go down to the vineyard of Naboth the Jezreelite to take possession of it.
+|And it came to pass when Ahab heard that Naboth was dead, that Ahab arose to go down to the vineyard of Naboth the Jezreelite to take possession of it.
 
 |**21:18**
 |Arise, go down to meet Ahab king of Israel, who is in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to possess it.
@@ -3075,15 +3075,15 @@
 
 |**21:23**
 |And of Jezebel also spoke the LORD, saying, the dogs shall eat Jezebel by the wall of Jezreel.
-|And the LORD also spoke of Jezebel, saying, 'The dogs shall eat Jezebel by the wall of Jezreel.'
+|And the LORD also spoke about Jezebel, saying, 'The dogs shall eat Jezebel by the wall of Jezreel.'
 
 |**21:24**
 |Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.
-|He who dies of Ahab in the city the dogs shall eat, and he who dies in the field the birds of the air shall eat."
+|He who dies belonging to Ahab in the city the dogs shall eat, and he who dies in the field the birds of the air shall eat."
 
 |**21:25**
 |But there was none like Ahab, who sold himself to work wickedness in the sight of the LORD, whom Jezebel his wife instigated.
-|But there was no one like Ahab, who sold himself to work wickedness in the sight of the LORD, whom Jezebel his wife instigated.
+|But there was no one like Ahab who sold himself to work wickedness in the sight of the LORD, whom Jezebel his wife instigated.
 
 |**21:26**
 |And he did very abominably in following idols, according to all things as did the Amorites, whom the LORD cast out before the children of Israel.
@@ -3091,7 +3091,7 @@
 
 |**21:27**
 |And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
-|And it came to pass, when Ahab heard those words, that he rent his clothes, put sackcloth upon his flesh, fasted, and lay in sackcloth, and went softly.
+|And it came to pass when Ahab heard those words, that he rent his clothes, put sackcloth upon his flesh, and fasted. And he lay in sackcloth and went softly.
 
 |**21:29**
 |Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son's days will I bring the evil upon his house.
@@ -3165,7 +3165,7 @@
 
 |**22:17**
 |And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace.
-|And he said, "I saw all Israel scattered upon the hills, as sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
+|And he said, "I saw all Israel scattered upon the hills like sheep that do not have a shepherd. And the LORD said, 'These have no master. Let them each return to his house in peace.'"
 
 |**22:18**
 |And the king of Israel said to Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?
@@ -3223,6 +3223,10 @@
 |And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.
 |And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, "Surely it is the king of Israel." And they turned aside to fight against him. And Jehoshaphat cried out.
 
+|**22:33**
+|And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.
+|And it came to pass when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.
+
 |**22:34**
 |And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said to the driver of his chariot, Turn thy hand, and carry me out of the host; for I am wounded.
 |And a certain man drew a bow at random and smote the king of Israel between the joints of the harness. Therefore, he said to the driver of his chariot, "Turn your hand and carry me out of the host, for I am wounded."
@@ -3253,7 +3257,7 @@
 
 |**22:42**
 |Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi.
-|Jehoshaphat was thirty-five years old when he began to reign, and he reigned twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
+|Jehoshaphat was thirty-five years old when he began to reign, and he reigned for twenty-five years in Jerusalem. And his mother's name was Azubah, the daughter of Shilhi.
 
 |**22:43**
 |And he walked in all the way of Asa his father; he turned not aside from it, doing that which was right in the eyes of the LORD:\
@@ -3282,6 +3286,10 @@
 |**22:50**
 |And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.
 |And Jehoshaphat slept with his fathers and was buried with his fathers in the city of David his father. And Jehoram his son reigned in his stead.
+
+|**22:51**
+|Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
+|Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned for two years over Israel.
 
 |**22:52**
 |And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
