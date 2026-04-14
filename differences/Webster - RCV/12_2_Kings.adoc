@@ -83,6 +83,10 @@
 |*WBS*
 |*RCV*
 
+|**2:1**
+|And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
+|And it came to pass when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
+
 |**2:2**
 |And Elijah said to Elisha, Tarry here, I pray thee; for the LORD hath sent me to Beth-el. And Elisha said, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Beth-el.
 |And Elijah said to Elisha, "Stay here, I pray you, for the LORD has sent me to Beth-el." And Elisha said, "As the LORD lives and as your soul lives, I will not leave you." So they went down to Beth-el.
@@ -121,7 +125,7 @@
 
 |**2:11**
 |And it came to pass, as they still went on, and talked, that behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
-|And it came to pass, as they still went on and talked, that behold, there appeared a chariot of fire and horses of fire and parted them both apart. And Elijah went up by a whirlwind into heaven.
+|And it came to pass as they still went on and talked, that behold, there appeared a chariot of fire and horses of fire and parted them both apart. And Elijah went up by a whirlwind into heaven.
 
 |**2:12**
 |And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.
@@ -187,7 +191,7 @@
 
 |**3:1**
 |Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
-|Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah and reigned twelve years.
+|Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah and reigned for twelve years.
 
 |**3:2**
 |And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
@@ -235,11 +239,11 @@
 
 |**3:14**
 |And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look towards thee, nor see thee.
-|And Elisha said, "As the LORD of hosts lives, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you.
+|And Elisha said, "As the LORD of hosts lives, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you nor see you.
 
 |**3:15**
 |But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.
-|But now bring me a minstrel." And it came to pass, when the minstrel played, that the hand of the LORD came upon him.
+|But now bring me a minstrel." And it came to pass when the minstrel played, that the hand of the LORD came upon him.
 
 |**3:16**
 |And he said, Thus saith the LORD, Make this valley full of ditches.
@@ -251,7 +255,7 @@
 
 |**3:18**
 |And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.
-|And this is but a light thing in the sight of the LORD. He will deliver the Moabites also into your hand.
+|And this is only a light thing in the sight of the LORD. He will deliver the Moabites also into your hand.
 
 |**3:19**
 |And ye shall smite every fortified city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
@@ -259,11 +263,11 @@
 
 |**3:20**
 |And it came to pass in the morning, when the meat-offering was offered, that behold, there came water by the way of Edom, and the country was filled with water.
-|And it came to pass in the morning, when the food-offering was offered, that behold, water came by the way of Edom, and the country was filled with water.
+|And it came to pass in the morning when the food-offering was offered, that behold, water came by the way of Edom, and the country was filled with water.
 
 |**3:21**
 |And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armor, and upward, and stood in the border.
-|And when all the Moabites heard that the kings had come up to fight against them, they gathered all who were able to put on armor and older, and stood in the border.
+|And when all the Moabites heard that the kings had come up to fight against them, they gathered all who were able to put on armor and older and stood in the border.
 
 |**3:22**
 |And they rose early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:
@@ -349,7 +353,7 @@
 
 |**4:13**
 |And he said to him, Say now to her, Behold, thou hast been careful for us with all this care; what is to be done for thee? wouldst thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among my own people.
-|And he said to him, "Now say to her, 'Behold, you have been careful for us with all this care. What is to be done for you? Would you be spoken for to the king, or to the captain of the host?'" And she answered, "I dwell among my own people."
+|And he said to him, "Now say to her, 'Behold, you have been careful for us with all this care. What is to be done for you? Would you be spoken for to the king or to the captain of the host?'" And she answered, "I dwell among my own people."
 
 |**4:14**
 |And he said, What then is to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.
@@ -385,7 +389,7 @@
 
 |**4:23**
 |And he said, Why wilt thou go to him to-day? it is neither new-moon, nor sabbath. And she said, It shall be well.
-|And he said, "Why will you go to him today? It is neither new-moon, nor sabbath." And she said, "It shall be well."
+|And he said, "Why will you go to him today? It is neither new-moon nor sabbath." And she said, "It shall be well."
 
 |**4:24**
 |Then she saddled an ass, and said to her servant, Drive, and go forward; slack not thy riding for me, except I bid thee.
@@ -393,7 +397,7 @@
 
 |**4:25**
 |So she went and came to the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunamite:
-|So she went and came to the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, "Behold, yonder is that Shunamite.
+|So she went and came to the man of God to mount Carmel. And it came to pass when the man of God saw her afar off, that he said to Gehazi his servant, "Behold, yonder is that Shunamite.
 
 |**4:26**
 |Run now, I pray thee, to meet her, and say to her, Is it well with thee? Is it well with thy husband? Is it well with the child? and she answered, It is well.
@@ -417,7 +421,7 @@
 
 |**4:31**
 |And Gehazi passed on before them, and laid the staff upon the face of the child; but there was neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.
-|And Gehazi passed on before them and laid the staff upon the face of the child, but there was neither voice, nor hearing. Therefore, he went back to meet him and told him, saying, "The child has not awakened."
+|And Gehazi passed on before them and laid the staff upon the face of the child, but there was neither voice nor hearing. Therefore, he went back to meet him and told him, saying, "The child has not awakened."
 
 |**4:32**
 |And when Elisha had come into the house, behold, the child was dead, and laid upon his bed.
@@ -433,11 +437,11 @@
 
 |**4:35**
 |Then he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes.
-|Then he returned and walked in the house to and fro, and went up and stretched himself upon him. And the child sneezed seven times, and the child opened his eyes.
+|Then he returned, walked in the house to and fro, and went up and stretched himself upon him. And the child sneezed seven times, and then the child opened his eyes.
 
 |**4:36**
 |And he called Gehazi, and said, Call this Shunamite. So he called her. And when she had come in to him, he said, Take up thy son.
-|And he called Gehazi and said, "Call this Shunamite." So he called her. And when she had come in to him, he said, "Take up your son."
+|And he called Gehazi and said, "Call this Shunamite." So he called her. And when she came to him, he said, "Take up your son."
 
 |**4:37**
 |Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out.
@@ -449,11 +453,11 @@
 
 |**4:39**
 |And one went out into the field to gather herbs, and found a wild vine, and gathered from it wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not.
-|And one went out into the field to gather herbs, found a wild vine, gathered his lap full of wild gourds from it, and came and shred them into the pot of pottage, for they did not know them.
+|And someone went out into the field to gather herbs, found a wild vine, gathered his lap full of wild gourds from it, and came and shred them into the pot of pottage, for they did not know them.
 
 |**4:40**
 |So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat of it.
-|So they poured out some for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not eat it.
+|So they poured out some for the men to eat. And it came to pass as they were eating of the pottage, that they cried out and said, "O man of God, there is death in the pot." And they could not eat it.
 
 |**4:41**
 |But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.
@@ -507,11 +511,11 @@
 
 |**5:7**
 |And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send to me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.
-|And it came to pass, when the king of Israel had read the letter, that he rent his clothes and said, "Am I God, to kill and to make alive, that this man sends to me to recover a man of his leprosy? Therefore, consider, I pray you, and see how he seeks a quarrel against me."
+|And it came to pass when the king of Israel had read the letter, that he rent his clothes and said, "Am I God, to kill and to make alive, that this man sends to me to recover a man of his leprosy? Therefore, consider, I pray you, and see how he seeks a quarrel against me."
 
 |**5:8**
 |And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Why hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel.
-|And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, "Why have you rent your clothes? I pray you, let him come to me and he shall know that there is a prophet in Israel."
+|And it came to pass when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, "Why have you rent your clothes? I pray you, let him come to me and he shall know that there is a prophet in Israel."
 
 |**5:9**
 |So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha.
@@ -605,11 +609,11 @@
 
 |**6:2**
 |Let us go, we pray thee, to Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.
-|Let us go, we pray you, to the Jordan and each take from there a beam, and let us make us a place there where we may dwell." And he answered, "Go."
+|Let us go, we pray you, to the Jordan and each take from there a beam, and let us make for ourselves a place there where we may dwell." And he answered, "Go."
 
 |**6:3**
 |And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.
-|And one said, "Be content, I pray you, and go with your servants." And he answered, "I will go."
+|And someone said, "Be content, I pray you, and go with your servants." And he answered, "I will go."
 
 |**6:4**
 |So he went with them. And when they came to Jordan, they cut down wood.
@@ -617,7 +621,7 @@
 
 |**6:5**
 |But as one was felling a beam, the ax head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
-|But as one was felling a beam, the ax head fell into the water, and he cried and said, "Alas, master! For it was borrowed."
+|But as someone was felling a beam, the ax head fell into the water, and he cried and said, "Alas, master! For it was borrowed."
 
 |**6:6**
 |And the man of God said, Where fell it? And he showed him the place. And he cut down a stick, and cast it in thither; and the iron floated.
@@ -677,7 +681,7 @@
 
 |**6:20**
 |And it came to pass, when they had come into Samaria, that Elisha said, LORD, open the eyes of these men, that they may see. And the LORD opened their eyes, and they saw; and behold, they were in the midst of Samaria.
-|And it came to pass, when they had come into Samaria, that Elisha said, "LORD, open the eyes of these men so that they may see." And the LORD opened their eyes, and they saw, and behold, they were in the midst of Samaria.
+|And it came to pass when they had come into Samaria, that Elisha said, "LORD, open the eyes of these men so that they may see." And the LORD opened their eyes, and they saw, and behold, they were in the midst of Samaria.
 
 |**6:21**
 |And the king of Israel said to Elisha, when he saw them, My father, shall I smite them? shall I smite them?
@@ -717,7 +721,7 @@
 
 |**6:30**
 |And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and behold, he had sackcloth within upon his flesh.
-|And it came to pass, when the king heard the words of the woman, that he rent his clothes. And he passed by upon the wall, and the people looked, and behold, he had sackcloth within upon his flesh.
+|And it came to pass when the king heard the words of the woman, that he rent his clothes. And he passed by upon the wall, and the people looked, and behold, he had sackcloth within upon his flesh.
 
 |**6:31**
 |Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
