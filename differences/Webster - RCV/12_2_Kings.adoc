@@ -751,7 +751,7 @@
 
 |**7:2**
 |Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the LORD would make windows in heaven, might this thing be? And he said, Behold, thou shalt see it with thy eyes, but shalt not eat of it.
-|Then a lord on whose hand the king leaned answered the man of God and said, "Behold, if the LORD would make windows in heaven, might this thing be?" And he said, "Behold, you shall see it with your eyes, but shall not eat of it."
+|Then a lord on whose hand the king leaned answered the man of God and said, "Behold, if the LORD would make windows in heaven, might this thing be?" And he said, "Behold, you shall see it with your eyes, but shall not eat any of it."
 
 |**7:3**
 |And there were four leprous men at the entrance of the gate: and they said one to another, Why sit we here until we die?
@@ -759,7 +759,7 @@
 
 |**7:4**
 |If we say, We will enter into the city, then the famine is in the city, and we shall die there: and if we sit still here, we die also. Now therefore come, and let us fall to the army of the Syrians: if they save us alive, we shall live; and if they kill us, we shall but die.
-|If we say, 'We will enter into the city,' then the famine is in the city, and we shall die there. And if we sit still here, we die also. Now therefore, come, and let us fall to the army of the Syrians. If they save us alive, we shall live, and if they kill us, we shall but die."
+|If we say, 'We will enter into the city,' then the famine is in the city, and we shall die there. And if we sit still here, we die also. Now therefore, come, and let us fall to the army of the Syrians. If they save us alive, we shall live, and if they kill us, then we shall die."
 
 |**7:5**
 |And they rose in the twilight to go to the camp of the Syrians: and when they had come to the uttermost part of the camp of Syria, behold, there was no man there.
@@ -783,7 +783,7 @@
 
 |**7:10**
 |So they came and called to the porter of the city: and they told him, saying, We came to the camp of the Syrians, and behold, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were.
-|So they came and called to the gatekeeper of the city, and told him, saying, "We came to the camp of the Syrians, and behold, there was no man there, neither voice of man, but horses tied, donkeys tied, and the tents as they were."
+|So they came and called to the gatekeeper of the city and told him, saying, "We came to the camp of the Syrians, and behold, there was no man there, neither voice of man, but horses tied, donkeys tied, and the tents as they were."
 
 |**7:11**
 |And he called the porters; and they told it to the king's house within.
@@ -795,7 +795,7 @@
 
 |**7:13**
 |And one of his servants answered and said, Let some take, I pray thee, five of the horses that remain, which are left in the city, (behold, they are as all the multitude of Israel that are left in it: behold, I say, they are even as all the multitude of the Israelites that are consumed:) and let us send and see.
-|And one of his servants answered and said, "Let some take, I pray you, five of the horses that remain, which are left in the city (behold, they are as all the multitude of Israel who are left in it, behold, I say, they are even as all the multitude of the Israelites who are consumed), and let us send and see."
+|And one of his servants answered and said, "Let some take, I pray you, five of the horses that remain, which are left in the city (behold, they are like all the multitude of Israel who are left in it, behold, I say, they are even like all the multitude of the Israelites who are consumed), and let us send and see."
 
 |**7:14**
 |They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see.
@@ -815,7 +815,7 @@
 
 |**7:18**
 |And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to-morrow about this time in the gate of Samaria:
-|And it came to pass as the man of God had spoken to the king, saying, "Two measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
+|And it came to pass just as the man of God had spoken to the king, saying, "Two measures of barley for a shekel and a measure of fine flour for a shekel shall be tomorrow about this time in the gate of Samaria."
 
 |**7:19**
 |And that lord answered the man of God, and said, Now, behold, if the LORD should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thy eyes, but shalt not eat of it.
@@ -837,11 +837,11 @@
 
 |**8:1**
 |Then Elisha spoke to the woman, whose son he had restored to life, saying, Arise, and go thou and thy household, and sojourn wherever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
-|Then Elisha spoke to the woman, whose son he had restored to life, saying, "Arise, and go—you and your household—and sojourn wherever you can sojourn, for the LORD has called for a famine, and it shall also come upon the land seven years."
+|Then Elisha spoke to the woman, whose son he had restored to life, saying, "Arise, and go—you and your household—and sojourn wherever you can sojourn, for the LORD has called for a famine, and it shall also come upon the land for seven years."
 
 |**8:2**
 |And the woman arose, and did according to the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
-|And the woman arose and did according to the saying of the man of God. And she went with her household and sojourned in the land of the Philistines seven years.
+|And the woman arose and did according to the saying of the man of God. And she went with her household and sojourned in the land of the Philistines for seven years.
 
 |**8:3**
 |And it came to pass at the seven years' end, that the woman returned from the land of the Philistines: and she went forth to cry to the king for her house, and for her land.
@@ -853,7 +853,7 @@
 
 |**8:5**
 |And it came to pass, as he was telling the king how he had restored a dead body to life, that behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life.
-|And it came to pass, as he was telling the king how [Elisha] had restored a dead body to life, that behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, "My lord, O king, this is the woman and this is her son whom Elisha restored to life."
+|And it came to pass as he was telling the king how [Elisha] had restored a dead body to life, that behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, "My lord, O king, this is the woman and this is her son whom Elisha restored to life."
 
 |**8:6**
 |And when the king asked the woman, she told him. So the king appointed to her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land even till now.
@@ -865,11 +865,11 @@
 
 |**8:8**
 |And the king said to Hazael, Take a present in thy hand, and go, meet the man of God, and inquire of the LORD by him, saying, Shall I recover of this disease?
-|And the king said to Hazael, "Take a present in your hand, and go, meet the man of God, and inquire of the LORD by him, saying, 'Shall I recover of this disease?'"
+|And the king said to Hazael, "Take a present in your hand, go meet the man of God, and inquire of the LORD by him, saying, 'Shall I recover from this disease?'"
 
 |**8:9**
 |So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels burden, and came and stood before him, and said, Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?
-|So Hazael went to meet him and took a present with him, even forty camels' burden of every good thing of Damascus, and came and stood before him and said, "Your son Ben-hadad king of Syria has sent me to you, saying, 'Shall I recover of this disease?'"
+|So Hazael went to meet him and took a present with him, even forty camels' burden of every good thing of Damascus, and came and stood before him and said, "Your son Ben-hadad king of Syria has sent me to you, saying, 'Shall I recover from this disease?'"
 
 |**8:10**
 |And Elisha said to him, Go, say to him, Thou mayest certainly recover: but the LORD hath showed me, that he shall surely die.
@@ -975,7 +975,7 @@
 
 |**9:6**
 |And he arose, and went into the house; and he poured the oil on his head, and said to him, Thus saith the LORD God of Israel, I have anointed thee king over the people of the LORD, even over Israel.
-|And he arose, went into the house, and he poured the oil on his head, and said to him, "Thus says the LORD God of Israel: 'I have anointed you king over the people of the LORD, even over Israel.
+|And he arose, went into the house, and he poured the oil on his head and said to him, "Thus says the LORD God of Israel: 'I have anointed you king over the people of the LORD, even over Israel.
 
 |**9:7**
 |And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
@@ -1039,7 +1039,7 @@
 
 |**9:22**
 |And it came to pass, when Joram saw Jehu, that he said, Is it peace, Jehu? And he answered, What peace, so long as the lewd acts of thy mother Jezebel and her witchcrafts are so many?
-|And it came to pass, when Joram saw Jehu, that he said, "Is it peace, Jehu?" And he answered, "What peace, so long as the lewd acts of your mother Jezebel and her witchcrafts are so many?"
+|And it came to pass when Joram saw Jehu, that he said, "Is it peace, Jehu?" And he answered, "What peace, so long as the lewd acts of your mother Jezebel and her witchcrafts are so many?"
 
 |**9:23**
 |And Joram turned his hands, and fled, and said to Ahaziah, There is treachery, O Ahaziah.
@@ -1087,7 +1087,7 @@
 
 |**9:34**
 |And when he had come in, he ate, and drank, and said, Go, see now this cursed woman, and bury her: for she is a king's daughter.
-|And when he had come in, he ate and drank, and said, "Go, see now this cursed woman and bury her, for she is a king's daughter."
+|And when he had come in, he ate and drank and said, "Go, see now this cursed woman and bury her, for she is a king's daughter."
 
 |**9:35**
 |And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.
@@ -1133,11 +1133,11 @@
 
 |**10:6**
 |Then he wrote a letter the second time to them, saying, if ye are mine, and if ye will hearken to my voice, take ye the heads of the men your master's sons, and come to me to Jezreel by to-morrow this time. Now the king's sons being seventy persons, were with the great men of the city, who brought them up.
-|Then he wrote a letter the second time to them, saying, "If you are mine and if you will listen to my voice, take the heads of the men your master's sons and come to me to Jezreel by tomorrow this time." Now the king's sons, being seventy persons, were with the great men of the city who brought them up.
+|Then he wrote a letter the second time to them, saying, "If you are mine and if you will listen to my voice, take the heads of the men, your master's sons, and come to me to Jezreel by tomorrow this time." Now the king's sons, being seventy persons, were with the great men of the city who brought them up.
 
 |**10:7**
 |And it came to pass, when the letter came to them, that they took the king's sons, and slew seventy persons, and put their heads in baskets, and sent them to him to Jezreel.
-|And it came to pass, when the letter came to them, that they took the king's sons and slew them, seventy persons, and put their heads in baskets and sent them to him to Jezreel.
+|And it came to pass when the letter came to them, that they took the king's sons and slew them, seventy persons, and put their heads in baskets and sent them to him at Jezreel.
 
 |**10:8**
 |And there came a messenger, and told him, saying, They have brought the heads of the king's sons. And he said, Lay ye them in two heaps at the entrance of the gate until the morning.
@@ -1145,7 +1145,7 @@
 
 |**10:9**
 |And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye are righteous: behold, I conspired against my master, and slew him: but who slew all these?
-|And it came to pass in the morning, that he went out and stood, and said to all the people, "You are righteous. Behold, I conspired against my master and slew him. But who slew all these?
+|And it came to pass in the morning, that he went out and stood and said to all the people, "You are righteous. Behold, I conspired against my master and slew him. But who slew all these?
 
 |**10:10**
 |Know now that there shall fall to the earth nothing of the word of the LORD, which the LORD spoke concerning the house of Ahab; for the LORD hath done that which he spoke by his servant Elijah.
@@ -1185,7 +1185,7 @@
 
 |**10:19**
 |Now therefore call to me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal: whoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshipers of Baal.
-|Now therefore, call to me all the prophets of Baal, all his servants, and all his priests. Let no one be lacking, for I have a great sacrifice to do to Baal. Whoever is lacking, he shall not live." But Jehu did it in subtlety to the intent that he might destroy the worshipers of Baal.
+|Now therefore, call to me all the prophets of Baal, all his servants, and all his priests. Let no one be lacking, for I have a great sacrifice to do for Baal. Whoever is lacking, he shall not live." But Jehu did it in subtlety to the intent that he might destroy the worshipers of Baal.
 
 |**10:20**
 |And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.
@@ -1209,7 +1209,7 @@
 
 |**10:25**
 |And it came to pass, as soon as he had made an end of offering the burnt-offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
-|And it came to pass, as soon as he had made an end of offering the burnt-offering, that Jehu said to the guard and to the captains, "Go in and slay them. Let none come forth." And they smote them with the edge of the sword. And the guard and the captains cast them out and went to the city of the house of Baal.
+|And it came to pass as soon as he had made an end of offering the burnt-offering, that Jehu said to the guard and to the captains, "Go in and slay them. Let none come forth." And they smote them with the edge of the sword. And the guard and the captains cast them out and went to the city of the house of Baal.
 
 |**10:26**
 |And they brought forth the images out of the house of Baal, and burned them.
@@ -1323,7 +1323,7 @@
 
 |**11:17**
 |And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD'S people; between the king also and the people.
-|And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD'S people, between the king also and the people.
+|And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD'S people, and also between the king and the people.
 
 |**11:18**
 |And all the people of the land went into the house of Baal, and broke it down; his altars and his images they broke wholly in pieces, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the the house of the LORD.
@@ -1353,7 +1353,7 @@
 
 |**12:1**
 |In the seventh year of Jehu, Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
-|In the seventh year of Jehu, Jehoash began to reign, and he reigned forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
+|In the seventh year of Jehu, Jehoash began to reign, and he reigned for forty years in Jerusalem. And his mother's name was Zibiah of Beer-sheba.
 
 |**12:3**
 |But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
@@ -1385,7 +1385,7 @@
 
 |**12:10**
 |And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put up in bags, and counted the money that was found in the house of the LORD.
-|And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put it up in bags and counted the money that was found in the house of the LORD.
+|And it came to pass when they saw that there was a large amount of money in the chest, that the king's scribe and the high priest came up, and they put it in bags and counted the money that was found in the house of the LORD.
 
 |**12:11**
 |And they gave the money, being counted, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,
@@ -1397,7 +1397,7 @@
 
 |**12:13**
 |Yet, there were not made for the house of the LORD bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD:
-|Yet, there were not made for the house of the LORD bowls of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver of the money that was brought into the house of the LORD.
+|Yet, there were not made for the house of the LORD bowls of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver from the money that was brought into the house of the LORD.
 
 |**12:14**
 |But they gave that to the workmen, and repaired with it the house of the LORD.
@@ -1443,7 +1443,7 @@
 
 |**13:1**
 |In the three and twentieth year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
-|In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
+|In the twenty-third year of Joash the son of Ahaziah king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned for seventeen years.
 
 |**13:2**
 |And he did that which was evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, who made Israel to sin; he departed not therefrom.
@@ -1479,7 +1479,7 @@
 
 |**13:10**
 |In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and he reigned sixteen years.
-|In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned sixteen years.
+|In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned for sixteen years.
 
 |**13:11**
 |And he did that which was evil in the sight of the LORD: he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: but he walked in them.
@@ -1519,7 +1519,7 @@
 
 |**13:21**
 |And it came to pass, as they were burying a man, that behold, they spied a band of men; and they cast the man into the sepulcher of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood on his feet.
-|And it came to pass, as they were burying a man, that behold, they spied a band of men, and they cast the man into the sepulcher of Elisha. And when the man was let down and touched the bones of Elisha, he revived and stood on his feet.
+|And it came to pass as they were burying a man, that behold, they spied a band of men, and they cast the man into the sepulcher of Elisha. And when the man was let down and touched the bones of Elisha, he revived and stood on his feet.
 
 |**13:23**
 |And the LORD was gracious to them, and had compassion on them, and had respect to them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither did he as yet reject them from his presence.
@@ -1549,7 +1549,7 @@
 
 |**14:2**
 |He was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-|He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+|He was twenty-five years old when he began to reign, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 
 |**14:3**
 |And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.
@@ -1559,9 +1559,13 @@
 |But, the high places were not taken away: as yet the people sacrificed, and burnt incense on the high places.
 |But the high places were not taken away. The people still sacrificed and burnt incense on the high places.
 
+|**14:5**
+|And it came to pass, as soon as the kingdom was confirmed in his hand, that he slew his servants who had slain the king his father.
+|And it came to pass as soon as the kingdom was confirmed in his hand, that he slew his servants who had slain the king his father.
+
 |**14:6**
 |But the children of the murderers he slew not: according to that which is written in the book of the law of Moses, in which the LORD commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall be put to death for his own sin.
-|But he did not put the children of the murderers to death, according to that which is written in the book of the law of Moses, in which the LORD commanded, saying, "The fathers shall not be put to death for the children, nor the children be put to death for the fathers. But every man shall be put to death for his own sin."
+|But he did not put the children of the murderers to death, according to that which is written in the book of the law of Moses, in which the LORD commanded, saying, "The fathers shall not be put to death for the children nor the children be put to death for the fathers. But every man shall be put to death for his own sin."
 
 |**14:7**
 |He slew of Edom in the valley of Salt ten thousand, and took Selah by war, and called the name of it Joktheel to this day.
@@ -1605,7 +1609,7 @@
 
 |**14:17**
 |And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.
-|And Amaziah the son of Joash king of Judah lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+|And Amaziah the son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
 
 |**14:19**
 |Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there.
@@ -1613,7 +1617,7 @@
 
 |**14:20**
 |And they brought him on horses: and he was buried at Jerusalem with his fathers in the city of David.
-|And they brought him on horses, and he was buried at Jerusalem with his fathers in the city of David.
+|And they brought him on horses, and he was buried in Jerusalem with his fathers in the city of David.
 
 |**14:22**
 |He built Elath, and restored it to Judah, after that the king slept with his fathers.
@@ -1621,7 +1625,7 @@
 
 |**14:23**
 |In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel, began to reign in Samaria, and reigned forty and one years.
-|In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty-one years.
+|In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned for forty-one years.
 
 |**14:24**
 |And he did that which was evil in the sight of the LORD: he departed not from all the sins of Jeroboam the son of Nebat, who made Israel to sin.
@@ -1663,7 +1667,7 @@
 
 |**15:2**
 |Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother's name was Jecholiah of Jerusalem.
-|He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
+|He was sixteen years old when he began to reign, and he reigned for fifty-two years in Jerusalem. And his mother's name was Jecholiah, who was from Jerusalem.
 
 |**15:3**
 |And he did that which was right in the sight of the LORD, according to all that his father Amaziah had done;
@@ -1687,7 +1691,7 @@
 
 |**15:8**
 |In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
-|In the thirty-eighth year of Azariah king of Judah, Zachariah the son of Jeroboam reigned over Israel in Samaria six months.
+|In the thirty-eighth year of Azariah king of Judah, Zachariah the son of Jeroboam reigned over Israel in Samaria for six months.
 
 |**15:9**
 |And he did that which was evil in the sight of the LORD, as his fathers had done: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
@@ -1703,7 +1707,7 @@
 
 |**15:13**
 |Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.
-|Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned a full month in Samaria.
+|Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned for a full month in Samaria.
 
 |**15:14**
 |For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.
@@ -1719,7 +1723,7 @@
 
 |**15:17**
 |In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, and reigned ten years in Samaria.
-|In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, and reigned ten years in Samaria.
+|In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, and reigned for ten years in Samaria.
 
 |**15:18**
 |And he did that which was evil in the sight of the LORD: he departed not all his days from the sins of Jeroboam the son of Nebat, who made Israel to sin.
@@ -1741,6 +1745,10 @@
 |And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.
 |And Menahem slept with his fathers, and Pekahiah his son reigned in his stead.
 
+|**15:23**
+|In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years.
+|In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned for two years.
+
 |**15:24**
 |And he did that which was evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 |And he did that which was evil in the sight of the LORD. He did not depart from the sins of Jeroboam the son of Nebat who made Israel to sin.
@@ -1755,7 +1763,7 @@
 
 |**15:27**
 |In the two and fiftieth year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
-|In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years.
+|In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned for twenty years.
 
 |**15:28**
 |And he did that which was evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
@@ -1779,7 +1787,7 @@
 
 |**15:33**
 |Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
-|He was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
+|He was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
 
 |**15:34**
 |And he did that which was right in the sight of the LORD: he did according to all that his father Uzziah had done.
@@ -1817,7 +1825,7 @@
 
 |**16:2**
 |Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father.
-|Ahaz was twenty years old when he began to reign, and reigned sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
+|Ahaz was twenty years old when he began to reign, and reigned for sixteen years in Jerusalem. He did not do that which was right in the sight of the LORD his God, like David his father.
 
 |**16:3**
 |But he walked in the way of the kings of Israel, and even made his son to pass through the fire, according to the abominations of the heathen, whom the LORD cast out from before the children of Israel.
@@ -1899,7 +1907,7 @@
 
 |**17:1**
 |In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
-|In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel nine years.
+|In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years.
 
 |**17:3**
 |Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.
@@ -1911,11 +1919,11 @@
 
 |**17:5**
 |Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.
-|Then the king of Assyria came up throughout all the land, and went up to Samaria and besieged it three years.
+|Then the king of Assyria came up throughout all the land, went up to Samaria, and besieged it for three years.
 
 |**17:6**
 |In the ninth year of Hoshea, the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes.
-|In the ninth year of Hoshea, the king of Assyria took Samaria, and carried Israel away into Assyria and placed them in Halah and in Habor by the river of Gozan and in the cities of the Medes.
+|In the ninth year of Hoshea, the king of Assyria took Samaria, and he carried Israel away into Assyria and placed them in Halah and in Habor by the river of Gozan and in the cities of the Medes.
 
 |**17:7**
 |For so it was, that the children of Israel had sinned against the LORD their God, who had brought them out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
