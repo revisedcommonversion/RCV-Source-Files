@@ -43,7 +43,7 @@ They have gone away backward.
 
 5 Why should you be stricken anymore? [.linebr]#/# +
 You will revolt more and more. [.linebr]#/# +
-The whole head is sick [.linebr]#/# +
+The whole head is sick, [.linebr]#/# +
 and the whole heart is faint.
 
 6 From the sole of the foot even to the head [.linebr]#/# +
@@ -125,7 +125,7 @@ for the mouth of the LORD has spoken it."
 
 21 How the faithful city [.linebr]#/# +
 has become a harlot! [.linebr]#/# +
-It was full of judgment [.linebr]#/# +
+It was full of judgment, [.linebr]#/# +
 and righteousness lodged in it, [.linebr]#/# +
 but now murderers.
 
@@ -154,7 +154,7 @@ Afterward, you shall be called, [.linebr]#/# +
 The City of Righteousness, [.linebr]#/# +
 The Faithful City."
 
-27 Zion shall be redeemed with judgment [.linebr]#/# +
+27 Zion shall be redeemed with judgment, [.linebr]#/# +
 and her converts with righteousness.
 
 28 And the destruction of the transgressors and of the sinners [.linebr]#/# +
@@ -230,11 +230,11 @@ and the great man humbles himself; [.linebr]#/# +
 therefore, do not forgive them.
 
 [[isa002-010]]10 Enter into the rock [.linebr]#/# +
-and hide in the dust, [.linebr]#/# +
-for fear of the LORD [.linebr]#/# +
-and for the glory of his majesty.
+and hide in the dust [.linebr]#/# +
+from before the fear of the LORD [.linebr]#/# +
+and the glory of his majesty.
 
-11 The lofty looks of man shall be humbled [.linebr]#/# +
+11 The lofty looks of man shall be humbled, [.linebr]#/# +
 and the haughtiness of men shall be abased, [.linebr]#/# +
 and the LORD alone shall be exalted in that day.
 
@@ -244,16 +244,16 @@ and upon everyone who is lifted up [.linebr]#/# +
 (and he shall be brought low),
 
 13 And upon all the cedars of Lebanon [.linebr]#/# +
-that are high and lifted up [.linebr]#/# +
+that are high and lifted up, [.linebr]#/# +
 and upon all the oaks of Bashan,
 
-14 And upon all the high mountains [.linebr]#/# +
+14 And upon all the high mountains, [.linebr]#/# +
 and upon all the hills that are lifted up,
 
-15 And upon every high tower [.linebr]#/# +
+15 And upon every high tower, [.linebr]#/# +
 and upon every fortified wall,
 
-16 And upon all the ships of Tarshish [.linebr]#/# +
+16 And upon all the ships of Tarshish, [.linebr]#/# +
 and upon all pleasant pictures.
 
 17 And the loftiness of man shall be abased, [.linebr]#/# +
@@ -263,9 +263,9 @@ The LORD alone shall be exalted in that day.
 18 And he will utterly abolish the idols.
 
 [[isa002-019]]19 And they shall go into the holes of the rocks [.linebr]#/# +
-and into the caves of the earth, [.linebr]#/# +
-for fear of the LORD [.linebr]#/# +
-and for the glory of his majesty, [.linebr]#/# +
+and into the caves of the earth [.linebr]#/# +
+from before the fear of the LORD [.linebr]#/# +
+and the glory of his majesty, [.linebr]#/# +
 when he arises to shake the earth terribly.
 
 20 In that day a man shall cast [.linebr]#/# +
@@ -274,9 +274,9 @@ which they made each one for himself to worship, [.linebr]#/# +
 to the moles and to the bats.
 
 [[isa002-021]]21 And they shall go into the clefts of the rocks [.linebr]#/# +
-and into the tops of the ragged rocks, [.linebr]#/# +
-for fear of the LORD [.linebr]#/# +
-and for the glory of his majesty, [.linebr]#/# +
+and into the tops of the ragged rocks [.linebr]#/# +
+from before the fear of the LORD [.linebr]#/# +
+and the glory of his majesty, [.linebr]#/# +
 when he arises to shake the earth terribly.
 
 22 Cease from man, whose breath is in his nostrils. [.linebr]#/# +
@@ -337,7 +337,7 @@ Do not make me a ruler of the people."
 |
 |8 For Jerusalem is ruined, [.linebr]#/# +
 and Judah has fallen, [.linebr]#/# +
-because their tongue and their doings are against the LORD, [.linebr]#/# +
+because their tongue and their doings are against the LORD [.linebr]#/# +
 to provoke the eyes of his glory.
 
 |
@@ -499,8 +499,8 @@ neither consider the operation of his hands.
 
 13 Therefore, my people have gone into captivity [.linebr]#/# +
 because they have no knowledge. [.linebr]#/# +
-And their honorable men are famished [.linebr]#/# +
-and their multitude dried up with thirst.
+And their honorable men are famished, [.linebr]#/# +
+and their multitude are dried up with thirst.
 
 14 Therefore, hell has enlarged herself [.linebr]#/# +
 and opened her mouth without measure. [.linebr]#/# +
@@ -544,7 +544,7 @@ and take away the righteousness of the righteous from him!
 24 Therefore, as the fire devours the stubble [.linebr]#/# +
 and the flame consumes the chaff, [.linebr]#/# +
 so their root shall be as rottenness [.linebr]#/# +
-and their blossom shall go up as dust, [.linebr]#/# +
+and their blossom shall go up like dust, [.linebr]#/# +
 because they have cast away the law of the LORD of hosts [.linebr]#/# +
 and despised the word of the Holy One of Israel.
 
@@ -610,7 +610,7 @@ the LORD of hosts."
 
 6 Then one of the seraphim flew to me, having a live coal in his hand, which he had taken with the tongs from off the altar. 7 And he laid it upon my mouth and said, "Behold, this has touched your lips, and your iniquity is taken away and your sin purged."
 
-8 Also I heard the voice of the Lord, saying, "Whom shall I send, and who will go for us?" Then I said, "Here I am. Send me." [[isa006-009]]9 And he said, "Go, and tell this people,
+8 Also, I heard the voice of the Lord saying, "Whom shall I send, and who will go for us?" Then I said, "Here I am. Send me." [[isa006-009]]9 And he said, "Go, and tell this people,
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -629,11 +629,11 @@ and convert and be healed."
 |
 |11 Then I said, "Lord, how long?" And he answered, [.linebr]#/# +
 "Until the cities are wasted without inhabitant, [.linebr]#/# +
-the houses without man, [.linebr]#/# +
-and the land is utterly desolate,
+the houses are without man, [.linebr]#/# +
+the land is utterly desolate,
 
 |
-|12 And the LORD has moved men far away [.linebr]#/# +
+|12 And the LORD has moved men far away, [.linebr]#/# +
 and there is a great forsaking in the midst of the land.
 
 |
@@ -763,7 +763,7 @@ be ensnared, and be taken."
 
 16 Bind up the testimony. Seal the law among my disciples. [[isa008-017]]17 And I will wait upon the LORD, who hides his face from the house of Jacob, and I will look for him. [[isa008-018]]18 Behold, I and the children whom the LORD has given me are for signs and for wonders in Israel from the LORD of hosts who dwells on mount Zion.
 
-19 And when they say to you, "Seek those who have familiar spirits and wizards who peep and mutter," should a people not seek their God? Should they seek the dead on behalf of the living? 20 To the law and to the testimony! If they do not speak according to this word, it is because there is no light in them. 21 And they shall pass through it distressed and hungry. And it shall come to pass, that when they are hungry, they shall fret themselves and curse their king and their God and look upward. 22 And they shall look to the earth, and behold, trouble and darkness, dimness of anguish, and they shall be driven to darkness.
+19 And when they say to you, "Seek those who have familiar spirits and wizards who peep and mutter," should a people not seek their God? Should they seek the dead on behalf of the living? 20 To the law and to the testimony! If they do not speak according to this word, it is because there is no light in them. 21 And they shall pass through it distressed and hungry. And it shall come to pass when they are hungry, that they shall fret themselves and curse their king and their God and look upward. 22 And they shall look to the earth, and behold, trouble and darkness, dimness of anguish, and they shall be driven to darkness.
 
 [%breakable]
 References::
@@ -820,7 +820,7 @@ from now on even forever. [.linebr]#/# +
 The zeal of the LORD of hosts will perform this.
 
 |
-|8 The Lord sent a word into Jacob [.linebr]#/# +
+|8 The Lord sent a word into Jacob, [.linebr]#/# +
 and it has fallen upon Israel.
 
 |
@@ -843,7 +843,7 @@ and join his enemies together,
 |12 The Syrians before and the Philistines behind. [.linebr]#/# +
 And they shall devour Israel with open mouth. [.linebr]#/# +
 For all this his anger is not turned away, [.linebr]#/# +
-but his hand is stretched out still.
+but his hand is still stretched out.
 
 |
 |13 For the people do not turn to him who smites them, [.linebr]#/# +
@@ -869,7 +869,7 @@ on their fatherless and widows, [.linebr]#/# +
 for everyone is a hypocrite and an evil-doer, [.linebr]#/# +
 and every mouth speaks folly. [.linebr]#/# +
 For all this his anger is not turned away, [.linebr]#/# +
-but his hand is stretched out still.
+but his hand is still stretched out.
 
 |
 |18 For wickedness burns like the fire. [.linebr]#/# +
@@ -895,7 +895,7 @@ Every man shall eat the flesh of his own arm.
 Ephraim is against Manasseh, [.linebr]#/# +
 and together they are against Judah. [.linebr]#/# +
 For all this his anger is not turned away, [.linebr]#/# +
-but his hand is stretched out still.
+but his hand is still stretched out.
 |===
 
 [%breakable]
