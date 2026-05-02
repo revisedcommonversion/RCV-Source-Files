@@ -2885,7 +2885,7 @@
 
 |**34:4**
 |And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their hosts shall fall down, as the leaf falleth from the vine, and as a falling fig from the fig-tree.
-|And all the host of heaven shall be dissolved and the heavens shall be rolled together like a scroll. And all their hosts shall fall down as the leaf falls from the vine and like a falling fig from the fig-tree.
+|And all the host of heaven shall be dissolved, and the heavens shall be rolled together like a scroll. And all their hosts shall fall down as the leaf falls from the vine and like a falling fig from the fig-tree.
 
 |**34:5**
 |For my sword shall be bathed in heaven: behold, it shall come down upon Edom, and upon the people of my curse, to judgment.
@@ -2961,10 +2961,6 @@
 |Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompense; he will come and save you.
 |Say to those who are of a fearful heart, "Be strong. Do not fear. Behold, your God will come with vengeance, even God with a recompense. He will come and save you."
 
-|**35:5**
-|Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
-|Then the eyes of the blind shall be opened and the ears of the deaf shall be unstopped.
-
 |**35:6**
 |Then shall the lame man leap as a hart, and the tongue of the dumb shall sing: for in the wilderness shall waters break out, and streams in the desert.
 |Then the lame man shall leap like a buck and the tongue of the mute shall sing. For in the wilderness waters shall break out, and streams in the desert.
@@ -2979,7 +2975,7 @@
 
 |**35:9**
 |No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:
-|No lion shall be there, nor any ravenous beast shall go up thereon. It shall not be found there, but the redeemed shall walk there.
+|No lion shall be there, neither shall any ravenous beast go up thereon. It shall not be found there, but the redeemed shall walk there.
 
 |**35:10**
 |And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.
@@ -3099,7 +3095,7 @@
 
 |**37:3**
 |And they said to him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.
-|And they said to him, "Thus says Hezekiah: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is not strength to bring forth.
+|And they said to him, "Thus says Hezekiah: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is no strength to bring forth.
 
 |**37:4**
 |It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that is left.
@@ -3175,7 +3171,7 @@
 
 |**37:24**
 |By thy servants hast thou reproached the Lord, and hast said, By the multitude of my chariots have I come up to the hight of the mountains, to the sides of Lebanon; and I will cut down its tall cedars, and its choice fir-trees: and I will enter into the hight of its border, and the forest of its Carmel.
-|By your servants you have reproached the Lord and have said, 'By the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the height of its border, and the forest of its fruitful field.
+|By your servants you have reproached the Lord and have said, 'By the multitude of my chariots I have come up to the height of the mountains, to the sides of Lebanon, and I will cut down its tall cedars and its choice fir-trees, and I will enter into the height of its border, the forest of its fruitful field.
 
 |**37:25**
 |I have digged, and drank water; and with the sole of my feet have I dried up all the rivers of the besieged places.
@@ -3223,7 +3219,7 @@
 
 |**37:36**
 |Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and eighty five thousand: and when they arose early in the morning, behold, they were all dead corpses.
-|Then the angel of the LORD went forth and smote in the camp of the Assyrians one hundred and eighty-five thousand. And when they arose early in the morning, behold, they were all dead corpses.
+|Then the angel of the LORD went forth and smote one hundred and eighty-five thousand in the camp of the Assyrians. And when they arose early in the morning, behold, they were all dead corpses.
 
 |**37:37**
 |So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
@@ -3249,7 +3245,7 @@
 
 |**38:2**
 |Then Hezekiah turned his face towards the wall, and prayed to the LORD,
-|Then Hezekiah turned his face toward the wall and prayed to the LORD,
+|Then Hezekiah turned his face toward the wall and prayed to the LORD
 
 |**38:3**
 |And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept bitterly.
@@ -3405,7 +3401,7 @@
 
 |**40:6**
 |The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all its goodliness is as the flower of the field:
-|The voice said, "Cry." And he said, "What shall I cry?" All flesh is grass, and all its goodliness is as the flower of the field.
+|The voice said, "Cry." And he said, "What shall I cry?" All flesh is grass, and all its goodliness is like the flower of the field.
 
 |**40:7**
 |The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people is grass.
@@ -3469,19 +3465,19 @@
 
 |**40:22**
 |It is he that sitteth upon the circle of the earth, and its inhabitants are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
-|It is he who sits upon the circle of the earth, and its inhabitants are like locusts, who stretches out the heavens like a curtain and spreads them out like a tent to dwell in,
+|It is he who sits upon the circle of the earth, and its inhabitants are like locusts, who stretches out the heavens like a curtain and spreads them out like a tent to dwell in.
 
 |**40:23**
 |That bringeth the princes to nothing; he maketh the judges of the earth as vanity.
-|Who brings the princes to nothing. He makes the judges of the earth as vanity.
+|He brings the princes to nothing and makes the judges of the earth as vanity.
 
 |**40:24**
 |Yes, they shall not be planted; yes, they shall not be sown: yes, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.
-|They have hardly been planted, they have hardly been sown, their stock has hardly taken root in the earth, and then he blows upon them and they wither, and the whirlwind takes them away as stubble.
+|They have hardly been planted, they have hardly been sown, their stock has hardly taken root in the earth, and then he blows upon them and they wither, and the whirlwind takes them away like stubble.
 
 |**40:25**
 |To whom then will ye liken me, or shall I be equaled? saith the Holy One.
-|"To whom then will you compare me, or shall I be equaled?" says the Holy One.
+|"To whom then will you compare me, or who is my equal?" says the Holy One.
 
 |**40:26**
 |Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names, by the greatness of his might, for that he is strong in power; not one faileth.
@@ -3493,7 +3489,7 @@
 
 |**40:28**
 |Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding.
-|Have you not known? Have you not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, does not faint, neither is weary? There is no searching of his understanding.
+|Have you not known? Have you not heard? The everlasting God, the LORD, the Creator of the ends of the earth, does not faint, neither is weary. There is no searching of his understanding.
 
 |**40:29**
 |He giveth power to the faint; and to them that have no might he increaseth strength.
@@ -3551,7 +3547,7 @@
 
 |**41:9**
 |Thou whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said to thee, Thou art my servant; I have chosen thee, and not cast thee away.
-|You whom I have taken from the ends of the earth and called you from the chief men thereof, and said to you, 'You are my servant. I have chosen you and not cast you away.'
+|You whom I have taken from the ends of the earth and called you from the chief men thereof and said to you, 'You are my servant. I have chosen you and not cast you away.'
 
 |**41:10**
 |Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yes, I will help thee; yes, I will uphold thee with the right hand of my righteousness.
@@ -3563,7 +3559,7 @@
 
 |**41:12**
 |Thou shalt seek them, and shalt not find them, even them that contended with thee: they that war against thee shall be as nothing, and as a thing of naught.
-|You shall seek them, and shall not find them, even those who contended with you. Those who war against you shall be as nothing, as a thing that does not exist.
+|You shall seek them and shall not find them, even those who contended with you. Those who war against you shall be as nothing, as a thing that does not exist.
 
 |**41:13**
 |For I the LORD thy God will hold thy right hand, saying to thee, Fear not; I will help thee.
@@ -3575,7 +3571,7 @@
 
 |**41:15**
 |Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.
-|Behold, I will make you a new sharp threshing instrument having teeth. You shall thresh the mountains and beat them small, and shall make the hills as chaff.
+|Behold, I will make you a new sharp threshing instrument having teeth. You shall thresh the mountains and beat them small, and shall make the hills like chaff.
 
 |**41:16**
 |Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, and shalt glory in the Holy One of Israel.
@@ -3615,7 +3611,7 @@
 
 |**41:25**
 |I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon mortar, and as the potter treadeth clay.
-|I have raised up one from the north, and he shall come. From the rising of the sun he shall call upon my name. And he shall come upon princes as upon mortar, and as the potter treads clay.
+|I have raised up someone from the north, and he shall come. From the rising of the sun he shall call upon my name. And he shall come upon princes as upon mortar, like the potter who treads the clay.
 
 |**41:26**
 |Who hath declared from the beginning, that we may know? and before time, that we may say, He is righteous? verily, there is none that showeth, verily, there is none that declareth, verily, there is none that heareth your words.
@@ -3623,7 +3619,7 @@
 
 |**41:27**
 |The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.
-|The first shall say to Zion, 'Behold, behold them.' And I will give to Jerusalem one who brings good tidings.
+|The first shall say to Zion, 'Behold, behold them.' And I will give to Jerusalem a herald of good tidings.
 
 |**41:28**
 |For I beheld, and there was no man; even among them, and there was no counselor, that, when I asked of them, could answer a word.
@@ -3669,7 +3665,7 @@
 
 |**42:8**
 |I am the LORD: that is my name: and my glory will I not give to another, neither my praise to graven images.
-|I am the LORD. That is my name. And I will not give my glory to another, neither my praise to engraved images.
+|I am Yahweh. That is my name. And I will not give my glory to another, neither my praise to engraved images.
 
 |**42:9**
 |Behold, the former things have come to pass, and new things do I declare: before they spring forth I tell you of them.

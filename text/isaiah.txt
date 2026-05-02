@@ -3341,7 +3341,7 @@ He has delivered them to the slaughter.
 and their ill smell shall come up from their carcasses. [.linebr]#/# +
 The mountains shall be melted with their blood.
 
-4 And all the host of heaven shall be dissolved [.linebr]#/# +
+4 And all the host of heaven shall be dissolved, [.linebr]#/# +
 and the heavens shall be rolled together like a scroll. [.linebr]#/# +
 And all their hosts shall fall down [.linebr]#/# +
 as the leaf falls from the vine [.linebr]#/# +
@@ -3440,7 +3440,7 @@ Behold, your God will come with vengeance, [.linebr]#/# +
 even God with a recompense. [.linebr]#/# +
 He will come and save you."
 
-[[isa035-005]]5 Then the eyes of the blind shall be opened [.linebr]#/# +
+[[isa035-005]]5 Then the eyes of the blind shall be opened, [.linebr]#/# +
 and the ears of the deaf shall be unstopped.
 
 [[isa035-006]]6 Then the lame man shall leap like a buck, [.linebr]#/# +
@@ -3460,7 +3460,7 @@ but it shall be for those who are way-faring men. [.linebr]#/# +
 And fools shall not err therein.
 
 9 No lion shall be there, [.linebr]#/# +
-nor any ravenous beast shall go up thereon. [.linebr]#/# +
+neither shall any ravenous beast go up thereon. [.linebr]#/# +
 It shall not be found there, [.linebr]#/# +
 but the redeemed shall walk there.
 
@@ -3496,7 +3496,7 @@ _Sennacherib invades Judah, 1. Rabshakeh, sent by Sennacherib, by blasphemous pe
 [.outline.text-center]
 _Hezekiah, mourning, sends to Isaiah to pray for them, 1-5. Isaiah comforts them, 6, 7. Sennacherib, going to encounter Tirhakah, sends a blasphemous letter to Hezekiah, 8-13. Hezekiah's prayer, 14-20. Isaiah's prophecy of the pride and destruction of Sennacherib and the good of Zion, 21-35. An angel slays the Assyrians, 36. Sennacherib is slain at Nineveh by his own sons, 37, 38._
 
-1 And it came to pass when king Hezekiah heard it, that he rent his clothes, covered himself with sackcloth, and went into the house of the LORD. 2 And he sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests covered with sackcloth to Isaiah the prophet the son of Amoz. 3 And they said to him, "Thus says Hezekiah: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is not strength to bring forth. 4 It may be that the LORD your God will hear the words of Rabshakeh, whom the king of Assyria his master has sent to reproach the living God, and will reprove the words which the LORD your God has heard. Therefore, lift up your prayer for the remnant that is left.'"
+1 And it came to pass when king Hezekiah heard it, that he rent his clothes, covered himself with sackcloth, and went into the house of the LORD. 2 And he sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests covered with sackcloth to Isaiah the prophet the son of Amoz. 3 And they said to him, "Thus says Hezekiah: 'This day is a day of trouble, of rebuke, and of blasphemy, for the children have come to the birth, and there is no strength to bring forth. 4 It may be that the LORD your God will hear the words of Rabshakeh, whom the king of Assyria his master has sent to reproach the living God, and will reprove the words which the LORD your God has heard. Therefore, lift up your prayer for the remnant that is left.'"
 
 5 So the servants of king Hezekiah came to Isaiah. 6 And Isaiah said to them, "Thus you shall say to your master: 'Thus says the LORD: "Do not be afraid of the words that you have heard, with which the servants of the king of Assyria have blasphemed me. 7 Behold, I will put a spirit in him, and he shall hear a rumor and return to his own land. And I will cause him to fall by the sword in his own land."'"
 
@@ -3528,7 +3528,7 @@ to the sides of Lebanon, [.linebr]#/# +
 and I will cut down its tall cedars [.linebr]#/# +
 and its choice fir-trees, [.linebr]#/# +
 and I will enter into the height of its border, [.linebr]#/# +
-and the forest of its fruitful field.
+the forest of its fruitful field.
 
 |
 |25 I have dug and drank water, [.linebr]#/# +
@@ -3569,7 +3569,7 @@ by which you came.
 
 33 "Therefore, thus says the LORD concerning the king of Assyria: 'He shall not come into this city, nor shoot an arrow there, nor come before it with shields, nor cast a siege-mound against it. 34 By the way that he came, by the same he shall return, and shall not come into this city,' says the LORD. 35 'For I will defend this city to save it for my own sake and for my servant David's sake.'"
 
-36 Then the angel of the LORD went forth and smote in the camp of the Assyrians one hundred and eighty-five thousand. And when they arose early in the morning, behold, they were all dead corpses. 37 So Sennacherib king of Assyria departed and went and returned and dwelt at Nineveh. 38 And it came to pass as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword, and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead.
+36 Then the angel of the LORD went forth and smote one hundred and eighty-five thousand in the camp of the Assyrians. And when they arose early in the morning, behold, they were all dead corpses. 37 So Sennacherib king of Assyria departed and went and returned and dwelt at Nineveh. 38 And it came to pass as he was worshiping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword, and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead.
 
 [#isa038%breakable]
 === Chapter 38
@@ -3577,7 +3577,7 @@ by which you came.
 [.outline.text-center]
 _Hezekiah, having received a message of death, by prayer has his life lengthened, 1-7. The sun goes ten degrees backward for a sign of that promise, 8. His song of thanksgiving, 9-22._
 
-1 In those days Hezekiah was sick with a mortal disease. And Isaiah the prophet the son of Amoz came to him and said to him, "Thus says the LORD: 'Set your house in order, for you shall die, and not live.'" 2 Then Hezekiah turned his face toward the wall and prayed to the LORD, 3 And said, "Remember now, O LORD, I implore you, how I have walked before you in truth and with a perfect heart and have done that which is good in your sight." And Hezekiah wept bitterly.
+1 In those days Hezekiah was sick with a mortal disease. And Isaiah the prophet the son of Amoz came to him and said to him, "Thus says the LORD: 'Set your house in order, for you shall die, and not live.'" 2 Then Hezekiah turned his face toward the wall and prayed to the LORD 3 And said, "Remember now, O LORD, I implore you, how I have walked before you in truth and with a perfect heart and have done that which is good in your sight." And Hezekiah wept bitterly.
 
 4 Then the word of the LORD came to Isaiah, saying, 5 "Go and say to Hezekiah, 'Thus says the LORD, the God of David your father: "I have heard your prayer. I have seen your tears. Behold, I will add to your days fifteen years. 6 And I will deliver you and this city from the hand of the king of Assyria. And I will defend this city."'
 
@@ -3695,7 +3695,7 @@ For the mouth of the LORD has spoken it."
 [[isa040-006]]6 The voice said, "Cry." [.linebr]#/# +
 And he said, "What shall I cry?" [.linebr]#/# +
 All flesh is grass, [.linebr]#/# +
-and all its goodliness is as the flower of the field.
+and all its goodliness is like the flower of the field.
 
 7 The grass withers, the flower fades, [.linebr]#/# +
 because the spirit of the LORD blows upon it. [.linebr]#/# +
@@ -3766,18 +3766,18 @@ Have you not understood from the foundations of the earth?
 22 It is he who sits upon the circle of the earth, [.linebr]#/# +
 and its inhabitants are like locusts, [.linebr]#/# +
 who stretches out the heavens like a curtain [.linebr]#/# +
-and spreads them out like a tent to dwell in,
+and spreads them out like a tent to dwell in.
 
-23 Who brings the princes to nothing. [.linebr]#/# +
-He makes the judges of the earth as vanity.
+23 He brings the princes to nothing [.linebr]#/# +
+and makes the judges of the earth as vanity.
 
 24 They have hardly been planted, [.linebr]#/# +
 they have hardly been sown, [.linebr]#/# +
 their stock has hardly taken root in the earth, [.linebr]#/# +
 and then he blows upon them and they wither, [.linebr]#/# +
-and the whirlwind takes them away as stubble.
+and the whirlwind takes them away like stubble.
 
-25 "To whom then will you compare me, or shall I be equaled?" [.linebr]#/# +
+25 "To whom then will you compare me, or who is my equal?" [.linebr]#/# +
 says the Holy One.
 
 26 Lift up your eyes on high [.linebr]#/# +
@@ -3792,10 +3792,10 @@ not one fails.
 and speak, O Israel, "My way is hid from the LORD, [.linebr]#/# +
 and my judgment is passed over by my God"?
 
-28 Have you not known? Have you not heard, [.linebr]#/# +
-that the everlasting God, the LORD, [.linebr]#/# +
+28 Have you not known? Have you not heard? [.linebr]#/# +
+The everlasting God, the LORD, [.linebr]#/# +
 the Creator of the ends of the earth, [.linebr]#/# +
-does not faint, neither is weary? [.linebr]#/# +
+does not faint, neither is weary. [.linebr]#/# +
 There is no searching of his understanding.
 
 29 He gives power to the faint, [.linebr]#/# +
@@ -3860,7 +3860,7 @@ Jacob whom I have chosen, [.linebr]#/# +
 the offspring of Abraham my friend,
 
 9 You whom I have taken from the ends of the earth [.linebr]#/# +
-and called you from the chief men thereof, [.linebr]#/# +
+and called you from the chief men thereof [.linebr]#/# +
 and said to you, 'You are my servant. [.linebr]#/# +
 I have chosen you and not cast you away.'
 
@@ -3874,7 +3874,7 @@ shall be ashamed and confounded. [.linebr]#/# +
 They shall be as nothing. [.linebr]#/# +
 And those who contend with you shall perish.
 
-12 You shall seek them, and shall not find them, [.linebr]#/# +
+12 You shall seek them and shall not find them, [.linebr]#/# +
 even those who contended with you. [.linebr]#/# +
 Those who war against you [.linebr]#/# +
 shall be as nothing, as a thing that does not exist.
@@ -3892,7 +3892,7 @@ I will help you," says the LORD, [.linebr]#/# +
 15 Behold, I will make you a new sharp threshing instrument [.linebr]#/# +
 having teeth. [.linebr]#/# +
 You shall thresh the mountains and beat them small, [.linebr]#/# +
-and shall make the hills as chaff.
+and shall make the hills like chaff.
 
 16 You shall fan them, and the wind shall carry them away, [.linebr]#/# +
 and the whirlwind shall scatter them. [.linebr]#/# +
@@ -3938,10 +3938,10 @@ so that we may be dismayed and behold it together.
 and your work is of nothing. [.linebr]#/# +
 He who chooses you is an abomination.
 
-25 I have raised up one from the north, and he shall come. [.linebr]#/# +
+25 I have raised up someone from the north, and he shall come. [.linebr]#/# +
 From the rising of the sun he shall call upon my name. [.linebr]#/# +
 And he shall come upon princes as upon mortar, [.linebr]#/# +
-and as the potter treads clay.
+like the potter who treads the clay.
 
 26 Who has declared from the beginning [.linebr]#/# +
 so that we may know, [.linebr]#/# +
@@ -3954,7 +3954,7 @@ Surely, there is no one who hears your words.
 27 The first shall say to Zion, [.linebr]#/# +
 'Behold, behold them.' [.linebr]#/# +
 And I will give to Jerusalem [.linebr]#/# +
-one who brings good tidings.
+a herald of good tidings.
 
 28 For I beheld, and there was no man, [.linebr]#/# +
 even among them, and there was no counselor, [.linebr]#/# +
@@ -4004,7 +4004,7 @@ as a light to the Gentiles,
 to bring out the prisoners from the prison, [.linebr]#/# +
 and those who sit in darkness out of the prison-house.
 
-8 I am the LORD. That is my name. [.linebr]#/# +
+8 I am Yahweh. That is my name. [.linebr]#/# +
 And I will not give my glory to another, [.linebr]#/# +
 neither my praise to engraved images.
 
