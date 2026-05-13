@@ -197,7 +197,7 @@
 
 |**2:27**
 |Saying to a stock, Thou art my father; and to a stone, Thou hast brought me forth: for they have turned their back to me, and not their face: but in the time of their trouble they will say, Arise, and save us.
-|Saying to a stock, 'You are my father,' and to a stone, 'You have brought me forth.' For they have turned their back to me and not their face, but in the time of their trouble they will say, 'Arise, and save us.'
+|Saying to a wooden idol, 'You are my father,' and to a stone, 'You have brought me forth.' For they have turned their back to me and not their face, but in the time of their trouble they will say, 'Arise, and save us.'
 
 |**2:28**
 |But where are thy gods that thou hast made for thyself? let them arise, if they can save thee in the time of thy trouble: for according to the number of thy cities are thy gods, O Judah.
@@ -237,7 +237,7 @@
 
 |**2:37**
 |Yes, thou shalt go forth from him, and thy hands upon thy head: for the LORD hath rejected thy confidences, and thou shalt not prosper in them.
-|You shall even go forth from him, with your hands upon your head, for the LORD has rejected your confidences, and you shall not prosper in them."
+|You shall even go forth from him with your hands upon your head, for the LORD has rejected your confidences, and you shall not prosper in them."
 
 |===
 
@@ -283,7 +283,7 @@
 
 |**3:9**
 |And it came to pass through the lightness of her lewdness, that she defiled the land, and committed adultery with stones and with stocks.
-|And it came to pass through the lightness of her lewdness, that she defiled the land and committed adultery with stones and with stocks.
+|And it came to pass through the lightness of her lewdness, that she defiled the land and committed adultery with stones and with wood.
 
 |**3:10**
 |And yet for all this her treacherous sister Judah hath not turned to me with her whole heart, but feignedly, saith the LORD.
@@ -405,7 +405,7 @@
 
 |**4:13**
 |Behold, he shall come up as clouds, and his chariots shall be as a whirlwind: his horses are swifter than eagles. Woe to us! for we are laid waste.
-|"Behold, he shall come up as clouds, and his chariots shall be as a whirlwind. His horses are swifter than eagles. Woe to us! For we are laid waste."
+|"Behold, he shall come up like clouds, and his chariots shall be like a whirlwind. His horses are swifter than eagles. Woe to us! For we are laid waste."
 
 |**4:14**
 |O Jerusalem, wash thy heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?
@@ -477,7 +477,7 @@
 
 |**4:31**
 |For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers.
-|For I have heard a voice as of a woman in travail, and the anguish as of her who brings forth her first child, the voice of the daughter of Zion who bewails herself, who spreads her hands, saying, "Woe is me now! For my soul is wearied because of murderers."
+|For I have heard a voice like that of a woman in travail, and the anguish like that of her who brings forth her first child, the voice of the daughter of Zion who bewails herself, who spreads her hands, saying, "Woe is me now! For my soul is wearied because of murderers."
 
 |===
 
@@ -519,7 +519,7 @@
 
 |**5:8**
 |They were as fed horses in the morning: every one neighed after his neighbor's wife.
-|They were as fed horses in the morning. Everyone neighed after his neighbor's wife.
+|They were like fed horses in the morning. Everyone neighed after his neighbor's wife.
 
 |**5:9**
 |Shall I not visit for these things? saith the LORD: and shall not my soul be avenged on such a nation as this?
@@ -535,7 +535,7 @@
 
 |**5:12**
 |They have belied the LORD, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:
-|They have belied the LORD, and said, "It is not he. Evil shall not come upon us, neither shall we see sword nor famine.
+|They have belied the LORD and said, "It is not he. Evil shall not come upon us, neither shall we see sword nor famine.
 
 |**5:13**
 |And the prophets shall become wind, and the word is not in them: thus shall it be done to them.
@@ -555,7 +555,7 @@
 
 |**5:17**
 |And they shall eat up thy harvest, and thy bread, which thy sons and thy daughters should eat: they shall eat up thy flocks and thy herds: they shall eat up thy vines and thy fig-trees: they shall impoverish with the sword thy fortified cities, in which thou hast trusted.
-|And they shall eat up your harvest and your bread, which your sons and your daughters should eat. They shall eat up your flocks and your herds. They shall eat up your vines and your fig-trees. They shall impoverish with the sword your fortified cities, in which you have trusted.
+|And they shall eat up your harvest and your bread, which your sons and your daughters should eat. They shall eat up your flocks and your herds. They shall eat up your vines and your fig-trees. They shall impoverish with the sword your fortified cities in which you have trusted.
 
 |**5:18**
 |Nevertheless in those days, saith the LORD, I will not make a full end with you.
@@ -587,7 +587,7 @@
 
 |**5:26**
 |For among my people are found wicked men: they lay wait, as he that setteth snares; they set a trap, they catch men.
-|For among my people are found wicked men. They lie in wait, as he who sets snares. They set a trap. They catch men.
+|For among my people are found wicked men. They lie in wait like he who sets snares. They set a trap. They catch men.
 
 |**5:27**
 |As a cage is full of birds, so are their houses full of deceit: therefore they have become great, and have grown rich.
@@ -685,7 +685,7 @@
 
 |**6:17**
 |Also I set watchmen over you, saying, Hearken to the sound of the trumpet. But they said, We will not hearken.
-|Also I set watchmen over you, saying, 'Listen to the sound of the trumpet.' But they said, 'We will not listen.'
+|Also, I set watchmen over you, saying, 'Listen to the sound of the trumpet.' But they said, 'We will not listen.'
 
 |**6:18**
 |Therefore hear, ye nations, and know, O congregation, what is among them.
@@ -717,7 +717,7 @@
 
 |**6:25**
 |Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side.
-|Do not go forth into the field, nor walk by the way, for the sword of the enemy and fear is on every side.
+|Do not go forth into the field nor walk by the way, for the sword of the enemy and fear is on every side.
 
 |**6:26**
 |O daughter of my people, gird thee with sackcloth, and wallow thyself in ashes: make thee mourning, as for an only son, most bitter lamentation: for the spoiler shall suddenly come upon us.
@@ -755,7 +755,7 @@
 
 |**7:2**
 |Stand in the gate of the LORD'S house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD.
-|"Stand in the gate of the LORD'S house and proclaim this word there, and say, 'Hear the word of the LORD, all you of Judah, who enter in at these gates to worship the LORD.'"
+|"Stand in the gate of the LORD'S house and proclaim this word there and say, 'Hear the word of the LORD, all you of Judah, who enter in at these gates to worship the LORD.'"
 
 |**7:3**
 |Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.
@@ -787,7 +787,7 @@
 
 |**7:10**
 |And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?
-|And come and stand before me in this house which is called by my name, and say, 'We are delivered,' in order to do all these abominations?
+|And come and stand before me in this house which is called by my name and say, 'We are delivered,' in order to do all these abominations?
 
 |**7:11**
 |Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the LORD.
@@ -819,7 +819,7 @@
 
 |**7:18**
 |The children gather wood, and the fathers kindle the fire, and the women knead dough, to make cakes to the queen of heaven, and to pour out drink-offerings to other gods, that they may provoke me to anger.
-|The children gather wood, the fathers kindle the fire, and the women knead dough to make cakes to the queen of heaven. And they pour out drink-offerings to other gods to provoke me to anger.
+|The children gather wood, the fathers kindle the fire, and the women knead dough to make cakes for the queen of heaven. And they pour out drink-offerings to other gods to provoke me to anger.
 
 |**7:19**
 |Do they provoke me to anger? saith the LORD: do they not provoke themselves to the confusion of their own faces?
@@ -835,7 +835,7 @@
 
 |**7:22**
 |For I spoke not to your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt-offerings or sacrifices:
-|For I did not speak to your fathers, nor command them in the day that I brought them out of the land of Egypt, concerning burnt-offerings or sacrifices.
+|For in the day that I brought them out of the land of Egypt, I did not speak to your fathers or command them concerning burnt-offerings or sacrifices.
 
 |**7:23**
 |But this thing I commanded them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well to you.
@@ -843,7 +843,7 @@
 
 |**7:24**
 |But they hearkened not, nor inclined their ear, but walked in the counsels and in the imagination of their evil heart, and went backward, and not forward.
-|But they did not listen, nor incline their ear, but walked in the counsels and in the imagination of their evil heart, and went backward and not forward.
+|But they did not listen nor incline their ear, but walked in the counsels and in the imagination of their evil heart, and went backward and not forward.
 
 |**7:25**
 |Since the day that your fathers came forth from the land of Egypt to this day I have even sent to you all my servants the prophets, daily rising early and sending them:
@@ -917,7 +917,7 @@
 
 |**8:6**
 |I hearkened and heard, but they spoke not aright: no man repented of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth to the battle.
-|I listened and heard, but they did not speak aright. No man repented of his wickedness, saying, 'What have I done?' Everyone turned to his course, as the horse rushes to the battle.
+|I listened and heard, but they did not speak aright. No man repented of his wickedness, saying, 'What have I done?' Everyone turned to his course, like a horse rushing to the battle.
 
 |**8:7**
 |Yes, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD.
@@ -999,7 +999,7 @@
 
 |**9:3**
 |And they bend their tongues like their bow for lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD.
-|"And they bend their tongues like their bow for lies, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
+|"And they bend their tongues like their bows for lies, but they are not valiant for the truth upon the earth, for they proceed from evil to evil and they do not know me," says the LORD.
 
 |**9:4**
 |Take ye heed every one of his neighbor, and trust ye not in any brother: for every brother will utterly supplant, and every neighbor will walk with slanders.
@@ -1019,7 +1019,7 @@
 
 |**9:8**
 |Their tongue is as an arrow shot out; it speaketh deceit: one speaketh peaceably to his neighbor with his mouth, but in heart he layeth his wait.
-|Their tongue is as an arrow shot out. It speaks deceit. One speaks peaceably to his neighbor with his mouth, but in his heart he lies in wait.
+|Their tongue is like an arrow shot out. It speaks deceit. One speaks peaceably to his neighbor with his mouth, but in his heart he lies in wait.
 
 |**9:9**
 |Shall I not visit them for these things? saith the LORD: shall not my soul be avenged on such a nation as this?
