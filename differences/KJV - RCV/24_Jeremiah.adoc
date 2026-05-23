@@ -2083,6 +2083,10 @@
 |*KJV*
 |*RCV*
 
+|**20:1**
+|Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
+|Now Pashur the priest, the son of Immer, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
+
 |**20:2**
 |Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD.
 |Then Pashur struck Jeremiah the prophet and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD.
@@ -2113,7 +2117,7 @@
 
 |**20:9**
 |Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.
-|Then I said, "I will not make mention of him nor speak anymore in his name." But his word was in my heart as a burning fire shut up in my bones, and I was weary with forbearing and I could not stay.
+|Then I said, "I will not make mention of him nor speak anymore in his name." But his word was in my heart like a burning fire shut up in my bones, and I was weary with forbearing and I could not stay.
 
 |**20:10**
 |For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
@@ -2121,7 +2125,7 @@
 
 |**20:11**
 |But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten.
-|But the LORD is with me as an awesome mighty one; therefore, my persecutors shall stumble and shall not prevail. They shall be greatly ashamed, for they shall not prosper. Their everlasting disgrace shall never be forgotten.
+|But the LORD is with me like an awesome mighty one; therefore, my persecutors shall stumble and shall not prevail. They shall be greatly ashamed, for they shall not prosper. Their everlasting disgrace shall never be forgotten.
 
 |**20:12**
 |But, O LORD of hosts, that triest the righteous, and seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause.
@@ -2163,7 +2167,7 @@
 
 |**21:1**
 |The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,
-|A word came to Jeremiah from the LORD when king Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the son of Maaseiah the priest, saying,
+|A word came to Jeremiah from the LORD when king Zedekiah sent to him Pashur the son of Melchiah and Zephaniah the priest, the son of Maaseiah, saying,
 
 |**21:2**
 |Inquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us.
@@ -2229,7 +2233,7 @@
 
 |**22:1**
 |Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,
-|Thus says the LORD: "Go down to the house of the king of Judah and speak this word there,
+|Thus says the LORD: "Go down to the house of the king of Judah and speak this word there
 
 |**22:2**
 |And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:
@@ -2317,7 +2321,7 @@
 
 |**22:23**
 |O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt thou be when pangs come upon thee, the pain as of a woman in travail!
-|O inhabitant of Lebanon, who makes your nest in the cedars, how gracious you shall be when pangs come upon you, the pain as of a woman in travail!
+|O inhabitant of Lebanon, who makes your nest in the cedars, how gracious you shall be when pangs come upon you, the pain like that of a woman in travail!
 
 |**22:24**
 |As I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;
@@ -2475,7 +2479,7 @@
 
 |**23:31**
 |Behold, I am against the prophets, saith the LORD, that use their tongues, and say, He saith.
-|Behold, I am against the prophets," says the LORD, "who use their tongues, and say, 'He says.'
+|Behold, I am against the prophets," says the LORD, "who use their tongues and say, 'He says.'
 
 |**23:32**
 |Behold, I am against them that prophesy false dreams, saith the LORD, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the LORD.
@@ -2483,7 +2487,7 @@
 
 |**23:33**
 |And when this people, or the prophet, or a priest, shall ask thee, saying, What is the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.
-|"And when this people, the prophet, or a priest, asks you, saying, 'What is the burden of the LORD?' You shall then say to them, '"You are the burden, and I will even forsake you," says the LORD.'
+|"And when this people, the prophet, or a priest asks you, saying, 'What is the burden of the LORD?' You shall then say to them, '"You are the burden, and I will even forsake you," says the LORD.'
 
 |**23:34**
 |And as for the prophet, and the priest, and the people, that shall say, The burden of the LORD, I will even punish that man and his house.
@@ -2615,11 +2619,11 @@
 
 |**25:11**
 |And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years.
-|And this whole land shall be a desolation and an astonishment. And these nations shall serve the king of Babylon seventy years.
+|And this whole land shall be a desolation and an astonishment. And these nations shall serve the king of Babylon for seventy years.
 
 |**25:12**
 |And it shall come to pass, when seventy years are accomplished, that I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.
-|'And it shall come to pass, when seventy years are accomplished, that I will punish the king of Babylon and that nation,' says the LORD, 'for their iniquity, the land of the Chaldeans, and will make it perpetual desolations.
+|'And it shall come to pass when seventy years are accomplished, that I will punish the king of Babylon and that nation,' says the LORD, 'for their iniquity, the land of the Chaldeans, and will make it perpetual desolations.
 
 |**25:13**
 |And I will bring upon that land all my words which I have pronounced against it, even all that is written in this book, which Jeremiah hath prophesied against all the nations.
@@ -2895,7 +2899,7 @@
 
 |**27:16**
 |Also I spake to the priests and to all this people, saying, Thus saith the LORD; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD'S house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.
-|Also I spoke to the priests and to all this people, saying, "Thus says the LORD: 'Do not listen to the words of your prophets who prophesy to you, saying, "Behold, the vessels of the LORD'S house shall now shortly be brought back from Babylon," for they prophesy a lie to you.
+|Then I spoke to the priests and to all this people, saying, "Thus says the LORD: 'Do not listen to the words of your prophets who prophesy to you, saying, "Behold, the vessels of the LORD'S house shall now shortly be brought back from Babylon," for they prophesy a lie to you.
 
 |**27:17**
 |Hearken not unto them; serve the king of Babylon, and live: wherefore should this city be laid waste?
@@ -2933,7 +2937,7 @@
 
 |**28:1**
 |And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,
-|And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, who was of Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
+|And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the prophet, the son of Azur, who was from Gibeon, spoke to me in the house of the LORD in the presence of the priests and of all the people, saying,
 
 |**28:2**
 |Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.
@@ -3095,7 +3099,7 @@
 
 |**29:23**
 |Because they have committed villany in Israel, and have committed adultery with their neighbours' wives, and have spoken lying words in my name, which I have not commanded them; even I know, and am a witness, saith the LORD.
-|Because they have committed villainy in Israel and have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I know and am a witness," says the LORD.'"
+|Because they have committed villainy in Israel, have committed adultery with their neighbor's wives, and have spoken lying words in my name which I have not commanded them. Even I know and am a witness," says the LORD.'"
 
 |**29:24**
 |Thus shalt thou also speak to Shemaiah the Nehelamite, saying,
@@ -3103,7 +3107,7 @@
 
 |**29:25**
 |Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
-|"Thus speaks the LORD of hosts, the God of Israel, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
+|"Thus says the LORD of hosts, the God of Israel, saying, 'Because you have sent letters in your name to all the people who are at Jerusalem, to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
 
 |**29:26**
 |The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man that is mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.
@@ -3145,7 +3149,7 @@
 
 |**30:2**
 |Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.
-|"Thus speaks the LORD God of Israel, saying, 'Write for yourself all the words that I have spoken to you in a book.
+|"Thus says the LORD God of Israel, saying, 'Write for yourself all the words that I have spoken to you in a book.
 
 |**30:3**
 |For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
@@ -3161,7 +3165,7 @@
 
 |**30:6**
 |Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
-|Ask now, and see whether a man travails with child. Why do I see every man with his hands on his loins as a woman in travail, and all faces are turned into paleness?
+|Ask now, and see whether a man travails with child. Why do I see every man with his hands on his loins like a woman in travail, and all faces are turned into paleness?
 
 |**30:7**
 |Alas! for that day is great, so that none is like it: it is even the time of Jacob's trouble; but he shall be saved out of it.
@@ -3193,7 +3197,7 @@
 
 |**30:14**
 |All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased.
-|All your lovers have forgotten you. They do not seek you, for I have wounded you with the wound of an enemy, with the chastisements of a cruel one, for the multitude of your iniquity because your sins were increased.
+|All your lovers have forgotten you. They do not seek you, for I have wounded you with the wound of an enemy, with the chastisements of a cruel one, for the multitude of your iniquity, because your sins were increased.
 
 |**30:15**
 |Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.
@@ -3275,7 +3279,7 @@
 
 |**31:8**
 |Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
-|Behold, I will bring them from the north country and gather them from the borders of the earth, and with them the blind and the lame, the woman with child and her who travails with child together. A great company shall return there.
+|Behold, I will bring them from the north country and gather them from the borders of the earth, and with them the blind and the lame, the woman with child and her who travails with child, together. A great company shall return there.
 
 |**31:9**
 |They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.
@@ -3283,7 +3287,7 @@
 
 |**31:10**
 |Hear the word of the LORD, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock.
-|Hear the word of the LORD, O nations, and declare it in the coastlands afar off, and say, "He who scattered Israel will gather him and keep him as a shepherd does his flock."
+|Hear the word of the LORD, O nations, and declare it in the coastlands afar off and say, "He who scattered Israel will gather him and keep him as a shepherd does his flock."
 
 |**31:11**
 |For the LORD hath redeemed Jacob, and ransomed him from the hand of him that was stronger than he.
@@ -3425,7 +3429,7 @@
 
 |**32:3**
 |For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;
-|For Zedekiah king of Judah had confined him, saying, "Why do you prophesy, and say, 'Thus says the LORD: "Behold, I will give this city into the hand of the king of Babylon, and he shall take it.
+|For Zedekiah king of Judah had confined him, saying, "Why do you prophesy and say, 'Thus says the LORD: "Behold, I will give this city into the hand of the king of Babylon, and he shall take it.
 
 |**32:4**
 |And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;
@@ -3529,7 +3533,7 @@
 
 |**32:30**
 |For the children of Israel and the children of Judah have only done evil before me from their youth: for the children of Israel have only provoked me to anger with the work of their hands, saith the LORD.
-|For the children of Israel and the children of Judah have done evil only before me from their youth, for the children of Israel have only provoked me to anger with the work of their hands," says the LORD.
+|For the children of Israel and the children of Judah have only done evil before me from their youth, for the children of Israel have only provoked me to anger with the work of their hands," says the LORD.
 
 |**32:31**
 |For this city hath been to me as a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,
@@ -3717,7 +3721,7 @@
 
 |**34:2**
 |Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:
-|"Thus says the LORD, the God of Israel: 'Go and speak to Zedekiah king of Judah, and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire.
+|"Thus says the LORD, the God of Israel: 'Go and speak to Zedekiah king of Judah and tell him, "Thus says the LORD: 'Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire.
 
 |**34:3**
 |And thou shalt not escape out of his hand, but shalt surely be taken, and delivered into his hand; and thine eyes shall behold the eyes of the king of Babylon, and he shall speak with thee mouth to mouth, and thou shalt go to Babylon.
@@ -3993,7 +3997,7 @@
 
 |**36:27**
 |Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,
-|Then the word of the LORD came to Jeremiah after the king had burned the scroll and the words which Baruch wrote at the mouth of Jeremiah, saying,
+|Then the word of the LORD came to Jeremiah after the king had burned the scroll and the words which Baruch wrote from the mouth of Jeremiah, saying,
 
 |**36:28**
 |Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned.
@@ -4035,7 +4039,7 @@
 
 |**37:3**
 |And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the LORD our God for us.
-|And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, "Pray now to the LORD our God for us."
+|And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the priest, the son of Maaseiah, to the prophet Jeremiah, saying, "Pray now to the LORD our God for us."
 
 |**37:4**
 |Now Jeremiah came in and went out among the people: for they had not put him into prison.
@@ -4087,7 +4091,7 @@
 
 |**37:17**
 |Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon.
-|Then Zedekiah the king sent and took him out. And the king asked him secretly in his house, and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the king of Babylon."
+|Then Zedekiah the king sent and took him out. And the king asked him secretly in his house and said, "Is there any word from the LORD?" And Jeremiah said, "There is." He said, "You shall be delivered into the hand of the king of Babylon."
 
 |**37:18**
 |Moreover Jeremiah said unto king Zedekiah, What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison?
@@ -4325,7 +4329,7 @@
 
 |**40:2**
 |And the captain of the guard took Jeremiah, and said unto him, The LORD thy God hath pronounced this evil upon this place.
-|And the captain of the guard took Jeremiah, and said to him, "The LORD your God has pronounced this evil upon this place.
+|And the captain of the guard took Jeremiah and said to him, "The LORD your God has pronounced this evil upon this place.
 
 |**40:3**
 |Now the LORD hath brought it, and done according as he hath said: because ye have sinned against the LORD, and have not obeyed his voice, therefore this thing is come upon you.
@@ -4369,7 +4373,7 @@
 
 |**40:13**
 |Moreover Johanan the son of Kareah, and all the captains of the forces that were in the fields, came to Gedaliah to Mizpah,
-|Moreover, Johanan the son of Kareah and all the captains of the forces who were in the fields came to Gedaliah at Mizpah,
+|Moreover, Johanan the son of Kareah and all the captains of the forces who were in the fields came to Gedaliah at Mizpah
 
 |**40:14**
 |And said unto him, Dost thou certainly know that Baalis the king of the Ammonites hath sent Ishmael the son of Nethaniah to slay thee? But Gedaliah the son of Ahikam believed them not.
