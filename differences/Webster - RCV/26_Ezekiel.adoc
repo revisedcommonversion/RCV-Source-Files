@@ -649,7 +649,7 @@
 
 |**8:7**
 |And he brought me to the door of the court; and when I looked, behold a hole in the wall.
-|And he brought me to the door of the court. And when I looked, behold a hole in the wall.
+|And he brought me to the door of the court. And when I looked, behold, a hole in the wall.
 
 |**8:8**
 |Then said he to me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.
@@ -657,7 +657,7 @@
 
 |**8:9**
 |And he said to me, Go in, and behold the wicked abominations that they do here.
-|And he said to me, "Go in, and behold the wicked abominations that they do here."
+|And he said to me, "Go in and behold the wicked abominations that they do here."
 
 |**8:10**
 |So I went in and saw; and behold every form of creeping animals, and abominable beasts, and all the idols of the house of Israel, portrayed around upon the wall.
@@ -735,7 +735,7 @@
 
 |**9:8**
 |And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
-|And it came to pass, that while they were slaying them, I was left alone, and I fell upon my face and cried, and said, "Ah, Lord GOD! Will you destroy all the remnant of Israel in your pouring out of your fury upon Jerusalem?"
+|And it came to pass while they were slaying them, that I was left alone, and I fell upon my face and cried and said, "Ah, Lord GOD! Will you destroy all the remnant of Israel in your pouring out of your fury upon Jerusalem?"
 
 |**9:9**
 |Then said he to me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.
@@ -765,7 +765,7 @@
 
 |**10:2**
 |And he spoke to the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thy hand with coals of fire from between the cherubim, and scatter them over the city. And he entered in my sight.
-|And he spoke to the man clothed with linen, and said, "Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubim and scatter them over the city." And he entered in my sight.
+|And he spoke to the man clothed with linen and said, "Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubim and scatter them over the city." And he entered in my sight.
 
 |**10:3**
 |Now the cherubim stood on the right side of the house, when the man went in; and the cloud filled the inner court.
@@ -781,7 +781,7 @@
 
 |**10:6**
 |And it came to pass, that when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubim; then he went in, and stood beside the wheels.
-|And it came to pass, that when he had commanded the man clothed with linen, saying, "Take fire from between the wheels, from between the cherubim," he went in and stood beside the wheels.
+|And it came to pass when he had commanded the man clothed with linen, saying, "Take fire from between the wheels, from between the cherubim," that he went in and stood beside the wheels.
 
 |**10:7**
 |And one cherub stretched forth his hand from between the cherubim, to the fire that was between the cherubim, and took of it, and put it into the hands of him that was clothed with linen: who took it, and went out.
@@ -789,7 +789,7 @@
 
 |**10:9**
 |And when I looked, behold the four wheels by the cherubim, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the color of a beryl stone.
-|And when I looked, behold the four wheels by the cherubim, one wheel by one cherub and another wheel by another cherub. And the appearance of the wheels was like the color of a beryl stone.
+|And when I looked, behold, the four wheels by the cherubim, one wheel by one cherub and another wheel by another cherub. And the appearance of the wheels was like the color of a beryl stone.
 
 |**10:10**
 |And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
@@ -867,7 +867,7 @@
 
 |**11:5**
 |And the spirit of the LORD fell upon me, and said to me, Speak; Thus saith the LORD; Thus have ye said, O house of Israel: for I know the things that come into your mind, every one of them.
-|And the Spirit of the LORD fell upon me, and said to me, "Speak, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
+|And the Spirit of the LORD fell upon me and said to me, "Speak, 'Thus says the LORD: "Thus you have said, O house of Israel, for I know the things that come into your mind—every one of them.
 
 |**11:6**
 |Ye have multiplied your slain in this city, and ye have filled its streets with the slain.
@@ -899,7 +899,7 @@
 
 |**11:13**
 |And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then I fell down upon my face, and cried with a loud voice, and said, Ah Lord GOD! wilt thou make a full end of the remnant of Israel?
-|And it came to pass when I prophesied, that Pelatiah the son of Benaiah died. Then I fell down upon my face and cried with a loud voice, and said, "Ah, Lord GOD! Will you make a full end of the remnant of Israel?"
+|And it came to pass when I prophesied, that Pelatiah the son of Benaiah died. Then I fell down upon my face and cried with a loud voice and said, "Ah, Lord GOD! Will you make a full end of the remnant of Israel?"
 
 |**11:15**
 |Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they to whom the inhabitants of Jerusalem have said, Retire far from the LORD: to us is this land given in possession.
@@ -1119,7 +1119,7 @@
 
 |**13:15**
 |Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered mortar, and will say to you, The wall is no more, neither they that daubed it;
-|Thus I will accomplish my wrath upon the wall and upon those who have daubed it with untempered mortar, and will say to you, 'The wall is no more, neither those who daubed it,
+|Thus I will accomplish my wrath upon the wall and upon those who have daubed it with untempered mortar, and will say to you, 'The wall is no more, neither are those who daubed it,
 
 |**13:16**
 |To wit, the prophets of Israel who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace, saith the Lord GOD.
@@ -1127,7 +1127,7 @@
 
 |**13:17**
 |Likewise, thou son of man, set thy face against the daughters of thy people, who prophesy out of their own heart; and prophesy thou against them,
-|"Likewise, son of man, set your face against the daughters of your people who prophesy out of their own heart, and prophesy against them,
+|"Likewise, son of man, set your face against the daughters of your people who prophesy out of their own heart, and prophesy against them
 
 |**13:18**
 |And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all arm-holes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come to you?
@@ -1173,7 +1173,7 @@
 
 |**14:4**
 |Therefore speak to them, and say to them, Thus saith the Lord GOD; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumbling-block of his iniquity before his face, and cometh to the prophet; I the LORD will answer him that cometh according to the multitude of his idols;
-|Therefore, speak to them, and say to them, 'Thus says the Lord GOD: "Every man of the house of Israel who sets up his idols in his heart and puts the stumbling-block of his iniquity before his face and comes to the prophet, I, the LORD, will answer him who comes according to the multitude of his idols,
+|Therefore, speak to them and say to them, 'Thus says the Lord GOD: "Every man of the house of Israel who sets up his idols in his heart and puts the stumbling-block of his iniquity before his face and comes to the prophet, I, the LORD, will answer him who comes according to the multitude of his idols,
 
 |**14:5**
 |That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
@@ -1225,7 +1225,7 @@
 
 |**14:17**
 |Or if I bring a sword upon that land, and say, Sword, go through the land; so that I cut off man and beast from it:
-|Or if I bring a sword upon that land, and say, 'Sword, go through the land,' so that I cut off man and beast from it,
+|Or if I bring a sword upon that land and say, 'Sword, go through the land,' so that I cut off man and beast from it,
 
 |**14:18**
 |Though these three men were in it, as I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.
@@ -1301,7 +1301,7 @@
 
 |**16:2**
 |Son of man, cause Jerusalem to know her abominations,
-|"Son of man, cause Jerusalem to know her abominations,
+|"Son of man, cause Jerusalem to know her abominations
 
 |**16:3**
 |And say, Thus saith the Lord GOD to Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother a Hittite.
@@ -1321,7 +1321,7 @@
 
 |**16:7**
 |I have caused thee to multiply as the bud of the field, and thou hast increased and become great, and thou art come to excellent ornaments: thy breasts are fashioned, and thy hair is grown, whereas thou wast naked and bare.
-|I have caused you to multiply as the bud of the field, and you have increased and become great and have come to excellent ornaments. Your breasts are fashioned and your hair is grown, whereas you were naked and bare.
+|I have caused you to multiply like the bud of the field, and you have increased and become great and have come to excellent ornaments. Your breasts are fashioned and your hair is grown, whereas you were naked and bare.
 
 |**16:8**
 |Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yes, I swore to thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.
@@ -1361,7 +1361,7 @@
 
 |**16:17**
 |Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and hast made to thyself images of men, and hast committed lewdness with them.
-|You have also taken your fair jewels of my gold and of my silver, which I had given you, and have made for yourself images of men and committed lewdness with them.
+|You have also taken your fair jewels from my gold and from my silver, which I had given you, and have made for yourself images of men and committed lewdness with them.
 
 |**16:18**
 |And hast taken thy broidered garments, and covered them: and thou hast set my oil and my incense before them.
@@ -1369,7 +1369,7 @@
 
 |**16:19**
 |My provisions also which I gave thee, fine flour, and oil, and honey, with which I fed thee, thou hast even set before them for a sweet savor: and thus it was, saith the Lord GOD.
-|Also my provisions which I gave you—fine flour, oil, and honey, with which I fed you—you have even set before them for a sweet savor. And thus it was," says the Lord GOD.
+|Also, my provisions which I gave you—fine flour, oil, and honey, with which I fed you—you have even set before them for a sweet savor. And thus it was," says the Lord GOD.
 
 |**16:20**
 |Moreover thou hast taken thy sons and thy daughters, whom thou hast borne to me, and these hast thou sacrificed to them to be devoured. Is this of thy lewdness a small matter,
@@ -1559,11 +1559,11 @@
 
 |**17:2**
 |Son of man, put forth a riddle, and speak a parable to the house of Israel;
-|"Son of man, put forth a riddle and speak a parable to the house of Israel,
+|"Son of man, put forth a riddle and speak a parable to the house of Israel
 
 |**17:3**
 |And say, Thus saith the Lord GOD; A great eagle with great wings, long-winged, full of feathers, which had divers colors, came to Lebanon, and took the highest branch of the cedar:
-|And say, 'Thus says the Lord GOD: "A great eagle with great wings, long-winged, full of feathers, which had diverse colors, came to Lebanon and took the highest branch of the cedar.
+|And say, 'Thus says the Lord GOD: "A great eagle with great wings and long feathers, full of feathers which had diverse colors, came to Lebanon and took the highest branch of the cedar.
 
 |**17:4**
 |He cropped off the top of its young twigs, and carried it into a land of traffick; he set it in a city of merchants.
@@ -1575,11 +1575,11 @@
 
 |**17:6**
 |And it grew, and became a spreading vine of low stature, whose branches turned towards him, and its roots were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
-|And it grew and became a spreading vine of low stature, whose branches turned toward him and its roots were under him. So it became a vine, and brought forth branches and shot forth sprigs.
+|And it grew and became a spreading vine of low stature, whose branches turned toward him and its roots were under him. So it became a vine and brought forth branches and shot forth sprigs.
 
 |**17:7**
 |There was also another great eagle with great wings and many feathers: and behold, this vine did bend her roots towards him, and shot forth her branches towards him, that he might water it by the furrows of her plantation.
-|"There was also another great eagle with great wings and many feathers, and behold, this vine bent her roots toward him and shot forth her branches toward him, so that he might water it by the furrows of her plantation.
+|"There was also another great eagle with great wings and many feathers, and behold, this vine bent its roots toward him and shot forth its branches toward him, so that he might water it by the furrows of its plantation.
 
 |**17:8**
 |It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.
@@ -1587,7 +1587,7 @@
 
 |**17:9**
 |Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up its roots, and cut off its fruit, that it may wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by its roots.
-|Say, 'Thus says the Lord GOD: "Shall it prosper? Shall he not pull up its roots and cut off its fruit so that it may wither? It shall wither in all the leaves of her spring, even without great power or many people to pluck it up by its roots.
+|Say, 'Thus says the Lord GOD: "Shall it prosper? Shall he not pull up its roots and cut off its fruit so that it may wither? All of its fresh springing leaves will wither, even without great power or many people to pluck it up by its roots.
 
 |**17:10**
 |Yes, behold, being planted, shall it prosper? shall it not utterly wither, when the east wind toucheth it? it shall wither in the furrows where it grew.
@@ -1639,7 +1639,7 @@
 
 |**17:22**
 |Thus saith the Lord GOD, I will also take of the highest branch of the high cedar, and will set it; I will crop off from the top of its young twigs a tender one, and will plant it upon a high mountain and eminent:
-|Thus says the Lord GOD: "I will also take from the highest branch of the high cedar, and will set it. I will crop off from the top of its young twigs a tender one and plant it upon a high and eminent mountain.
+|Thus says the Lord GOD: "I will also take from the highest branch of the high cedar and will set it. I will crop off from the top of its young twigs a tender one and plant it upon a high and eminent mountain.
 
 |**17:23**
 |In the mountain of the hight of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shade of its branches shall they dwell.
@@ -1661,7 +1661,7 @@
 
 |**18:2**
 |What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?
-|"What do you mean, that you use this proverb concerning the land of Israel, saying, 'The fathers have eaten sour grapes, and the children's teeth are set on edge'?
+|"What do you mean when you use this proverb concerning the land of Israel, saying, 'The fathers have eaten sour grapes, and the children's teeth are set on edge'?
 
 |**18:3**
 |As I live, saith the Lord GOD, ye shall not have occasion any more to use this proverb in Israel.
@@ -1795,7 +1795,7 @@
 
 |**19:1**
 |Moreover take thou up a lamentation for the princes of Israel,
-|"Moreover, take up a lamentation for the princes of Israel,
+|"Moreover, take up a lamentation for the princes of Israel
 
 |**19:2**
 |And say, What is thy mother: A lioness: she lay down among lions, she nourished her whelps among young lions.
