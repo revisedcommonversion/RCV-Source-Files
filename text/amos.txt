@@ -213,8 +213,8 @@ yet I destroyed his fruit from above [.linebr]#/# +
 and his roots from beneath.
 
 |
-|10 Also I brought you from the land of Egypt [.linebr]#/# +
-and led you forty years through the wilderness [.linebr]#/# +
+|10 Also, I brought you from the land of Egypt [.linebr]#/# +
+and led you for forty years through the wilderness [.linebr]#/# +
 to possess the land of the Amorite.
 
 |
@@ -232,7 +232,7 @@ says the LORD.
 and commanded the prophets, saying, 'Do not prophesy.'
 
 |
-|13 Behold, I am pressed under you [.linebr]#/# +
+|13 Behold, I will press you in your place [.linebr]#/# +
 as a cart is pressed that is full of sheaves.
 
 |
@@ -301,9 +301,9 @@ Who can but prophesy?
 
 |
 |9 Publish in the palaces at Ashdod [.linebr]#/# +
-and in the palaces in the land of Egypt, [.linebr]#/# +
+and in the palaces in the land of Egypt [.linebr]#/# +
 and say, "Assemble yourselves upon the mountains of Samaria, [.linebr]#/# +
-and behold the great tumults in the midst of it [.linebr]#/# +
+and behold the great tumults in it [.linebr]#/# +
 and the oppressed in the midst of it."
 
 |
@@ -335,7 +335,7 @@ and your palaces shall be plundered."
 |===
 |
 |"As the shepherd rescues out of the mouth of the lion [.linebr]#/# +
-two legs, or a piece of an ear, [.linebr]#/# +
+two legs or a piece of an ear, [.linebr]#/# +
 so the children of Israel shall be rescued [.linebr]#/# +
 who dwell in Samaria [.linebr]#/# +
 on the corner of a bed [.linebr]#/# +
@@ -345,7 +345,7 @@ and in Damascus on a couch.
 |13 Hear, and testify in the house of Jacob,"
 |===
 
-says the Lord GOD, the God of hosts,
+says the Lord GOD, the God of hosts.
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -427,7 +427,7 @@ says the LORD.
 |===
 |
 |7 "And also I have withheld the rain from you [.linebr]#/# +
-when there were yet three months to the harvest. [.linebr]#/# +
+when there were still three months until the harvest. [.linebr]#/# +
 And I caused it to rain upon one city [.linebr]#/# +
 and did not cause it to rain upon another city. [.linebr]#/# +
 One piece was rained upon, [.linebr]#/# +
@@ -471,7 +471,7 @@ says the LORD.
 |
 |11 "I have overthrown some of you, [.linebr]#/# +
 as God overthrew Sodom and Gomorrah, [.linebr]#/# +
-and you were as a fire-brand [.linebr]#/# +
+and you were like a fire-brand [.linebr]#/# +
 plucked out of the burning. [.linebr]#/# +
 Yet you have not returned to me,"
 |===
@@ -530,7 +530,7 @@ shall leave ten to the house of Israel."
 |"Seek me and you shall live.
 
 |
-|5 But do not seek Beth-el, [.linebr]#/# +
+|5 But do not seek Beth-el [.linebr]#/# +
 nor enter into Gilgal, [.linebr]#/# +
 and do not pass to Beer-sheba, [.linebr]#/# +
 for Gilgal shall surely go into captivity [.linebr]#/# +
@@ -594,7 +594,7 @@ It may be that the LORD God of hosts [.linebr]#/# +
 will be gracious to the remnant of Joseph."
 |===
 
-16 Therefore, Yahweh, the God of hosts, the Lord, says thus:
+16 Therefore, Yahweh, the God of hosts, the Lord, says this:
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -645,12 +645,12 @@ the peace-offerings of your fat beasts.
 for I will not hear the melody of your harps.
 
 |
-|24 But let judgment run down as waters [.linebr]#/# +
-and righteousness as a mighty stream.
+|24 But let judgment run down like waters [.linebr]#/# +
+and righteousness like a mighty stream.
 
 |
 |[[amo005-025]]25 "Have you offered to me sacrifices and offerings [.linebr]#/# +
-in the wilderness forty years, O house of Israel?
+in the wilderness for forty years, O house of Israel?
 
 |
 |[[amo005-026]]26 But you have borne Sikkuth your king [.linebr]#/# +
@@ -726,7 +726,7 @@ therefore, I will deliver up the city [.linebr]#/# +
 with all its abundance.
 |===
 
-9 "And it shall come to pass, if there remain ten men in one house, they shall die. 10 And a man's uncle shall take him up, and he who burns him, to bring the bones out of the house, and shall say to him who is by the sides of the house, 'Is there yet any with you?' And he shall say, 'No.' Then he shall say, 'Hold your tongue, for we may not make mention of the name of the LORD.' 11 For behold, the LORD commands, and he will smite the great house to ruins and the little house to pieces.
+9 "And it shall come to pass if there remain ten men in one house, that they shall die. 10 And when a man's uncle takes him up, even he who burns him, to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, 'Is there anyone still with you?' And he shall say, 'No.' Then he shall say, 'Hold your tongue, for we must not make mention of the name of the LORD.' 11 For behold, the LORD commands, and he will smite the great house to ruins and the little house to pieces.
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -762,7 +762,7 @@ to the river of the wilderness."
 [.outline.text-center]
 _The judgments of the swarm of locusts, 1-3, and of the fire are diverted by the prayer of Amos, 4-6. By the wall of a plumb-line is signified the rejection of Israel, 7-9. Amaziah makes an accusation against Amos, 10-13. Amos shows his calling, 14, 15; and Amaziah's judgment, 16, 17._
 
-1 Thus the Lord GOD has shown to me, and behold, he formed a swarm of locusts in the beginning of the shooting up of the latter growth, and behold, it was the latter growth after the king's mowings. 2 And it came to pass, that when they had made an end of eating the grass of the land, then I said,
+1 Thus the Lord GOD has shown to me, and behold, he formed a swarm of locusts in the beginning of the shooting up of the latter growth, and behold, it was the latter growth after the king's mowings. 2 And it came to pass when they had made an end of eating the grass of the land, that I said,
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -772,7 +772,7 @@ By whom shall Jacob arise? [.linebr]#/# +
 For he is small."
 |===
 
-[[amo007-003]]3 The LORD repented for this. "It shall not be," says the LORD.
+[[amo007-003]]3 The LORD repented concerning this. "It shall not be," says the LORD.
 
 4 Thus the Lord GOD has shown to me, and behold, the Lord GOD called to contend by fire, and it devoured the great deep and ate up a part. 5 Then I said,
 
@@ -784,7 +784,7 @@ By whom shall Jacob arise? [.linebr]#/# +
 For he is small."
 |===
 
-6 The LORD repented for this. "This also shall not be," says the Lord GOD.
+6 The LORD repented concerning this. "This also shall not be," says the Lord GOD.
 
 7 Thus he showed me, and behold, the Lord stood upon a wall made by a plumb-line with a plumb-line in his hand. 8 And the LORD said to me, "Amos, what do you see?" And I said, "A plumb-line." Then the Lord said,
 
@@ -868,7 +868,7 @@ and even sell the refuse of the wheat?'"
 |
 |8 Shall the land not tremble for this, [.linebr]#/# +
 and everyone mourn who dwells in it? [.linebr]#/# +
-It shall rise up wholly as a flood, [.linebr]#/# +
+It shall rise up wholly like a flood, [.linebr]#/# +
 and it shall be cast out and drowned [.linebr]#/# +
 as by the flood of Egypt.
 
@@ -889,8 +889,8 @@ and I will darken the earth in the clear day,
 and all your songs into lamentation, [.linebr]#/# +
 I will bring up sackcloth upon all loins [.linebr]#/# +
 and baldness upon every head, [.linebr]#/# +
-and I will make it as the mourning of an only son [.linebr]#/# +
-and its end as a bitter day.
+and I will make it like the mourning of an only son [.linebr]#/# +
+and its end like a bitter day.
 
 |
 |11 Behold, the days come,"
@@ -902,7 +902,7 @@ says the Lord GOD,
 |===
 |
 |"that I will send a famine in the land, [.linebr]#/# +
-not a famine of bread, nor a thirst for water, [.linebr]#/# +
+not a famine of bread nor a thirst for water, [.linebr]#/# +
 but of hearing the words of the LORD.
 
 |
@@ -917,7 +917,7 @@ and shall not find it.
 and young men shall faint for thirst.
 
 |
-|14 Those who swear by the sin of Samaria, [.linebr]#/# +
+|14 Those who swear by the sin of Samaria [.linebr]#/# +
 and say, 'Your god, O Dan, lives,' [.linebr]#/# +
 and, 'The manner of Beer-sheba lives,' [.linebr]#/# +
 even they shall fall and never rise again."
@@ -933,12 +933,12 @@ _The certainty of the desolation, 1-10. The restoring of the tabernacle of David
 |===
 |
 |1 I saw the Lord standing upon the altar, and he said, [.linebr]#/# +
-"Smite the lintel of the door, [.linebr]#/# +
+"Smite the lintel of the door [.linebr]#/# +
 so that the posts may shake. [.linebr]#/# +
 Cut them in the head, all of them. [.linebr]#/# +
 I will slay the last of them with the sword. [.linebr]#/# +
-He who flees of them shall not flee away, [.linebr]#/# +
-and he who escapes of them shall not be delivered.
+He who flees shall not get away, [.linebr]#/# +
+and he who escapes shall not be delivered.
 
 |
 |2 Though they dig into the place of the dead, [.linebr]#/# +
@@ -976,7 +976,7 @@ and pours them out upon the face of the earth— [.linebr]#/# +
 Yahweh is his name.
 
 |
-|7 "Are you not as children of the Cushites to me, [.linebr]#/# +
+|7 "Are you not like children of the Cushites to me, [.linebr]#/# +
 O children of Israel?"
 |===
 
