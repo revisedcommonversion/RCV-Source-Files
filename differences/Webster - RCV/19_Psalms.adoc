@@ -377,7 +377,7 @@
 
 |**8:2**
 |Out of the mouth of babes and sucklings hast thou ordained strength because of thy enemies, that thou mightest still the enemy and the avenger.
-|Out of the mouth of babies and infants you have ordained strength because of your enemies, so that you might still the enemy and the avenger.
+|Out of the mouth of babies and infants you have ordained strength because of your enemies so that you might still the enemy and the avenger.
 
 |**8:3**
 |When I consider thy heavens, the work of thy fingers; the moon and the stars, which thou hast ordained;
@@ -577,7 +577,7 @@
 
 |**10:18**
 |To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
-|Doing justice for the fatherless and the oppressed so that the man of the earth may no longer oppress.
+|Doing justice for the fatherless and the oppressed so that man who is from the earth may no longer oppress.
 
 |===
 
@@ -759,7 +759,7 @@
 
 |**15:5**
 |He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.
-|He who does not put out his money to usury, nor takes reward against the innocent. He who does these things shall never be moved.
+|He who does not put out his money to usury nor takes reward against the innocent. He who does these things shall never be moved.
 
 |===
 
@@ -905,7 +905,7 @@
 
 |**18:3**
 |I will call upon the LORD, who is worthy to be praised: so shall I be saved from my enemies.
-|I will call upon the LORD who is worthy to be praised. So I shall be saved from my enemies.
+|I will call upon the LORD who is worthy to be praised, and I shall be saved from my enemies.
 
 |**18:5**
 |The sorrows of hell encompassed me: the snares of death seized me.
@@ -1511,7 +1511,7 @@
 
 |**25:7**
 |Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O LORD.
-|[ZAYIN] Do not remember the sins of my youth, nor my transgressions. According to your mercy remember me for your goodness' sake, O LORD.
+|[ZAYIN] Do not remember the sins of my youth nor my transgressions. According to your mercy remember me for your goodness' sake, O LORD.
 
 |**25:8**
 |Good and upright is the LORD: therefore will he teach sinners in the way.
@@ -2463,7 +2463,7 @@
 
 |**37:25**
 |I have been young, and now am old; yet I have not seen the righteous forsaken, nor his seed begging bread.
-|I have been young, and now am old, yet I have not seen the righteous forsaken, nor his children begging for bread.
+|I have been young, and now am old, yet I have not seen the righteous forsaken nor his children begging for bread.
 
 |**37:26**
 |He is ever merciful, and lendeth; and his seed is blessed.
@@ -2492,6 +2492,10 @@
 |**37:32**
 |The wicked watcheth the righteous, and seeketh to slay him.
 |The wicked watches the righteous and seeks to slay him.
+
+|**37:33**
+|The LORD will not leave him in his hand, nor condemn him when he is judged.
+|The LORD will not leave him in his hand nor condemn him when he is judged.
 
 |**37:34**
 |Wait on the LORD, and keep his way, and he will exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.
@@ -2643,7 +2647,7 @@
 
 |**39:5**
 |Behold, thou hast made my days as a hand-breadth; and my age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.
-|Behold, you have made my days as a hand-breadth, and my age is as nothing before you. Truly every man at his best state is altogether vanity." [Selah.]
+|Behold, you have made my days as a hand-breadth and my lifetime as nothing before you. Truly every man at his best state is altogether vanity." [Selah.]
 
 |**39:6**
 |Surely every man walketh in a vain show: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
@@ -3377,7 +3381,7 @@
 
 |**50:9**
 |I will take no bullock out of thy house, nor he-goats out of thy folds.
-|I will take no bull out of your house, nor male goats out of your folds.
+|I will take no bull out of your house nor male goats out of your folds.
 
 |**50:10**
 |For every beast of the forest is mine, and the cattle upon a thousand hills.
@@ -3491,7 +3495,7 @@
 
 |**51:12**
 |Restore to me the joy of thy salvation; and uphold me with thy free spirit.
-|Restore to me the joy of your salvation, and uphold me with your free spirit.
+|Restore to me the joy of your salvation and uphold me with your free spirit.
 
 |**51:13**
 |Then will I teach transgressors thy ways; and sinners shall be converted to thee.
@@ -3655,7 +3659,7 @@
 
 |**55:2**
 |Attend to me, and hear me: I mourn in my complaint, and make a noise;
-|Attend to me and hear me. I mourn in my complaint and make a noise,
+|Attend to me and hear me. I mourn in my complaint and make a noise
 
 |**55:3**
 |Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.
@@ -3873,7 +3877,7 @@
 
 |**58:2**
 |Yes, in heart ye work wickedness; ye weigh the violence of your hands in the earth.
-|Indeed, in heart you work wickedness. You weigh the violence of your hands in the earth.
+|No, in your heart you work wickedness. You weigh the violence of your hands in the earth.
 
 |**58:3**
 |The wicked are estranged from their birth: they go astray as soon as they are born, speaking lies.
@@ -3893,11 +3897,15 @@
 
 |**58:7**
 |Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.
-|Let them melt away as waters which run continually. When he bends his bow to shoot his arrows, let them be as though they were cut off.
+|Let them melt away like waters which run continually. When he bends his bow to shoot his arrows, let them be as though they were cut off.
 
 |**58:8**
 |As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.
-|As a snail which melts, let every one of them pass away like the untimely birth of a woman so that they may not see the sun.
+|Let them be like a snail which melts and passes away, like the untimely birth of a woman that has not seen the sun.
+
+|**58:9**
+|Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.
+|Before your pots can feel the thorns, he shall take them away with a whirlwind, the green and the burning alike.
 
 |**58:10**
 |The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
@@ -3927,7 +3935,7 @@
 
 |**59:3**
 |For lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD.
-|For behold, they lie in wait for my soul. The mighty are gathered against me, not for my transgression nor for my sin, O LORD.
+|For behold, they lie in wait for my soul. The mighty are gathered against me, but not for my transgression or my sin, O LORD.
 
 |**59:4**
 |They run and prepare themselves without my fault: awake to help me, and behold.

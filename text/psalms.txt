@@ -344,7 +344,7 @@ how excellent your name is in all the earth! [.linebr]#/# +
 You have set your glory above the heavens.
 
 [[psa008-002]]2 Out of the mouth of babies and infants you have ordained strength [.linebr]#/# +
-because of your enemies, [.linebr]#/# +
+because of your enemies [.linebr]#/# +
 so that you might still the enemy and the avenger.
 
 3 When I consider your heavens, the work of your fingers, [.linebr]#/# +
@@ -512,7 +512,7 @@ You will prepare their heart. [.linebr]#/# +
 You will cause your ear to hear,
 
 18 Doing justice for the fatherless and the oppressed [.linebr]#/# +
-so that the man of the earth may no longer oppress.
+so that man who is from the earth may no longer oppress.
 
 [%breakable]
 References::
@@ -672,7 +672,7 @@ nor takes up a reproach against his neighbor;
 but he honors those who fear the LORD; [.linebr]#/# +
 he who swears to his own hurt and does not change;
 
-5 He who does not put out his money to usury, [.linebr]#/# +
+5 He who does not put out his money to usury [.linebr]#/# +
 nor takes reward against the innocent. [.linebr]#/# +
 He who does these things shall never be moved.
 
@@ -803,8 +803,8 @@ I will love you, O LORD, my strength.
 my God, my strength in whom I will trust, [.linebr]#/# +
 my buckler, the horn of my salvation, and my high tower.
 
-3 I will call upon the LORD who is worthy to be praised. [.linebr]#/# +
-So I shall be saved from my enemies.
+3 I will call upon the LORD who is worthy to be praised, [.linebr]#/# +
+and I shall be saved from my enemies.
 
 4 The sorrows of death compassed me, [.linebr]#/# +
 and the floods of ungodly men made me afraid.
@@ -1385,7 +1385,7 @@ for they have always been from of old.
 [cols="7%,93%",grid=none,frame=none]
 |===
 |
-|7 Do not remember the sins of my youth, [.linebr]#/# +
+|7 Do not remember the sins of my youth [.linebr]#/# +
 nor my transgressions. [.linebr]#/# +
 According to your mercy remember me [.linebr]#/# +
 for your goodness' sake, O LORD.
@@ -2340,7 +2340,7 @@ and he delights in his way.
 for the LORD upholds him with his hand.
 
 25 I have been young, and now am old, [.linebr]#/# +
-yet I have not seen the righteous forsaken, [.linebr]#/# +
+yet I have not seen the righteous forsaken [.linebr]#/# +
 nor his children begging for bread.
 
 26 He is ever merciful and lends, [.linebr]#/# +
@@ -2366,7 +2366,7 @@ None of his steps shall slide.
 32 The wicked watches the righteous [.linebr]#/# +
 and seeks to slay him.
 
-33 The LORD will not leave him in his hand, [.linebr]#/# +
+33 The LORD will not leave him in his hand [.linebr]#/# +
 nor condemn him when he is judged.
 
 34 Wait on the LORD and keep his way, [.linebr]#/# +
@@ -2492,8 +2492,8 @@ Then I spoke with my tongue:
 and the measure of my days, what it is, [.linebr]#/# +
 so that I may know how frail I am.
 
-5 Behold, you have made my days as a hand-breadth, [.linebr]#/# +
-and my age is as nothing before you. [.linebr]#/# +
+5 Behold, you have made my days as a hand-breadth [.linebr]#/# +
+and my lifetime as nothing before you. [.linebr]#/# +
 Truly every man at his best state is altogether vanity." [.linebr]#/# +
 +[+ _Selah._ +]+
 
@@ -3172,7 +3172,7 @@ I am God, even your God.
 8 I will not reprove you for your sacrifices [.linebr]#/# +
 or your burnt-offerings which have been continually before me.
 
-9 I will take no bull out of your house, [.linebr]#/# +
+9 I will take no bull out of your house [.linebr]#/# +
 nor male goats out of your folds.
 
 10 For every beast of the forest is mine, [.linebr]#/# +
@@ -3265,7 +3265,7 @@ and renew a right spirit within me.
 11 Do not cast me away from your presence, [.linebr]#/# +
 and do not take your Holy Spirit from me.
 
-12 Restore to me the joy of your salvation, [.linebr]#/# +
+12 Restore to me the joy of your salvation [.linebr]#/# +
 and uphold me with your free spirit.
 
 13 Then I will teach transgressors your ways, [.linebr]#/# +
@@ -3417,7 +3417,7 @@ Give ear to my prayer, O God, [.linebr]#/# +
 and do not hide yourself from my supplication.
 
 2 Attend to me and hear me. [.linebr]#/# +
-I mourn in my complaint and make a noise,
+I mourn in my complaint and make a noise
 
 3 Because of the voice of the enemy, [.linebr]#/# +
 because of the oppression of the wicked. [.linebr]#/# +
@@ -3618,7 +3618,7 @@ _David reproves wicked judges, 1, 2; describes the nature of the wicked, 3-5; de
 Do you indeed speak righteousness, O congregation? [.linebr]#/# +
 Do you judge uprightly, O sons of men?
 
-2 Indeed, in heart you work wickedness. [.linebr]#/# +
+2 No, in your heart you work wickedness. [.linebr]#/# +
 You weigh the violence of your hands in the earth.
 
 3 The wicked are estranged from their birth. [.linebr]#/# +
@@ -3633,18 +3633,16 @@ charming ever so wisely.
 6 Break their teeth, O God, in their mouth. [.linebr]#/# +
 Break out the great teeth of the young lions, O LORD.
 
-7 Let them melt away as waters which run continually. [.linebr]#/# +
+7 Let them melt away like waters which run continually. [.linebr]#/# +
 When he bends his bow to shoot his arrows, [.linebr]#/# +
 let them be as though they were cut off.
 
-8 As a snail which melts, [.linebr]#/# +
-let every one of them pass away [.linebr]#/# +
-like the untimely birth of a woman [.linebr]#/# +
-so that they may not see the sun.
+8 Let them be like a snail which melts and passes away, [.linebr]#/# +
+like the untimely birth of a woman that has not seen the sun.
 
 9 Before your pots can feel the thorns, [.linebr]#/# +
-he shall take them away as with a whirlwind, [.linebr]#/# +
-both living, and in his wrath.
+he shall take them away with a whirlwind, [.linebr]#/# +
+the green and the burning alike.
 
 10 The righteous shall rejoice when he sees the vengeance. [.linebr]#/# +
 He shall wash his feet in the blood of the wicked,
@@ -3669,7 +3667,7 @@ and save me from bloody men.
 
 3 For behold, they lie in wait for my soul. [.linebr]#/# +
 The mighty are gathered against me, [.linebr]#/# +
-not for my transgression nor for my sin, O LORD.
+but not for my transgression or my sin, O LORD.
 
 4 They run and prepare themselves without my fault. [.linebr]#/# +
 Awake to help me, and behold.
