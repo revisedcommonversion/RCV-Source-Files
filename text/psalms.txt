@@ -4212,7 +4212,7 @@ and the hairy scalp of such a one as goes on still in his trespasses.
 I will bring my people back from the depths of the sea,
 
 23 So that your foot may be dipped [.linebr]#/# +
-in the blood of your enemies [.linebr]#/# +
+in the blood of your enemies, [.linebr]#/# +
 and the tongue of your dogs in the same."
 
 24 They have seen your goings, O God, [.linebr]#/# +
@@ -4288,7 +4288,7 @@ Those who would destroy me are mighty, [.linebr]#/# +
 being my enemies without cause. [.linebr]#/# +
 Then I restored that which I did not take away.
 
-5 O God, you know my foolishness [.linebr]#/# +
+5 O God, you know my foolishness, [.linebr]#/# +
 and my sins are not hid from you.
 
 6 Do not let those who wait on you, [.linebr]#/# +
@@ -4844,7 +4844,7 @@ both the chariot and horse are cast into a dead sleep.
 And who may stand in your sight when you are angry?
 
 8 You caused judgment to be heard from heaven. [.linebr]#/# +
-The earth feared and was still,
+The earth feared and was still
 
 9 When God arose to judgment [.linebr]#/# +
 to save all the meek of the earth. [.linebr]#/# +
@@ -4876,7 +4876,7 @@ My hand was stretched out in the night and did not cease. [.linebr]#/# +
 My soul refused to be comforted.
 
 3 I remembered God and was troubled. [.linebr]#/# +
-I complained and my spirit was overwhelmed. [.linebr]#/# +
+I meditated, and my spirit was overwhelmed. [.linebr]#/# +
 +[+ _Selah._ +]+
 
 4 You hold my eyes waking. [.linebr]#/# +
@@ -4930,9 +4930,9 @@ Your arrows also went abroad.
 The lightnings lightened the world. [.linebr]#/# +
 The earth trembled and shook.
 
-19 Your way is in the sea [.linebr]#/# +
-and your paths in the great waters, [.linebr]#/# +
-and your footsteps are not known.
+19 Your way was in the sea, [.linebr]#/# +
+your paths in the great waters, [.linebr]#/# +
+and your footsteps were not known.
 
 20 You led your people like a flock [.linebr]#/# +
 by the hand of Moses and Aaron.
@@ -4980,9 +4980,9 @@ and whose spirit was not steadfast with God.
 turned back in the day of battle.
 
 10 They did not keep the covenant of God [.linebr]#/# +
-and refused to walk in his law,
+and refused to walk in his law.
 
-11 And forgot his works [.linebr]#/# +
+11 They forgot his works [.linebr]#/# +
 and his wonders that he had shown them.
 
 12 He did marvelous things in the sight of their fathers, [.linebr]#/# +
@@ -5081,7 +5081,7 @@ and grieved him in the desert!
 41 They even turned back and tested God [.linebr]#/# +
 and limited the Holy One of Israel.
 
-42 They did not remember his hand, [.linebr]#/# +
+42 They did not remember his hand [.linebr]#/# +
 nor the day when he delivered them from the enemy,
 
 43 How he had wrought his signs in Egypt [.linebr]#/# +
@@ -5106,9 +5106,9 @@ and their flocks to hot thunderbolts.
 wrath, indignation, and trouble, [.linebr]#/# +
 by sending evil angels among them.
 
-50 He made a way to his anger. [.linebr]#/# +
+50 He made a way for his anger. [.linebr]#/# +
 He did not spare their soul from death, [.linebr]#/# +
-but gave their life over to the pestilence,
+but gave their life over to the pestilence
 
 51 And smote all the first-born in Egypt, [.linebr]#/# +
 the chief of their strength in the tabernacles of Ham,
@@ -5809,7 +5809,7 @@ With my holy oil I have anointed him.
 21 With him my hand shall be established. [.linebr]#/# +
 My arm shall also strengthen him.
 
-22 The enemy shall not exact upon him, [.linebr]#/# +
+22 The enemy shall not exact tribute from him, [.linebr]#/# +
 nor the son of wickedness afflict him.
 
 23 And I will beat down his foes before his face [.linebr]#/# +
@@ -5842,10 +5842,10 @@ and do not keep my commandments,
 32 Then I will visit their transgression with the rod [.linebr]#/# +
 and their iniquity with stripes.
 
-33 Nevertheless, I will not utterly take my loving-kindness from him, [.linebr]#/# +
+33 Nevertheless, I will not utterly take my loving-kindness from him [.linebr]#/# +
 nor allow my faithfulness to fail.
 
-34 I will not break my covenant, [.linebr]#/# +
+34 I will not break my covenant [.linebr]#/# +
 nor alter the thing that has gone out of my lips.
 
 35 Once I have sworn by my holiness, [.linebr]#/# +
@@ -6233,7 +6233,7 @@ and as in the day of Massah in the wilderness,
 [[psa095-009]]9 When your fathers tested me, [.linebr]#/# +
 proved me, and saw my work.
 
-[[psa095-010]]10 Forty long years I was grieved with this generation, [.linebr]#/# +
+[[psa095-010]]10 Forty long years I was grieved with this generation [.linebr]#/# +
 and said, "It is a people who err in their heart, [.linebr]#/# +
 and they have not known my ways,"
 
@@ -7024,7 +7024,7 @@ and did not listen to the voice of the LORD;
 26 Therefore, he lifted up his hand against them [.linebr]#/# +
 to overthrow them in the wilderness,
 
-27 To overthrow their offspring also among the nations, [.linebr]#/# +
+27 To overthrow their offspring among the nations [.linebr]#/# +
 and to scatter them in the lands.
 
 28 They joined themselves also to Baal-peor [.linebr]#/# +
@@ -7054,7 +7054,7 @@ and learned their works.
 36 And they served their idols, [.linebr]#/# +
 which were a snare to them.
 
-37 They even sacrificed their sons and their daughters to demons,
+37 They even sacrificed their sons and their daughters to demons
 
 38 And shed innocent blood, [.linebr]#/# +
 even the blood of their sons and of their daughters, [.linebr]#/# +
@@ -7376,7 +7376,7 @@ and my heart is wounded within me.
 I am tossed up and down like the locust.
 
 24 My knees are weak through fasting, [.linebr]#/# +
-and my flesh fails of fatness.
+and my flesh fails for lack of fatness.
 
 25 I also became a reproach to them. [.linebr]#/# +
 When they looked upon me, they shook their heads.
@@ -7854,7 +7854,7 @@ _This psalm contains various prayers, praises, and professions of obedience, 1-1
 [cols="7%,93%",grid=none,frame=none]
 |===
 |
-|1 Blessed are the undefiled in the way, [.linebr]#/# +
+|1 Blessed are the undefiled in the way [.linebr]#/# +
 who walk in the law of the LORD.
 
 |
@@ -8199,7 +8199,7 @@ because I have hoped in your word.
 and that you in faithfulness have afflicted me.
 
 |
-|76 Let, I pray you, your merciful kindness be for my comfort, [.linebr]#/# +
+|76 Let, I pray you, your merciful kindness be for my comfort [.linebr]#/# +
 according to your word to your servant.
 
 |
@@ -8389,7 +8389,7 @@ and do not let me be ashamed of my hope.
 
 |
 |117 Support me, and I shall be safe [.linebr]#/# +
-and will have respect to your statutes continually.
+and will have respect for your statutes continually.
 
 |
 |118 You have trodden down all those who err from your statutes, [.linebr]#/# +
@@ -8599,7 +8599,7 @@ but my heart stands in awe of your word.
 
 |
 |162 I rejoice at your word [.linebr]#/# +
-as one who finds great plunder.
+like one who finds great plunder.
 
 |
 |163 I hate and abhor lying, [.linebr]#/# +

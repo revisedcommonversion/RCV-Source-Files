@@ -4561,7 +4561,7 @@
 
 |**68:23**
 |That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same.
-|So that your foot may be dipped in the blood of your enemies and the tongue of your dogs in the same."
+|So that your foot may be dipped in the blood of your enemies, and the tongue of your dogs in the same."
 
 |**68:24**
 |They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary.
@@ -4639,7 +4639,7 @@
 
 |**69:5**
 |O God, thou knowest my foolishness; and my sins are not hid from thee.
-|O God, you know my foolishness and my sins are not hid from you.
+|O God, you know my foolishness, and my sins are not hid from you.
 
 |**69:6**
 |Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.
@@ -5297,7 +5297,7 @@
 
 |**76:8**
 |Thou didst cause judgment to be heard from heaven; the earth feared, and was still,
-|You caused judgment to be heard from heaven. The earth feared and was still,
+|You caused judgment to be heard from heaven. The earth feared and was still
 
 |**76:9**
 |When God arose to judgment, to save all the meek of the earth. Selah.
@@ -5335,7 +5335,7 @@
 
 |**77:3**
 |I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
-|I remembered God and was troubled. I complained and my spirit was overwhelmed. [Selah.]
+|I remembered God and was troubled. I meditated, and my spirit was overwhelmed. [Selah.]
 
 |**77:4**
 |Thou holdest mine eyes waking: I am so troubled that I cannot speak.
@@ -5395,7 +5395,7 @@
 
 |**77:19**
 |Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known.
-|Your way is in the sea and your paths in the great waters, and your footsteps are not known.
+|Your way was in the sea, your paths in the great waters, and your footsteps were not known.
 
 |**77:20**
 |Thou leddest thy people like a flock by the hand of Moses and Aaron.
@@ -5449,11 +5449,11 @@
 
 |**78:10**
 |They kept not the covenant of God, and refused to walk in his law;
-|They did not keep the covenant of God and refused to walk in his law,
+|They did not keep the covenant of God and refused to walk in his law.
 
 |**78:11**
 |And forgat his works, and his wonders that he had shewed them.
-|And forgot his works and his wonders that he had shown them.
+|They forgot his works and his wonders that he had shown them.
 
 |**78:12**
 |Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.
@@ -5577,7 +5577,7 @@
 
 |**78:42**
 |They remembered not his hand, nor the day when he delivered them from the enemy.
-|They did not remember his hand, nor the day when he delivered them from the enemy,
+|They did not remember his hand nor the day when he delivered them from the enemy,
 
 |**78:43**
 |How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
@@ -5609,7 +5609,7 @@
 
 |**78:50**
 |He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
-|He made a way to his anger. He did not spare their soul from death, but gave their life over to the pestilence,
+|He made a way for his anger. He did not spare their soul from death, but gave their life over to the pestilence
 
 |**78:51**
 |And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
@@ -6451,7 +6451,7 @@
 
 |**89:22**
 |The enemy shall not exact upon him; nor the son of wickedness afflict him.
-|The enemy shall not exact upon him, nor the son of wickedness afflict him.
+|The enemy shall not exact tribute from him, nor the son of wickedness afflict him.
 
 |**89:23**
 |And I will beat down his foes before his face, and plague them that hate him.
@@ -6495,11 +6495,11 @@
 
 |**89:33**
 |Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.
-|Nevertheless, I will not utterly take my loving-kindness from him, nor allow my faithfulness to fail.
+|Nevertheless, I will not utterly take my loving-kindness from him nor allow my faithfulness to fail.
 
 |**89:34**
 |My covenant will I not break, nor alter the thing that is gone out of my lips.
-|I will not break my covenant, nor alter the thing that has gone out of my lips.
+|I will not break my covenant nor alter the thing that has gone out of my lips.
 
 |**89:35**
 |Once have I sworn by my holiness that I will not lie unto David.
@@ -6967,7 +6967,7 @@
 
 |**95:10**
 |Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
-|Forty long years I was grieved with this generation, and said, "It is a people who err in their heart, and they have not known my ways,"
+|Forty long years I was grieved with this generation and said, "It is a people who err in their heart, and they have not known my ways,"
 
 |**95:11**
 |Unto whom I sware in my wrath that they should not enter into my rest.
@@ -7917,7 +7917,7 @@
 
 |**106:27**
 |To overthrow their seed also among the nations, and to scatter them in the lands.
-|To overthrow their offspring also among the nations, and to scatter them in the lands.
+|To overthrow their offspring among the nations and to scatter them in the lands.
 
 |**106:28**
 |They joined themselves also unto Baalpeor, and ate the sacrifices of the dead.
@@ -7957,7 +7957,7 @@
 
 |**106:37**
 |Yea, they sacrificed their sons and their daughters unto devils,
-|They even sacrificed their sons and their daughters to demons,
+|They even sacrificed their sons and their daughters to demons
 
 |**106:38**
 |And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
@@ -8339,7 +8339,7 @@
 
 |**109:24**
 |My knees are weak through fasting; and my flesh faileth of fatness.
-|My knees are weak through fasting, and my flesh fails of fatness.
+|My knees are weak through fasting, and my flesh fails for lack of fatness.
 
 |**109:25**
 |I became also a reproach unto them: when they looked upon me they shaked their heads.
@@ -8887,7 +8887,7 @@
 
 |**119:1**
 |ALEPH. Blessed are the undefiled in the way, who walk in the law of the LORD.
-|[ALEPH] Blessed are the undefiled in the way, who walk in the law of the LORD.
+|[ALEPH] Blessed are the undefiled in the way who walk in the law of the LORD.
 
 |**119:2**
 |Blessed are they that keep his testimonies, and that seek him with the whole heart.
@@ -9187,7 +9187,7 @@
 
 |**119:76**
 |Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.
-|Let, I pray you, your merciful kindness be for my comfort, according to your word to your servant.
+|Let, I pray you, your merciful kindness be for my comfort according to your word to your servant.
 
 |**119:77**
 |Let thy tender mercies come unto me, that I may live: for thy law is my delight.
@@ -9351,7 +9351,7 @@
 
 |**119:117**
 |Hold thou me up, and I shall be safe: and I will have respect unto thy statutes continually.
-|Support me, and I shall be safe and will have respect to your statutes continually.
+|Support me, and I shall be safe and will have respect for your statutes continually.
 
 |**119:118**
 |Thou hast trodden down all them that err from thy statutes: for their deceit is falsehood.
@@ -9531,7 +9531,7 @@
 
 |**119:162**
 |I rejoice at thy word, as one that findeth great spoil.
-|I rejoice at your word as one who finds great plunder.
+|I rejoice at your word like one who finds great plunder.
 
 |**119:163**
 |I hate and abhor lying: but thy law do I love.
