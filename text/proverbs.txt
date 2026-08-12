@@ -326,7 +326,7 @@ Do not forsake my law.
 3 For I was my father's son, [.linebr]#/# +
 tender and only beloved in the sight of my mother.
 
-4 He taught me also, and said to me, [.linebr]#/# +
+4 He also taught me and said to me, [.linebr]#/# +
 "Let your heart retain my words. [.linebr]#/# +
 Keep my commandments, and live.
 
@@ -436,12 +436,12 @@ and your years to the cruel,
 and your labors be in the house of a stranger,
 
 11 And you mourn at the last [.linebr]#/# +
-when your flesh and your body are consumed,
+when your flesh and your body are consumed
 
 12 And say, "How I have hated instruction, [.linebr]#/# +
 and my heart despised reproof,
 
-13 And have not obeyed the voice of my teachers, [.linebr]#/# +
+13 And have not obeyed the voice of my teachers [.linebr]#/# +
 nor inclined my ear to those who instructed me!
 
 14 I was almost in all evil [.linebr]#/# +
@@ -459,7 +459,7 @@ and not for strangers with you.
 18 Let your fountain be blessed, [.linebr]#/# +
 and rejoice with the wife of your youth.
 
-19 Let her be as the loving doe and pleasant deer. [.linebr]#/# +
+19 Let her be like a loving doe and a pleasant deer. [.linebr]#/# +
 Let her breasts satisfy you at all times, [.linebr]#/# +
 and be ravished always with her love.
 
@@ -491,7 +491,7 @@ you are taken with the words of your mouth.
 when you have come into the hand of your friend: [.linebr]#/# +
 go, humble yourself, and make urgent request to your friend.
 
-4 Do not give sleep to your eyes, [.linebr]#/# +
+4 Do not give sleep to your eyes [.linebr]#/# +
 nor slumber to your eyelids.
 
 5 Deliver yourself like a gazelle from the hand of the hunter [.linebr]#/# +
@@ -552,7 +552,7 @@ When you sleep, it shall keep you. [.linebr]#/# +
 And when you awake, it shall talk with you.
 
 23 For the commandment is a lamp, the law is light, [.linebr]#/# +
-and reproofs of instruction are the way of life,
+and reproofs of instruction are the way of life
 
 24 To keep you from the evil woman, [.linebr]#/# +
 from the flattery of the tongue of a strange woman.
@@ -724,7 +724,7 @@ and find out knowledge of ingenious inventions.
 
 13 The fear of the LORD is to hate evil. [.linebr]#/# +
 Pride, arrogance, the evil way, [.linebr]#/# +
-and the perverse mouth, I hate.
+and the perverse mouth I hate.
 
 14 Counsel and sound wisdom are mine. [.linebr]#/# +
 I am understanding. I have strength.
@@ -775,7 +775,7 @@ when he strengthened the fountains of the deep,
 that the waters should not pass his commandment, [.linebr]#/# +
 and when he appointed the foundations of the earth,
 
-30 I was by him, as one brought up with him, [.linebr]#/# +
+30 I was by him as one brought up with him, [.linebr]#/# +
 and I was daily his delight, [.linebr]#/# +
 rejoicing always before him,
 
@@ -1230,7 +1230,7 @@ but to the righteous good shall be repaid.
 and the wealth of the sinner is laid up for the just.
 
 23 Much food is in the tillage of the poor, [.linebr]#/# +
-but there is one who is destroyed for lack of judgment.
+but it is destroyed by reason of injustice.
 
 24 He who spares his rod hates his son, [.linebr]#/# +
 but he who loves him chastens him diligently.
@@ -1499,7 +1499,7 @@ for the throne is established by righteousness.
 13 Righteous lips are the delight of kings, [.linebr]#/# +
 and they love him who speaks right.
 
-14 The wrath of a king is as messengers of death, [.linebr]#/# +
+14 The wrath of a king is like messengers of death, [.linebr]#/# +
 but a wise man will pacify it.
 
 15 In the light of a king's countenance is life, [.linebr]#/# +
@@ -1514,7 +1514,7 @@ He who keeps his way preserves his soul.
 18 Pride goes before destruction, [.linebr]#/# +
 and a haughty spirit before a fall.
 
-19 It is better to be of a humble spirit with the lowly, [.linebr]#/# +
+19 It is better to be of a humble spirit with the lowly [.linebr]#/# +
 than to divide the plunder with the proud.
 
 20 He who handles a matter wisely shall find good. [.linebr]#/# +
@@ -1568,7 +1568,7 @@ _Various observations of moral virtues, and their contrary vices, 1-28._
 1 Better is a dry morsel and quietness with it, [.linebr]#/# +
 than a house full of sacrifices with strife.
 
-2 A wise servant shall have rule over a son who causes shame, [.linebr]#/# +
+2 A wise servant shall have rule over a son who causes shame [.linebr]#/# +
 and shall have part of the inheritance among the brothers.
 
 3 The refining-pot is for silver and the furnace for gold, [.linebr]#/# +
@@ -1598,7 +1598,7 @@ than one hundred stripes into a fool.
 11 An evil man seeks only rebellion; [.linebr]#/# +
 therefore, a cruel messenger shall be sent against him.
 
-12 Let a bear robbed of her whelps meet a man, [.linebr]#/# +
+12 Let a bear robbed of her whelps meet a man [.linebr]#/# +
 rather than a fool in his folly.
 
 13 Whoever rewards evil for good, [.linebr]#/# +
@@ -1640,7 +1640,7 @@ but the eyes of a fool are in the ends of the earth.
 25 A foolish son is a grief to his father, [.linebr]#/# +
 and bitterness to her who bore him.
 
-26 Also to punish the just is not good, [.linebr]#/# +
+26 Also, to punish the just is not good, [.linebr]#/# +
 nor to strike princes for equity.
 
 27 He who has knowledge spares his words, [.linebr]#/# +
@@ -1664,8 +1664,8 @@ but only that his heart may reveal itself.
 3 When the wicked comes, then contempt also comes, [.linebr]#/# +
 and with ignominy comes reproach.
 
-4 The words of a man's mouth are as deep waters, [.linebr]#/# +
-and the well-spring of wisdom as a flowing brook.
+4 The words of a man's mouth are like deep waters, [.linebr]#/# +
+and the well-spring of wisdom like a flowing brook.
 
 5 It is not good to accept the person of the wicked [.linebr]#/# +
 or to overthrow the righteous in judgment.
@@ -1807,8 +1807,8 @@ He shall not be visited with evil.
 24 A slothful man hides his hand in his bosom [.linebr]#/# +
 and will not so much as bring it to his mouth again.
 
-25 Smite a scorner and the simple will take heed. [.linebr]#/# +
-And reprove one who has understanding and he will understand knowledge.
+25 Smite a scorner, and the simple will take heed. [.linebr]#/# +
+Reprove one who has understanding, and he will understand knowledge.
 
 26 He who wastes his father and chases away his mother [.linebr]#/# +
 is a son who causes shame and brings reproach.
@@ -2075,13 +2075,13 @@ and he who gives to the rich, shall surely come to poverty.
 and apply your heart to my knowledge,
 
 18 For it is a pleasant thing if you keep them within you, [.linebr]#/# +
-if they are ready in your lips.
+if they are ready on your lips.
 
 19 So that your trust may be in the LORD, [.linebr]#/# +
 I have made known to you this day, even to you.
 
 20 Have I not written to you excellent things [.linebr]#/# +
-in counsels and knowledge,
+in counsels and knowledge
 
 21 So that I might make you know the certainty of the words of truth, [.linebr]#/# +
 and so that you might answer the words of truth to those who send to you?
@@ -2124,7 +2124,7 @@ _Various observations of moral virtues, and their contrary vices, 1-35._
 1 When you sit to eat with a ruler, [.linebr]#/# +
 consider diligently what is before you,
 
-2 And put a knife to your throat, [.linebr]#/# +
+2 And put a knife to your throat [.linebr]#/# +
 if you are a man given to appetite.
 
 3 Do not be desirous of his dainties, [.linebr]#/# +
@@ -2179,8 +2179,8 @@ and your expectation shall not be cut off.
 19 Hear, my son, and be wise, [.linebr]#/# +
 and guide your heart in the way.
 
-20 Do not be among drunkards, [.linebr]#/# +
-among riotous eaters of flesh,
+20 Do not be among drunkards [.linebr]#/# +
+or among riotous eaters of flesh,
 
 21 For the drunkard and the glutton shall come to poverty, [.linebr]#/# +
 and drowsiness shall clothe a man with rags.
@@ -2211,7 +2211,7 @@ Who has babbling? Who has wounds without cause? [.linebr]#/# +
 Who has redness of eyes?
 
 30 Those who stay long at the wine, [.linebr]#/# +
-and those who go to seek mixed wine.
+those who go to seek mixed wine.
 
 31 Do not look upon the wine when it is red, [.linebr]#/# +
 when it gives its color in the cup, when it moves itself aright.
@@ -2222,7 +2222,7 @@ and stings like an adder.
 33 Your eyes shall behold strange women, [.linebr]#/# +
 and your heart shall utter perverse things.
 
-34 And you shall be like someone who lies down in the midst of the sea, [.linebr]#/# +
+34 You shall be like someone who lies down in the midst of the sea, [.linebr]#/# +
 or like someone who lies upon the top of a mast.
 
 35 "They have stricken me," you will say, "and I was not sick. [.linebr]#/# +
@@ -2340,8 +2340,8 @@ I looked upon it and received instruction.
 33 Yet a little sleep, a little slumber, [.linebr]#/# +
 a little folding of the hands to sleep,
 
-34 And your poverty shall come as one who travels, [.linebr]#/# +
-and your need as an armed man.
+34 And your poverty shall come like one who travels, [.linebr]#/# +
+and your need like an armed man.
 
 [%breakable]
 References::
@@ -2547,7 +2547,7 @@ _Observations of self love, 1-4; of true love, 5-10; of care to avoid offenses, 
 1 Do not boast about tomorrow, [.linebr]#/# +
 for you do not know what a day may bring forth.
 
-2 Let another man praise you, and not your own mouth, [.linebr]#/# +
+2 Let another man praise you, and not your own mouth; [.linebr]#/# +
 a stranger, and not your own lips.
 
 3 A stone is heavy and the sand weighty, [.linebr]#/# +
@@ -2763,7 +2763,7 @@ but a wise man keeps it in until afterward.
 12 If a ruler listens to lies, [.linebr]#/# +
 all his servants are wicked.
 
-13 The poor and the deceitful man meet together, [.linebr]#/# +
+13 The poor and the oppressor meet together; [.linebr]#/# +
 the LORD enlightens both their eyes.
 
 14 The king who faithfully judges the poor, [.linebr]#/# +
@@ -2819,7 +2819,7 @@ _Agur's confession of his faith, 1-6. The two points of his prayer, 7-9. The mea
 2 Surely I am more brutish than any man [.linebr]#/# +
 and do not have the understanding of a man.
 
-3 I neither learned wisdom, [.linebr]#/# +
+3 I neither learned wisdom [.linebr]#/# +
 nor have the knowledge of the Holy One.
 
 4 Who has ascended into heaven and descended? [.linebr]#/# +
@@ -2841,7 +2841,7 @@ do not deny them to me before I die:
 and give me neither poverty nor riches. [.linebr]#/# +
 Feed me with the food of my portion,
 
-9 Lest I be full and deny you, and say, "Who is the LORD?" [.linebr]#/# +
+9 Lest I be full and deny you and say, "Who is the LORD?" [.linebr]#/# +
 or lest I be poor and steal [.linebr]#/# +
 and take the name of my God in vain.
 
@@ -2884,7 +2884,7 @@ the way of a ship in the midst of the sea, [.linebr]#/# +
 and the way of a man with a young woman.
 
 20 Such is the way of an adulterous woman: [.linebr]#/# +
-she eats and wipes her mouth, [.linebr]#/# +
+she eats and wipes her mouth [.linebr]#/# +
 and says, "I have done no wickedness."
 
 21 For three things the earth is disquieted, [.linebr]#/# +
@@ -2939,16 +2939,16 @@ _Lemuel's lesson of chastity and temperance, 1-5. The afflicted are to be comfor
 2 What, my son? And what, the son of my womb? [.linebr]#/# +
 And what, the son of my vows?
 
-3 Do not give your strength to women, [.linebr]#/# +
+3 Do not give your strength to women [.linebr]#/# +
 nor your ways to that which destroys kings.
 
-4 It is not for kings, O Lemuel, it is not for kings to drink wine, [.linebr]#/# +
+4 It is not for kings, O Lemuel, it is not for kings to drink wine [.linebr]#/# +
 nor for princes strong drink,
 
 5 Lest they drink, forget the law, [.linebr]#/# +
 and pervert the judgment of any of the afflicted.
 
-6 Give strong drink to him who is ready to perish, [.linebr]#/# +
+6 Give strong drink to him who is ready to perish [.linebr]#/# +
 and wine to those who are of heavy hearts.
 
 7 Let him drink and forget his poverty [.linebr]#/# +
@@ -3047,8 +3047,8 @@ Her candle does not go out by night.
 [cols="7%,93%",grid=none,frame=none]
 |===
 |
-|19 She lays her hands to the spindle, [.linebr]#/# +
-and her hands hold the distaff.
+|19 She lays her hands to the distaff, [.linebr]#/# +
+and her hands hold the spindle.
 |===
 
 +[+ _KAF_ - כ +]+
