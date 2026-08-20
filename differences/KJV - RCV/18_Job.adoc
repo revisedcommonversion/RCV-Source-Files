@@ -11,7 +11,7 @@
 
 |**1:1**
 |There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
-|There was a man in the land of Uz whose name was Job. And that man was upright and just, and one who feared God and shunned evil.
+|There was a man in the land of Uz whose name was Job. And that man was upright and just, one who feared God and shunned evil.
 
 |**1:2**
 |And there were born unto him seven sons and three daughters.
@@ -27,7 +27,7 @@
 
 |**1:5**
 |And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
-|And it was so, when the days of their feasting had ended, that Job sent and sanctified them, rose early in the morning, and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
+|And it came to pass when the days of their feasting had ended, that Job sent and sanctified them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
 
 |**1:6**
 |Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
@@ -83,11 +83,11 @@
 
 |**1:19**
 |And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.
-|And behold, there came a great wind from the wilderness and smote the four corners of the house, and it fell upon the young men, and they are dead, and only I alone have escaped to tell you."
+|And behold, there came a great wind from the wilderness and smote the four corners of the house. It fell upon the young men, and they are dead, and only I alone have escaped to tell you."
 
 |**1:20**
 |Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
-|Then Job arose, rent his mantle, shaved his head, fell upon the ground, and worshiped,
+|Then Job arose, rent his mantle, shaved his head, fell upon the ground, and worshiped
 
 |**1:21**
 |And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
@@ -95,7 +95,7 @@
 
 |**1:22**
 |In all this Job sinned not, nor charged God foolishly.
-|In all this Job did not sin, nor charge God foolishly.
+|In all this Job did not sin or charge God foolishly.
 
 |===
 
@@ -171,11 +171,11 @@
 
 |**3:1**
 |After this opened Job his mouth, and cursed his day.
-|After this Job opened his mouth and cursed his day.
+|After this, Job opened his mouth and cursed his day.
 
 |**3:2**
 |And Job spake, and said,
-|And Job spoke, and said,
+|And Job spoke and said,
 
 |**3:3**
 |Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.
@@ -883,7 +883,7 @@
 
 |**9:24**
 |The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?
-|The earth is given into the hand of the wicked. He covers the faces of its judges. If not, where, and who is he?
+|The earth is given into the hand of the wicked. He covers the faces of its judges. If it is not he, then who is it?
 
 |**9:25**
 |Now my days are swifter than a post: they flee away, they see no good.
@@ -1111,7 +1111,7 @@
 
 |**11:19**
 |Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
-|Also you shall lie down, and no one shall make you afraid. Indeed, many shall make petition to you.
+|Also, you shall lie down, and no one shall make you afraid. Indeed, many shall make petition to you.
 
 |**11:20**
 |But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
@@ -1377,7 +1377,7 @@
 
 |**14:7**
 |For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
-|For there is hope for a tree if it is cut down, that it will sprout again and that its tender branch will not cease.
+|For there is hope for a tree, if it is cut down, that it will sprout again and that its tender branch will not cease.
 
 |**14:8**
 |Though the root thereof wax old in the earth, and the stock thereof die in the ground;
@@ -1433,7 +1433,7 @@
 
 |**14:21**
 |His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them.
-|His sons come to honor, and he does not know it. And they are brought low, but he does not perceive it of them.
+|His sons come to honor, and he does not know it. They are brought low, but he does not perceive it.
 
 |**14:22**
 |But his flesh upon him shall have pain, and his soul within him shall mourn.
@@ -1459,7 +1459,7 @@
 
 |**15:3**
 |Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
-|Should he reason with unprofitable talk, or with speeches with which he can do no good?
+|Should he reason with unprofitable talk or with speeches with which he can do no good?
 
 |**15:4**
 |Yea, thou castest off fear, and restrainest prayer before God.
@@ -1495,7 +1495,7 @@
 
 |**15:12**
 |Why doth thine heart carry thee away? and what do thy eyes wink at,
-|Why does your heart carry you away? And what do your eyes wink at,
+|Why does your heart carry you away? And what do your eyes wink at
 
 |**15:13**
 |That thou turnest thy spirit against God, and lettest such words go out of thy mouth?
@@ -1927,7 +1927,7 @@
 
 |**19:22**
 |Why do ye persecute me as God, and are not satisfied with my flesh?
-|Why do you persecute me as God does, and are not satisfied with my flesh?
+|Why do you persecute me as God does and are not satisfied with my flesh?
 
 |**19:23**
 |Oh that my words were now written! oh that they were printed in a book!
@@ -1985,7 +1985,7 @@
 
 |**20:5**
 |That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
-|That the triumphing of the wicked is short, and the joy of the hypocrite is only for a moment?
+|That the triumphing of the wicked is short and the joy of the hypocrite is only for a moment?
 
 |**20:6**
 |Though his excellency mount up to the heavens, and his head reach unto the clouds;
@@ -2079,7 +2079,7 @@
 
 |**21:2**
 |Hear diligently my speech, and let this be your consolations.
-|"Hear diligently my speech, and let this be your consolations.
+|"Hear diligently my speech, and let this be your consolation.
 
 |**21:3**
 |Suffer me that I may speak; and after that I have spoken, mock on.
@@ -2465,7 +2465,7 @@
 
 |**24:15**
 |The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.
-|Also the eye of the adulterer waits for the twilight, saying, 'No eye shall see me,' and disguises his face.
+|Also, the eye of the adulterer waits for the twilight, saying, 'No eye shall see me,' and disguises his face.
 
 |**24:16**
 |In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.
@@ -2621,6 +2621,10 @@
 |All the while my breath is in me, and the spirit of God is in my nostrils;
 |All the while my breath is in me, and the spirit of God is in my nostrils,
 
+|**27:4**
+|My lips shall not speak wickedness, nor my tongue utter deceit.
+|My lips shall not speak wickedness nor my tongue utter deceit.
+
 |**27:5**
 |God forbid that I should justify you: till I die I will not remove mine integrity from me.
 |Far be it from me that I should justify you. Until I die I will not remove my integrity from me.
@@ -2655,7 +2659,7 @@
 
 |**27:13**
 |This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.
-|This is the portion of a wicked man with God and the heritage of oppressors, which they shall receive from the Almighty.
+|This is the portion of a wicked man with God, the heritage oppressors receive from the Almighty.
 
 |**27:14**
 |If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.

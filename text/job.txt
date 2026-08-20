@@ -21,13 +21,13 @@
 [.outline.text-center]
 _The holiness, riches, and religious care of Job for his children, 1-5. Satan, appearing before God, by slander obtains leave to afflict Job, 6-12. Realizing the loss of his children and goods, in his mourning Job blesses God, 13-22._
 
-1 There was a man in the land of Uz whose name was Job. And that man was upright and just, and one who feared God and shunned evil. 2 And there were born to him seven sons and three daughters. 3 His substance also was seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household. This man was the greatest of all the men of the east. 4 And his sons went and feasted in their houses, each his day, and sent and called for their three sisters to eat and to drink with them. 5 And it was so, when the days of their feasting had ended, that Job sent and sanctified them, rose early in the morning, and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
+1 There was a man in the land of Uz whose name was Job. And that man was upright and just, one who feared God and shunned evil. 2 And there were born to him seven sons and three daughters. 3 His substance also was seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household. This man was the greatest of all the men of the east. 4 And his sons went and feasted in their houses, each his day, and sent and called for their three sisters to eat and to drink with them. 5 And it came to pass when the days of their feasting had ended, that Job sent and sanctified them, and he rose early in the morning and offered burnt-offerings according to the number of them all, for Job said, "It may be that my sons have sinned and cursed God in their hearts." Thus Job did continually.
 
 6 Now there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them. 7 And the LORD said to Satan, "Where did you come from?" Then Satan answered the LORD and said, "From going to and fro on the earth and from walking up and down upon it." 8 And the LORD said to Satan, "Have you considered my servant Job, that there is no one like him on the earth, an upright and a just man, one who fears God and shuns evil?" 9 Then Satan answered the LORD and said, "Does Job fear God for nothing? 10 Have you not made a hedge around him, around his house, and around all that he has on every side? You have blessed the work of his hands, and his substance has increased in the land. 11 But put forth your hand now and touch all that he has, and he will curse you to your face." 12 And the LORD said to Satan, "Behold, all that he has is in your power. Only do not put forth your hand upon him." So Satan went forth from the presence of the LORD.
 
-13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house, 14 And a messenger to Job came and said, "The oxen were plowing and the donkeys feeding beside them, 15 And the Sabeans fell upon them and took them away. They have even slain the servants with the edge of the sword, and only I alone have escaped to tell you." 16 While he was still speaking, another also came, saying, "The fire of God has fallen from heaven and has burned up the sheep and the servants and consumed them, and only I have escaped alone to tell you." 17 While he was still speaking, another also came, saying, "The Chaldeans made three bands and fell upon the camels and have carried them away. They have even slain the servants with the edge of the sword, and only I alone have escaped to tell you." 18 While he was still speaking, another also came, saying, "Your sons and your daughters were eating and drinking wine in their eldest brother's house, 19 And behold, there came a great wind from the wilderness and smote the four corners of the house, and it fell upon the young men, and they are dead, and only I alone have escaped to tell you."
+13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house, 14 And a messenger to Job came and said, "The oxen were plowing and the donkeys feeding beside them, 15 And the Sabeans fell upon them and took them away. They have even slain the servants with the edge of the sword, and only I alone have escaped to tell you." 16 While he was still speaking, another also came, saying, "The fire of God has fallen from heaven and has burned up the sheep and the servants and consumed them, and only I have escaped alone to tell you." 17 While he was still speaking, another also came, saying, "The Chaldeans made three bands and fell upon the camels and have carried them away. They have even slain the servants with the edge of the sword, and only I alone have escaped to tell you." 18 While he was still speaking, another also came, saying, "Your sons and your daughters were eating and drinking wine in their eldest brother's house, 19 And behold, there came a great wind from the wilderness and smote the four corners of the house. It fell upon the young men, and they are dead, and only I alone have escaped to tell you."
 
-20 Then Job arose, rent his mantle, shaved his head, fell upon the ground, and worshiped, 21 And said,
+20 Then Job arose, rent his mantle, shaved his head, fell upon the ground, and worshiped 21 And said,
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -38,7 +38,7 @@ The LORD gave, and the LORD has taken away. [.linebr]#/# +
 Blessed be the name of the LORD."
 |===
 
-22 In all this Job did not sin, nor charge God foolishly.
+22 In all this Job did not sin or charge God foolishly.
 
 [#job002%breakable]
 === Chapter 2
@@ -60,7 +60,7 @@ _Satan, appearing again before God, obtains further leave to test Job, 1-6. He s
 [.outline.text-center]
 _Job curses the day and services of his birth, 1-12. The ease of death, 13-19. He bemoans life because of his anguish, 20-26._
 
-1 After this Job opened his mouth and cursed his day. 2 And Job spoke, and said,
+1 After this, Job opened his mouth and cursed his day. 2 And Job spoke and said,
 
 3 "Let the day perish in which I was born, [.linebr]#/# +
 and the night in which it was said, [.linebr]#/# +
@@ -620,7 +620,7 @@ he will laugh at the trial of the innocent.
 
 24 The earth is given into the hand of the wicked. [.linebr]#/# +
 He covers the faces of its judges. [.linebr]#/# +
-If not, where, and who is he?
+If it is not he, then who is it?
 
 25 Now my days are swifter than a runner. [.linebr]#/# +
 They flee away. They see no good.
@@ -795,7 +795,7 @@ You shall shine forth. You shall be like the morning.
 18 And you shall be secure because there is hope. [.linebr]#/# +
 You shall even dig around you and take your rest in safety.
 
-19 Also you shall lie down, and no one shall make you afraid. [.linebr]#/# +
+19 Also, you shall lie down, and no one shall make you afraid. [.linebr]#/# +
 Indeed, many shall make petition to you.
 
 20 But the eyes of the wicked shall fail. [.linebr]#/# +
@@ -1005,7 +1005,7 @@ and you have appointed his bounds that he cannot pass.
 6 Turn from him so that he may rest [.linebr]#/# +
 until he accomplishes his day like a hireling.
 
-7 For there is hope for a tree [.linebr]#/# +
+7 For there is hope for a tree, [.linebr]#/# +
 if it is cut down, that it will sprout again [.linebr]#/# +
 and that its tender branch will not cease.
 
@@ -1053,7 +1053,7 @@ and you destroy the hope of man.
 You change his countenance and send him away.
 
 21 His sons come to honor, and he does not know it. [.linebr]#/# +
-And they are brought low, but he does not perceive it of them.
+They are brought low, but he does not perceive it.
 
 22 But his flesh upon him shall have pain, [.linebr]#/# +
 and his soul within him shall mourn."
@@ -1069,7 +1069,7 @@ _Eliphaz reproves Job for impiety in justifying himself, 1-16. He proves by trad
 2 "Should a wise man utter vain knowledge [.linebr]#/# +
 and fill his belly with the east wind?
 
-3 Should he reason with unprofitable talk, [.linebr]#/# +
+3 Should he reason with unprofitable talk [.linebr]#/# +
 or with speeches with which he can do no good?
 
 4 You even cast off fear [.linebr]#/# +
@@ -1097,7 +1097,7 @@ much older than your father.
 Is there any secret thing with you?
 
 12 Why does your heart carry you away? [.linebr]#/# +
-And what do your eyes wink at,
+And what do your eyes wink at
 
 13 That you turn your spirit against God [.linebr]#/# +
 and let such words go out of your mouth?
@@ -1442,7 +1442,7 @@ and I have escaped with the skin of my teeth.
 21 Have pity upon me, have pity upon me, O my friends, [.linebr]#/# +
 for the hand of God has touched me.
 
-22 Why do you persecute me as God does, [.linebr]#/# +
+22 Why do you persecute me as God does [.linebr]#/# +
 and are not satisfied with my flesh?
 
 23 Oh that my words were now written! [.linebr]#/# +
@@ -1485,7 +1485,7 @@ and the spirit of my understanding causes me to answer.
 4 Do you not know this of old, [.linebr]#/# +
 since man was placed upon earth,
 
-5 That the triumphing of the wicked is short, [.linebr]#/# +
+5 That the triumphing of the wicked is short [.linebr]#/# +
 and the joy of the hypocrite is only for a moment?
 
 6 Though his excellence mounts up to the heavens [.linebr]#/# +
@@ -1574,7 +1574,7 @@ _Job shows that even in the judgment of man he has reason to be grieved, 1-6. So
 1 But Job answered and said,
 
 2 "Hear diligently my speech, [.linebr]#/# +
-and let this be your consolations.
+and let this be your consolation.
 
 3 Allow me that I may speak. [.linebr]#/# +
 And after I have spoken, mock on.
@@ -1881,7 +1881,7 @@ nor abide in its paths.
 kills the poor and needy, [.linebr]#/# +
 and in the night is like a thief.
 
-15 Also the eye of the adulterer waits for the twilight, [.linebr]#/# +
+15 Also, the eye of the adulterer waits for the twilight, [.linebr]#/# +
 saying, 'No eye shall see me,' [.linebr]#/# +
 and disguises his face.
 
@@ -2006,7 +2006,7 @@ and the Almighty who has afflicted my soul,
 3 All the while my breath is in me, [.linebr]#/# +
 and the spirit of God is in my nostrils,
 
-4 My lips shall not speak wickedness, [.linebr]#/# +
+4 My lips shall not speak wickedness [.linebr]#/# +
 nor my tongue utter deceit.
 
 5 Far be it from me that I should justify you. [.linebr]#/# +
@@ -2033,9 +2033,8 @@ That which is with the Almighty I will not conceal.
 12 Behold, all of you have seen it yourselves. [.linebr]#/# +
 Why then are you thus altogether vain?
 
-13 This is the portion of a wicked man with God [.linebr]#/# +
-and the heritage of oppressors, [.linebr]#/# +
-which they shall receive from the Almighty.
+13 This is the portion of a wicked man with God, [.linebr]#/# +
+the heritage oppressors receive from the Almighty.
 
 14 If his children are multiplied, it is for the sword, [.linebr]#/# +
 and his offspring shall not be satisfied with bread.
