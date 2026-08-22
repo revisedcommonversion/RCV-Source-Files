@@ -2096,7 +2096,7 @@ and it has dust of gold.
 and which the falcon's eye has not seen.
 
 8 The lion's whelps have not trodden it, [.linebr]#/# +
-nor the fierce lion passed by it.
+and no fierce lion has passed by it.
 
 9 He puts forth his hand upon the rock. [.linebr]#/# +
 He overturns the mountains by the roots.
@@ -2362,7 +2362,7 @@ and a strange punishment for the workers of iniquity?
 4 Does he not see my ways [.linebr]#/# +
 and count all my steps?
 
-5 If I have walked with vanity, [.linebr]#/# +
+5 If I have walked with vanity [.linebr]#/# +
 or if my foot has hastened to deceit,
 
 6 Let me be weighed in an even balance [.linebr]#/# +
@@ -2375,7 +2375,7 @@ and if any blot has cleaved to my hands,
 8 Then let me sow and let another eat, [.linebr]#/# +
 even let my offspring be rooted out.
 
-9 If my heart has been deceived by a woman, [.linebr]#/# +
+9 If my heart has been deceived by a woman [.linebr]#/# +
 or if I have laid wait at my neighbor's door,
 
 10 Then let my wife grind to another, [.linebr]#/# +
@@ -2398,7 +2398,7 @@ And when he visits, what shall I answer him?
 And did not the same one fashion us in the womb?
 
 16 If I have withheld the poor from their desire, [.linebr]#/# +
-or have caused the eyes of the widow to fail,
+have caused the eyes of the widow to fail,
 
 17 Or have eaten my morsel myself alone, [.linebr]#/# +
 and the fatherless has not eaten any of it
@@ -2406,7 +2406,7 @@ and the fatherless has not eaten any of it
 18 (For from my youth he was brought up with me as with a father, [.linebr]#/# +
 and I have guided her from my mother's womb),
 
-19 If I have seen any perish for lack of clothing, [.linebr]#/# +
+19 If I have seen any perish for lack of clothing [.linebr]#/# +
 or any poor without covering,
 
 20 If his loins have not blessed me [.linebr]#/# +
@@ -2415,7 +2415,7 @@ and if he has not been warmed with the fleece of my sheep,
 21 If I have lifted up my hand against the fatherless [.linebr]#/# +
 when I saw my help in the gate,
 
-22 Then let my arm fall from my shoulder-blade, [.linebr]#/# +
+22 Then let my arm fall from my shoulder-blade [.linebr]#/# +
 and my arm be broken from the bone.
 
 23 For destruction from God was a terror to me, [.linebr]#/# +
@@ -2449,9 +2449,9 @@ by wishing a curse to his soul),
 but I opened my doors to the traveler),
 
 33 If I have covered my transgressions like Adam [.linebr]#/# +
-by hiding my iniquity in my bosom,
+by hiding my iniquity in my bosom
 
-34 Because I feared a great multitude, [.linebr]#/# +
+34 Because I feared a great multitude [.linebr]#/# +
 and the contempt of families terrified me, [.linebr]#/# +
 so that I kept silence and did not go out of the door,
 
@@ -2471,7 +2471,7 @@ and its furrows likewise complain,
 39 If I have eaten its fruits without money [.linebr]#/# +
 or have caused its owners to lose their life,
 
-40 Let thistles grow instead of wheat, [.linebr]#/# +
+40 Let thistles grow instead of wheat [.linebr]#/# +
 and weeds instead of barley."
 
 +[+ _The words of Job are finished._ +]+
@@ -2515,7 +2515,7 @@ while you searched out what to say.
 
 |
 |12 I even attended to you, [.linebr]#/# +
-and behold, there was none of you who convinced Job, [.linebr]#/# +
+and behold, there was none of you who convinced Job [.linebr]#/# +
 or who answered his words,
 
 |
@@ -2532,7 +2532,7 @@ They left off speaking.
 
 |
 |16 Seeing that I had waited (for they did not speak, [.linebr]#/# +
-but stood still, and answered no more),
+but stood still and answered no more),
 
 |
 |17 I will also answer my part [.linebr]#/# +
@@ -2612,7 +2612,7 @@ when deep sleep falls upon men, [.linebr]#/# +
 in slumberings upon the bed,
 
 16 He opens the ears of men [.linebr]#/# +
-and seals their instruction,
+and seals their instruction
 
 17 So that he may withdraw man from his purpose [.linebr]#/# +
 and hide pride from man.
@@ -2654,7 +2654,8 @@ and it did not profit me.
 28 He will deliver my soul from going into the pit, [.linebr]#/# +
 and my life shall see the light.'
 
-29 Behold, all these things God works twice, even three times, with man
+29 Behold, all these things God works twice [.linebr]#/# +
+and even three times with man
 
 30 To bring back his soul from the pit, [.linebr]#/# +
 to be enlightened with the light of the living.

@@ -2739,6 +2739,10 @@
 |There is a path which no fowl knoweth, and which the vulture's eye hath not seen:
 |There is a path which no bird knows, and which the falcon's eye has not seen.
 
+|**28:8**
+|The lion's whelps have not trodden it, nor the fierce lion passed by it.
+|The lion's whelps have not trodden it, and no fierce lion has passed by it.
+
 |**28:9**
 |He putteth forth his hand upon the rock; he overturneth the mountains by the roots.
 |He puts forth his hand upon the rock. He overturns the mountains by the roots.
@@ -3075,7 +3079,7 @@
 
 |**31:5**
 |If I have walked with vanity, or if my foot hath hasted to deceit;
-|If I have walked with vanity, or if my foot has hastened to deceit,
+|If I have walked with vanity or if my foot has hastened to deceit,
 
 |**31:6**
 |Let me be weighed in an even balance, that God may know mine integrity.
@@ -3091,7 +3095,7 @@
 
 |**31:9**
 |If mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;
-|If my heart has been deceived by a woman, or if I have laid wait at my neighbor's door,
+|If my heart has been deceived by a woman or if I have laid wait at my neighbor's door,
 
 |**31:10**
 |Then let my wife grind unto another, and let others bow down upon her.
@@ -3119,7 +3123,7 @@
 
 |**31:16**
 |If I have withheld the poor from their desire, or have caused the eyes of the widow to fail;
-|If I have withheld the poor from their desire, or have caused the eyes of the widow to fail,
+|If I have withheld the poor from their desire, have caused the eyes of the widow to fail,
 
 |**31:17**
 |Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
@@ -3131,7 +3135,7 @@
 
 |**31:19**
 |If I have seen any perish for want of clothing, or any poor without covering;
-|If I have seen any perish for lack of clothing, or any poor without covering,
+|If I have seen any perish for lack of clothing or any poor without covering,
 
 |**31:20**
 |If his loins have not blessed me, and if he were not warmed with the fleece of my sheep;
@@ -3143,7 +3147,7 @@
 
 |**31:22**
 |Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone.
-|Then let my arm fall from my shoulder-blade, and my arm be broken from the bone.
+|Then let my arm fall from my shoulder-blade and my arm be broken from the bone.
 
 |**31:24**
 |If I have made gold my hope, or have said to the fine gold, Thou art my confidence;
@@ -3183,11 +3187,11 @@
 
 |**31:33**
 |If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
-|If I have covered my transgressions like Adam by hiding my iniquity in my bosom,
+|If I have covered my transgressions like Adam by hiding my iniquity in my bosom
 
 |**31:34**
 |Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
-|Because I feared a great multitude, and the contempt of families terrified me, so that I kept silence and did not go out of the door,
+|Because I feared a great multitude and the contempt of families terrified me, so that I kept silence and did not go out of the door,
 
 |**31:35**
 |Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.
@@ -3211,7 +3215,7 @@
 
 |**31:40**
 |Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
-|Let thistles grow instead of wheat, and weeds instead of barley." [The words of Job are finished.]
+|Let thistles grow instead of wheat and weeds instead of barley." [The words of Job are finished.]
 
 |===
 
@@ -3269,7 +3273,7 @@
 
 |**32:12**
 |Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:
-|I even attended to you, and behold, there was none of you who convinced Job, or who answered his words,
+|I even attended to you, and behold, there was none of you who convinced Job or who answered his words,
 
 |**32:13**
 |Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
@@ -3285,7 +3289,7 @@
 
 |**32:16**
 |When I had waited, (for they spake not, but stood still, and answered no more;)
-|Seeing that I had waited (for they did not speak, but stood still, and answered no more),
+|Seeing that I had waited (for they did not speak, but stood still and answered no more),
 
 |**32:17**
 |I said, I will answer also my part, I also will shew mine opinion.
@@ -3383,7 +3387,7 @@
 
 |**33:16**
 |Then he openeth the ears of men, and sealeth their instruction,
-|He opens the ears of men and seals their instruction,
+|He opens the ears of men and seals their instruction
 
 |**33:17**
 |That he may withdraw man from his purpose, and hide pride from man.
@@ -3435,7 +3439,7 @@
 
 |**33:29**
 |Lo, all these things worketh God oftentimes with man,
-|Behold, all these things God works twice, even three times, with man
+|Behold, all these things God works twice and even three times with man
 
 |**33:31**
 |Mark well, O Job, hearken unto me: hold thy peace, and I will speak.
