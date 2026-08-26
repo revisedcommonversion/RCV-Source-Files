@@ -2729,7 +2729,7 @@ And will you condemn him who is most just?
 18 Is it fit to say to a king, 'You are wicked,' [.linebr]#/# +
 and to princes, 'You are ungodly'?
 
-19 How much less to him who does not accept the persons of princes, [.linebr]#/# +
+19 How much less to him who does not accept the persons of princes [.linebr]#/# +
 nor regards the rich more than the poor? [.linebr]#/# +
 For they all are the work of his hands.
 
@@ -2911,8 +2911,8 @@ Judgment and justice take hold of you.
 beware lest he take you away with his stroke. [.linebr]#/# +
 Then a great ransom cannot deliver you.
 
-19 Will he esteem your riches? No, not gold, [.linebr]#/# +
-nor all the forces of strength.
+19 Will your riches or all the forces of your strength suffice [.linebr]#/# +
+so that you would not be in distress?
 
 20 Do not desire the night [.linebr]#/# +
 when people are cut off in their place.
@@ -3073,7 +3073,7 @@ when it broke forth as if it had issued out of the womb,
 and thick darkness a swaddling cloth for it,
 
 10 And broke up for it my decreed place [.linebr]#/# +
-and set bars and doors,
+and set bars and doors
 
 11 And said, 'You shall come here, but no further, [.linebr]#/# +
 and your proud waves shall be stayed here'?
@@ -3100,7 +3100,7 @@ Or have you seen the doors of the shadow of death?
 Declare if you know it all.
 
 19 Where is the way where light dwells? [.linebr]#/# +
-And as for darkness, where is its place,
+And as for darkness, where is its place
 
 20 That you should take it to its bound [.linebr]#/# +
 and that you should know the paths to its house?
@@ -3117,7 +3117,7 @@ against the day of battle and war?
 24 By what way is the light parted, [.linebr]#/# +
 which scatters the east wind upon the earth?
 
-25 Who has divided a watercourse for the overflowing of waters [.linebr]#/# +
+25 Who has divided a watercourse for the overflowing of waters, [.linebr]#/# +
 or a way for the lightning of thunder,
 
 26 To cause it to rain on the earth where no man is, [.linebr]#/# +
@@ -3218,12 +3218,12 @@ or wings and feathers to the ostrich,
 14 Which leaves her eggs in the earth, [.linebr]#/# +
 warms them in the dust,
 
-15 And forgets that the foot may crush them, [.linebr]#/# +
+15 And forgets that the foot may crush them [.linebr]#/# +
 or that the wild beast may break them?
 
 16 She is hardened against her young ones [.linebr]#/# +
 as though they were not hers. [.linebr]#/# +
-Her labor is in vain without fear,
+Her labor is in vain without fear
 
 17 Because God has withheld wisdom from her, [.linebr]#/# +
 neither has he imparted to her understanding.
@@ -3383,7 +3383,7 @@ _Of God's great power in the leviathan, 1-34._
 1 "Can you draw out leviathan with a hook, [.linebr]#/# +
 or his tongue with a cord which you let down?
 
-2 Can you put a hook into his nose, [.linebr]#/# +
+2 Can you put a hook into his nose [.linebr]#/# +
 or bore his jaw through with a thorn?
 
 3 Will he make many supplications to you? [.linebr]#/# +
@@ -3398,7 +3398,7 @@ Or will you bind him for your young women?
 6 Shall the traders make a banquet of him? [.linebr]#/# +
 Shall they part him among the merchants?
 
-7 Can you fill his skin with barbed irons, [.linebr]#/# +
+7 Can you fill his skin with barbed irons [.linebr]#/# +
 or his head with fish spears?
 
 8 Lay your hand upon him. [.linebr]#/# +
@@ -3414,7 +3414,7 @@ Who then is able to stand before me?
 Whatever is under the whole heaven is mine.
 
 12 I will not conceal his parts, [.linebr]#/# +
-nor his power, nor his orderly proportion.
+his power, or his orderly proportion.
 
 13 Who can discover the face of his garment? [.linebr]#/# +
 Or who can come to him with his double bridle?
@@ -3477,7 +3477,7 @@ He makes the sea like a pot of ointment.
 One would think the deep to be hoary.
 
 33 Upon earth there is nothing like him, [.linebr]#/# +
-who is made without fear.
+being one who is made without fear.
 
 34 He beholds all high things. [.linebr]#/# +
 He is a king over all the children of pride."
@@ -3518,9 +3518,9 @@ but now my eye sees you.
 and repent in dust and ashes."
 |===
 
-7 And it was so, that after the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has. 8 Now therefore, take for yourselves seven bulls and seven rams, go to my servant Job, and offer for yourselves a burnt-offering. And my servant Job shall pray for you, for I will accept him, lest I deal with you after your folly, in that you have not spoken about me the thing which is right, like my servant Job." 9 So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did according as the LORD commanded them. The LORD also accepted Job.
+7 And it came to pass after the LORD had spoken these words to Job, that the LORD said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken about me the thing that is right, as my servant Job has. 8 Now therefore, take for yourselves seven bulls and seven rams, go to my servant Job, and offer for yourselves a burnt-offering. And my servant Job shall pray for you, for I will accept him, lest I deal with you after your folly, in that you have not spoken about me the thing which is right, like my servant Job." 9 So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did according as the LORD commanded them. The LORD also accepted Job.
 
-10 And the LORD turned the captivity of Job when he prayed for his friends. The LORD also gave Job twice as much as he had before. 11 Then all his brothers came there to him, along with all his sisters and all those who had been of his acquaintance before, and ate bread with him in his house. And they condoled with him and comforted him over all the evil that the LORD had brought upon him. Everyone also gave him a piece of money and everyone an earring of gold. 12 Thus the LORD blessed the latter end of Job more than his beginning, for he had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys. 13 He had also seven sons and three daughters. 14 And he called the name of the first Jemima, and the name of the second Kezia, and the name of the third Keren-happuch. 15 And in all the land no women were found so fair as the daughters of Job. And their father gave them inheritance among their brothers. 16 After this Job lived one hundred and forty years and saw his sons and his sons' sons, even four generations. 17 And Job died, being old and full of days.
+10 And the LORD turned the captivity of Job when he prayed for his friends. The LORD also gave Job twice as much as he had before. 11 Then all his brothers came there to him, along with all his sisters and all those who had been of his acquaintance before, and ate bread with him in his house. And they condoled with him and comforted him over all the evil that the LORD had brought upon him. Everyone also gave him a piece of money and everyone an earring of gold. 12 Thus the LORD blessed the latter end of Job more than his beginning, for he had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys. 13 He had also seven sons and three daughters. 14 And he called the name of the first Jemima, and the name of the second Kezia, and the name of the third Keren-happuch. 15 And in all the land no women were found so fair as the daughters of Job. And their father gave them inheritance among their brothers. 16 After this, Job lived one hundred and forty years and saw his sons and his sons' sons, even four generations. 17 And Job died, being old and full of days.
 
 [.text-center]
 _[Tanach reading: go to xref:#song[Song of Solomon]]_
