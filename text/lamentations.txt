@@ -173,7 +173,7 @@ for I have become vile.
 |
 |12 Is it nothing to you, all you who pass by? [.linebr]#/# +
 Behold, and see [.linebr]#/# +
-if there is any sorrow like my sorrow, [.linebr]#/# +
+if there is any sorrow like my sorrow [.linebr]#/# +
 which has fallen upon me, [.linebr]#/# +
 with which the LORD has afflicted me [.linebr]#/# +
 in the day of his fierce anger.
@@ -238,7 +238,7 @@ because the enemy prevailed.
 |
 |17 Zion spreads forth her hands, [.linebr]#/# +
 and there is no one to comfort her. [.linebr]#/# +
-The LORD has commanded concerning Jacob, [.linebr]#/# +
+The LORD has commanded concerning Jacob [.linebr]#/# +
 that his adversaries should be around him. [.linebr]#/# +
 Jerusalem has becaome [.linebr]#/# +
 an unclean thing among them.
@@ -360,7 +360,7 @@ which devours on every side.
 |===
 |
 |4 He has bent his bow like an enemy. [.linebr]#/# +
-He stood with his right hand as an adversary [.linebr]#/# +
+He stood with his right hand like an adversary [.linebr]#/# +
 and slew all who were pleasant to the eye [.linebr]#/# +
 in the tabernacle of the daughter of Zion. [.linebr]#/# +
 He poured out his fury like fire.
@@ -465,7 +465,7 @@ in the streets of the city.
 |
 |12 They say to their mothers, [.linebr]#/# +
 "Where is grain and wine?" [.linebr]#/# +
-when they swooned as the wounded [.linebr]#/# +
+when they swooned like the wounded [.linebr]#/# +
 in the streets of the city, [.linebr]#/# +
 when their soul was poured out [.linebr]#/# +
 into their mothers' bosom.
@@ -889,7 +889,7 @@ for the destruction of the daughter of my people.
 |===
 |
 |49 My eye trickles down and does not cease [.linebr]#/# +
-without any intermission,
+without any intermission
 
 |
 |50 Until the LORD looks down [.linebr]#/# +
@@ -960,7 +960,7 @@ and all their imaginations against me.
 and all their imaginations against me,
 
 |
-|62 The lips of those who rose up against me, [.linebr]#/# +
+|62 The lips of those who rose up against me [.linebr]#/# +
 and their device against me all the day.
 
 |
@@ -1139,7 +1139,7 @@ in the midst of her.
 [cols="7%,93%",grid=none,frame=none]
 |===
 |
-|14 They have wandered as blind men in the streets. [.linebr]#/# +
+|14 They have wandered like blind men in the streets. [.linebr]#/# +
 They have polluted themselves with blood [.linebr]#/# +
 so that men could not [.linebr]#/# +
 touch their garments.
@@ -1286,7 +1286,7 @@ the young men from their music.
 Our dance has turned into mourning.
 
 16 The crown has fallen from our head. [.linebr]#/# +
-Woe to us, that we have sinned!
+Woe to us, for we have sinned!
 
 17 For this our heart is faint, [.linebr]#/# +
 for these things our eyes are dim,

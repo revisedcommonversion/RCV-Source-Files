@@ -55,7 +55,7 @@
 
 |**1:12**
 |Is it nothing to you, all ye that pass by? behold, and see if there is any sorrow like my sorrow, which hath fallen upon me, with which the LORD hath afflicted me in the day of his fierce anger.
-|[LAMED] Is it nothing to you, all you who pass by? Behold, and see if there is any sorrow like my sorrow, which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
+|[LAMED] Is it nothing to you, all you who pass by? Behold, and see if there is any sorrow like my sorrow which has fallen upon me, with which the LORD has afflicted me in the day of his fierce anger.
 
 |**1:13**
 |From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.
@@ -75,7 +75,7 @@
 
 |**1:17**
 |Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be around him: Jerusalem is as a menstruous woman among them.
-|[PE] Zion spreads forth her hands, and there is no one to comfort her. The LORD has commanded concerning Jacob, that his adversaries should be around him. Jerusalem has become an unclean thing among them.
+|[PE] Zion spreads forth her hands, and there is no one to comfort her. The LORD has commanded concerning Jacob that his adversaries should be around him. Jerusalem has become an unclean thing among them.
 
 |**1:18**
 |The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.
@@ -121,7 +121,7 @@
 
 |**2:4**
 |He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
-|[DALET] He has bent his bow like an enemy. He stood with his right hand as an adversary and slew all who were pleasant to the eye in the tabernacle of the daughter of Zion. He poured out his fury like fire.
+|[DALET] He has bent his bow like an enemy. He stood with his right hand like an adversary and slew all who were pleasant to the eye in the tabernacle of the daughter of Zion. He poured out his fury like fire.
 
 |**2:5**
 |The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.
@@ -153,7 +153,7 @@
 
 |**2:12**
 |They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
-|[LAMED] They say to their mothers, "Where is grain and wine?" when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
+|[LAMED] They say to their mothers, "Where is grain and wine?" when they swooned like the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 
 |**2:13**
 |What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? What shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?
@@ -383,7 +383,7 @@
 
 |**3:49**
 |My eye trickleth down, and ceaseth not, without any intermission,
-|[PE] My eye trickles down and does not cease without any intermission,
+|[PE] My eye trickles down and does not cease without any intermission
 
 |**3:50**
 |Till the LORD shall look down, and behold from heaven.
@@ -435,7 +435,7 @@
 
 |**3:62**
 |The lips of those that rose up against me, and their device against me all the day.
-|The lips of those who rose up against me, and their device against me all the day.
+|The lips of those who rose up against me and their device against me all the day.
 
 |**3:63**
 |Behold their sitting down, and their rising up; I am their music.
@@ -513,7 +513,7 @@
 
 |**4:14**
 |They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.
-|[NUN] They have wandered as blind men in the streets. They have polluted themselves with blood so that men could not touch their garments.
+|[NUN] They have wandered like blind men in the streets. They have polluted themselves with blood so that men could not touch their garments.
 
 |**4:15**
 |They cried to them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.
@@ -603,7 +603,7 @@
 
 |**5:16**
 |The crown is fallen from our head: woe to us, that we have sinned!
-|The crown has fallen from our head. Woe to us, that we have sinned!
+|The crown has fallen from our head. Woe to us, for we have sinned!
 
 |**5:17**
 |For this our heart is faint; for these things our eyes are dim.
