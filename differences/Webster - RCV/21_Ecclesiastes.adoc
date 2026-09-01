@@ -27,7 +27,7 @@
 
 |**1:5**
 |The sun also riseth, and the sun goeth down, and hasteth to his place where he arose.
-|The sun also rises, and the sun goes down, and hastens to his place where he arose.
+|The sun also rises, and the sun goes down. It hastens to its place where it arose.
 
 |**1:6**
 |The wind goeth towards the south, and turneth about to the north; it whirleth about continually, and the wind returneth again according to its circuits.
@@ -39,7 +39,7 @@
 
 |**1:8**
 |All things are full of labor; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
-|All things are full of labor. Man cannot utter it. The eye is not satisfied with seeing, nor the ear filled with hearing.
+|All things are full of labor. Man cannot utter it. The eye is not satisfied with seeing nor the ear filled with hearing.
 
 |**1:9**
 |The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
@@ -101,7 +101,7 @@
 
 |**2:3**
 |I sought in my heart, to give myself to wine, yet acquainting my heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.
-|I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold on folly, until I might see what was good for the sons of men which they should do under the heaven all the days of their life.
+|I searched in my heart how to cheer my flesh with wine—my heart yet guiding me with wisdom—and how to lay hold on folly, until I might see what was good for the sons of men which they should do under the heaven all the days of their life.
 
 |**2:4**
 |I made me great works; I built me houses; I planted me vineyards:
@@ -183,6 +183,10 @@
 |For all his days are sorrows, and his labor grief; yes, his heart taketh not rest in the night. This is also vanity.
 |For all his days are sorrows and his labor grief. Even his heart does not take rest in the night. This is also vanity.
 
+|**2:25**
+|For who can eat, or who else can hasten to it more than I?
+|For who can eat or who else can hasten to it more than I?
+
 |**2:26**
 |For God giveth to a man who is good in his sight, wisdom, and knowledge, and joy: but to the sinner he giveth toil, to gather, and to amass, that he may give to him that is good before God. This also is vanity and vexation of spirit.
 |For to the man who is good in his sight, God gives wisdom, knowledge, and joy, but to the sinner he gives toil, to gather and to amass, so that he may give to him who is good before God. This also is vanity and vexation of spirit.
@@ -215,15 +219,15 @@
 
 |**3:12**
 |I know that there is no good in them, but for a man to rejoice, and to do good in his life.
-|I know that there is no good in them, but for a man to rejoice and to do good in his life.
+|I know that there is no good in them, but for a man to rejoice and to do good in his life,
 
 |**3:13**
 |And also that every man should eat and drink, and enjoy the good of all his labor, it is the gift of God.
-|And also that every man should eat and drink and enjoy the good of all his labor, is the gift of God.
+|And also that every man should eat and drink and enjoy the good of all his labor—this is the gift of God.
 
 |**3:14**
 |I know that, whatever God doeth, it shall be for ever: nothing can be added to it, nor any thing taken from it: and God doeth it, that men should fear before him.
-|I know that whatever God does shall be forever. Nothing can be added to it, nor anything taken from it. And God does it so that men should fear before him.
+|I know that whatever God does shall be forever. Nothing can be added to it nor anything taken from it. And God does it so that men should fear before him.
 
 |**3:15**
 |That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
@@ -247,7 +251,7 @@
 
 |**3:21**
 |Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
-|Who knows whether the spirit of man goes upward, or whether the spirit of the beast goes downward to the earth?
+|Who knows whether the spirit of man goes upward or whether the spirit of the beast goes downward to the earth?
 
 |**3:22**
 |Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
@@ -265,7 +269,7 @@
 
 |**4:1**
 |So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
-|Thus I returned, and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter.
+|Thus I returned and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter.
 
 |**4:2**
 |Wherefore I praised the dead who are already dead more than the living who are yet alive.
@@ -289,7 +293,7 @@
 
 |**4:9**
 |Two are better than one; because they have a good reward for their labor.
-|Two are better than one, because they have a good reward for their labor.
+|Two are better than one because they have a good reward for their labor.
 
 |**4:10**
 |For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him to rise.
@@ -371,7 +375,7 @@
 
 |**5:11**
 |When goods increase, they are increased that eat them: and what good is there to the owners of them, saving the beholding of them with their eyes?
-|When goods increase, they are increased who eat them. And what good is there to their owners, except the beholding of them with their eyes?
+|When goods increase, they are increased who eat them. And what good is there to their owners except the beholding of them with their eyes?
 
 |**5:12**
 |The sleep of a laboring man is sweet, whether he eateth little or much: but the abundance of the rich will not suffer him to sleep.
@@ -433,7 +437,7 @@
 
 |**6:5**
 |Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other.
-|Moreover, he has not seen the sun, nor known anything. This one has more rest than the other.
+|Moreover, he has not seen the sun or known anything. This one has more rest than the other.
 
 |**6:6**
 |Yes, though he liveth a thousand years twice told, yet hath he seen no good: do not all go to one place?
@@ -441,7 +445,7 @@
 
 |**6:8**
 |For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?
-|For what does the wise have more than the fool? What does the poor have, who knows how to walk before the living?
+|For what does the wise have more than the fool? What does the poor have who knows how to walk before the living?
 
 |**6:9**
 |Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.

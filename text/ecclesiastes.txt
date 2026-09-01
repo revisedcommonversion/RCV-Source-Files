@@ -39,8 +39,8 @@ but the earth abides forever.
 
 |
 |5 The sun also rises, [.linebr]#/# +
-and the sun goes down, [.linebr]#/# +
-and hastens to his place where he arose.
+and the sun goes down. [.linebr]#/# +
+It hastens to its place where it arose.
 
 |
 |6 The wind goes toward the south [.linebr]#/# +
@@ -57,7 +57,7 @@ there they return again.
 |
 |8 All things are full of labor. [.linebr]#/# +
 Man cannot utter it. [.linebr]#/# +
-The eye is not satisfied with seeing, [.linebr]#/# +
+The eye is not satisfied with seeing [.linebr]#/# +
 nor the ear filled with hearing.
 
 |
@@ -88,7 +88,7 @@ with those that shall come after.
 [.outline.text-center]
 _The vanity of human courses in the works of pleasure, 1-11. Though the wise be better than the fool, yet both have one event, 12-17. The vanity of human labor, in leaving it they know not to whom, 18-23. Nothing better than joy in our labor; but that is God's gift, 24-26._
 
-1 I said in my heart, "Come now, I will prove you with mirth; therefore, enjoy pleasure," and behold, this also is vanity. 2 I said of laughter, "It is mad," and of mirth, "What does it do?" 3 I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold on folly, until I might see what was good for the sons of men which they should do under the heaven all the days of their life. 4 I made myself great works. I built myself houses. I planted myself vineyards. 5 I made myself gardens and orchards and I planted trees in them of all kinds of fruits. 6 I made myself pools of water, to water with them the forest that brings forth trees. 7 I procured myself men-servants and women-servants and had servants born in my house. I also had great possessions of great and small livestock above all that were in Jerusalem before me. 8 I gathered myself also silver and gold and the peculiar treasure of kings and of the provinces. I procured myself men-singers and women-singers and the delights of the sons of men—many concubines.
+1 I said in my heart, "Come now, I will prove you with mirth; therefore, enjoy pleasure," and behold, this also is vanity. 2 I said of laughter, "It is mad," and of mirth, "What does it do?" 3 I searched in my heart how to cheer my flesh with wine—my heart yet guiding me with wisdom—and how to lay hold on folly, until I might see what was good for the sons of men which they should do under the heaven all the days of their life. 4 I made myself great works. I built myself houses. I planted myself vineyards. 5 I made myself gardens and orchards and I planted trees in them of all kinds of fruits. 6 I made myself pools of water, to water with them the forest that brings forth trees. 7 I procured myself men-servants and women-servants and had servants born in my house. I also had great possessions of great and small livestock above all that were in Jerusalem before me. 8 I gathered myself also silver and gold and the peculiar treasure of kings and of the provinces. I procured myself men-singers and women-singers and the delights of the sons of men—many concubines.
 
 9 Thus I was great and increased more than all who were before me in Jerusalem, and also my wisdom remained with me. 10 And whatever my eyes desired I did not keep from them. I did not withhold my heart from any joy, for my heart rejoiced in all my labor. And this was my portion of all my labor. 11 Then I considered all the works that my hands had wrought and the labor that I had labored to do, and behold, all was vanity and vexation of spirit, and there was no profit under the sun.
 
@@ -105,7 +105,7 @@ And I myself perceived also that one event happens to them all. 15 Then I said i
 
 18 Indeed, I hated all my labor which I had taken under the sun, because I must leave it to the man who shall be after me. 19 And who knows whether he shall be a wise man or a fool? Yet he shall have rule over all my labor in which I have labored and in which I have shown myself wise under the sun. This is also vanity. 20 Therefore, I began to cause my heart to despair of all the labor which I took under the sun. 21 For there is a man whose labor is in wisdom, in knowledge, and in equity, yet to a man who has not labored in it, he shall leave it for his portion. This also is vanity and a great evil. 22 For what does man have of all his labor and of the vexation of his heart in which he has labored under the sun? 23 For all his days are sorrows and his labor grief. Even his heart does not take rest in the night. This is also vanity.
 
-24 There is nothing better for a man than that he should eat and drink, and that he should make his soul enjoy good in his labor. This also I saw, that it was from the hand of God. 25 For who can eat, or who else can hasten to it more than I? 26 For to the man who is good in his sight, God gives wisdom, knowledge, and joy, but to the sinner he gives toil, to gather and to amass, so that he may give to him who is good before God. This also is vanity and vexation of spirit.
+24 There is nothing better for a man than that he should eat and drink, and that he should make his soul enjoy good in his labor. This also I saw, that it was from the hand of God. 25 For who can eat or who else can hasten to it more than I? 26 For to the man who is good in his sight, God gives wisdom, knowledge, and joy, but to the sinner he gives toil, to gather and to amass, so that he may give to him who is good before God. This also is vanity and vexation of spirit.
 
 [#ecc003%breakable]
 === Chapter 3
@@ -150,9 +150,9 @@ a time of war, and a time of peace.
 
 11 He has made everything beautiful in its time. He also has set the world in their heart so that no man can find out the work that God makes from the beginning to the end.
 
-12 I know that there is no good in them, but for a man to rejoice and to do good in his life. 13 And also that every man should eat and drink and enjoy the good of all his labor, is the gift of God. 14 I know that whatever God does shall be forever. Nothing can be added to it, nor anything taken from it. And God does it so that men should fear before him. 15 That which has been is now, and that which is to be has already been. And God requires that which is past.
+12 I know that there is no good in them, but for a man to rejoice and to do good in his life, 13 And also that every man should eat and drink and enjoy the good of all his labor—this is the gift of God. 14 I know that whatever God does shall be forever. Nothing can be added to it nor anything taken from it. And God does it so that men should fear before him. 15 That which has been is now, and that which is to be has already been. And God requires that which is past.
 
-16 And moreover, I saw under the sun the place of judgment, that wickedness was there, and the place of righteousness, that iniquity was there. 17 I said in my heart, "God will judge the righteous and the wicked." For there is a time there for every purpose and for every work. 18 I said in my heart concerning the state of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. 19 For that which befalls the sons of men befalls beasts, even one thing befalls them: as one dies, so the other dies. Indeed, they all have one breath, so that a man has no pre-eminence above a beast, for all is vanity. 20 All go to one place. All are of the dust, and all turn to dust again. 21 Who knows whether the spirit of man goes upward, or whether the spirit of the beast goes downward to the earth? 22 Therefore, I perceive that there is nothing better than that a man should rejoice in his own works, for that is his portion. For who shall bring him to see what shall be after him?
+16 And moreover, I saw under the sun the place of judgment, that wickedness was there, and the place of righteousness, that iniquity was there. 17 I said in my heart, "God will judge the righteous and the wicked." For there is a time there for every purpose and for every work. 18 I said in my heart concerning the state of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. 19 For that which befalls the sons of men befalls beasts, even one thing befalls them: as one dies, so the other dies. Indeed, they all have one breath, so that a man has no pre-eminence above a beast, for all is vanity. 20 All go to one place. All are of the dust, and all turn to dust again. 21 Who knows whether the spirit of man goes upward or whether the spirit of the beast goes downward to the earth? 22 Therefore, I perceive that there is nothing better than that a man should rejoice in his own works, for that is his portion. For who shall bring him to see what shall be after him?
 
 [#ecc004%breakable]
 === Chapter 4
@@ -160,7 +160,7 @@ a time of war, and a time of peace.
 [.outline.text-center]
 _Vanity is increased to men by oppression, 1-3; by envy, 4; by idleness, 5, 6; by covetousness, 7, 8; by solitariness, 9-12; by willfulness, 13-16._
 
-1 Thus I returned, and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter. 2 Therefore, I praised the dead who are already dead more than the living who are still alive. 3 Indeed, better is he than both of them who has not yet been, who has not seen the evil work that is done under the sun.
+1 Thus I returned and considered all the oppressions that are done under the sun. And behold, the tears of those who were oppressed, and they had no comforter. And on the side of their oppressors there was power, but they had no comforter. 2 Therefore, I praised the dead who are already dead more than the living who are still alive. 3 Indeed, better is he than both of them who has not yet been, who has not seen the evil work that is done under the sun.
 
 4 Again, I considered all labor and every right work, that for this, a man is envied by his neighbor. This is also vanity and vexation of spirit.
 
@@ -177,7 +177,7 @@ than both the hands full with toil and vexation of spirit.
 
 7 Then I returned, and I saw vanity under the sun. 8 There is one alone, and there is not a second, and he has neither child nor brother. Yet there is no end of all his labor, neither is his eye satisfied with riches, neither does he say, "For whom do I labor and bereave my soul of good?" This is also vanity. It is even a grievous labor.
 
-9 Two are better than one, because they have a good reward for their labor. 10 For if they fall, one will lift up his fellow. But woe to him who is alone when he falls, for he does not have another to help him to rise. 11 Again, if two lie together, then they have heat. But how can one be warm alone? 12 And if one prevails against him, two shall withstand him. A three-fold cord is not quickly broken.
+9 Two are better than one because they have a good reward for their labor. 10 For if they fall, one will lift up his fellow. But woe to him who is alone when he falls, for he does not have another to help him to rise. 11 Again, if two lie together, then they have heat. But how can one be warm alone? 12 And if one prevails against him, two shall withstand him. A three-fold cord is not quickly broken.
 
 13 Better is a poor and a wise child, than an old and foolish king who will no more be admonished. 14 For out of prison he comes to reign, for even in his own kingdom he has been poor. 15 I considered all the living who walk under the sun, that they were with the second youth who shall stand up in his stead. 16 There is no end of all the people, even of all who have been before them. Those who come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
 
@@ -200,7 +200,7 @@ and a fool's voice is known by a multitude of words.
 
 8 If you see the oppression of the poor and violent perversion of judgment and justice in a province, do not wonder at the matter. For he who is higher than the highest regards, and there are higher than those. 9 Moreover, the profit of the earth is for all. The king himself is served by the field.
 
-10 He who loves silver shall not be satisfied with silver, nor he who loves abundance with increase. This is also vanity. 11 When goods increase, they are increased who eat them. And what good is there to their owners, except the beholding of them with their eyes? 12 The sleep of a laboring man is sweet, whether he eats little or much, but the abundance of the rich will not allow him to sleep.
+10 He who loves silver shall not be satisfied with silver, nor he who loves abundance with increase. This is also vanity. 11 When goods increase, they are increased who eat them. And what good is there to their owners except the beholding of them with their eyes? 12 The sleep of a laboring man is sweet, whether he eats little or much, but the abundance of the rich will not allow him to sleep.
 
 13 There is a grievous evil which I have seen under the sun, namely, riches kept for their owner to his hurt. 14 But those riches perish by evil labor, and if he begets a son, there is nothing in his hand. 15 As he came into the world, so he shall return naked as he came, and shall take nothing of his labor that he can carry away in his hand. 16 And this also is a grievous evil, that in all points as he came, so he shall go. And what profit does he have who has labored for the wind? 17 All his days he also eats in darkness, and he has much sorrow and wrath with his sickness.
 
@@ -212,7 +212,7 @@ and a fool's voice is known by a multitude of words.
 [.outline.text-center]
 _The vanity of riches without use, 1, 2; though a man have many children and a long life, 3-6. The vanity of sight and wandering desires, 7-9. The conclusion of vanities, 10-12._
 
-1 There is an evil which I have seen under the sun, and it is common among men: 2 A man to whom God has given riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God does not give him power to enjoy them, but a stranger enjoys them. This is vanity, and it is an evil disease. 3 If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not filled with good and he also has no burial, I say that the one of an untimely birth is better than he is. 4 For that one comes with vanity and departs in darkness, and his name shall be covered with darkness. 5 Moreover, he has not seen the sun, nor known anything. This one has more rest than the other. 6 Even though he lives a thousand years twice told, yet he has seen no good. Do not all go to one place?
+1 There is an evil which I have seen under the sun, and it is common among men: 2 A man to whom God has given riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God does not give him power to enjoy them, but a stranger enjoys them. This is vanity, and it is an evil disease. 3 If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not filled with good and he also has no burial, I say that the one of an untimely birth is better than he is. 4 For that one comes with vanity and departs in darkness, and his name shall be covered with darkness. 5 Moreover, he has not seen the sun or known anything. This one has more rest than the other. 6 Even though he lives a thousand years twice told, yet he has seen no good. Do not all go to one place?
 
 [cols="7%,93%",grid=none,frame=none]
 |===
@@ -221,7 +221,7 @@ _The vanity of riches without use, 1, 2; though a man have many children and a l
 and yet the appetite is not filled.
 |===
 
-8 For what does the wise have more than the fool? What does the poor have, who knows how to walk before the living? 9 Better is the sight of the eyes than the wandering of the desire. This is also vanity and vexation of spirit.
+8 For what does the wise have more than the fool? What does the poor have who knows how to walk before the living? 9 Better is the sight of the eyes than the wandering of the desire. This is also vanity and vexation of spirit.
 
 10 That which has been is named already, and it is known what man is, for he cannot contend with him who is mightier than he is. 11 Seeing there are many things that increase vanity, what is man the better? 12 For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? For who can tell a man what shall be after him under the sun?
 
