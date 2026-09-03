@@ -499,7 +499,7 @@
 
 |**7:2**
 |It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
-|It is better to go to the house of mourning, than to go to the house of feasting, for that is the end of all men, and the living will lay it to his heart.
+|It is better to go to the house of mourning than to go to the house of feasting, for that is the end of all men, and the living will lay it to his heart.
 
 |**7:3**
 |Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
@@ -508,6 +508,10 @@
 |**7:4**
 |The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 |The heart of the wise is in the house of mourning, but the heart of fools is in the house of mirth.
+
+|**7:5**
+|It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
+|It is better to hear the rebuke of the wise than for a man to hear the song of fools.
 
 |**7:6**
 |For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
@@ -571,7 +575,7 @@
 
 |**7:21**
 |Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:
-|Also take no heed to all words that are spoken, lest you hear your servant curse you,
+|Also, take no heed to all words that are spoken, lest you hear your servant curse you,
 
 |**7:22**
 |For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
@@ -591,11 +595,11 @@
 
 |**7:26**
 |And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
-|And I find more bitter than death the woman whose heart is snares and nets, and her hands as bonds. Whoever pleases God shall escape from her, but the sinner shall be taken by her.
+|And I find more bitter than death the woman whose heart is snares and nets and whose hands are chains. Whoever pleases God shall escape from her, but the sinner shall be taken by her.
 
 |**7:27**
 |Behold, this have I found, saith the preacher, counting one by one, to find out the account:
-|"Behold, I have found this," says the preacher, "counting one by one, to find out the account,
+|"Behold, I have found this," says the preacher, "counting one by one to find out the account,
 
 |**7:28**
 |Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
@@ -661,7 +665,7 @@
 
 |**8:13**
 |But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.
-|But it will not be well with the wicked, neither will he prolong his days, which are as a shadow, because he does not fear before God.
+|But it will not be well with the wicked, neither will he prolong his days like a shadow, because he does not fear before God.
 
 |**8:14**
 |There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.
@@ -699,7 +703,7 @@
 
 |**9:3**
 |This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
-|This is an evil among all things that are done under the sun, that there is one event to all. Also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
+|This is an evil among all things that are done under the sun, that there is one event to all. Also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
 
 |**9:4**
 |For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
@@ -711,7 +715,7 @@
 
 |**9:6**
 |Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.
-|Also their love, their hatred, and their envy has now perished, neither do they have anymore a portion forever in anything that is done under the sun.
+|Also, their love, their hatred, and their envy has now perished, neither do they have anymore a portion forever in anything that is done under the sun.
 
 |**9:7**
 |Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.
@@ -731,7 +735,7 @@
 
 |**9:11**
 |I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
-|I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill, but time and chance happens to them all.
+|I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill, but time and chance happens to them all.
 
 |**9:12**
 |For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.
@@ -829,11 +833,11 @@
 
 |**10:16**
 |Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!
-|Woe to you, O land, when your king is a child, and your princes eat in the morning!
+|Woe to you, O land, when your king is a child and your princes eat in the morning!
 
 |**10:17**
 |Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!
-|You are blessed, O land, when your king is the son of nobles, and your princes eat in due season—for strength and not for drunkenness!
+|You are blessed, O land, when your king is the son of nobles and your princes eat in due season—for strength and not for drunkenness!
 
 |**10:18**
 |By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.
@@ -875,7 +879,7 @@
 
 |**11:5**
 |As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.
-|As you do not know what is the way of the spirit, nor how the bones grow in the womb of her who is with child, even so you do not know the works of God who makes all.
+|As you do not know what is the way of the spirit nor how the bones grow in the womb of her who is with child, even so you do not know the works of God who makes all.
 
 |**11:6**
 |In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.
@@ -909,11 +913,11 @@
 
 |**12:1**
 |Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
-|Remember now your Creator in the days of your youth, while the evil days do not come, nor the years draw near, when you shall say, "I have no pleasure in them";
+|Remember now your Creator in the days of your youth, before the evil days come and the years draw near when you shall say, "I have no pleasure in them";
 
 |**12:2**
 |While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
-|While the sun, the light, the moon, or the stars are not darkened, nor the clouds return after the rain;
+|Before the sun, the light, the moon, and the stars are darkened, and the clouds return after the rain;
 
 |**12:3**
 |In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
@@ -921,15 +925,15 @@
 
 |**12:4**
 |And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
-|And the doors are shut in the streets; when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;
+|And the doors are shut in the streets; when the sound of the grinding is low, and one shall rise up at the voice of the bird, and all the daughters of music shall be brought low;
 
 |**12:5**
 |Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
-|When they are afraid of that which is high, and fears are in the way; when the almond tree flourishes, the locust is a burden, and desire fails. For man goes to his eternal home, and the mourners go throughout the streets.
+|When they are afraid of that which is high, and fears are in the way; when the almond tree flourishes, the locust is a burden, and desire fails—for man goes to his eternal home, and the mourners go throughout the streets;
 
 |**12:6**
 |Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
-|Remember your Creator before the silver cord is removed, the golden bowl is broken, the pitcher is broken at the fountain, or the wheel broken at the cistern,
+|Before the silver cord is removed, the golden bowl is broken, the pitcher is broken at the fountain, or the wheel broken at the cistern,
 
 |**12:7**
 |Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
@@ -949,11 +953,11 @@
 
 |**12:11**
 |The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.
-|The words of the wise are as goads and as nails fastened by the masters of assemblies, which are given from one shepherd.
+|The words of the wise are like goads and like nails fastened by the masters of assemblies, which are given from one shepherd.
 
 |**12:12**
 |And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
-|And further, my son, be admonished by these: of making many books there is no end, and much study is a weariness of the flesh.
+|And further, my son, be admonished by these: of making many books there is no end, and much study is a weariness to the flesh.
 
 |**12:13**
 |Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
