@@ -79,7 +79,7 @@
 
 |**1:18**
 |Likewise shall the ladies of Persia and Media say this day unto all the king's princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath.
-|This day, the ladies of Persia and Media who have heard of the deed of the queen will say the same thing to all the king's princes. Thus there will arise too much contempt and wrath.
+|This day, the ladies of Persia and Media who have heard about the deed of the queen will say the same thing to all the king's princes. Thus there will arise too much contempt and wrath.
 
 |**1:19**
 |If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
@@ -207,7 +207,7 @@
 
 |**3:1**
 |After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
-|After these things king Ahasuerus promoted Haman the son of Hammedatha the Agagite, advancing him and setting his seat above all the princes who were with him.
+|After these things, king Ahasuerus promoted Haman the son of Hammedatha the Agagite, advancing him and setting his seat above all the princes who were with him.
 
 |**3:2**
 |And all the king's servants, that were in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence.
@@ -255,7 +255,7 @@
 
 |**3:13**
 |And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
-|And the letters were sent by posts into all the king's provinces to destroy, to kill, and to cause to perish all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month (that is, the month Adar), and to plunder their goods.
+|And the letters were sent by posts into all the king's provinces to destroy, to kill, and to cause to perish all Jews—both young and old, little children and women—in one day, even upon the thirteenth day of the twelfth month (that is, the month Adar), and to plunder their goods.
 
 |**3:14**
 |The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day.
@@ -305,7 +305,7 @@
 
 |**4:8**
 |Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it unto Esther, and to declare it unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people.
-|Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them to show it to Esther, to declare it to her, and to charge her that she should go before the king to make supplication to him and to make request before him for her people.
+|Also, he gave him the copy of the writing of the decree that was given at Shushan to destroy them to show it to Esther, to declare it to her, and to charge her that she should go before the king to make supplication to him and to make request before him for her people.
 
 |**4:10**
 |Again Esther spake unto Hatach, and gave him commandment unto Mordecai;
@@ -355,7 +355,7 @@
 
 |**5:2**
 |And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre.
-|And it was so, when the king saw Esther the queen standing in the court, that she obtained favor in his sight, and the king held out to Esther the golden scepter that was in his hand. So Esther drew near and touched the top of the scepter.
+|And it came to pass when the king saw Esther the queen standing in the court, that she obtained favor in his sight, and the king held out to Esther the golden scepter that was in his hand. So Esther drew near and touched the top of the scepter.
 
 |**5:3**
 |Then said the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom.
@@ -375,7 +375,7 @@
 
 |**5:7**
 |Then answered Esther, and said, My petition and my request is;
-|Then Esther answered, and said, "My petition and my request is this:
+|Then Esther answered and said, "My petition and my request is this:
 
 |**5:8**
 |If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.
