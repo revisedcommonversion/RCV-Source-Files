@@ -39,7 +39,7 @@
 
 |**1:8**
 |But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
-|But Daniel purposed in his heart that he would not defile himself with the portion of the king's food, nor with the wine which he drank; therefore, he requested of the prince of the eunuchs that he might not defile himself.
+|But Daniel purposed in his heart that he would not defile himself with the portion of the king's food nor with the wine which he drank; therefore, he requested of the prince of the eunuchs that he might not defile himself.
 
 |**1:9**
 |Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
@@ -47,7 +47,7 @@
 
 |**1:10**
 |And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
-|And the prince of the eunuchs said to Daniel, "I fear my lord the king, who has appointed your provision and your drink. For why should he see your faces more meager than the children who are of your sort? Then you will make me endanger my head to the king."
+|And the prince of the eunuchs said to Daniel, "I fear my lord the king who has appointed your provision and your drink. For why should he see your faces more meager than the children who are of your sort? Then you will make me endanger my head to the king."
 
 |**1:11**
 |Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
@@ -55,7 +55,7 @@
 
 |**1:12**
 |Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
-|"Prove your servants, I implore you, ten days. And let them give us pulse to eat and water to drink.
+|"Prove your servants, I implore you, for ten days. And let them give us pulse to eat and water to drink.
 
 |**1:13**
 |Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king's meat: and as thou seest, deal with thy servants.
@@ -63,7 +63,7 @@
 
 |**1:14**
 |So he consented to them in this matter, and proved them ten days.
-|So he consented to them in this matter and proved them ten days.
+|So he consented to them in this matter and proved them for ten days.
 
 |**1:15**
 |And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.
@@ -71,7 +71,7 @@
 
 |**1:16**
 |Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
-|Thus Melzar took away the portion of their food and the wine that they should drink, and gave them pulse.
+|Thus Melzar took away the portion of their food and the wine that they should drink and gave them pulse.
 
 |**1:17**
 |As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.
@@ -105,7 +105,7 @@
 
 |**2:1**
 |And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.
-|And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams, with which his spirit was troubled, and his sleep broke from him.
+|And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams, and his spirit was troubled and his sleep broke from him.
 
 |**2:2**
 |Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
@@ -147,6 +147,10 @@
 |And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
 |And it is a rare thing that the king requires, and there is no other who can reveal it before the king, except the gods, whose dwelling is not with flesh."
 
+|**2:12**
+|For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
+|For this cause the king was angry and very furious, and he commanded to destroy all the wise men of Babylon.
+
 |**2:13**
 |And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
 |And the decree went forth that the wise men should be slain. And they sought Daniel and his fellows to be slain.
@@ -169,11 +173,11 @@
 
 |**2:18**
 |That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.
-|That they would desire mercies of the God of heaven concerning this secret, so that Daniel and his companions should not perish with the rest of the wise men of Babylon.
+|That they would desire mercies from the God of heaven concerning this secret, so that Daniel and his companions should not perish with the rest of the wise men of Babylon.
 
 |**2:19**
 |Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
-|Then the secret was revealed to Daniel in a night vision. Then Daniel blessed the God of heaven.
+|Then the secret was revealed to Daniel in a night vision, and Daniel blessed the God of heaven.
 
 |**2:20**
 |Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
@@ -181,7 +185,7 @@
 
 |**2:21**
 |And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
-|And he changes the times and the seasons. He removes kings, and sets up kings. He gives wisdom to the wise, and knowledge to those who know understanding.
+|And he changes the times and the seasons. He removes kings and sets up kings. He gives wisdom to the wise and knowledge to those who know understanding.
 
 |**2:22**
 |He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.
@@ -189,27 +193,27 @@
 
 |**2:23**
 |I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast now made known unto us the king's matter.
-|I thank you, and praise you, O God of my fathers, for you have given me wisdom and might. And now you have made known to me what we desired of you, for you have now made known to us the king's matter."
+|I thank you and praise you, O God of my fathers, for you have given me wisdom and might. And now you have made known to me what we desired of you, for you have now made known to us the king's matter."
 
 |**2:24**
 |Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation.
-|Therefore, Daniel went into Arioch, whom the king had ordained to destroy the wise men of Babylon. He went and said thus to him: "Do not destroy the wise men of Babylon. Bring me in before the king and I will declare to the king the interpretation."
+|Therefore, Daniel went into Arioch, whom the king had ordained to destroy the wise men of Babylon. He went and said this to him: "Do not destroy the wise men of Babylon. Bring me in before the king, and I will declare to the king the interpretation."
 
 |**2:25**
 |Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.
-|Then Arioch brought in Daniel before the king in haste, and said thus to him: "I have found a man of the captives of Judah who will make known to the king the interpretation."
+|Then Arioch brought in Daniel before the king in haste and said this to him: "I have found a man among the captives of Judah who will make known to the king the interpretation."
 
 |**2:26**
 |The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?
-|The king answered and said to Daniel, whose name was Belteshazzar, "Are you able to make known to me the dream which I have seen, and its interpretation?"
+|The king answered and said to Daniel, whose name was Belteshazzar, "Are you able to make known to me the dream which I have seen and its interpretation?"
 
 |**2:27**
 |Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;
-|Daniel answered in the presence of the king, and said, "The secret which the king has demanded, the wise men, the astrologers, the magicians, and the soothsayers cannot reveal to the king.
+|Daniel answered in the presence of the king and said, "The secret which the king has demanded, the wise men, the astrologers, the magicians, and the soothsayers cannot reveal to the king.
 
 |**2:28**
 |But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;
-|But there is a God in heaven who reveals secrets and makes known to the king Nebuchadnezzar what shall be in the latter days. Your dream and the visions of your head upon your bed, are these.
+|But there is a God in heaven who reveals secrets and makes known to the king Nebuchadnezzar what shall be in the latter days. Your dream and the visions of your head upon your bed are these.
 
 |**2:29**
 |As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.
@@ -229,7 +233,7 @@
 
 |**2:34**
 |Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
-|You were looking until a stone was cut out without hands, which smote the image upon his feet that were of iron and clay and broke them to pieces.
+|As you were looking, a stone was cut out without hands, and it smote the image upon his feet that were of iron and clay and broke them to pieces.
 
 |**2:35**
 |Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
@@ -253,7 +257,7 @@
 
 |**2:40**
 |And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
-|"And the fourth kingdom shall be strong as iron, because iron breaks in pieces and subdues all things. And as iron that breaks all these, it shall break in pieces and bruise.
+|"And the fourth kingdom shall be as strong as iron, because iron breaks in pieces and subdues all things. And as iron that breaks all these, it shall break in pieces and bruise.
 
 |**2:41**
 |And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
@@ -281,7 +285,7 @@
 
 |**2:47**
 |The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.
-|The king answered to Daniel, and said, "Of a truth it is that your God is a God of gods, a Lord of kings, and a revealer of secrets, seeing you could reveal this secret."
+|The king answered to Daniel and said, "Of a truth it is that your God is a God of gods, a Lord of kings, and a revealer of secrets, seeing you could reveal this secret."
 
 |**2:48**
 |Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.
@@ -339,7 +343,7 @@
 
 |**3:10**
 |Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:
-|You, O king, have made a decree, that every man who hears the sound of the horn, flute, harp, sackbut, psaltery, bagpipe, and all kinds of music, shall fall down and worship the golden image.
+|You, O king, have made a decree that every man who hears the sound of the horn, flute, harp, sackbut, psaltery, bagpipe, and all kinds of music, shall fall down and worship the golden image.
 
 |**3:11**
 |And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace.
@@ -347,7 +351,7 @@
 
 |**3:12**
 |There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
-|There are some Jews whom you have set over the affairs of the province of Babylon: Shadrach, Meshach, and Abed-nego. These men, O king, have not regarded you. They do not serve your gods, nor worship the golden image which you have set up."
+|There are some Jews whom you have set over the affairs of the province of Babylon: Shadrach, Meshach, and Abed-nego. These men, O king, have not regarded you. They do not serve your gods nor worship the golden image which you have set up."
 
 |**3:13**
 |Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.
@@ -355,7 +359,7 @@
 
 |**3:14**
 |Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abednego, do not ye serve my gods, nor worship the golden image which I have set up?
-|Nebuchadnezzar spoke and said to them, "Is it true, O Shadrach, Meshach, and Abed-nego, do you not serve my gods, nor worship the golden image which I have set up?
+|Nebuchadnezzar spoke and said to them, "Is it true, O Shadrach, Meshach, and Abed-nego, do you not serve my gods nor worship the golden image which I have set up?
 
 |**3:15**
 |Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?
@@ -371,7 +375,7 @@
 
 |**3:18**
 |But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.
-|But if not, may it be known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up."
+|But if not, may it be known to you, O king, that we will not serve your gods nor worship the golden image which you have set up."
 
 |**3:19**
 |Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
@@ -395,7 +399,7 @@
 
 |**3:24**
 |Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellers, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
-|Then Nebuchadnezzar the king was astonished, rose up in haste, and spoke, and said to his counselors, "Did we not cast three men bound into the midst of the fire?" They answered and said to the king, "True, O king."
+|Then Nebuchadnezzar the king was astonished, rose up in haste, and spoke and said to his counselors, "Did we not cast three men bound into the midst of the fire?" They answered and said to the king, "True, O king."
 
 |**3:25**
 |He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
@@ -403,7 +407,7 @@
 
 |**3:26**
 |Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
-|Then Nebuchadnezzar came near to the mouth of the burning fiery furnace and spoke, and said, "Shadrach, Meshach, and Abed-nego, servants of the most high God, come forth, and come here." Then Shadrach, Meshach, and Abed-nego came forth from the midst of the fire.
+|Then Nebuchadnezzar came near to the mouth of the burning fiery furnace and spoke and said, "Shadrach, Meshach, and Abed-nego, servants of the most high God, come forth and come here." Then Shadrach, Meshach, and Abed-nego came forth from the midst of the fire.
 
 |**3:27**
 |And the princes, governors, and captains, and the king's counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
@@ -411,7 +415,7 @@
 
 |**3:28**
 |Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God.
-|Then Nebuchadnezzar spoke, and said, "Blessed be the God of Shadrach, Meshach, and Abed-nego, who has sent his angel and delivered his servants who trusted in him. And they have changed the king's word and yielded their bodies so that they might not serve nor worship any god except their own God.
+|Then Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach, Meshach, and Abed-nego, who has sent his angel and delivered his servants who trusted in him. And they have changed the king's word and yielded their bodies so that they might not serve nor worship any god except their own God.
 
 |**3:29**
 |Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.
