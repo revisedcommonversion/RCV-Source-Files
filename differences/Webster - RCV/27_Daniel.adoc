@@ -1169,11 +1169,11 @@
 
 |**10:1**
 |In the third year of Cyrus king of Persia, a thing was revealed to Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision.
-|In the third year of Cyrus king of Persia, a thing was revealed to Daniel, whose name was called Belteshazzar, and the thing was true, but the appointed time was long. And he understood the thing, and had understanding of the vision.
+|In the third year of Cyrus king of Persia, a thing was revealed to Daniel, whose name was called Belteshazzar, and the thing was true, but the appointed time was long. And he understood the thing and had understanding of the vision.
 
 |**10:2**
 |In those days I Daniel was mourning three full weeks.
-|In those days I, Daniel, was mourning three full weeks.
+|In those days I, Daniel, was mourning for three full weeks.
 
 |**10:3**
 |I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
@@ -1185,15 +1185,15 @@
 
 |**10:5**
 |Then I lifted up my eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:
-|I lifted up my eyes and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz.
+|I lifted up my eyes and looked, and behold, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz.
 
 |**10:6**
 |His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in color to polished brass, and the voice of his words like the voice of a multitude.
-|His body was also like beryl, his face as the appearance of lightning, his eyes as lamps of fire, his arms and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
+|His body was also like beryl, his face like the appearance of lightning, his eyes like lamps of fire, his arms and his feet like the appearance of polished brass, and the voice of his words like the voice of a multitude.
 
 |**10:7**
 |And I Daniel alone saw the vision: for the men that were with me saw not the vision: but a great quaking fell upon them, so that they fled to hide themselves.
-|And I, Daniel, alone saw the vision. The men who were with me did not see the vision, but a great quaking fell upon them, so that they fled to hide themselves.
+|And I, Daniel, alone saw the vision. The men who were with me did not see the vision, but a great quaking fell upon them, and they fled to hide themselves.
 
 |**10:8**
 |Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.
@@ -1205,7 +1205,7 @@
 
 |**10:11**
 |And he said to me, O Daniel, a man greatly beloved, understand the words that I speak to thee, and stand upright: for to thee I am now sent. And when he had spoken this word to me, I stood trembling.
-|And he said to me, "O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright, for I am now sent to you." And when he had spoken this word to me, I stood trembling.
+|And he said to me, "O Daniel, a man greatly beloved, understand the words that I speak to you, and stand upright, for I have now been sent to you." And when he had spoken this word to me, I stood trembling.
 
 |**10:12**
 |Then said he to me, Fear not, Daniel: for from the first day that thou didst set thy heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.
@@ -1213,7 +1213,7 @@
 
 |**10:13**
 |But the prince of the kingdom of Persia withstood me one and twenty days: but lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
-|But the prince of the kingdom of Persia withstood me twenty-one days. But behold, Michael, one of the chief princes, came to help me, and I remained there with the kings of Persia.
+|But the prince of the kingdom of Persia withstood me for twenty-one days. But behold, Michael, one of the chief princes, came to help me, and I remained there with the kings of Persia.
 
 |**10:14**
 |Now I have come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days.
@@ -1225,7 +1225,7 @@
 
 |**10:16**
 |And behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spoke, and said to him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
-|And behold, one like the similitude of the sons of men touched my lips. Then I opened my mouth and spoke, and said to him who stood before me, "O my lord, by the vision my sorrows have turned upon me and I have retained no strength.
+|And behold, one like the similitude of the sons of men touched my lips. Then I opened my mouth and spoke and said to him who stood before me, "O my lord, because of the vision, my sorrows have turned upon me, and I have retained no strength.
 
 |**10:17**
 |For how can the servant of this my lord talk with this my lord? for as for me, immediately there remained no strength in me, neither is there breath left in me.
@@ -1233,11 +1233,11 @@
 
 |**10:18**
 |Then there came again and touched me one like the appearance of a man, and he strengthened me,\
-|Then the one like the appearance of a man came back and touched me and strengthened me,
+|Then the one like the appearance of a man came back and touched me and strengthened me
 
 |**10:19**
 |And said, O man greatly beloved, fear not: peace be to thee, be strong, yes, be strong. And when he had spoken to me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
-|And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had spoken to me, I was strengthened, and said, "Let my lord speak, for you have strengthened me."
+|And said, "O man greatly beloved, do not fear. Peace be with you. Be strong. Indeed, be strong." And when he had spoken to me, I was strengthened and said, "Let my lord speak, for you have strengthened me."
 
 |**10:20**
 |Then said he, Knowest thou for what cause I come to thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
@@ -1245,7 +1245,7 @@
 
 |**10:21**
 |But I will show thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
-|But I will show you that which is noted in the scripture of truth. And there is no one who strengthens himself with me against these, except Michael your prince."
+|But I will show you that which is noted in the scripture of truth. And there is no one who strengthens himself with me against these except Michael your prince."
 
 |===
 
@@ -1263,7 +1263,7 @@
 
 |**11:2**
 |And now will I show thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.
-|And now I will show you the truth. Behold, there shall stand up yet three kings in Persia. And a fourth shall be far richer than all of them, and by his strength through his riches he shall stir up all against the realm of Grecia.
+|And now I will show you the truth. Behold, three more kings shall arise in Persia. And a fourth shall be far richer than all of them, and by his strength through his riches he shall stir up all against the realm of Grecia.
 
 |**11:3**
 |And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
@@ -1271,7 +1271,7 @@
 
 |**11:4**
 |And when he shall stand up, his kingdom shall be broken, and shall be divided towards the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
-|And when he stands up, his kingdom shall be broken and shall be divided toward the four winds of heaven, and not to his posterity, nor according to his dominion which he ruled, for his kingdom shall be plucked up, even for others beside those.
+|And when he stands up, his kingdom shall be broken and divided toward the four winds of heaven, and not to his posterity nor according to his dominion which he ruled, for his kingdom shall be plucked up, even for others beside those.
 
 |**11:5**
 |And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.
@@ -1287,7 +1287,7 @@
 
 |**11:8**
 |And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north.
-|And he shall also carry captive into Egypt their gods, with their princes, and with their precious vessels of silver and of gold, and he shall continue more years than the king of the north.
+|And he shall also carry captive into Egypt their gods, with their princes and their precious vessels of silver and of gold, and he shall continue more years than the king of the north.
 
 |**11:9**
 |So the king of the south shall come into his kingdom, and shall return into his own land.
@@ -1307,7 +1307,7 @@
 
 |**11:13**
 |For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.
-|For the king of the north shall return and set forth a multitude greater than the former, and shall certainly come after some years with a great army and with much riches.
+|For the king of the north shall return and set forth a multitude greater than the former, and shall certainly come after some years with a great army and with many supplies.
 
 |**11:14**
 |And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
@@ -1327,7 +1327,7 @@
 
 |**11:18**
 |After this shall he turn his face to the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause it to turn upon him.
-|After this he shall turn his face to the coastlands and shall take many, but a prince shall cause the reproach offered by him to cease, and without his own reproach he shall cause it to turn upon him.
+|After this, he shall turn his face to the coastlands and shall take many, but a prince shall cause the reproach offered by him to cease, and without his own reproach, he shall cause it to turn upon him.
 
 |**11:19**
 |Then he shall turn his face towards the fort of his own land: but he shall stumble and fall, and not be found.
@@ -1335,7 +1335,7 @@
 
 |**11:20**
 |Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
-|"Then a raiser of taxes shall stand up in his estate in the glory of the kingdom, but within few days he shall be destroyed, neither in anger, nor in battle.
+|"Then a raiser of taxes shall stand up in his estate in the glory of the kingdom, but within few days he shall be destroyed, neither in anger nor in battle.
 
 |**11:21**
 |And in his estate shall stand up a vile person, to whom they shall not give the honor of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.
@@ -1347,11 +1347,11 @@
 
 |**11:23**
 |And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.
-|And after the league is made with him he shall work deceitfully, for he shall come up and shall become strong with a small people.
+|And after the league is made with him, he shall work deceitfully, for he shall come up and shall become strong with a small people.
 
 |**11:24**
 |He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: yes, and he shall forecast his devices against the strong holds, even for a time.
-|He shall enter peaceably even upon the fattest places of the province, and he shall do that which his fathers have not done, nor his fathers' fathers. He shall scatter among them the plunder, loot, and riches, and he shall devise his plans against the strongholds, even for a time.
+|He shall enter peaceably even upon the fattest places of the province, and he shall do what neither his fathers nor his fathers' fathers have done. He shall scatter among them the plunder, loot, and riches, and he shall devise his plans against the strongholds, even for a time.
 
 |**11:25**
 |And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.
@@ -1371,7 +1371,7 @@
 
 |**11:29**
 |At the time appointed he shall return, and come towards the south; but it shall not be as the former, or as the latter.
-|"At the time appointed he shall return and come toward the south, but it shall not be as the former, or as the latter.
+|"At the time appointed he shall return and come toward the south, but it shall not be as the former or as the latter.
 
 |**11:30**
 |For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.
@@ -1395,11 +1395,11 @@
 
 |**11:35**
 |And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed.
-|And some of them of understanding shall fall, in order to try them, to purge them, and to make them white, even to the time of the end, because it is yet for a time appointed.
+|And some of them of understanding shall fall, in order to try them, to purge them, and to make them white, even to the time of the end, because it is still for a time appointed.
 
 |**11:36**
 |And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods, and shall prosper till the indignation be accomplished: for that which is determined shall be done.
-|"And the king shall do according to his will. He shall exalt himself and magnify himself above every god, and shall speak marvelous things against the God of gods. He shall prosper until the indignation is accomplished, for that which is determined shall be done.
+|"And the king shall do according to his will. He shall exalt himself and magnify himself above every god and shall speak marvelous things against the God of gods. He shall prosper until the indignation is accomplished, for that which is determined shall be done.
 
 |**11:37**
 |Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.
@@ -1411,11 +1411,11 @@
 
 |**11:39**
 |Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.
-|He shall do so in the strongest fortresses with a strange god, whom he shall acknowledge and increase with glory. And he shall cause them to rule over many, and shall divide the land for gain.
+|He shall do so in the strongest fortresses with a strange god, whom he shall acknowledge and increase with glory. And he shall cause them to rule over many and shall divide the land for gain.
 
 |**11:40**
 |And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.
-|"And at the time of the end the king of the south shall war against him. And the king of the north shall come against him like a whirlwind, with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
+|"And at the time of the end the king of the south shall war against him. And the king of the north shall come against him like a whirlwind with chariots, with horsemen, and with many ships, and he shall enter into the countries and shall overflow and pass over.
 
 |**11:41**
 |He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.
@@ -1457,7 +1457,7 @@
 
 |**12:3**
 |And they that are wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
-|And those who are wise shall shine as the brightness of the firmament, and those who turn many to righteousness as the stars forever and ever.
+|And those who are wise shall shine like the brightness of the firmament, and those who turn many to righteousness, like the stars forever and ever.
 
 |**12:4**
 |But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.
@@ -1493,7 +1493,7 @@
 
 |**12:12**
 |Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.
-|Blessed is he who waits, and comes to the one thousand three hundred and thirty-five days.
+|Blessed is he who waits and comes to the one thousand three hundred and thirty-five days.
 
 |**12:13**
 |But go thou thy way till the end: for thou shalt rest, and stand in thy lot at the end of the days.
