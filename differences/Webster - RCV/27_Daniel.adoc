@@ -27,7 +27,7 @@
 
 |**1:5**
 |And the king appointed them a daily provision of the king's food, and of the wine which he drank: so nourishing them three years, that at the end of them they might stand before the king.
-|And the king appointed them a daily provision of the king's food and of the wine which he drank, thus nourishing them three years, so that at the end thereof they might stand before the king.
+|And the king appointed them a daily provision from the king's food and from the wine which he drank, thus nourishing them for three years, so that at the end thereof they might stand before the king.
 
 |**1:6**
 |Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
@@ -55,11 +55,15 @@
 
 |**1:13**
 |Then let our countenances be looked upon before thee, and the countenances of the children that eat of the portion of the king's provision: and as thou seest, deal with thy servants.
-|Then let our countenances be looked upon before you, and the countenances of the children who eat of the portion of the king's provision. And as you see, deal with your servants."
+|Then let our countenances be looked upon before you, along with the countenances of the children who eat of the portion of the king's provision. And as you see, deal with your servants."
 
 |**1:14**
 |So he consented to them in this matter, and proved them ten days.
 |So he consented to them in this matter and proved them for ten days.
+
+|**1:15**
+|And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children who ate the portion of the king's provision.
+|And at the end of ten days, their countenances appeared fairer and fatter in flesh than all the children who ate the portion of the king's provision.
 
 |**1:16**
 |Thus Melzar took away the portion of their food, and the wine that they should drink, and gave them pulse.
@@ -109,7 +113,7 @@
 
 |**2:5**
 |The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known to me the dream, with the interpretation of it, ye shall be cut in pieces, and your houses shall be made a dunghill.
-|The king answered and said to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream, with its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
+|The king answered and said to the Chaldeans, "The thing has gone from me. If you will not make known to me the dream and its interpretation, you shall be cut in pieces and your houses shall be made a dunghill.
 
 |**2:6**
 |But if ye shall show the dream, and the interpretation of it, ye shall receive of me gifts and rewards and great honor: therefore show me the dream, and the interpretation of it.
@@ -121,7 +125,7 @@
 
 |**2:8**
 |The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
-|The king answered and said, "I know of certainty that you would gain the time, because you see the thing has gone from me.
+|The king answered and said, "I know of certainty that you would gain the time because you see the thing has gone from me.
 
 |**2:9**
 |But if ye will not make known to me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can show me the interpretation of it.
@@ -129,11 +133,11 @@
 
 |**2:10**
 |The Chaldeans answered before the king, and said, There is not a man upon the earth that can show the king's matter: therefore there is no king, lord, nor ruler, that hath asked such things of any magician, or astrologer, or Chaldean.
-|The Chaldeans answered before the king, and said, "There is not a man upon the earth who can disclose the king's matter, for there is no king, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
+|The Chaldeans answered before the king and said, "There is not a man upon the earth who can disclose the king's matter, for there is no king, lord, nor ruler who has asked such things of any magician, astrologer, or Chaldean.
 
 |**2:11**
 |And it is a rare thing that the king requireth, and there is no other that can show it before the king, except the gods, whose dwelling is not with flesh.
-|And it is a rare thing that the king requires, and there is no other who can reveal it before the king, except the gods, whose dwelling is not with flesh."
+|And it is a rare thing that the king requires, and there is no other who can reveal it before the king except the gods, whose dwelling is not with flesh."
 
 |**2:12**
 |For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
@@ -209,7 +213,7 @@
 
 |**2:30**
 |But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mayest know the thoughts of thy heart.
-|But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the king, and that you may know the thoughts of your heart.
+|But as for me, this secret is not revealed to me for any wisdom that I have more than any living man, but to the intent that the interpretation may be made known to the king and that you may know the thoughts of your heart.
 
 |**2:31**
 |Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and its form was terrible.
@@ -249,7 +253,7 @@
 
 |**2:41**
 |And whereas thou sawest the feet and toes, part of potter's clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with the miry clay.
-|And whereas you saw the feet and toes, part of potter's clay and part of iron, the kingdom shall be divided, but there shall be in it some of the strength of the iron, because you saw the iron mixed with the miry clay.
+|And just as you saw that the feet and toes were part of potter's clay and part of iron, the kingdom shall be divided, but there shall be in it some of the strength of the iron, because you saw the iron mixed with the miry clay.
 
 |**2:42**
 |And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
@@ -257,11 +261,11 @@
 
 |**2:43**
 |And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
-|And whereas you saw iron mixed with miry clay, they shall mingle themselves with the descendants of men, but they shall not cleave to one another, even as iron is not mixed with clay.
+|And just as you saw iron mixed with miry clay, they shall mingle themselves with the descendants of men, but they shall not cleave to one another, even as iron is not mixed with clay.
 
 |**2:44**
 |And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
-|"And in the days of these kings the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
+|"And in the days of these kings, the God of heaven shall set up a kingdom which shall never be destroyed. And the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand forever.
 
 |**2:45**
 |Forasmuch as thou sawest that the stone was cut out of the mountain, without hands, and that it broke in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation of it sure.
@@ -269,7 +273,7 @@
 
 |**2:46**
 |Then the king Nebuchadnezzar fell upon his face, and worshiped Daniel, and commanded that they should offer an oblation and sweet odors to him.
-|Then the king Nebuchadnezzar fell upon his face and worshiped Daniel, and commanded that they should offer an oblation and sweet odors to him.
+|Then king Nebuchadnezzar fell upon his face and worshiped Daniel, and commanded that they should offer an oblation and sweet odors to him.
 
 |**2:47**
 |The king answered to Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldst reveal this secret.
@@ -277,7 +281,7 @@
 
 |**2:48**
 |Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.
-|Then the king made Daniel a great man, gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.
+|Then the king made Daniel a great man, gave him many great gifts, and made him ruler over the whole province of Babylon and chief of the governors over all the wise men of Babylon.
 
 |**2:49**
 |Then Daniel requested of the king, and he set Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.
