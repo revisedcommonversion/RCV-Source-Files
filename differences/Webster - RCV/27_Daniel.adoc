@@ -355,7 +355,7 @@
 
 |**3:16**
 |Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.
-|Shadrach, Meshach, and Abed-nego, answered and said to the king, "O Nebuchadnezzar, we have no need to answer you in this matter.
+|Shadrach, Meshach, and Abed-nego answered and said to the king, "O Nebuchadnezzar, we have no need to answer you in this matter.
 
 |**3:17**
 |If it is so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thy hand, O king.
@@ -367,7 +367,7 @@
 
 |**3:19**
 |Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego: therefore he spoke, and commanded that they should heat the furnace seven times more than it was wont to be heated.
-|Then Nebuchadnezzar was full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego. Therefore, he spoke, and commanded that they should heat the furnace seven times more than it was accustomed to be heated.
+|Then Nebuchadnezzar was full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abed-nego. Therefore, he spoke and commanded that they should heat the furnace seven times more than it was accustomed to be heated.
 
 |**3:20**
 |And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, and to cast them into the burning fiery furnace.
@@ -505,11 +505,11 @@
 
 |**4:23**
 |And whereas the king saw a watcher and a holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of its roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let its portion be with the beasts of the field, till seven times shall pass over him;
-|And the king saw a watcher and a holy one coming down from heaven, and saying, "Hew the tree down and destroy it, yet leave the stump of its roots in the earth, even with a band of iron and brass, in the tender grass of the field. Let it be wet with the dew of heaven, and let its portion be with the beasts of the field until seven times shall pass over him."
+|And the king saw a watcher and a holy one coming down from heaven, saying, "Hew the tree down and destroy it, yet leave the stump of its roots in the earth, even with a band of iron and brass, in the tender grass of the field. Let it be wet with the dew of heaven, and let its portion be with the beasts of the field until seven times shall pass over him."
 
 |**4:24**
 |This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:
-|This is the interpretation, O king, and this is the decree of the most High, which has come upon my lord the king:
+|This is the interpretation, O king, and this is the decree of the most High which has come upon my lord the king:
 
 |**4:25**
 |That they shall drive thee from men, and thy dwelling shall be with the beasts of the field, and they shall make thee to eat grass as oxen, and they shall wet thee with the dew of heaven, and seven times shall pass over thee, till thou shalt know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
