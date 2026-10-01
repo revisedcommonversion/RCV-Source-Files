@@ -889,7 +889,7 @@
 
 |**10:2**
 |And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he had fled from the presence of Solomon the king, heard it, that Jeroboam returned from Egypt.
-|And it came to pass, when Jeroboam the son of Nebat heard it, who was in Egypt where he had fled from the presence of Solomon the king, that Jeroboam returned from Egypt.
+|And it came to pass when Jeroboam the son of Nebat heard it, who was in Egypt where he had fled from the presence of Solomon the king, that Jeroboam returned from Egypt.
 
 |**10:4**
 |Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.
@@ -929,7 +929,7 @@
 
 |**10:13**
 |And the king answered them roughly; and king Rehoboam forsook the counsel of the old men,
-|And the king answered them roughly. And king Rehoboam forsook the counsel of the old men,
+|And the king answered them roughly. And king Rehoboam forsook the counsel of the old men
 
 |**10:14**
 |And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add to it; my father chastised you with whips, but I will chastise you with scorpions.
@@ -979,7 +979,7 @@
 
 |**11:6**
 |He built even Beth-lehem, and Etam, and Tekoa,
-|He built even Beth-lehem, Etam, Tekoa,
+|And he built Beth-lehem, Etam, Tekoa,
 
 |**11:7**
 |And Beth-zur, and Shocho, and Adullam,
@@ -999,7 +999,7 @@
 
 |**11:11**
 |And he fortified the strong holds, and put captains in them, and store of provisions, and of oil and wine.
-|And he fortified the strongholds and put captains in them, and store of provisions and of oil and wine.
+|And he fortified the strongholds and put captains in them, with stores of provisions, oil, and wine.
 
 |**11:12**
 |And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.
@@ -1023,7 +1023,7 @@
 
 |**11:17**
 |So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
-|So they strengthened the kingdom of Judah and made Rehoboam the son of Solomon strong for three years, for they walked three years in the way of David and Solomon.
+|So they strengthened the kingdom of Judah and made Rehoboam the son of Solomon strong for three years, for they walked for three years in the way of David and Solomon.
 
 |**11:18**
 |And Rehoboam took to himself Mahalath the daughter of Jerimoth the son of David for a wife, and Abihail the daughter of Eliab the son of Jesse;
@@ -1035,7 +1035,7 @@
 
 |**11:20**
 |And after her he took Maachah the daughter of Absalom; who bore him Abijah, and Attai, and Ziza, and Shelomith.
-|And after her he took Maachah the daughter of Absalom, who bore him Abijah, Attai, Ziza, and Shelomith.
+|And after her, he took Maachah the daughter of Absalom, who bore him Abijah, Attai, Ziza, and Shelomith.
 
 |**11:21**
 |And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and sixty concubines; and begat twenty and eight sons, and sixty daughters.)
@@ -1061,11 +1061,11 @@
 
 |**12:1**
 |And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him.
-|And it came to pass, when Rehoboam had established the kingdom and had strengthened himself, he and all Israel with him forsook the law of the LORD.
+|And it came to pass when Rehoboam had established the kingdom and had strengthened himself, that he and all Israel with him forsook the law of the LORD.
 
 |**12:2**
 |And it came to pass, that in the fifth year of king Rehoboam, Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,
-|And it came to pass, that in the fifth year of king Rehoboam, Shishak king of Egypt came up against Jerusalem because they had transgressed against the LORD,
+|And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem because they had transgressed against the LORD,
 
 |**12:3**
 |With twelve hundred chariots, and sixty thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Cushites.
@@ -1077,7 +1077,7 @@
 
 |**12:5**
 |Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were assembled at Jerusalem because of Shishak, and said to them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak.
-|Then Shemaiah the prophet came to Rehoboam and to the princes of Judah who were assembled at Jerusalem because of Shishak, and said to them, "Thus says the LORD: 'You have forsaken me, and therefore, I have also left you in the hand of Shishak.'"
+|Then Shemaiah the prophet came to Rehoboam and to the princes of Judah who were assembled at Jerusalem because of Shishak and said to them, "Thus says the LORD: 'You have forsaken me, and therefore, I have also left you in the hand of Shishak.'"
 
 |**12:6**
 |Upon which the princes of Israel, and the king humbled themselves; and they said, The LORD is righteous.
@@ -1109,7 +1109,7 @@
 
 |**12:13**
 |So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
-|So king Rehoboam strengthened himself in Jerusalem and reigned. For Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel to put his name there. And his mother's name was Naamah, an Ammonitess.
+|So king Rehoboam strengthened himself in Jerusalem and reigned. For Rehoboam was forty-one years old when he began to reign, and he reigned for seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel to put his name there. And his mother's name was Naamah, an Ammonitess.
 
 |**12:14**
 |And he did evil, because he prepared not his heart to seek the LORD.
@@ -1139,7 +1139,7 @@
 
 |**13:2**
 |He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
-|He reigned three years in Jerusalem. His mother's name was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
+|He reigned for three years in Jerusalem. His mother's name was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 
 |**13:3**
 |And Abijah set the battle in array with an army of valiant men of war, even four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, being mighty men of valor.
@@ -1315,7 +1315,7 @@
 
 |**15:5**
 |And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries.
-|And in those times there was no peace to him who went out, nor to him who came in, but great vexations were upon all the inhabitants of the countries.
+|And in those times there was no peace to him who went out nor to him who came in, but great vexations were upon all the inhabitants of the countries.
 
 |**15:6**
 |And nation was destroyed by nation, and city by city: for God troubled them with all adversity.
@@ -1393,7 +1393,7 @@
 
 |**16:5**
 |And it came to pass, when Baasha heard it, that he left off the building of Ramah, and let his work cease.
-|And it came to pass, when Baasha heard it, that he left off the building of Ramah and let his work cease.
+|And it came to pass when Baasha heard it, that he left off the building of Ramah and let his work cease.
 
 |**16:6**
 |Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber of it, with which Baasha was building, and he built with it Geba and Mizpah.
@@ -1467,7 +1467,7 @@
 
 |**17:7**
 |Also in the third year of his reign he sent to his princes, even to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
-|Also in the third year of his reign he sent to his princes, even to Ben-hail, to Obadiah, to Zechariah, to Nethaneel, and to Michaiah, to teach in the cities of Judah.
+|Also, in the third year of his reign, he sent to his princes, even to Ben-hail, to Obadiah, to Zechariah, to Nethaneel, and to Michaiah, to teach in the cities of Judah.
 
 |**17:8**
 |And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests.
@@ -1529,7 +1529,7 @@
 
 |**18:2**
 |And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramoth-gilead.
-|And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the people who were with him, and persuaded him to go up with him to Ramoth-gilead.
+|And after some years he went down to Ahab in Samaria. And Ahab killed sheep and oxen in abundance for him and for the people who were with him and persuaded him to go up with him to Ramoth-gilead.
 
 |**18:3**
 |And Ahab king of Israel said to Jehoshaphat king of Judah, Wilt thou go with me to Ramoth-gilead? And he answered him, I am as thou art, and my people as thy people; and we will be with thee in the war.
@@ -1621,7 +1621,7 @@
 
 |**18:25**
 |Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
-|Then the king of Israel said, "Take Micaiah and carry him back to Amon the governor of the city and to Joash the king's son,
+|Then the king of Israel said, "Take Micaiah and carry him back to Amon the governor of the city and to Joash the king's son
 
 |**18:26**
 |And say, Thus saith the king, Put this man in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.
@@ -1641,7 +1641,11 @@
 
 |**18:31**
 |And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him.
-|And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
+|And it came to pass when the captains of the chariots saw Jehoshaphat, that they said, "It is the king of Israel." Therefore, they turned around to fight him. But Jehoshaphat cried out, and the LORD helped him. And God moved them to depart from him.
+
+|**18:32**
+|For it came to pass, that when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.
+|For it came to pass when the captains of the chariots perceived that it was not the king of Israel, that they turned back again from pursuing him.
 
 |**18:33**
 |And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: therefore he said to his chariot-man, Turn thy hand, that thou mayest carry me out of the host; for I am wounded.
