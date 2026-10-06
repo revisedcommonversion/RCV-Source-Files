@@ -2255,11 +2255,11 @@
 
 |**25:1**
 |Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
-|Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
+|Amaziah was twenty-five years old when he began to reign, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 
 |**25:3**
 |Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father.
-|Now it came to pass, when the kingdom was established to him, that he slew his servants who had killed the king his father.
+|Now it came to pass when the kingdom was established to him, that he slew his servants who had killed the king his father.
 
 |**25:4**
 |But he slew not their children, but did as it is written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin.
@@ -2299,11 +2299,11 @@
 
 |**25:13**
 |But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil.
-|But the soldiers of the army whom Amaziah sent back, so that they should not go with him to battle, fell upon the cities of Judah, from Samaria even to Beth-horon, and smote three thousand of them and took a large amount of plunder.
+|But the soldiers of the army whom Amaziah sent back so that they should not go with him to battle, they fell upon the cities of Judah, from Samaria even to Beth-horon, and smote three thousand of them and took a large amount of plunder.
 
 |**25:14**
 |Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them.
-|Now it came to pass, after Amaziah had come from the slaughter of the Edomites, that he brought the gods of the children of Seir, set them up to be his gods, bowed himself before them, and burned incense to them.
+|Now it came to pass after Amaziah had come from the slaughter of the Edomites, that he brought the gods of the children of Seir, set them up to be his gods, bowed himself before them, and burned incense to them.
 
 |**25:15**
 |Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?
@@ -2377,7 +2377,7 @@
 
 |**26:3**
 |Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.
-|Uzziah was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
+|Uzziah was sixteen years old when he began to reign, and he reigned for fifty-two years in Jerusalem. His mother's name was Jecoliah of Jerusalem.
 
 |**26:5**
 |And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.
@@ -2413,7 +2413,7 @@
 
 |**26:13**
 |And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.
-|And under their hand was an army, three hundred and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.
+|And under their hand was an army of three hundred and seven thousand and five hundred that made war with mighty power to help the king against the enemy.
 
 |**26:14**
 |And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.
@@ -2445,7 +2445,7 @@
 
 |**26:21**
 |And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king's house, judging the people of the land.
-|And Uzziah the king was a leper to the day of his death and dwelt in a separate house, being a leper, for he was cut off from the house of the LORD. And Jotham his son was over the king's house judging the people of the land.
+|And Uzziah the king was a leper until the day of his death and dwelt in a separate house, being a leper, for he was cut off from the house of the LORD. And Jotham his son was over the king's house judging the people of the land.
 
 |**26:22**
 |Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.
@@ -2467,7 +2467,7 @@
 
 |**27:1**
 |Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name also was Jerushah, the daughter of Zadok.
-|Jotham was twenty-five years old when he began to reign and he reigned sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
+|Jotham was twenty-five years old when he began to reign, and he reigned for sixteen years in Jerusalem. His mother's name was Jerushah, the daughter of Zadok.
 
 |**27:2**
 |And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.
@@ -2491,7 +2491,7 @@
 
 |**27:8**
 |He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.
-|He was twenty-five years old when he began to reign, and reigned sixteen years in Jerusalem.
+|He was twenty-five years old when he began to reign, and reigned for sixteen years in Jerusalem.
 
 |**27:9**
 |And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
@@ -2509,7 +2509,7 @@
 
 |**28:1**
 |Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:
-|Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
+|Ahaz was twenty years old when he began to reign, and he reigned for sixteen years in Jerusalem. But he did not do that which was right in the sight of the LORD, like David his father,
 
 |**28:2**
 |For he walked in the ways of the kings of Israel, and made also molten images for Baalim.
@@ -2557,7 +2557,7 @@
 
 |**28:13**
 |And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel.
-|And said to them, "You shall not bring the captives in here. For whereas we have offended against the LORD already, you intend to add more to our sins and to our trespass, for our trespass is great and there is fierce wrath against Israel."
+|And they said to them, "You shall not bring the captives in here. For whereas we have offended against the LORD already, you intend to add more to our sins and to our trespass, for our trespass is great and there is fierce wrath against Israel."
 
 |**28:14**
 |So the armed men left the captives and the spoil before the princes and all the congregation.
@@ -2593,7 +2593,7 @@
 
 |**28:22**
 |And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz.
-|And in the time of his distress he trespassed yet more against the LORD—this same king Ahaz.
+|And in the time of his distress he trespassed even more against the LORD—this same king Ahaz.
 
 |**28:23**
 |For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.
@@ -2623,7 +2623,7 @@
 
 |**29:1**
 |Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah.
-|Hezekiah began to reign when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
+|Hezekiah began to reign when he was twenty-five years old, and he reigned for twenty-nine years in Jerusalem. And his mother's name was Abijah the daughter of Zechariah.
 
 |**29:3**
 |He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them.
@@ -2631,7 +2631,7 @@
 
 |**29:4**
 |And he brought in the priests and the Levites, and gathered them together into the east street,
-|And he brought in the priests and the Levites and assembled them in the east street,
+|And he brought in the priests and the Levites and assembled them in the east street
 
 |**29:5**
 |And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place.
@@ -2731,7 +2731,7 @@
 
 |**29:30**
 |Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.
-|Moreover, Hezekiah the king and the princes commanded the Levites to sing praise to the LORD, with the words of David and of Asaph the seer. And they sang praises with gladness and they bowed their heads and worshiped.
+|Moreover, Hezekiah the king and the princes commanded the Levites to sing praise to the LORD with the words of David and of Asaph the seer. And they sang praises with gladness and they bowed their heads and worshiped.
 
 |**29:31**
 |Then Hezekiah answered and said, Now ye have consecrated yourselves unto the LORD, come near and bring sacrifices and thank offerings into the house of the LORD. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
@@ -2841,11 +2841,11 @@
 
 |**30:21**
 |And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD.
-|And the children of Israel who were present at Jerusalem kept the feast of unleavened bread seven days with great gladness. And the Levites and the priests praised the LORD day by day, singing with loud instruments to the LORD.
+|And the children of Israel who were present at Jerusalem kept the feast of unleavened bread for seven days with great gladness. And the Levites and the priests praised the LORD day by day, singing with loud instruments to the LORD.
 
 |**30:22**
 |And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.
-|And Hezekiah spoke comfortably to all the Levites who taught the good knowledge of the LORD. And they ate throughout the feast seven days, offering peace-offerings and making confession to the LORD God of their fathers.
+|And Hezekiah spoke comfortably to all the Levites who taught the good knowledge of the LORD. And they ate throughout the feast for seven days, offering peace-offerings and making confession to the LORD God of their fathers.
 
 |**30:23**
 |And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness.
