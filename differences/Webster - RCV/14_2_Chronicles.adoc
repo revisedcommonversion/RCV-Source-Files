@@ -2859,7 +2859,7 @@
 
 |**31:11**
 |Then Hezekiah commanded to prepare chambers in the house of the LORD; and they prepared them,
-|Then Hezekiah commanded to prepare chambers in the house of the LORD. And they prepared them,
+|Then Hezekiah commanded to prepare chambers in the house of the LORD. And they prepared them
 
 |**31:12**
 |And brought in the offerings and the tithes, and the dedicated things faithfully: over which Conaniah the Levite was ruler, and Shimei his brother was the next.
@@ -2937,7 +2937,7 @@
 
 |**32:7**
 |Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that is with him: for there are more with us than with him:
-|"Be strong and courageous, do not be afraid nor dismayed before the king of Assyria, nor before all the multitude who is with him, for there are more with us than with him.
+|"Be strong and courageous. Do not be afraid nor dismayed before the king of Assyria nor before all the multitude who is with him, for there are more with us than with him.
 
 |**32:8**
 |With him is an arm of flesh; but with us is the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.
@@ -2961,7 +2961,7 @@
 
 |**32:13**
 |Know ye not what I and my fathers have done to all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of my hand?
-|Do you not know what my fathers and I have done to all the people of other lands? Were the gods of the nations of those lands any way able to deliver their lands out of my hand?
+|Do you not know what my fathers and I have done to all the people of other lands? Were the gods of the nations of those lands in any way able to deliver their lands out of my hand?
 
 |**32:14**
 |Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of my hand, that your God should be able to deliver you out of my hand?
@@ -2969,7 +2969,7 @@
 
 |**32:15**
 |Now therefore let not Hezekiah deceive you, nor persuade you in this manner, neither yet believe him: for no god of any nation or kingdom hath been able to deliver his people out of my hand, and out of the hand of my fathers: how much less shall your God deliver you out of my hand?
-|Now therefore, do not let Hezekiah deceive you, nor persuade you in this manner, neither yet believe him. For no god of any nation or kingdom has been able to deliver his people out of my hand and out of the hand of my fathers. How much less shall your God deliver you out of my hand?'"
+|Now therefore, do not let Hezekiah deceive you nor persuade you in this manner, neither yet believe him. For no god of any nation or kingdom has been able to deliver his people out of my hand and out of the hand of my fathers. How much less shall your God deliver you out of my hand?'"
 
 |**32:16**
 |And his servants spoke yet more against the LORD God, and against his servant Hezekiah.
@@ -3055,7 +3055,7 @@
 
 |**33:1**
 |Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
-|Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem.
+|Manasseh was twelve years old when he began to reign, and he reigned for fifty-five years in Jerusalem.
 
 |**33:2**
 |But did that which was evil in the sight of the LORD, like the abominations of the heathen, whom the LORD had cast out before the children of Israel.
@@ -3115,7 +3115,7 @@
 
 |**33:17**
 |Nevertheless, the people sacrificed still in the high places, yet to the LORD their God only.
-|Nevertheless, the people still sacrificed in the high places, but to the LORD their God only.
+|Nevertheless, the people still sacrificed in the high places, but only to the LORD their God.
 
 |**33:18**
 |Now the rest of the acts of Manasseh, and his prayer to his God, and the words of the seers that spoke to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel.
@@ -3131,7 +3131,7 @@
 
 |**33:21**
 |Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem.
-|Amon was twenty-two years old when he began to reign, and reigned two years in Jerusalem.
+|Amon was twenty-two years old when he began to reign, and he reigned for two years in Jerusalem.
 
 |**33:22**
 |But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed to all the carved images which Manasseh his father had made, and served them;
@@ -3161,11 +3161,11 @@
 
 |**34:1**
 |Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
-|Josiah was eight years old when he began to reign, and he reigned in Jerusalem thirty-one years.
+|Josiah was eight years old when he began to reign, and he reigned in Jerusalem for thirty-one years.
 
 |**34:2**
 |And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left.
-|And he did that which was right in the sight of the LORD and walked in the ways of David his father and declined neither to the right hand, nor to the left.
+|And he did that which was right in the sight of the LORD and walked in the ways of David his father and declined neither to the right hand nor to the left.
 
 |**34:3**
 |For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
@@ -3226,6 +3226,10 @@
 |**34:18**
 |Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.
 |Then Shaphan the scribe told the king, saying, "Hilkiah the priest has given me a book." And Shaphan read it before the king.
+
+|**34:19**
+|And it came to pass, when the king had heard the words of the law, that he rent his clothes.
+|And it came to pass when the king had heard the words of the law, that he rent his clothes.
 
 |**34:20**
 |And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king's, saying,
@@ -3295,7 +3299,7 @@
 
 |**35:2**
 |And he set the priests in their charges, and encouraged them to the service of the house of the LORD,
-|And he set the priests in their charges and encouraged them to the service of the house of the LORD,
+|And he set the priests in their charges and encouraged them to the service of the house of the LORD
 
 |**35:3**
 |And said to the Levites that taught all Israel, who were holy to the LORD, Put the holy ark in the house which Solomon the son of David king of Israel built; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,
@@ -3307,7 +3311,7 @@
 
 |**35:5**
 |And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.
-|And stand in the holy place according to the divisions of the families of the fathers of your brothers the people, and according to the division of the families of the Levites.
+|And stand in the holy place according to the divisions of the families of the fathers of your brothers the people and according to the division of the families of the Levites.
 
 |**35:6**
 |So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses.
@@ -3315,7 +3319,7 @@
 
 |**35:7**
 |And Josiah gave to the people, of the flock, lambs and kids, all for the passover-offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king's substance.
-|And Josiah gave to the people lambs and kids from the flock, all for the passover-offerings, for all who were present, to the number of thirty thousand, as well as three thousand bulls. These were from the king's substance.
+|And Josiah gave to the people lambs and kids from the flock, all for the passover-offerings for all who were present, to the number of thirty thousand, as well as three thousand bulls. These were from the king's substance.
 
 |**35:8**
 |And his princes gave willingly to the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave to the priests for the passover-offerings two thousand and six hundred small cattle, and three hundred oxen.
@@ -3371,7 +3375,7 @@
 
 |**35:22**
 |Nevertheless Josiah would not turn his face from him, but disguised himself that he might fight with him, and hearkened not to the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
-|Nevertheless, Josiah would not turn his face from him, but disguised himself that he might fight with him, and did not listen to the words of Necho from the mouth of God and came to fight in the valley of Megiddo.
+|Nevertheless, Josiah would not turn his face from him, but disguised himself so that he might fight with him. He did not listen to the words of Necho from the mouth of God, but came to fight in the valley of Megiddo.
 
 |**35:23**
 |And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am severely wounded.
@@ -3405,7 +3409,7 @@
 
 |**36:2**
 |Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.
-|Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem.
+|Jehoahaz was twenty-three years old when he began to reign, and he reigned for three months in Jerusalem.
 
 |**36:3**
 |And the king of Egypt deposed him at Jerusalem, and condemned the land in a hundred talents of silver, and a talent of gold.
@@ -3417,7 +3421,7 @@
 
 |**36:5**
 |Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
-|Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. And he did that which was evil in the sight of the LORD his God.
+|Jehoiakim was twenty-five years old when he began to reign, and he reigned for eleven years in Jerusalem. And he did that which was evil in the sight of the LORD his God.
 
 |**36:6**
 |Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.
@@ -3433,7 +3437,7 @@
 
 |**36:9**
 |Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD.
-|Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem. And he did that which was evil in the sight of the LORD.
+|Jehoiachin was eight years old when he began to reign, and he reigned for three months and ten days in Jerusalem. And he did that which was evil in the sight of the LORD.
 
 |**36:10**
 |And when the year had expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.
@@ -3441,7 +3445,7 @@
 
 |**36:11**
 |Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.
-|Zedekiah was twenty-one years old when he began to reign, and reigned eleven years in Jerusalem.
+|Zedekiah was twenty-one years old when he began to reign, and he reigned for eleven years in Jerusalem.
 
 |**36:12**
 |And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.
