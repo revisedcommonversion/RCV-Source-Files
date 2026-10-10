@@ -103,7 +103,7 @@
 
 |**1:24**
 |Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:
-|Then Joseph, being raised from sleep, did as the angel of the Lord had bidden him and took for himself his wife,
+|Then Joseph, being raised from sleep, did as the angel of the Lord had bidden him and took for himself his wife
 
 |**1:25**
 |And knew her not till she had brought forth her firstborn son: and he called his name JESUS.
@@ -145,7 +145,7 @@
 
 |**2:8**
 |And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.
-|And he sent them to Bethlehem, and said, "Go, and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
+|And he sent them to Bethlehem and said, "Go and search diligently for the young child. And when you have found him, report back to me so that I too may come and worship him."
 
 |**2:9**
 |When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
@@ -165,7 +165,7 @@
 
 |**2:13**
 |And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
-|And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, saying, "Arise, and take the young child and his mother and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
+|And when they had departed, behold, the angel of the Lord appears to Joseph in a dream, saying, "Arise, take the young child and his mother, and flee into Egypt. Stay there until I bring you word, for Herod will seek the young child to destroy him."
 
 |**2:14**
 |When he arose, he took the young child and his mother by night, and departed into Egypt:
@@ -219,7 +219,7 @@
 
 |**3:1**
 |In those days came John the Baptist, preaching in the wilderness of Judaea,
-|In those days John the Baptist came, preaching in the wilderness of Judea,
+|In those days John the Baptist came, preaching in the wilderness of Judea
 
 |**3:2**
 |And saying, Repent ye: for the kingdom of heaven is at hand.
@@ -235,7 +235,7 @@
 
 |**3:5**
 |Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
-|Then Jerusalem, all Judea, and all the region around the Jordan went out to him,
+|Then Jerusalem, all Judea, and all the region around the Jordan went out to him
 
 |**3:6**
 |And were baptized of him in Jordan, confessing their sins.
@@ -313,7 +313,7 @@
 
 |**4:5**
 |Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
-|Then the devil takes him up into the holy city and sets him on a pinnacle of the temple,
+|Then the devil takes him up into the holy city, sets him on a pinnacle of the temple,
 
 |**4:6**
 |And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
@@ -325,7 +325,7 @@
 
 |**4:8**
 |Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
-|Again, the devil takes him up upon an exceedingly high mountain and shows him all the kingdoms of the world and their glory,
+|Again, the devil takes him up upon an exceedingly high mountain, shows him all the kingdoms of the world and their glory,
 
 |**4:9**
 |And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.
@@ -345,7 +345,7 @@
 
 |**4:13**
 |And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
-|And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zebulun and Naphtali,
+|And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast in the borders of Zebulun and Naphtali,
 
 |**4:14**
 |That it might be fulfilled which was spoken by Esaias the prophet, saying,
@@ -361,7 +361,7 @@
 
 |**4:17**
 |From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
-|From that time Jesus began to preach, and to say, "Repent, for the kingdom of heaven is at hand."
+|From that time Jesus began to preach and to say, "Repent, for the kingdom of heaven is at hand."
 
 |**4:18**
 |And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
@@ -451,7 +451,7 @@
 
 |**5:12**
 |Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
-|Rejoice, and be exceedingly glad, for your reward in heaven is great. For thus they persecuted the prophets who were before you.
+|Rejoice and be exceedingly glad, for your reward in heaven is great. For thus they persecuted the prophets who were before you.
 
 |**5:13**
 |Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
@@ -471,7 +471,7 @@
 
 |**5:17**
 |Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
-|"Do not think that I have come to destroy the law, or the prophets. I have not come to destroy, but to fulfill.
+|"Do not think that I have come to destroy the law or the prophets. I have not come to destroy, but to fulfill.
 
 |**5:18**
 |For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
@@ -633,7 +633,7 @@
 
 |**6:7**
 |But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
-|"But when you pray, do not use vain repetitions, as the heathen do, for they think that they shall be heard for their excessive speaking.
+|"But when you pray, do not use vain repetitions as the heathen do, for they think that they shall be heard for their excessive speaking.
 
 |**6:8**
 |Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
@@ -665,7 +665,7 @@
 
 |**6:17**
 |But thou, when thou fastest, anoint thine head, and wash thy face;
-|But you, when you fast, anoint your head and wash your face,
+|But you, when you fast, anoint your head and wash your face
 
 |**6:18**
 |That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
@@ -697,11 +697,11 @@
 
 |**6:25**
 |Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
-|"Therefore, I say to you, do not be anxious for your life—what you shall eat, or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
+|"Therefore, I say to you, do not be anxious for your life—what you shall eat or what you shall drink; nor yet for your body—what you shall put on. Is the life not more than food and the body than clothing?
 
 |**6:26**
 |Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
-|Behold the birds of the air: they do not sow, neither do they reap, nor gather into barns, yet your heavenly Father feeds them. Are you not much better than they are?
+|Behold the birds of the air: they do not sow, neither do they reap nor gather into barns, yet your heavenly Father feeds them. Are you not much better than they are?
 
 |**6:27**
 |Which of you by taking thought can add one cubit unto his stature?
@@ -807,7 +807,7 @@
 
 |**7:16**
 |Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
-|You shall know them by their fruits. Do men gather grapes from thorns, or figs from thistles?
+|You shall know them by their fruits. Do men gather grapes from thorns or figs from thistles?
 
 |**7:17**
 |Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
@@ -843,7 +843,7 @@
 
 |**7:26**
 |And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
-|And everyone who hears these sayings of mine and does not do them, shall be compared to a foolish man who built his house upon the sand.
+|And everyone who hears these sayings of mine and does not do them shall be compared to a foolish man who built his house upon the sand.
 
 |**7:27**
 |And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
@@ -851,7 +851,7 @@
 
 |**7:28**
 |And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
-|And it came to pass when Jesus had ended these sayings, the people were astonished at his doctrine,
+|And it came to pass when Jesus had ended these sayings, that the people were astonished at his doctrine,
 
 |**7:29**
 |For he taught them as one having authority, and not as the scribes.
@@ -885,7 +885,7 @@
 
 |**8:5**
 |And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
-|And when Jesus had entered into Capernaum, a centurion came to him, imploring him,
+|And when Jesus had entered into Capernaum, a centurion came to him, imploring him
 
 |**8:6**
 |And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
@@ -901,11 +901,11 @@
 
 |**8:9**
 |For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.
-|For I am a man under authority, and have soldiers under me. And I say to this man, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
+|For I am a man under authority and have soldiers under me. And I say to this man, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
 
 |**8:10**
 |When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
-|When Jesus heard it, he marveled, and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
+|When Jesus heard it, he marveled and said to those who followed, "Truly I say to you, I have not found such great faith as this, not even in Israel.
 
 |**8:11**
 |And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
@@ -929,7 +929,7 @@
 
 |**8:16**
 |When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
-|When the evening had come, they brought to him many who were possessed with demons. And he cast out the spirits with his word and healed all who were sick,
+|When the evening had come, they brought to him many who were possessed with demons. And he cast out the spirits with his word and healed all who were sick
 
 |**8:17**
 |That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
@@ -941,7 +941,7 @@
 
 |**8:19**
 |And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.
-|And a certain scribe came, and said to him, "Master, I will follow you wherever you go."
+|And a certain scribe came and said to him, "Master, I will follow you wherever you go."
 
 |**8:20**
 |And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.
@@ -985,7 +985,7 @@
 
 |**8:30**
 |And there was a good way off from them an herd of many swine feeding.
-|And there was a good way off from them a herd of many swine, feeding.
+|And there was a good way off from them a herd of many swine feeding.
 
 |**8:31**
 |So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
