@@ -1023,7 +1023,7 @@
 
 |**9:10**
 |And it came to pass, as Jesus sat at table in the house, behold, many publicans and sinners came and sat down with him and his disciples.
-|And it came to pass, as Jesus sat at the table in the house, behold, many tax collectors and sinners came and sat down with him and his disciples.
+|And it came to pass as Jesus sat at the table in the house, that behold, many tax collectors and sinners came and sat down with him and his disciples.
 
 |**9:11**
 |And when the Pharisees saw it, they said to his disciples, Why eateth your Master with publicans and sinners?
@@ -1087,7 +1087,7 @@
 
 |**9:27**
 |And when Jesus departed thence, two blind men followed him, crying, and saying, Thou son of David, have mercy on us.
-|And when Jesus departed from there, two blind men followed him, crying, and saying, "Son of David, have mercy on us."
+|And when Jesus departed from there, two blind men followed him, crying and saying, "Son of David, have mercy on us."
 
 |**9:28**
 |And when he had come into the house, the blind men came to him: and Jesus saith to them, Believe ye that I am able to do this? They said to him, Yes, Lord.
@@ -1119,7 +1119,7 @@
 
 |**9:36**
 |But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
-|But when he saw the multitudes, he was moved with compassion for them because they fainted and were scattered abroad as sheep having no shepherd.
+|But when he saw the multitudes, he was moved with compassion for them because they fainted and were scattered abroad like sheep having no shepherd.
 
 |**9:37**
 |Then saith he to his disciples, The harvest truly is plentiful, but the laborers are few.
@@ -1141,7 +1141,7 @@
 
 |**10:1**
 |And when he had called to him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness, and all manner of disease.
-|And when he had called his twelve disciples to him, he gave them power against unclean spirits to cast them out, and to heal all manner of sickness and all manner of disease.
+|And when he had called his twelve disciples to him, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 
 |**10:2**
 |Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
@@ -1189,7 +1189,7 @@
 
 |**10:14**
 |And whoever shall not receive you, nor hear your words, when ye depart from that house, or city, shake off the dust of your feet.
-|And whoever does not receive you, nor hear your words, when you depart from that house or city, shake off the dust from your feet.
+|And whoever does not receive you or hear your words, when you depart from that house or city, shake off the dust from your feet.
 
 |**10:15**
 |Verily, I say to you, It shall be more tolerable for the land of Sodom and Gomorrah, in the day of judgment, than for that city.
@@ -1197,7 +1197,7 @@
 
 |**10:16**
 |Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.
-|"Behold, I send you forth as sheep in the midst of wolves; therefore, be wise as serpents and innocent as doves.
+|"Behold, I send you forth as sheep in the midst of wolves; therefore, be as wise as serpents and as innocent as doves.
 
 |**10:17**
 |But beware of men: for they will deliver you to the councils, and they will scourge you in their synagogues.
@@ -1205,7 +1205,7 @@
 
 |**10:18**
 |And ye will be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
-|And you will be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
+|And you will be brought before governors and kings for my sake as a testimony to them and to the Gentiles.
 
 |**10:19**
 |But when they deliver you up, be not anxious how or what ye shall speak, for it shall be given to you in that same hour what ye shall speak.
@@ -1217,7 +1217,7 @@
 
 |**10:21**
 |And the brother will deliver up the brother to death, and the father the child: and the children will rise up against their parents, and cause them to be put to death.
-|"And the brother will deliver up the brother to death, and the father the child. And the children will rise up against their parents and cause them to be put to death.
+|"And brother will deliver up brother to death, and the father the child. And the children will rise up against their parents and cause them to be put to death.
 
 |**10:22**
 |And ye will be hated by all men for my name's sake: but he that endureth to the end shall be saved.
@@ -1233,11 +1233,11 @@
 
 |**10:25**
 |It is enough for the disciple that he should be as his teacher, and the servant as his lord: if they have called the master of the house Beelzebub, how much more will they call them of his household?
-|It is enough for the disciple that he should be as his teacher, and the servant as his lord. If they have called the master of the house Beelzebub, how much more those of his household?
+|It is enough for the disciple that he should be like his teacher, and the servant like his lord. If they have called the master of the house Beelzebub, how much more those of his household?
 
 |**10:26**
 |Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.
-|"Do not fear them therefore, for there is nothing covered that shall not be revealed, or hid that shall not be known.
+|"Do not fear them therefore, for there is nothing covered that shall not be revealed, or hidden that shall not be known.
 
 |**10:27**
 |What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that publish ye upon the house-tops.
@@ -1315,7 +1315,11 @@
 
 |**11:1**
 |And it came to pass when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
-|And it came to pass, that when Jesus had made an end of commanding his twelve disciples, he departed from there to teach and to preach in their cities.
+|And it came to pass when Jesus had made an end of commanding his twelve disciples, that he departed from there to teach and to preach in their cities.
+
+|**11:2**
+|Now when John had heard in the prison the works of Christ, he sent two of his disciples,
+|Now when John had heard in the prison the works of Christ, he sent two of his disciples
 
 |**11:3**
 |And said to him, Art thou he that should come, or do we look for another?
@@ -1367,7 +1371,7 @@
 
 |**11:16**
 |But to what shall I liken this generation? It is like to children sitting in the markets, and calling to their fellows,
-|"But to what shall I compare this generation? It is like children sitting in the markets and calling to their fellows,
+|"But to what shall I compare this generation? It is like children sitting in the markets and calling to their fellows
 
 |**11:17**
 |And saying, We have piped to you, and ye have not danced; We have mourned to you, and ye have not lamented.
@@ -1411,7 +1415,7 @@
 
 |**11:27**
 |All things are delivered to me by my Father; and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.
-|All things are delivered to me by my Father. And no man knows the Son, except the Father, neither does any man know the Father, except the Son and he to whomever the Son will reveal him.
+|All things are delivered to me by my Father. And no man knows the Son except the Father, neither does any man know the Father except the Son and he to whomever the Son will reveal him.
 
 |**11:28**
 |Come to me, all ye that labor, and are heavy laden, and I will give you rest.
@@ -1493,7 +1497,7 @@
 
 |**12:16**
 |And charged them that they should not make him known:
-|And he charged them that they should not make him known,
+|And he charged them that they should not make him known
 
 |**12:17**
 |That it might be fulfilled which was spoken by Isaiah the prophet, saying,
@@ -1505,7 +1509,7 @@
 
 |**12:19**
 |He shall not contend, nor cry; neither shall any man hear his voice in the streets.
-|He shall not contend, nor cry, neither shall any man hear his voice in the streets.
+|He shall not contend nor cry, neither shall any man hear his voice in the streets.
 
 |**12:20**
 |A bruised reed shall he not break, and smoking flax shall he not quench, till he shall send forth judgment to victory.
@@ -1521,7 +1525,7 @@
 
 |**12:23**
 |And all the people were amazed, and said, Is not this the son of David?
-|And all the people were amazed, and said, "Is this not the son of David?"
+|And all the people were amazed and said, "Is this not the son of David?"
 
 |**12:24**
 |But when the Pharisees heard it, they said, This man doth not cast out demons, but by Beelzebub the prince of the demons.
@@ -1529,7 +1533,7 @@
 
 |**12:25**
 |And Jesus knew their thoughts, and said to them, Every kingdom divided against itself, is brought to desolation; and every city or house divided against itself, shall not stand.
-|And Jesus knew their thoughts, and said to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
+|And Jesus knew their thoughts and said to them, "Every kingdom divided against itself is brought to desolation, and every city or house divided against itself shall not stand.
 
 |**12:26**
 |And if Satan casteth out Satan, he is divided against himself; how then shall his kingdom stand?
@@ -1557,7 +1561,7 @@
 
 |**12:32**
 |And whoever speaketh a word against the Son of man, it shall be forgiven him: but whoever speaketh against the Holy Spirit, it shall not be forgiven him, neither in this world, neither in the world to come.
-|And whoever speaks a word against the Son of man, it shall be forgiven, but whoever speaks against the Holy Spirit, it shall not be forgiven, neither in this world, nor in the world to come.
+|And whoever speaks a word against the Son of man, it shall be forgiven, but whoever speaks against the Holy Spirit, it shall not be forgiven, neither in this world nor in the world to come.
 
 |**12:33**
 |Either make the tree good, and its fruit good; or else make the tree corrupt, and its fruit corrupt: for the tree is known by its fruit.
@@ -1585,7 +1589,7 @@
 
 |**12:39**
 |But he answered and said to them, An evil and adulterous generation seeketh for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah.
-|But he answered and said to them, "An evil and adulterous generation seeks for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah.
+|But he answered and said to them, "An evil and adulterous generation seeks for a sign, and there shall no sign be given to it except the sign of the prophet Jonah.
 
 |**12:40**
 |For as Jonah was three days and three nights in the whale's belly: so shall the Son of man be three days and three nights in the heart of the earth.
@@ -1609,7 +1613,7 @@
 
 |**12:45**
 |Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also to this wicked generation.
-|Then he goes, and takes with himself seven other spirits more wicked than himself, and they enter in and dwell there. And the last state of that man is worse than the first. Thus it shall also be to this wicked generation."
+|Then he goes and takes with himself seven other spirits more wicked than himself, and they enter in and dwell there. And the last state of that man is worse than the first. Thus it shall also be to this wicked generation."
 
 |**12:46**
 |While he was yet speaking to the people, behold, his mother and his brethren stood without, desiring to speak with him.
@@ -1625,7 +1629,7 @@
 
 |**12:49**
 |And he stretched forth his hand towards his disciples, and said, Behold my mother and my brethren!
-|And he stretched forth his hand toward his disciples, and said, "Behold my mother and my brothers!
+|And he stretched forth his hand toward his disciples and said, "Behold my mother and my brothers!
 
 |**12:50**
 |For whoever shall do the will of my Father who is in heaven, the same is my brother, and sister, and mother.
@@ -1643,7 +1647,7 @@
 
 |**13:1**
 |The same day Jesus went out of the house, and sat by the sea side.
-|The same day Jesus went out of the house and sat by the sea side.
+|The same day, Jesus went out of the house and sat by the sea side.
 
 |**13:2**
 |And great multitudes were gathered to him, so that he went into a boat, and sat down; and the whole multitude stood on the shore.
@@ -1679,7 +1683,7 @@
 
 |**13:10**
 |And the disciples came, and said to him, Why speakest thou to them in parables?
-|And the disciples came, and said to him, "Why do you speak to them in parables?"
+|And the disciples came and said to him, "Why do you speak to them in parables?"
 
 |**13:11**
 |He answered and said to them, Because it is given to you to know the mysteries of the kingdom of heaven, but to them it is not given.
@@ -1775,7 +1779,7 @@
 
 |**13:34**
 |All these things Jesus spoke to the multitude in parables; and without a parable he spoke not to them:
-|All these things Jesus spoke to the multitude in parables, and without a parable he did not speak to them,
+|All these things Jesus spoke to the multitude in parables. And without a parable he did not speak to them
 
 |**13:35**
 |That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.
@@ -1803,7 +1807,7 @@
 
 |**13:41**
 |The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them who do iniquity;
-|The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend and those who do iniquity,
+|The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend and those who do iniquity
 
 |**13:42**
 |And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
@@ -1827,7 +1831,7 @@
 
 |**13:47**
 |Again, the kingdom of heaven is like a net, that was cast into the sea, and gathered of every kind:
-|"Again, the kingdom of heaven is like a net that was cast into the sea and gathered of every kind,
+|"Again, the kingdom of heaven is like a net that was cast into the sea and gathered some of every kind,
 
 |**13:48**
 |Which, when it was full, they drew to the shore, and sat down, and gathered the good into vessels, but cast away the bad.
@@ -1835,7 +1839,7 @@
 
 |**13:49**
 |So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,
-|That is how it will be at the end of the age. The angels shall come forth and sever the wicked from among the just,
+|That is how it will be at the end of the age. The angels shall come forth and sever the wicked from among the just
 
 |**13:50**
 |And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth.
@@ -1847,11 +1851,11 @@
 
 |**13:52**
 |Then said he to them, Therefore every scribe who is instructed to the kingdom of heaven, is like a man that is a householder, who bringeth forth out of his treasure things new and old.
-|Then he said to them, "Therefore, every scribe who is instructed to the kingdom of heaven, is like a man who is a householder, who brings forth out of his treasure things new and old."
+|Then he said to them, "Therefore, every scribe who has been made a disciple in the kingdom of heaven is like a man who is a householder who brings forth out of his treasure things new and old."
 
 |**13:53**
 |And it came to pass, that when Jesus had finished these parables, he departed thence.
-|And it came to pass, that when Jesus had finished these parables, he departed from there.
+|And it came to pass when Jesus had finished these parables, that he departed from there.
 
 |**13:54**
 |And when he had come into his own country, he taught them in their synagogue, so that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
@@ -1859,7 +1863,7 @@
 
 |**13:55**
 |Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
-|Is this not the carpenter's son? Is his mother not called Mary? And his brothers, James, Joseph, Simon, and Judas?
+|Is this not the carpenter's son? Is his mother not called Mary, and his brothers, James, Joseph, Simon, and Judas?
 
 |**13:56**
 |And his sisters, are they not all with us? Whence then hath this man all these things?
@@ -1867,7 +1871,7 @@
 
 |**13:57**
 |And they were offended in him. But Jesus said to them, A prophet is not without honor, save in his own country, and in his own house.
-|And they were offended by him. But Jesus said to them, "A prophet is not without honor, except in his own country and in his own house."
+|And they were offended by him. But Jesus said to them, "A prophet is not without honor except in his own country and in his own house."
 
 |**13:58**
 |And he did not many mighty works there, because of their unbelief.
@@ -1883,9 +1887,13 @@
 |*WBS*
 |*RCV*
 
+|**14:1**
+|At that time Herod the Tetrarch heard of the fame of Jesus,
+|At that time Herod the Tetrarch heard about the fame of Jesus,
+
 |**14:2**
 |And said to his servants, This is John the Baptist; he hath risen from the dead; and therefore mighty works do show forth themselves in him.
-|And said to his servants, "This is John the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
+|And he said to his servants, "This is John the Baptist. He has risen from the dead, and therefore, mighty works show themselves forth in him."
 
 |**14:3**
 |For Herod had laid hold on John, and bound him, and put him in prison for the sake of Herodias, his brother Philip's wife.
@@ -1906,6 +1914,10 @@
 |**14:9**
 |And the king was sorry: nevertheless for the sake of the oath, and of them who sat with him at table, he commanded it to be given her.
 |And the king was sorry. Nevertheless, for the sake of the oath and of those who sat with him at the table, he commanded it to be given to her.
+
+|**14:10**
+|And he sent, and beheaded John in the prison.
+|And he sent and beheaded John in the prison.
 
 |**14:11**
 |And his head was brought in a dish, and given to the damsel: and she brought it to her mother.
@@ -1941,7 +1953,7 @@
 
 |**14:19**
 |And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and broke, and gave the loaves to his disciples, and the disciples to the multitude.
-|And he commanded the multitude to sit down on the grass, and took the five loaves and the two fish, and looking up to heaven, he blessed, broke, and gave the loaves to his disciples, and the disciples to the multitude.
+|Then he commanded the multitude to sit down on the grass. And he took the five loaves and the two fish, and looking up to heaven, he blessed, broke, and gave the loaves to his disciples, and the disciples to the multitude.
 
 |**14:20**
 |And they all ate, and were satisfied: and they took up of the fragments that remained twelve baskets full.
@@ -1985,7 +1997,7 @@
 
 |**14:31**
 |And immediately Jesus stretched forth his hand, and caught him, and said to him, O thou of little faith, Why didst thou doubt?
-|And immediately Jesus stretched forth his hand and caught him, and said to him, "O you of little faith, why did you doubt?"
+|And immediately Jesus stretched forth his hand, caught him, and said to him, "O you of little faith, why did you doubt?"
 
 |**14:33**
 |Then they that were in the boat came and worshiped him, saying, In truth thou art the son of God.
@@ -1993,7 +2005,7 @@
 
 |**14:35**
 |And when the men of that place had knowledge of him, they sent out into all the surrounding country, and brought to him all that were diseased;
-|And when the men of that place had knowledge of him, they sent out into all the surrounding country and brought to him all who were diseased,
+|And when the men of that place had knowledge of him, they sent out into all the surrounding country and brought to him all who were diseased
 
 |**14:36**
 |And besought him that they might only touch the hem of his garment: and as many as touched were restored to health.
@@ -4321,7 +4333,7 @@
 
 |**28:19**
 |Go ye therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit.
-|Therefore, go and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,
+|Therefore, go and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit,
 
 |**28:20**
 |Teaching them to observe all things whatever I have commanded you: and lo, I am with you always, even to the end of the world. Amen.
