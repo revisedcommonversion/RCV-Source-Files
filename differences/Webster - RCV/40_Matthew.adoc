@@ -2059,7 +2059,7 @@
 
 |**15:10**
 |And he called the multitude, and said to them, Hear, and understand:
-|And he called the multitude, and said to them, "Hear, and understand.
+|And he called the multitude and said to them, "Hear and understand.
 
 |**15:11**
 |Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.
@@ -2067,7 +2067,7 @@
 
 |**15:12**
 |Then came his disciples, and said to him, Knowest thou that the Pharisees were offended after they heard this saying?
-|Then his disciples came, and said to him, "Do you know that the Pharisees were offended after they heard this saying?"
+|Then his disciples came and said to him, "Do you know that the Pharisees were offended after they heard this saying?"
 
 |**15:13**
 |But he answered and said, Every plant, which my heavenly Father hath not planted, shall be extirpated.
@@ -2083,11 +2083,11 @@
 
 |**15:16**
 |And Jesus said, Are ye also yet without understanding?
-|And Jesus said, "Are you also yet without understanding?
+|And Jesus said, "Are you also still without understanding?
 
 |**15:17**
 |Do ye not yet understand, that whatever entereth in at the mouth goeth into the belly, and is cast out into the draught?
-|Do you not yet understand, that whatever enters in at the mouth goes into the belly and is cast out into the latrine?
+|Do you not yet understand that whatever enters in at the mouth goes into the belly and is cast out into the latrine?
 
 |**15:18**
 |But those things which proceed out of the mouth come forth from the heart; and they defile the man.
@@ -2147,7 +2147,7 @@
 
 |**15:32**
 |Then Jesus called his disciples to him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.
-|Then Jesus called his disciples to him, and said, "I have compassion on the multitude, because they continue with me now three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
+|Then Jesus called his disciples to him and said, "I have compassion on the multitude because they have continued with me now for three days and have nothing to eat. I will not send them away fasting, lest they faint in the way."
 
 |**15:33**
 |And his disciples say to him, Whence should we have so much bread in the wilderness, as to satisfy so great a multitude?
@@ -2171,7 +2171,7 @@
 
 |**15:39**
 |And he sent away the multitude, and took a boat, and came into the borders of Magdala.
-|And he sent the multitude away, and took a boat and came into the borders of Magdala.
+|And he sent the multitude away and took a boat and came into the borders of Magdala.
 
 |===
 
@@ -2197,7 +2197,7 @@
 
 |**16:4**
 |A wicked and adulterous generation seeketh for a sign; and there shall no sign been to it, but the sign of the prophet Jonah. And he left them, and departed.
-|A wicked and adulterous generation seeks for a sign, and there shall no sign be given to it, but the sign of the prophet Jonah." And he left them and departed.
+|A wicked and adulterous generation seeks for a sign, and no sign shall be given to it except the sign of the prophet Jonah." And he left them and departed.
 
 |**16:6**
 |Then Jesus said to them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
@@ -2257,7 +2257,7 @@
 
 |**16:21**
 |From that time forth Jesus began to show to his disciples, that he must go to Jerusalem, and suffer many things from the elders and chief priests, and scribes, and be killed, and be raised again the third day.
-|From that time forth Jesus began to tell his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and be raised again the third day.
+|From that time forth, Jesus began to tell his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, be killed, and be raised again the third day.
 
 |**16:22**
 |Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be to thee.
@@ -2265,7 +2265,7 @@
 
 |**16:23**
 |But he turned, and said to Peter, Get thee behind me, Satan; thou art an offense to me: for thou savorest not the things that are of God, but those that are of men.
-|But he turned, and said to Peter, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
+|But he turned and said to Peter, "Get behind me, Satan. You are an offense to me, for you do not savor the things that are of God, but those that are of men."
 
 |**16:24**
 |Then said Jesus to his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
@@ -2311,11 +2311,11 @@
 
 |**17:4**
 |Then answered Peter, and said to Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elijah.
-|Then Peter answered, and said to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
+|Then Peter answered and said to Jesus, "Lord, it is good for us to be here. If you wish, let us make here three tabernacles: one for you, one for Moses, and one for Elijah."
 
 |**17:5**
 |While he was yet speaking, behold, a bright cloud overshadowed them: and behold, a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased: hear ye him.
-|While he was yet speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which said, "This is my beloved Son, in whom I am well pleased. Hear him."
+|While he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, which said, "This is my beloved Son, in whom I am well pleased. Hear him."
 
 |**17:6**
 |And when the disciples heard it, they fell on their face, and were in great fear.
@@ -2323,7 +2323,7 @@
 
 |**17:7**
 |And Jesus came and touched them, and said, Arise, and be not afraid.
-|And Jesus came and touched them, and said, "Arise, and do not be afraid."
+|And Jesus came and touched them and said, "Arise, and do not be afraid."
 
 |**17:8**
 |And when they had lifted up their eyes, they saw no man, save Jesus only.
@@ -2345,6 +2345,10 @@
 |But I say to you, that Elijah is come already, and they knew him not, but have done to him whatever they pleased: likewise will also the Son of man suffer by them.
 |But I say to you, that Elijah has come already, and they did not know him, but have done to him whatever they pleased. Likewise, the Son of man will also suffer by them."
 
+|**17:14**
+|And when they had come to the multitude, there came to him a certain man kneeling down to him, and saying,
+|And when they had come to the multitude, there came to him a certain man kneeling down to him and saying,
+
 |**17:15**
 |Lord, have mercy on my son; for he is lunatic, and grievously distressed; for often he falleth into the fire, and often into the water.
 |"Lord, have mercy on my son, for he is lunatic and grievously distressed. He often falls into the fire and often into the water.
@@ -2363,7 +2367,7 @@
 
 |**17:19**
 |Then came the disciples to Jesus apart, and said, Why could not we cast him out?
-|Then the disciples came to Jesus separately, and said, "Why could we not cast him out?"
+|Then the disciples came to Jesus separately and said, "Why could we not cast him out?"
 
 |**17:20**
 |And Jesus said to them, Because of your unbelief: for verily I say to you, If ye have faith as a grain of mustard-seed, ye shall say to this mountain, Remove hence to yonder place, and it shall remove; and nothing shall be impossible to you.
@@ -2371,7 +2375,7 @@
 
 |**17:21**
 |However, this kind goeth not out, but by prayer and fasting.
-|However, this kind does not go out, but by prayer and fasting."
+|However, this kind does not go out except by prayer and fasting."
 
 |**17:22**
 |And while they abode in Galilee, Jesus said to them, The Son of man will be betrayed into the hands of men:
@@ -2383,11 +2387,11 @@
 
 |**17:24**
 |And when they had come to Capernaum, they that received tribute-money, came to Peter, and said, Doth not your Master pay tribute?
-|And when they had come to Capernaum, those who received tribute-money came to Peter, and said, "Does your Master not pay tribute?"
+|And when they had come to Capernaum, those who received tribute-money came to Peter and said, "Does your Master not pay tribute?"
 
 |**17:25**
 |He saith, Yes. And when he had come into the house, Jesus anticipated him, saying, What thinkest thou, Simon? from whom do the kings of the earth take custom or tribute? from their own children, or from strangers?
-|He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, Simon? From whom do the kings of the earth take custom or tribute? From their own children, or from strangers?"
+|He says, "Yes." And when he had come into the house, Jesus anticipated him, saying, "What do you think, Simon? From whom do the kings of the earth take custom or tribute? From their own children or from strangers?"
 
 |**17:26**
 |Peter saith to him, From strangers. Jesus saith to him, Then are the children free.
@@ -2413,7 +2417,7 @@
 
 |**18:2**
 |And Jesus called a little child to him, and set him in the midst of them,
-|And Jesus called a little child to him and set him in the midst of them,
+|And Jesus called a little child to him and set him in the midst of them
 
 |**18:3**
 |And said, Verily I say to you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
@@ -2421,7 +2425,7 @@
 
 |**18:4**
 |Whoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
-|Whoever therefore humbles himself as this little child, the same is greatest in the kingdom of heaven.
+|Whoever therefore humbles himself like this little child, the same is greatest in the kingdom of heaven.
 
 |**18:5**
 |And whoever shall receive one such little child in my name, receiveth me.
@@ -2489,7 +2493,7 @@
 
 |**18:21**
 |Then came Peter to him, and said, Lord, how often shall my brother sin against me, and I forgive him? till seven times?
-|Then Peter came to him, and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
+|Then Peter came to him and said, "Lord, how often shall my brother sin against me and I forgive him? Until seven times?"
 
 |**18:22**
 |Jesus saith to him, I say not to thee, Until seven times: but, Until seventy times seven.
@@ -2529,7 +2533,7 @@
 
 |**18:31**
 |So when his fellow-servants saw what was done, they were very sorry, and came and told to their lord all that was done.
-|So when his fellow-servants saw what was done, they were very sorry and came and told to their lord all that was done.
+|So when his fellow-servants saw what was done, they were very sorry and came and told their lord all that was done.
 
 |**18:32**
 |Then his lord, having called him, said to him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:
