@@ -3097,7 +3097,7 @@
 
 |**22:1**
 |And Jesus answered and spake unto them again by parables, and said,
-|And Jesus answered and spoke to them again by parables, and said,
+|And Jesus answered and spoke to them again by parables and said,
 
 |**22:2**
 |The kingdom of heaven is like unto a certain king, which made a marriage for his son,
@@ -3161,11 +3161,11 @@
 
 |**22:17**
 |Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?
-|Tell us therefore, what do you think? Is it lawful to give tribute to Caesar, or not?"
+|Tell us therefore, what do you think? Is it lawful to give tribute to Caesar or not?"
 
 |**22:18**
 |But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
-|But Jesus perceived their wickedness, and said, "Why do you test me, you hypocrites?
+|But Jesus perceived their wickedness and said, "Why do you test me, you hypocrites?
 
 |**22:19**
 |Shew me the tribute money. And they brought unto him a penny.
@@ -3177,7 +3177,7 @@
 
 |**22:21**
 |They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.
-|They say to him, "Caesar's." Then he says to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
+|They say to him, "Caesar's." Then he says to them, "Render therefore to Caesar the things that are Caesar's and to God the things that are God's."
 
 |**22:22**
 |When they had heard these words, they marvelled, and left him, and went their way.
@@ -3209,7 +3209,11 @@
 
 |**22:29**
 |Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.
-|Jesus answered and said to them, "You err, not knowing the Scriptures, nor the power of God.
+|Jesus answered and said to them, "You err, not knowing the Scriptures nor the power of God.
+
+|**22:30**
+|For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.
+|For in the resurrection they neither marry nor are given in marriage, but are as the angels of God in heaven.
 
 |**22:31**
 |But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,
@@ -3225,7 +3229,7 @@
 
 |**22:35**
 |Then one of them, which was a lawyer, asked him a question, tempting him, and saying,
-|Then one of them who was a lawyer, asked him a question, tempting him, and saying,
+|Then one of them who was a lawyer, asked him a question, tempting him and saying,
 
 |**22:36**
 |Master, which is the great commandment in the law?
@@ -3343,7 +3347,7 @@
 
 |**23:17**
 |Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?
-|You fools and blind men. For which is greater, the gold, or the temple that sanctifies the gold?
+|You fools and blind men. For which is greater, the gold or the temple that sanctifies the gold?
 
 |**23:18**
 |And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.
@@ -3351,7 +3355,7 @@
 
 |**23:19**
 |Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?
-|You fools and blind men. For which is greater, the gift, or the altar that sanctifies the gift?
+|You fools and blind men. For which is greater, the gift or the altar that sanctifies the gift?
 
 |**23:20**
 |Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.
@@ -3391,7 +3395,7 @@
 
 |**23:29**
 |Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
-|"Woe to you, scribes and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous,
+|"Woe to you, scribes and Pharisees! Hypocrites! For you build the tombs of the prophets and garnish the sepulchers of the righteous
 
 |**23:30**
 |And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
@@ -3457,7 +3461,7 @@
 
 |**24:4**
 |And Jesus answered and said unto them, Take heed that no man deceive you.
-|And Jesus answered and said to them, "Take heed that no man deceive you.
+|And Jesus answered and said to them, "Take heed that no man deceives you.
 
 |**24:5**
 |For many shall come in my name, saying, I am Christ; and shall deceive many.
@@ -3549,7 +3553,7 @@
 
 |**24:29**
 |Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
-|"Immediately after the tribulation of those days 'the sun shall be darkened and the moon shall not give her light, the stars shall fall' from heaven and the powers of the heavens shall be shaken.
+|"Immediately after the tribulation of those days 'the sun shall be darkened and the moon shall not give her light, the stars shall fall' from heaven, and the powers of the heavens shall be shaken.
 
 |**24:30**
 |And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
@@ -3561,7 +3565,7 @@
 
 |**24:32**
 |Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:
-|"Now learn a parable of the fig-tree. When its branch is yet tender and puts forth leaves, you know that summer is near.
+|"Now learn a parable of the fig-tree. When its branch becomes tender and puts forth leaves, you know that summer is near.
 
 |**24:33**
 |So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
@@ -3629,7 +3633,7 @@
 
 |**24:50**
 |The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
-|The lord of that servant will come in a day when he does not look for him and in an hour that he is not aware of,
+|The lord of that servant will come in a day when he does not look for him and in an hour that he is not aware of
 
 |**24:51**
 |And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
@@ -3727,7 +3731,7 @@
 
 |**25:22**
 |He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.
-|"He also who had received two talents came, and said, 'Lord, you delivered to me two talents. Behold, I have gained two other talents besides them.'
+|"He also who had received two talents came and said, 'Lord, you delivered to me two talents. Behold, I have gained two other talents besides them.'
 
 |**25:23**
 |His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
@@ -3735,7 +3739,7 @@
 
 |**25:24**
 |Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
-|"Then he who had received the one talent came, and said, 'Lord, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered.
+|"Then he who had received the one talent came and said, 'Lord, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered.
 
 |**25:25**
 |And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.
@@ -3795,7 +3799,7 @@
 
 |**25:39**
 |Or when saw we thee sick, or in prison, and came unto thee?
-|Or when did we see you sick, or in prison, and come to you?'
+|Or when did we see you sick or in prison and come to you?'
 
 |**25:40**
 |And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
@@ -3815,7 +3819,7 @@
 
 |**25:44**
 |Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?
-|Then they will also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not minister to you?'
+|Then they will also answer him, saying, 'Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison and did not minister to you?'
 
 |**25:45**
 |Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.
@@ -3823,7 +3827,7 @@
 
 |**25:46**
 |And these shall go away into everlasting punishment: but the righteous into life eternal.
-|And these shall go away into everlasting punishment, but the righteous into life eternal."
+|And these shall go away into everlasting punishment, but the righteous into eternal life."
 
 |===
 
@@ -3837,7 +3841,7 @@
 
 |**26:1**
 |And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,
-|And it came to pass, when Jesus had finished all these sayings, he said to his disciples,
+|And it came to pass when Jesus had finished all these sayings, that he said to his disciples,
 
 |**26:2**
 |Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.
@@ -3885,7 +3889,7 @@
 
 |**26:14**
 |Then one of the twelve, called Judas Iscariot, went unto the chief priests,
-|Then one of the twelve, called Judas Iscariot, went to the chief priests,
+|Then one of the twelve, called Judas Iscariot, went to the chief priests
 
 |**26:15**
 |And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
@@ -3897,11 +3901,11 @@
 
 |**26:18**
 |And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
-|And he said, "Go into the city to such a man, and say to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
+|And he said, "Go into the city to such a man and say to him, 'The Master says, "My time is at hand. I will keep the passover at your house with my disciples."'"
 
 |**26:19**
 |And the disciples did as Jesus had appointed them; and they made ready the passover.
-|And the disciples did as Jesus had appointed them and they made ready the passover.
+|And the disciples did as Jesus had appointed them, and they made ready the passover.
 
 |**26:20**
 |Now when the even was come, he sat down with the twelve.
@@ -3929,7 +3933,7 @@
 
 |**26:26**
 |And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
-|And as they were eating, Jesus took bread, blessed it, broke it, and gave it to the disciples, and said, "Take, eat. This is my body."
+|And as they were eating, Jesus took bread, blessed it, broke it, and gave it to the disciples and said, "Take, eat. This is my body."
 
 |**26:27**
 |And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;
@@ -3937,7 +3941,7 @@
 
 |**26:29**
 |But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.
-|But I say to you, I will not drink from now on of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+|But I say to you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father's kingdom."
 
 |**26:30**
 |And when they had sung an hymn, they went out into the mount of Olives.
@@ -3981,7 +3985,7 @@
 
 |**26:40**
 |And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?
-|And he comes to the disciples and finds them asleep, and says to Peter, "What, could you not watch with me one hour?
+|And he comes to the disciples and finds them asleep. And he says to Peter, "What, could you not watch with me one hour?
 
 |**26:41**
 |Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
@@ -4009,7 +4013,7 @@
 
 |**26:47**
 |And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
-|And while he was yet speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the people.
+|And while he was still speaking, behold, Judas, one of the twelve, came, and with him a great multitude with swords and staffs from the chief priests and elders of the people.
 
 |**26:48**
 |Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.
@@ -4017,7 +4021,7 @@
 
 |**26:49**
 |And forthwith he came to Jesus, and said, Hail, master; and kissed him.
-|And immediately he came to Jesus, and said, "Hail Master," and kissed him.
+|And immediately he came to Jesus and said, "Hail Master," and kissed him.
 
 |**26:50**
 |And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.
@@ -4041,7 +4045,7 @@
 
 |**26:55**
 |In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.
-|In that same hour Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
+|In that same hour, Jesus said to the multitudes, "Have you come out as against a thief with swords and staffs to take me? I sat daily with you teaching in the temple and you laid no hold upon me.
 
 |**26:56**
 |But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
@@ -4061,7 +4065,7 @@
 
 |**26:60**
 |But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,
-|But found none. And though many false witnesses came, yet they found none. At last, two false witnesses came,
+|But found none. And though many false witnesses came, yet they found none. At last, two false witnesses came
 
 |**26:61**
 |And said, This fellow said, I am able to destroy the temple of God, and to build it in three days.
