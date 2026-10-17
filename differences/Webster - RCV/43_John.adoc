@@ -21,6 +21,10 @@
 |And the light shineth in darkness; and the darkness comprehended it not.
 |And the light shines in darkness, and the darkness did not overcome it.
 
+|**1:6**
+|There was a man sent from God, whose name was John.
+|There was a man sent from God whose name was John.
+
 |**1:7**
 |The same came for a witness, to bear testimony of the Light, that all men through him might believe.
 |The same came for a witness to bear testimony of the Light so that all men through him might believe.
@@ -47,7 +51,7 @@
 
 |**1:15**
 |John testified concerning him, and cried, saying, This was he of whom I spoke, He that cometh after me, is preferred before me; for he was before me.
-|John testified concerning him, and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
+|John testified concerning him and cried, saying, "This was he of whom I spoke, 'He who comes after me is preferred before me, for he was before me.'"
 
 |**1:16**
 |And of his fullness have we all received, and grace for grace.
@@ -83,7 +87,7 @@
 
 |**1:25**
 |And they asked him, and said to him, Why baptizest thou then, if thou art not that Christ, nor Elijah, neither that prophet?
-|And they asked him, and said to him, "Why do you baptize then, if you are not that Christ, nor Elijah, neither that prophet?"
+|And they asked him and said to him, "Why do you baptize then if you are not that Christ, nor Elijah, nor that prophet?"
 
 |**1:26**
 |John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
@@ -99,7 +103,7 @@
 
 |**1:29**
 |The next day John seeth Jesus coming to him, and saith, Behold the Lamb of God, who taketh away the sin of the world.
-|The next day John sees Jesus coming to him, and says, "Behold the Lamb of God who takes away the sin of the world.
+|The next day John sees Jesus coming to him and says, "Behold the Lamb of God who takes away the sin of the world.
 
 |**1:30**
 |This is he of whom I said, after me cometh a man who is preferred before me; for he was before me.
@@ -135,7 +139,7 @@
 
 |**1:38**
 |Then Jesus turned, and saw them following, and saith to them, What seek ye? They said to him, Rabbi (which is to say, being interpreted, Master) where dwellest thou?
-|Then Jesus turned and saw them following, and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
+|Then Jesus turned and saw them following and says to them, "What do you seek?" They said to him, "Rabbi"—which is to say, being interpreted, Master—"where do you dwell?"
 
 |**1:39**
 |He saith to them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.
@@ -147,7 +151,7 @@
 
 |**1:41**
 |He first findeth his own brother Simon, and saith to him, We have found the Messiah; which is, being interpreted, the Christ.
-|He first finds his own brother Simon, and says to him, "We have found the Messiah," (which is, being interpreted, the Christ).
+|He first finds his own brother Simon and says to him, "We have found the Messiah," (which is, being interpreted, the Christ).
 
 |**1:42**
 |And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas; which is, by interpretation, a stone.
@@ -155,7 +159,7 @@
 
 |**1:43**
 |The day following Jesus would go forth into Galilee, and findeth Philip, and saith to him, follow me.
-|The day following, Jesus wished to go forth into Galilee and finds Philip, and says to him, "Follow me."
+|The day following, Jesus wished to go forth into Galilee. And he finds Philip and says to him, "Follow me."
 
 |**1:44**
 |Now Philip was of Bethsaida, the city of Andrew and Peter.
@@ -163,7 +167,7 @@
 
 |**1:45**
 |Philip findeth Nathanael, and saith to him, We have found him described by Moses in the law, and by the prophets, Jesus of Nazareth, the son of Joseph.
-|Philip finds Nathanael, and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
+|Philip finds Nathanael and says to him, "We have found him described by Moses in the law and by the prophets, Jesus of Nazareth, the son of Joseph."
 
 |**1:46**
 |And Nathanael said to him, Can there any good thing come out of Nazareth? Philip saith to him, Come and see.
@@ -171,7 +175,7 @@
 
 |**1:47**
 |Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
-|Jesus saw Nathanael coming to him, and says of him, "Behold an Israelite indeed, in whom there is no guile!"
+|Jesus saw Nathanael coming to him, and about him he says, "Behold an Israelite indeed, in whom there is no guile!"
 
 |**1:48**
 |Nathanael saith to him, Whence knowest thou me? Jesus answered and said to him, Before Philip called thee, when thou wast under the fig-tree, I saw thee.
@@ -233,7 +237,7 @@
 
 |**2:9**
 |When the ruler of the feast had tasted the water that was made wine, and knew not whence it was; (but the servants who drew the water knew) the governor of the feast called the bridegroom,
-|When the master of the feast had tasted the water that was made wine and did not know where it was from (but the servants who drew the water knew), the master of the feast called the bridegroom,
+|When the master of the feast had tasted the water that was made wine and did not know where it was from (but the servants who drew the water knew), the master of the feast called the bridegroom
 
 |**2:10**
 |And saith to him, Every man at the beginning presenteth good wine; and when men have well drank, then that which is worse: but thou hast kept the good wine until now.
@@ -257,11 +261,11 @@
 
 |**2:15**
 |And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
-|And when he had made a scourge of small cords, he drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overthrew the tables,
+|And when he had made a scourge of small cords, he drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overthrew the tables.
 
 |**2:16**
 |And said to them that sold doves, Take these things hence: make not my Father's house a house of merchandise.
-|And said to those who sold doves, "Take these things from here. Do not make my Father's house a house of merchandise."
+|And he said to those who sold doves, "Take these things from here. Do not make my Father's house a house of merchandise."
 
 |**2:17**
 |And his disciples remembered that it was written, The zeal of thy house hath eaten me up.
@@ -269,7 +273,7 @@
 
 |**2:18**
 |Then answered the Jews, and said to him, What sign showest thou to us, seeing that thou doest these things?
-|Then the Jews answered, and said to him, "What sign do you show to us, seeing that you do these things?"
+|Then the Jews answered and said to him, "What sign do you show to us, seeing that you do these things?"
 
 |**2:19**
 |Jesus answered and said to them, Destroy this temple, and in three days I will raise it up.
@@ -278,6 +282,10 @@
 |**2:20**
 |Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
 |Then the Jews said, "Forty-six years this temple was in building, and will you rear it up in three days?"
+
+|**2:21**
+|But he spoke of the temple of his body.
+|But he spoke about the temple of his body.
 
 |**2:22**
 |When therefore he had risen from the dead, his disciples remembered that he had said this to them: and they believed the scripture, and the word which Jesus had spoken.
@@ -289,7 +297,7 @@
 
 |**2:24**
 |But Jesus did not commit himself to them, because he knew all men.
-|But Jesus did not commit himself to them, for he knew all men,
+|But Jesus did not commit himself to them, for he knew all men
 
 |**2:25**
 |And needed not that any should testify concerning man: for he knew what was in man.
@@ -335,7 +343,7 @@
 
 |**3:8**
 |The wind bloweth where it will, and thou hearest the sound of it, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
-|The wind blows where it wishes and you hear its sound, but cannot tell where it comes from and where it goes. Thus is everyone who is born of the Spirit."
+|The wind blows where it wishes. You hear its sound, but you cannot tell where it comes from and where it goes. Thus is everyone who is born of the Spirit."
 
 |**3:9**
 |Nicodemus answered and said to him, How can these things be?
@@ -427,7 +435,7 @@
 
 |**3:33**
 |He that hath received his testimony, hath set to his seal that God is true.
-|He who has received his testimony, has set to his seal that God is true.
+|He who has received his testimony has set to his seal that God is true.
 
 |**3:34**
 |For he whom God hath sent, speaketh the words of God: for to him God giveth not the Spirit by measure.
