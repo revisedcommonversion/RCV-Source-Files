@@ -553,7 +553,7 @@
 
 |**4:25**
 |The woman saith to him, I know that Messiah cometh, who is called Christ; when he is come, he will tell us all things.
-|The woman says to him, "I know that Messiah comes, who is called Christ. When he has come, he will tell us all things."
+|The woman says to him, "I know that Messiah comes" (who is called Christ). "When he has come, he will tell us all things."
 
 |**4:26**
 |Jesus saith to her, I that speak to thee am he.
@@ -593,7 +593,7 @@
 
 |**4:35**
 |Say not ye, There are yet four months, and then cometh harvest? behold, I say to you, Lift up your eyes, and look on the fields; for they are white already to harvest.
-|Do you not say, 'There are yet four months and then comes harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest.
+|Do you not say, 'There are still four months and then comes harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest.
 
 |**4:36**
 |And he that reapeth receiveth wages, and gathereth fruit to life eternal: that both he that soweth, and he that reapeth, may rejoice together.
@@ -609,7 +609,7 @@
 
 |**4:39**
 |And many of the Samaritans of that city believed on him for the saying of the woman, who testified, He told me all that ever I did.
-|And many of the Samaritans of that city believed in him for the saying of the woman, who testified, "He told me all that I ever did."
+|And many of the Samaritans of that city believed in him because of the saying of the woman, who testified, "He told me all that I ever did."
 
 |**4:40**
 |So when the Samaritans had come to him, they besought him that he would tarry with them: and he abode there two days.
@@ -617,11 +617,11 @@
 
 |**4:41**
 |And many more believed, because of his own word;
-|And many more believed because of his own word,
+|And many more believed because of his own word.
 
 |**4:42**
 |And said to the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Savior of the world.
-|And said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
+|And they said to the woman, "Now we believe, and not because of what you said, for we have heard him ourselves and know that this is indeed the Christ, the Savior of the world."
 
 |**4:43**
 |Now after two days he departed thence, and went into Galilee.
@@ -657,7 +657,7 @@
 
 |**4:51**
 |And as he was now going down, his servants met him, and told him, saying, Thy son liveth.
-|And as he was now going down, his servants met him, and told him, saying, "Your son lives."
+|And as he was now going down, his servants met him and told him, saying, "Your son lives."
 
 |**4:52**
 |Then he inquired of them the hour when he began to amend: and they said to him, Yesterday at the seventh hour the fever left him.
@@ -699,7 +699,7 @@
 
 |**5:5**
 |And a certain man was there, who had an infirmity thirty and eight years.
-|And a certain man was there who had an infirmity thirty-eight years.
+|And a certain man was there who had an infirmity for thirty-eight years.
 
 |**5:6**
 |When Jesus saw him lying, and knew that he had been now a long time in that case, he saith to him, Wilt thou be healed?
@@ -735,7 +735,7 @@
 
 |**5:14**
 |Afterward Jesus findeth him in the temple, and said to him, Behold, thou art cured: sin no more, lest a worse thing come to thee.
-|Afterward, Jesus finds him in the temple, and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
+|Afterward, Jesus finds him in the temple and said to him, "Behold, you are cured. Sin no more, lest a worse thing come to you."
 
 |**5:15**
 |The man departed, and told the Jews that it was Jesus who had healed him.
@@ -767,7 +767,7 @@
 
 |**5:22**
 |For the Father judgeth no man; but hath committed all judgment to the Son:
-|For the Father judges no man, but has committed all judgment to the Son,
+|For the Father judges no man, but has committed all judgment to the Son
 
 |**5:23**
 |That all men should honor the Son, even as they honor the Father. He that honoreth not the Son, honoreth not the Father who hath sent him.
@@ -791,7 +791,7 @@
 
 |**5:28**
 |Marvel not at this: for the hour is coming, in which all that are in the graves shall hear his voice,
-|Do not marvel at this. For the hour is coming in which all who are in the graves shall hear his voice,
+|Do not marvel at this. For the hour is coming in which all who are in the graves shall hear his voice
 
 |**5:29**
 |And shall come forth; they that have done good to the resurrection of life; and they that have done evil, to the resurrection of damnation.
@@ -819,7 +819,7 @@
 
 |**5:35**
 |He was a burning and a shining light: and ye were willing for a season to rejoice in his light.
-|He was a burning and a shining light, and you were willing for a season to rejoice in his light.
+|He was a burning and shining light, and you were willing for a season to rejoice in his light.
 
 |**5:36**
 |But I have greater testimony than that of John: for the works which the Father hath given me to finish, the same works that I do, bear testimony concerning me, that the Father hath sent me.
@@ -827,7 +827,7 @@
 
 |**5:37**
 |And the Father himself who hath sent me, hath borne testimony concerning me. Ye have neither heard his voice at any time, nor seen his shape.
-|"And the Father himself who has sent me has borne testimony concerning me. You have neither heard his voice at any time, nor seen his shape.
+|"And the Father himself who has sent me has borne testimony concerning me. You have neither heard his voice at any time nor seen his shape.
 
 |**5:38**
 |And ye have not his word abiding in you: for whom he hath sent, him ye believe not.
@@ -851,7 +851,7 @@
 
 |**5:43**
 |I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.
-|I have come in my Father's name and you do not receive me. If another comes in his own name, you will receive him.
+|I have come in my Father's name, and you do not receive me. If another comes in his own name, you will receive him.
 
 |**5:44**
 |How can ye believe, who receive honor one from another, and seek not the honor that cometh from God only?
@@ -1141,7 +1141,7 @@
 
 |**6:71**
 |He spoke of Judas Iscariot the son of Simon: for it was he that was to betray him, being one of the twelve.
-|He spoke of Judas Iscariot the son of Simon. For it was he who was to betray him, being one of the twelve.
+|He spoke about Judas Iscariot the son of Simon. For it was he who was to betray him, being one of the twelve.
 
 |===
 
@@ -1175,7 +1175,7 @@
 
 |**7:7**
 |The world cannot hate you; but me it hateth, because I testify concerning it, that its works are evil.
-|The world cannot hate you, but it hates me because I testify concerning it, that its works are evil.
+|The world cannot hate you, but it hates me because I testify concerning it that its works are evil.
 
 |**7:8**
 |Go ye up to this feast: I go not yet to this feast, for my time is not yet full come.
@@ -1191,7 +1191,7 @@
 
 |**7:11**
 |Then the Jews sought him at the feast, and said, Where is he?
-|Then the Jews sought him at the feast, and said, "Where is he?"
+|Then the Jews sought him at the feast and said, "Where is he?"
 
 |**7:12**
 |And there was much murmuring among the people concerning him: for some said, He is a good man: others said, No; but he deceiveth the people.
@@ -1211,7 +1211,11 @@
 
 |**7:16**
 |Jesus answered them, and said, My doctrine is not mine, but his that sent me.
-|Jesus answered them, and said, "My doctrine is not mine, but his who sent me.
+|Jesus answered them and said, "My doctrine is not mine, but his who sent me.
+
+|**7:17**
+|If any man will do his will, he shall know concerning the doctrine, whether it is from God, or whether I speak from myself.
+|If any man will do his will, he shall know concerning the doctrine, whether it is from God or whether I speak from myself.
 
 |**7:18**
 |He that speaketh from himself, seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.
@@ -1267,7 +1271,7 @@
 
 |**7:31**
 |And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?
-|And many of the people believed in him, and said, "When Christ comes, will he do more miracles than these which this man has done?"
+|And many of the people believed in him and said, "When Christ comes, will he do more miracles than these which this man has done?"
 
 |**7:32**
 |The Pharisees heard that the people murmured such things concerning him: and the Pharisees and the chief priests sent officers to take him.
@@ -1299,7 +1303,7 @@
 
 |**7:39**
 |(But this he spoke of the Spirit, which they that believe on him should receive, for the Holy Spirit was not yet given, because that Jesus was not yet glorified.)
-|(But this he spoke of the Spirit, which those who believe in him would receive, for the Holy Spirit had not yet been given because Jesus was not yet glorified.)
+|(But he said this about the Spirit, which those who believe in him would receive, for the Holy Spirit had not yet been given because Jesus was not yet glorified.)
 
 |**7:40**
 |Many of the people therefore, when they heard this saying, said, In truth this is the Prophet.
@@ -1347,7 +1351,7 @@
 
 |**7:52**
 |They answered and said to him, Art thou also from Galilee? Search, and look: for out of Galilee ariseth no prophet.
-|They answered and said to him, "Are you also from Galilee? Search, and look. For out of Galilee no prophet arises."
+|They answered and said to him, "Are you also from Galilee? Search and look. For out of Galilee no prophet arises."
 
 |===
 
@@ -1433,7 +1437,7 @@
 
 |**8:19**
 |Then said they to him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye would have known my Father also.
-|Then they said to him, "Where is your Father?" Jesus answered, "You neither know me, nor my Father. If you had known me, you would have known my Father also."
+|Then they said to him, "Where is your Father?" Jesus answered, "You neither know me nor my Father. If you had known me, you would have known my Father also."
 
 |**8:20**
 |These words Jesus spoke in the treasury, as he taught in the temple: and no man laid hands on him, for his hour was not yet come.
@@ -1441,7 +1445,7 @@
 
 |**8:21**
 |Then said Jesus again to them, I am going away, and ye will seek me, and will die in your sins: whither I go, ye cannot come.
-|Then Jesus again said to them, "I am going away, and you will seek me, and will die in your sins. Where I go, you cannot come."
+|Then Jesus again said to them, "I am going away, and you will seek me, and you will die in your sins. Where I go, you cannot come."
 
 |**8:22**
 |Then said the Jews, will he kill himself? because he saith, Whither I go, ye cannot come.
@@ -1611,7 +1615,7 @@
 
 |**9:3**
 |Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
-|Jesus answered, "Neither has this man sinned, nor his parents, but this is so that the works of God should be made manifest in him.
+|Jesus answered, "Neither has this man sinned nor his parents, but this is so that the works of God should be made manifest in him.
 
 |**9:4**
 |I must work the works of him that sent me, while it is day: the night cometh when no man can work.
@@ -1623,7 +1627,7 @@
 
 |**9:6**
 |When he had thus spoken, he spit on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,
-|When he had thus spoken, he spit on the ground, made clay of the spittle, and he anointed the eyes of the blind man with the clay,
+|When he had thus spoken, he spit on the ground, made clay of the spittle, and he anointed the eyes of the blind man with the clay
 
 |**9:7**
 |And said to him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went therefore, and washed, and came seeing.
@@ -1711,7 +1715,7 @@
 
 |**9:28**
 |Then they reviled him, and said, Thou art his disciple; but we are the disciples of Moses.
-|Then they reviled him, and said, "You are his disciple, but we are the disciples of Moses.
+|Then they reviled him and said, "You are his disciple, but we are the disciples of Moses.
 
 |**9:29**
 |We know that God spoke to Moses: as for this man, we know not whence he is.
