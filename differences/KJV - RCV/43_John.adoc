@@ -2499,7 +2499,7 @@
 
 |**13:21**
 |When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
-|When Jesus had said this, he was troubled in spirit and testified, and said, "Truly, truly, I say to you, that one of you will betray me."
+|When Jesus had said this, he was troubled in spirit and testified and said, "Truly, truly, I say to you, that one of you will betray me."
 
 |**13:22**
 |Then the disciples looked one on another, doubting of whom he spake.
@@ -2731,7 +2731,7 @@
 
 |**15:6**
 |If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
-|If a man does not abide in me, he is cast forth as a branch and is withered, and men gather them, cast them into the fire, and they are burned.
+|If a man does not abide in me, he is cast forth like a branch and is withered, and men gather them, cast them into the fire, and they are burned.
 
 |**15:7**
 |If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
@@ -2739,7 +2739,7 @@
 
 |**15:8**
 |Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
-|In this my Father is glorified, that you bear much fruit, and so you shall be my disciples.
+|In this my Father is glorified, so that you might bear much fruit and become my disciples.
 
 |**15:9**
 |As the Father hath loved me, so have I loved you: continue ye in my love.
@@ -2755,7 +2755,7 @@
 
 |**15:12**
 |This is my commandment, That ye love one another, as I have loved you.
-|"This is my commandment: that you love one another, as I have loved you.
+|"This is my commandment: that you love one another as I have loved you.
 
 |**15:13**
 |Greater love hath no man than this, that a man lay down his life for his friends.
@@ -2837,7 +2837,7 @@
 
 |**16:3**
 |And these things will they do unto you, because they have not known the Father, nor me.
-|And these things they will do to you because they have not known the Father, nor me.
+|And these things they will do to you because they have not known the Father or me.
 
 |**16:4**
 |But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
@@ -2953,7 +2953,7 @@
 
 |**16:33**
 |These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
-|These things I have spoken to you so that in me you may have peace. In the world you will have tribulation, but be of good cheer. I have overcome the world."
+|These things I have spoken to you so that in me you may have peace. In the world you will have tribulation. But be of good cheer. I have overcome the world."
 
 |===
 
@@ -2967,11 +2967,11 @@
 
 |**17:1**
 |These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
-|Jesus spoke these words and lifted up his eyes to heaven, and said, "Father, the hour has come. Glorify your Son so that your Son also may glorify you,
+|Jesus spoke these things, and lifting up his eyes to heaven, he said, "Father, the hour has come. Glorify your Son so that your Son may glorify you,
 
 |**17:2**
 |As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
-|As you have given him power over all flesh, that he should give eternal life to as many as you have given him.
+|Since you have given him power over all flesh, so that he may give eternal life to as many as you have given him.
 
 |**17:3**
 |And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
@@ -3007,7 +3007,7 @@
 
 |**17:11**
 |And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are.
-|And now I am no longer in the world, but these are in the world, and I come to you. Holy Father, keep, through your own name, those whom you have given to me so that they may be one, as we are.
+|And now I am no longer in the world, but these are in the world, and I come to you. Holy Father, keep, through your own name, those whom you have given to me so that they may be one as we are.
 
 |**17:12**
 |While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
@@ -3173,7 +3173,7 @@
 
 |**18:25**
 |And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
-|And Simon Peter stood and warmed himself. They said therefore to him, "Are you not also one of his disciples?" He denied it, and said, "I am not."
+|And Simon Peter stood and warmed himself. They said therefore to him, "Are you not also one of his disciples?" He denied it and said, "I am not."
 
 |**18:26**
 |One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?
@@ -3189,7 +3189,7 @@
 
 |**18:29**
 |Pilate then went out unto them, and said, What accusation bring ye against this man?
-|Pilate then went out to them, and said, "What accusation do you bring against this man?"
+|Pilate then went out to them and said, "What accusation do you bring against this man?"
 
 |**18:30**
 |They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
@@ -3251,15 +3251,15 @@
 
 |**19:2**
 |And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
-|And the soldiers platted a crown of thorns and put it on his head, and they put a purple robe on him,
+|And the soldiers platted a crown of thorns and put it on his head, and they put a purple robe on him.
 
 |**19:3**
 |And said, Hail, King of the Jews! and they smote him with their hands.
-|And said, "Hail, King of the Jews!" And they smote him with their hands.
+|And they said, "Hail, King of the Jews!" And they smote him with their hands.
 
 |**19:4**
 |Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
-|Pilate therefore went forth again, and says to them, "Behold, I bring him forth to you so that you may know that I find no fault in him."
+|Pilate therefore went forth again and says to them, "Behold, I bring him forth to you so that you may know that I find no fault in him."
 
 |**19:5**
 |Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!
@@ -3275,11 +3275,11 @@
 
 |**19:8**
 |When Pilate therefore heard that saying, he was the more afraid;
-|When Pilate therefore heard that saying, he was the more afraid,
+|When Pilate therefore heard that saying, he was the more afraid.
 
 |**19:9**
 |And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
-|And went again into the judgment-hall and says to Jesus, "Where are you from?" But Jesus gave him no answer.
+|And he went again into the judgment-hall and says to Jesus, "Where are you from?" But Jesus gave him no answer.
 
 |**19:10**
 |Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?
@@ -3429,7 +3429,7 @@
 
 |**20:2**
 |Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
-|Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved, and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
+|Then she runs and comes to Simon Peter and to the other disciple whom Jesus loved and says to them, "They have taken away the Lord out of the sepulcher and we do not know where they have laid him."
 
 |**20:3**
 |Peter therefore went forth, and that other disciple, and came to the sepulchre.
@@ -3445,11 +3445,11 @@
 
 |**20:6**
 |Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,
-|Then Simon Peter comes following him and went into the sepulcher and sees the linen cloths lying,
+|Then Simon Peter comes following him and went into the sepulcher and sees the linen cloths lying.
 
 |**20:7**
 |And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.
-|And the cloth that was around his head not lying with the linen cloths, but wrapped together in a place by itself.
+|And the cloth that was around his head was not lying with the linen cloths, but wrapped together in a place by itself.
 
 |**20:8**
 |Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.
@@ -3465,7 +3465,7 @@
 
 |**20:11**
 |But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,
-|But Mary stood outside at the sepulcher weeping. And as she wept, she stooped down to look into the sepulcher,
+|But Mary stood outside at the sepulcher weeping. And as she wept, she stooped down to look into the sepulcher
 
 |**20:12**
 |And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.
@@ -3481,7 +3481,7 @@
 
 |**20:15**
 |Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.
-|Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him and I will take him away."
+|Jesus says to her, "Woman, why do you weep? Whom do you seek?" She, supposing him to be the gardener, says to him, "Sir, if you have carried him from here, tell me where you have laid him, and I will take him away."
 
 |**20:16**
 |Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.
@@ -3509,7 +3509,7 @@
 
 |**20:22**
 |And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
-|And when he had said this, he breathed on them, and says to them, "Receive the Holy Spirit.
+|And when he had said this, he breathed on them and says to them, "Receive the Holy Spirit.
 
 |**20:23**
 |Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
@@ -3521,7 +3521,7 @@
 
 |**20:26**
 |And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.
-|And after eight days again his disciples were inside, and Thomas with them. Then Jesus came, the doors being shut, and stood in the midst, and said, "Peace be to you."
+|And after eight days again his disciples were inside, and Thomas with them. Then Jesus came, the doors being shut, and stood in the midst and said, "Peace be to you."
 
 |**20:27**
 |Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.
