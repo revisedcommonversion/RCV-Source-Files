@@ -563,7 +563,7 @@
 
 |**3:12**
 |Then came also publicans to be baptized, and said to him, Master, what shall we do?
-|Then tax collectors also came to be baptized, and said to him, "Master, what shall we do?"
+|Then tax collectors also came to be baptized and said to him, "Master, what shall we do?"
 
 |**3:13**
 |And he said to them, Exact no more than that which is appointed you.
@@ -579,11 +579,11 @@
 
 |**3:16**
 |John answered, saying to them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he will baptize you with the Holy Spirit, and with fire:
-|John answered, saying to them all, "I indeed baptize you with water, but one mightier than I comes, the latchet of whose shoes I am not worthy to unloose. He will baptize you with the Holy Spirit and with fire,
+|John answered, saying to them all, "I indeed baptize you with water, but one mightier than I comes, the latchet of whose shoes I am not worthy to unloose. He will baptize you with the Holy Spirit and with fire.
 
 |**3:17**
 |Whose fan is in his hand, and he will thoroughly cleanse his floor, and will gather the wheat into his granary; but the chaff he will burn with fire unquenchable.
-|Whose winnowing fork is in his hand, and he will thoroughly cleanse his floor and will gather the wheat into his granary, but he will burn the chaff with unquenchable fire."
+|His winnowing fork is in his hand, and he will thoroughly cleanse his floor and gather the wheat into his granary, but he will burn the chaff with unquenchable fire."
 
 |**3:20**
 |Added yet this above all, that he shut up John in prison.
@@ -591,7 +591,7 @@
 
 |**3:21**
 |Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
-|Now when all the people were baptized, it came to pass, as Jesus had also been baptized and was praying, that the heaven was opened,
+|Now when all the people were baptized, it came to pass as Jesus had also been baptized and was praying, that the heaven was opened,
 
 |**3:22**
 |And the Holy Spirit descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
@@ -685,7 +685,7 @@
 
 |**4:9**
 |And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If thou art the son of God, cast thyself down from hence.
-|And he brought him to Jerusalem and set him on a pinnacle of the temple, and said to him, "If you are the son of God, cast yourself down from here,
+|And he brought him to Jerusalem and set him on a pinnacle of the temple and said to him, "If you are the son of God, cast yourself down from here,
 
 |**4:10**
 |For it is written, He will give his angels charge over thee, to keep thee:
@@ -741,11 +741,11 @@
 
 |**4:26**
 |But to none of them was Elijah sent, save to Sarepta, a city of Sidon, to a woman that was a widow.
-|But Elijah was sent to none of them, except to Zarephath, a city of Sidon, to a woman who was a widow.
+|But Elijah was sent to none of them except to Zarephath, a city of Sidon, to a woman who was a widow.
 
 |**4:27**
 |And many lepers were in Israel in the time of Elisha the prophet; and none of them was cleansed, saving Naaman the Syrian.
-|And many lepers were in Israel in the time of Elisha the prophet, and not one of them was cleansed, except Naaman the Syrian."
+|And many lepers were in Israel in the time of Elisha the prophet, and not one of them was cleansed except Naaman the Syrian."
 
 |**4:28**
 |And all they in the synagogue, when they heard these things, were filled with wrath,
@@ -797,7 +797,7 @@
 
 |**4:41**
 |And demons also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them, suffered them not to speak: for they knew that he was Christ.
-|And demons also came out of many, crying out, and saying, "You are Christ the Son of God." And rebuking them, he did not allow them to speak, for they knew that he was Christ.
+|And demons also came out of many, crying out and saying, "You are Christ the Son of God." And rebuking them, he did not allow them to speak, for they knew that he was Christ.
 
 |**4:42**
 |And when it was day, he departed, and went into a desert place; and the people sought him, and came to him, and stayed him, that he should not depart from them.
@@ -819,7 +819,7 @@
 
 |**5:1**
 |And it came to pass, that as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret.
-|And it came to pass, that as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
+|And it came to pass as the people pressed upon him to hear the word of God, that he stood by the lake of Gennesaret
 
 |**5:2**
 |And saw two boats standing by the lake: but the fishermen had gone out of them, and were washing their nets.
@@ -863,7 +863,7 @@
 
 |**5:12**
 |And it came to pass, when he was in a certain city, behold, a man full of leprosy: who seeing Jesus, fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
-|And it came to pass, when he was in a certain city, behold, a man full of leprosy, who, seeing Jesus, fell on his face and implored him, saying, "Lord, if you are willing, you can make me clean."
+|And it came to pass when he was in a certain city, that behold, a man full of leprosy, who, seeing Jesus, fell on his face and implored him, saying, "Lord, if you are willing, you can make me clean."
 
 |**5:13**
 |And he put forth his hand, and touched him, saying, I will: Be thou clean. And immediately the leprosy departed from him.
@@ -883,7 +883,7 @@
 
 |**5:17**
 |And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, who had come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them.
-|And it came to pass on a certain day, as he was teaching, that there were Pharisees and teachers of the law sitting by, who had come out of every town of Galilee, Judea, and Jerusalem. And the power of the Lord was present to heal [the sick].
+|And it came to pass on a certain day as he was teaching, that there were Pharisees and teachers of the law sitting by who had come out of every town of Galilee, Judea, and Jerusalem. And the power of the Lord was present to heal [the sick].
 
 |**5:18**
 |And behold, men brought in a bed a man who was taken with the palsy: and they sought means to bring him in, and to lay him before him.
@@ -891,7 +891,7 @@
 
 |**5:19**
 |And when they could not find by what way they might bring him in, because of the multitude, they went upon the house-top, and let him down through the tiling with his couch, into the midst before Jesus.
-|And when they could not find by what way they might bring him in, because of the multitude, they went upon the house-top and let him down through the tiling with his bed into the midst before Jesus.
+|And when they could not find by what way they might bring him in because of the multitude, they went upon the house-top and let him down through the tiling with his bed into the midst before Jesus.
 
 |**5:20**
 |And when he saw their faith, he said to him, Man, thy sins are forgiven thee.
@@ -963,7 +963,7 @@
 
 |**5:37**
 |And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles will perish.
-|And no man puts new wine into old bottles, or else the new wine will burst the bottles and be spilled and the bottles will perish.
+|And no man puts new wine into old bottles, or else the new wine will burst the bottles and be spilled, and the bottles will perish.
 
 |**5:39**
 |No man also having drank old wine, immediately desireth new: for he saith, The old is better.
@@ -1057,7 +1057,7 @@
 
 |**6:20**
 |And he lifted up his eyes on his disciples, and said, Blessed are ye poor: for yours is the kingdom of God.
-|And he lifted up his eyes to his disciples, and said, "Blessed are you who are poor, for yours is the kingdom of God.
+|And he lifted up his eyes to his disciples and said, "Blessed are you who are poor, for yours is the kingdom of God.
 
 |**6:21**
 |Blessed are ye that hunger now: for ye shall be filled. Blessed are ye that weep now: for ye shall laugh.
@@ -1231,7 +1231,7 @@
 
 |**7:13**
 |And when the Lord saw her, he had compassion on her, and said to her, Weep not.
-|And when the Lord saw her, he had compassion on her, and said to her, "Do not weep."
+|And when the Lord saw her, he had compassion on her and said to her, "Do not weep."
 
 |**7:14**
 |And he came and touched the bier: And they that bore him stood still. And he said, Young man, I say to thee, Arise.
@@ -1251,7 +1251,7 @@
 
 |**7:19**
 |And John calling two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?
-|And John, calling two of his disciples, sent them to Jesus, saying, "Are you he who should come? Or do we look for another?"
+|And John, calling two of his disciples, sent them to Jesus, saying, "Are you he who should come, or do we look for another?"
 
 |**7:20**
 |When the men had come to him, they said, John the Baptist hath sent us to thee, saying, Art thou he that should come? or look we for another?
@@ -1303,11 +1303,11 @@
 
 |**7:32**
 |They are like children sitting in the market-place, and calling one to another, and saying, We have piped to you, and ye have not danced; we have mourned to you, and ye have not wept.
-|They are like children sitting in the market-place and calling to one another, and saying, 'We have piped to you and you have not danced. We have mourned to you and you have not wept.'
+|They are like children sitting in the market-place and calling to one another, saying, 'We have piped to you and you have not danced. We have mourned to you and you have not wept.'
 
 |**7:33**
 |For John the Baptist came neither eating bread, nor drinking wine; and ye say, He hath a demon.
-|For John the Baptist came neither eating bread, nor drinking wine, and you say, 'He has a demon.'
+|For John the Baptist came neither eating bread nor drinking wine, and you say, 'He has a demon.'
 
 |**7:34**
 |The Son of man is come eating and drinking; and ye say, Behold, a gluttonous man, and a wine-bibber, a friend of publicans and sinners.
@@ -1323,11 +1323,11 @@
 
 |**7:37**
 |And behold, a woman in the city, who was a sinner, when she knew that Jesus sat at table in the Pharisee's house, brought an alabaster-box of ointment,
-|And behold, a woman in the city who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, brought an alabaster vial of ointment,
+|And behold, a woman in the city who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, she brought an alabaster vial of ointment.
 
 |**7:38**
 |And stood at his feet behind him weeping, and began to wash his feet with tears, and wiped them with the hairs of her head, and kissed his feet, and anointed them with the ointment.
-|And stood at his feet behind him weeping and began to wash his feet with tears, then wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.
+|And she stood at his feet behind him weeping, and began to wash his feet with tears. Then she wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.
 
 |**7:39**
 |Now when the Pharisee who had invited him, saw it, he spoke within himself, saying, This man, if he were a prophet, would have known who, and what manner of woman this is that toucheth him, for she is a sinner.
@@ -1351,7 +1351,7 @@
 
 |**7:44**
 |And he turned to the woman, and said to Simon, Seest thou this woman? I entered into thy house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.
-|And he turned to the woman, and said to Simon, "Do you see this woman? I entered into your house and you gave me no water for my feet, but she has washed my feet with tears and wiped them with the hair of her head.
+|And he turned to the woman and said to Simon, "Do you see this woman? I entered into your house, and you gave me no water for my feet, but she has washed my feet with tears and wiped them with the hair of her head.
 
 |**7:45**
 |Thou gavest me no kiss: but this woman, since the time I came in, hath not ceased to kiss my feet.
@@ -1465,11 +1465,11 @@
 
 |**8:20**
 |And it was told to him by certain, who said, Thy mother and thy brethren stand without, desiring to see thee.
-|And it was told to him by some, who said, "Your mother and your brothers stand outside desiring to see you."
+|And it was told to him by some who said, "Your mother and your brothers stand outside desiring to see you."
 
 |**8:21**
 |And he answered and said to them, My mother and my brethren are these who hear the word of God, and do it.
-|And he answered and said to them, "My mother and my brothers are those who hear the word of God, and do it."
+|And he answered and said to them, "My mother and my brothers are those who hear the word of God and do it."
 
 |**8:22**
 |Now it came to pass on a certain day, that he went into a boat with his disciples: and he said to them, Let us go over to the other side of the lake. And they lanched forth.
@@ -1493,7 +1493,7 @@
 
 |**8:28**
 |When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee torment me not.
-|When he saw Jesus, he cried out and fell down before him, and with a loud voice said, "What have I to do with you, Jesus, Son of God most high? I implore you to not torment me."
+|When he saw Jesus, he cried out, fell down before him, and with a loud voice said, "What have I to do with you, Jesus, Son of God most high? I implore you to not torment me."
 
 |**8:29**
 |(For he had commanded the unclean spirit to come out of the man. For often it had caught him, and he was kept bound with chains, and in fetters: and he broke the bands, and was driven by the demon into the wilderness.)
@@ -1521,7 +1521,7 @@
 
 |**8:35**
 |Then they went out to see what was done; and came to Jesus, and found the man out of whom the demons had departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
-|Then they went out to see what was done, and came to Jesus and found the man out of whom the demons had departed, sitting at the feet of Jesus, clothed and in his right mind, and they were afraid.
+|Then they went out to see what was done. And they came to Jesus and found the man out of whom the demons had departed, sitting at the feet of Jesus, clothed and in his right mind, and they were afraid.
 
 |**8:36**
 |They also who saw it, told them by what means he that was possessed by the demons was healed.
@@ -1541,7 +1541,7 @@
 
 |**8:40**
 |And it came to pass, that, when Jesus had returned, the people gladly received him: for they were all waiting for him.
-|And it came to pass, that when Jesus had returned, the people gladly received him, for they were all waiting for him.
+|And it came to pass when Jesus had returned, that the people gladly received him, for they were all waiting for him.
 
 |**8:41**
 |And behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at the feet of Jesus, and besought him that he would come into his house:
