@@ -1631,7 +1631,7 @@
 
 |**9:5**
 |And whoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
-|And whoever will not receive you, when you go out of that city, shake off the very dust from your feet for a testimony against them."
+|And whoever will not receive you, when you go out of that city, shake off the very dust from your feet as a testimony against them."
 
 |**9:6**
 |And they departed, and went through the towns, preaching the gospel, and healing every where.
@@ -1639,7 +1639,7 @@
 
 |**9:7**
 |Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said by some, that John had risen from the dead;
-|Now Herod the tetrarch heard of all that was done by him. And he was perplexed, because it was said by some that John had risen from the dead,
+|Now Herod the tetrarch heard of all that was done by him. And he was perplexed because it was said by some that John had risen from the dead,
 
 |**9:8**
 |And by some, that Elijah had appeared; and by others, that one of the ancient prophets had risen again.
@@ -1651,7 +1651,7 @@
 
 |**9:10**
 |And the apostles, when they had returned, told him all that they had done. And he took them, and went aside privately into a desert place, belonging to the city called Bethsaida.
-|And the apostles, when they had returned, told him all that they had done. And he took them and went aside privately into a desolate place, belonging to the city called Bethsaida.
+|And the apostles, when they had returned, told him all that they had done. And he took them and went aside privately into a desolate place belonging to the city called Bethsaida.
 
 |**9:11**
 |And the people, when they knew it, followed him: and he received them, and spoke to them of the kingdom of God, and healed them that had need of healing.
@@ -1669,6 +1669,10 @@
 |For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
 |For they were about five thousand men. And he said to his disciples, "Make them sit down by fifties in a company."
 
+|**9:15**
+|And they did so, and made them all sit down.
+|And they did so and made them all sit down.
+
 |**9:16**
 |Then he took the five loaves, and the two fishes, and looking up to heaven, he blessed them, and broke, and gave to the disciples to set before the multitude.
 |Then he took the five loaves and the two fish, and looking up to heaven, he blessed them, broke them, and gave them to the disciples to set before the multitude.
@@ -1679,7 +1683,7 @@
 
 |**9:18**
 |And it came to pass, as he was in retirement praying, his disciples were with him; and he asked them, saying, Who say the people that I am?
-|And it came to pass, as he was alone praying, his disciples were with him, and he asked them, saying, "Who do the people say that I am?"
+|And it came to pass as he was alone praying, that his disciples were with him, and he asked them, saying, "Who do the people say that I am?"
 
 |**9:19**
 |They answering, said, John the Baptist; but some say, Elijah; and others say, that one of the ancient prophets is risen again.
@@ -1719,11 +1723,11 @@
 
 |**9:28**
 |And it came to pass, about eight days after these sayings, he took Peter, and John, and James, and went up upon a mountain to pray.
-|And it came to pass, about eight days after these sayings, he took Peter, John, and James and went up upon a mountain to pray.
+|And it came to pass about eight days after these sayings, that he took Peter, John, and James and went up upon a mountain to pray.
 
 |**9:29**
 |And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistening.
-|And as he prayed, the fashion of his countenance was altered and his clothing was white and glistening.
+|And as he prayed, the fashion of his countenance was altered, and his clothing was white and glistening.
 
 |**9:30**
 |And behold, there talked with him two men, who were Moses and Elijah.
@@ -1739,7 +1743,7 @@
 
 |**9:33**
 |And it came to pass, as they departed from him, Peter said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elijah: not knowing what he said.
-|And it came to pass, as they departed from him, Peter said to Jesus, "Master, it is good for us to be here. Let us make three tabernacles: one for you, one for Moses, and one for Elijah," not knowing what he said.
+|And it came to pass as they departed from him, that Peter said to Jesus, "Master, it is good for us to be here. Let us make three tabernacles: one for you, one for Moses, and one for Elijah," not knowing what he said.
 
 |**9:34**
 |While he was thus speaking, there came a cloud and overshadowed them: and they feared as they entered into the cloud.
@@ -1752,6 +1756,10 @@
 |**9:36**
 |And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen.
 |And when the voice was past, Jesus was found alone. And they kept it close and told no man in those days any of those things which they had seen.
+
+|**9:37**
+|And it came to pass, that on the next day, when they had come down from the hill, many people met him.
+|And it came to pass on the next day, when they had come down from the hill, that many people met him.
 
 |**9:38**
 |And behold, a man of the company cried out, saying, Master, I beseech thee look upon my son: for he is my only child.
@@ -1783,11 +1791,11 @@
 
 |**9:47**
 |And Jesus perceiving the thought of their heart, took a child, and set him by him,
-|And Jesus perceiving the thought of their heart, took a child and set him by him,
+|And Jesus, perceiving the thought of their heart, took a child and set him by him.
 
 |**9:48**
 |And said to them, Whoever shall receive this child in my name, receiveth me; and whoever shall receive me, receiveth him that sent me: for he that is least among you all, the same shall be great.
-|And said to them, "Whoever receives this child in my name receives me, and whoever receives me receives him who sent me. For he who is least among you all, the same shall be great."
+|And he said to them, "Whoever receives this child in my name receives me, and whoever receives me receives him who sent me. For he who is least among you all, the same shall be great."
 
 |**9:49**
 |And John answered and said, Master, we saw one casting out demons in thy name; and we forbad him, because he followeth not with us.
@@ -1799,7 +1807,7 @@
 
 |**9:51**
 |And it came to pass, when the time was come that he should be received up, he steadfastly set his face to go to Jerusalem,
-|And it came to pass, when the time had come that he should be received up, he steadfastly set his face to go to Jerusalem,
+|And it came to pass when the time had come that he should be received up, that he steadfastly set his face to go to Jerusalem
 
 |**9:52**
 |And sent messengers before his face: and they went and entered into a village of the Samaritans, to make ready for him.
@@ -1815,7 +1823,7 @@
 
 |**9:55**
 |But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
-|But he turned and rebuked them, and said, "You do not know of what manner of spirit you are.
+|But he turned and rebuked them and said, "You do not know of what manner of spirit you are.
 
 |**9:56**
 |For the Son of man is not come to destroy men's lives, but to save them. And they went to another village.
@@ -1823,7 +1831,7 @@
 
 |**9:57**
 |And it came to pass, that as they were going in the way, a certain man said to him, Lord, I will follow thee whithersoever thou goest.
-|And it came to pass, that as they were going in the way, a certain man said to him, "Lord, I will follow you wherever you go."
+|And it came to pass as they were going in the way, that a certain man said to him, "Lord, I will follow you wherever you go."
 
 |**9:58**
 |And Jesus said to him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.
@@ -1889,11 +1897,11 @@
 
 |**10:9**
 |And heal the sick that are therein, and say to them, The kingdom of God is come nigh to you.
-|And heal the sick who are therein, and say to them, 'The kingdom of God has come near to you.'
+|Heal the sick who are therein and say to them, 'The kingdom of God has come near to you.'
 
 |**10:10**
 |But into whatever city ye enter, and they receive you not, go out into the streets of the same, and say,
-|But into whatever city you enter and they do not receive you, go out into the streets of the same, and say,
+|But into whatever city you enter and they do not receive you, go out into the streets of the same and say,
 
 |**10:11**
 |Even the very dust of your city which cleaveth on us, we do wipe off against you: notwithstanding, be ye sure of this, that the kingdom of God is come nigh to you.
@@ -1937,7 +1945,7 @@
 
 |**10:21**
 |In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them to babes: even so, Father; for so it seemed good in thy sight.
-|In that hour Jesus rejoiced in the Spirit, and said, "I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and prudent and have revealed them to babies. Indeed, Father, for thus it seemed good in your sight.
+|In that hour Jesus rejoiced in the Spirit and said, "I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and prudent and have revealed them to babies. Indeed, Father, for thus it seemed good in your sight.
 
 |**10:22**
 |All things are delivered to me by my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him.
@@ -1945,7 +1953,7 @@
 
 |**10:23**
 |And he turned himself to his disciples, and said privately, Blessed are the eyes which see the things that ye see.
-|And he turned himself to his disciples, and said privately, "Blessed are the eyes which see the things that you see.
+|And he turned himself to his disciples and said privately, "Blessed are the eyes which see the things that you see.
 
 |**10:24**
 |For I tell you, that many prophets and kings have desired to see the things which ye see, and have not seen them; and to hear the things which ye hear, and have not heard them.
@@ -1985,11 +1993,11 @@
 
 |**10:33**
 |But a certain Samaritan, as he journeyed, came were he was: and when he saw him, he had compassion on him,
-|But a certain Samaritan, as he journeyed, came where he was, and when he saw him, he had compassion on him,
+|But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion on him
 
 |**10:34**
 |And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.
-|And went to him and bound up his wounds, pouring in oil and wine, and set him on his own beast, brought him to an inn, and took care of him.
+|And went to him and bound up his wounds, pouring in oil and wine. Then he set him on his own beast, brought him to an inn, and took care of him.
 
 |**10:35**
 |And on the morrow, when he departed, he took out two pence, and gave them to the host, and said to him, Take care of him: and whatever thou spendest more, when I come again, I will repay thee.
@@ -2001,11 +2009,11 @@
 
 |**10:37**
 |And he said, He that showed mercy on him. Then said Jesus to him, Go, and do thou likewise.
-|And he said, "He who showed mercy to him." Then Jesus said to him, "Go, and do likewise."
+|And he said, "He who showed mercy to him." Then Jesus said to him, "Go and do likewise."
 
 |**10:38**
 |Now it came to pass, as they were going, he entered into a certain village: and a certain woman, named Martha, received him into her house.
-|Now it came to pass, as they were going, he entered into a certain village. And a certain woman, named Martha, received him into her house.
+|Now it came to pass as they were going, that he entered into a certain village. And a certain woman, named Martha, received him into her house.
 
 |**10:39**
 |And she had a sister called Mary, who also sat at Jesus' feet, and heard his word.
@@ -2013,11 +2021,11 @@
 
 |**10:40**
 |But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
-|But Martha was encumbered with much serving and came to him, and said, "Lord, do you not care that my sister has left me to serve alone? Bid her therefore to help me."
+|But Martha was encumbered with much serving and came to him and said, "Lord, do you not care that my sister has left me to serve alone? Bid her therefore to help me."
 
 |**10:41**
 |And Jesus answered, and said to her, Martha, Martha, thou art anxious, and troubled about many things:
-|And Jesus answered, and said to her, "Martha, Martha, you are anxious and troubled about many things.
+|And Jesus answered and said to her, "Martha, Martha, you are anxious and troubled about many things.
 
 |**10:42**
 |But one thing is needful; and Mary hath chosen that good part, which shall not be taken away from her.
@@ -2035,7 +2043,7 @@
 
 |**11:1**
 |And it came to pass, that as he was praying in a certain place, when he ceased, one of his disciples said to him, Lord, teach us to pray, as John also taught his disciples.
-|And it came to pass, that as he was praying in a certain place, when he ceased, one of his disciples said to him, "Lord, teach us to pray as John also taught his disciples."
+|And it came to pass as he was praying in a certain place, that when he ceased, one of his disciples said to him, "Lord, teach us to pray as John also taught his disciples."
 
 |**11:2**
 |And he said to them, When ye pray, say, Our Father who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so on earth.
@@ -2083,7 +2091,7 @@
 
 |**11:14**
 |And he was casting out a demon, and it was dumb. And it came to pass when the demon was gone out, the dumb spoke; and the people wondered.
-|And he was casting out a demon, and it was mute. And it came to pass when the demon had gone out, the mute spoke, and the people wondered.
+|And he was casting out a demon, and it was mute. And it came to pass when the demon had gone out, that the mute spoke, and the people wondered.
 
 |**11:15**
 |But some of them said, He casteth out demons through Beelzebub, the chief of the demons.
@@ -2103,11 +2111,11 @@
 
 |**11:19**
 |And if I by Beelzebub cast out demons, by whom do your sons cast them out? therefore shall they be your judges.
-|And if I by Beelzebub cast out demons, by whom do your sons cast them out? Therefore, they shall be your judges.
+|And if I cast out demons by Beelzebub, by whom do your sons cast them out? Therefore, they shall be your judges.
 
 |**11:20**
 |But if I with the finger of God cast out demons, no doubt the kingdom of God is come upon you.
-|But if I with the finger of God cast out demons, no doubt the kingdom of God has come upon you.
+|But if I cast out demons with the finger of God, no doubt the kingdom of God has come upon you.
 
 |**11:21**
 |When a strong man armed keepeth his palace, his goods are in peace:
@@ -2135,7 +2143,7 @@
 
 |**11:27**
 |And it came to pass, as he was speaking these things, a certain woman of the company lifted up her voice, and said to him, Blessed is the womb that bore thee, and the paps which nourished thee.
-|And it came to pass, as he was speaking these things, a certain woman of the company lifted up her voice and said to him, "Blessed is the womb that bore you and the breasts which nourished you."
+|And it came to pass as he was speaking these things, that a certain woman of the company lifted up her voice and said to him, "Blessed is the womb that bore you and the breasts which nourished you."
 
 |**11:28**
 |But he said, Yes, rather blessed are they that hear the word of God, and keep it.
@@ -2143,7 +2151,7 @@
 
 |**11:29**
 |And when the people were assembled in crowds, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given to it, but the sign of Jonah the prophet.
-|And when the people were assembled in crowds, he began to say, "This is an evil generation. They seek a sign, and there shall no sign be given to it, but the sign of Jonah the prophet.
+|And when the people were assembled in crowds, he began to say, "This is an evil generation. They seek a sign, and there shall no sign be given to it except the sign of Jonah the prophet.
 
 |**11:30**
 |For as Jonah was a sign to the Ninevites, so also shall the Son of man be to this generation.
@@ -2203,7 +2211,7 @@
 
 |**11:45**
 |Then answered one of the lawyers, and said to him, Master, thus saying, thou reproachest us also.
-|Then one of the lawyers answered, and said to him, "Master, saying thus, you reproach us also."
+|Then one of the lawyers answered and said to him, "Master, saying this, you reproach us also."
 
 |**11:46**
 |And he said, Woe to you also, ye lawyers, for ye load men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
