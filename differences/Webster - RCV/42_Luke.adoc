@@ -2811,7 +2811,7 @@
 
 |**15:7**
 |I say to you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, who need no repentance.
-|I say to you, that likewise, joy shall be in heaven over one sinner who repents, more than over ninety-nine just persons who need no repentance.
+|I say to you, that likewise, more joy shall be in heaven over one sinner who repents than over ninety-nine just persons who need no repentance.
 
 |**15:8**
 |Either what woman having ten pieces of silver, if she loseth one piece, doth not light a candle, and sweep the house, and seek diligently till she findeth it?
@@ -2859,11 +2859,11 @@
 
 |**15:19**
 |And am no more worthy to be called thy son: make me as one of thy hired servants.
-|And am no longer worthy to be called your son. Make me as one of your hired servants."'
+|And am no longer worthy to be called your son. Make me like one of your hired servants."'
 
 |**15:20**
 |And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
-|And he arose and came to his father. But when he was yet a great way off, his father saw him, had compassion, ran and fell on his neck, and kissed him.
+|And he arose and came to his father. But when he was still a great way off, his father saw him, had compassion, ran and fell on his neck, and kissed him.
 
 |**15:21**
 |And the son said to him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.
@@ -2937,11 +2937,11 @@
 
 |**16:4**
 |I am resolved what to do, that when I am removed from the stewardship, they may receive me into their houses.
-|I have resolved what to do, so that when I am removed from the stewardship, they may receive me into their houses.'
+|I have resolved what to do so that when I am removed from the stewardship, they may receive me into their houses.'
 
 |**16:5**
 |So he called every one of his lord's debtors, and said to the first, How much owest thou to my lord?
-|So he called each of his lord's debtors, and said to the first, 'How much do you owe to my lord?'
+|So he called each of his lord's debtors. And he said to the first, 'How much do you owe to my lord?'
 
 |**16:6**
 |And he said, A hundred measures of oil. And he said to him, Take thy bill, and sit down quickly, and write fifty.
@@ -2957,7 +2957,7 @@
 
 |**16:9**
 |And I say to you, Make to yourselves friends of the mammon of unrighteousness; that when ye fail, they may receive you into everlasting habitations.
-|And I say to you, make for yourselves friends of the mammon of unrighteousness, so that when you fail, they may receive you into everlasting habitations.
+|And I say to you, make for yourselves friends of the mammon of unrighteousness so that when you fail, they may receive you into everlasting habitations.
 
 |**16:10**
 |He that is faithful in that which is least, is faithful also in much; and he that is unjust in the least, is unjust also in much.
@@ -3001,7 +3001,7 @@
 
 |**16:20**
 |And there was a certain beggar named Lazarus, who was laid at his gate, full of sores,
-|And there was a certain beggar named Lazarus who was laid at his gate, full of sores,
+|And there was a certain beggar named Lazarus who was laid at his gate, full of sores
 
 |**16:21**
 |And desiring to be fed with the crumbs which fell from the rich man's table: moreover, the dogs came and licked his sores.
@@ -3017,15 +3017,15 @@
 
 |**16:24**
 |And he cried, and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue: for I am tormented in this flame.
-|And he cried, and said, 'Father Abraham, have mercy on me, and send Lazarus so that he may dip the tip of his finger in water and cool my tongue, for I am tormented in this flame.'
+|And he cried and said, 'Father Abraham, have mercy on me and send Lazarus so that he may dip the tip of his finger in water and cool my tongue, for I am tormented in this flame.'
 
 |**16:25**
 |But Abraham said, Son, remember that thou in thy life-time receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
-|But Abraham said, 'Son, remember that in your lifetime you received your good things, and Lazarus, in like manner, evil things. But now he is comforted and you are tormented.
+|But Abraham said, 'Son, remember that in your lifetime you received your good things, and Lazarus, in like manner, evil things. But now he is comforted, and you are tormented.
 
 |**16:26**
 |And besides all this, between us and you there is a great gulf fixed: so that they who would pass from hence to you, cannot; neither can they pass to us, that would come from thence.
-|And besides all this, between us and you there is a great gulf fixed, so that those who would pass from here to you cannot, neither can they pass to us who would come from there.'
+|And besides all this, between us and you a great gulf has been fixed, so that those who would pass from here to you cannot, neither can they pass to us who would come from there.'
 
 |**16:27**
 |Then he said, I pray thee therefore, father, that thou wouldst send him to my father's house:
@@ -3083,7 +3083,7 @@
 
 |**17:7**
 |But which of you having a servant plowing, or feeding cattle, will say to him immediately, when he is come from the field, Go and sit down to eat?
-|"But which of you, having a servant plowing or feeding sheep, will say to him immediately when he has come from the field, 'Go and sit down to eat'?
+|"But which of you having a servant plowing or feeding sheep will say to him immediately when he has come from the field, 'Go and sit down to eat'?
 
 |**17:8**
 |And will not rather say to him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drank; and afterward thou shalt eat and drink?
@@ -3107,15 +3107,19 @@
 
 |**17:13**
 |And they lifted up their voices, and said, Jesus, Master, have mercy on us.
-|And they lifted up their voices, and said, "Jesus, Master, have mercy on us."
+|And they lifted up their voices and said, "Jesus, Master, have mercy on us."
 
 |**17:14**
 |And when he saw them, he said to them, Go, show yourselves to the priests. And it came to pass, that as they were going, they were cleansed.
-|And when he saw them, he said to them, "Go, show yourselves to the priests." And it came to pass, that as they were going, they were cleansed.
+|And when he saw them, he said to them, "Go, show yourselves to the priests." And it came to pass as they were going, that they were cleansed.
+
+|**17:15**
+|And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,
+|And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God.
 
 |**17:16**
 |And fell down on his face at his feet, giving him thanks: and he was a Samaritan.
-|And fell down on his face at his feet, giving him thanks. And he was a Samaritan.
+|And he fell down on his face at his feet, giving him thanks. And he was a Samaritan.
 
 |**17:17**
 |And Jesus answering said, Were there not ten cleansed? but where are the nine?
@@ -3123,7 +3127,7 @@
 
 |**17:18**
 |There are not found returning to give glory to God, save this stranger.
-|There was no one found returning to give glory to God, except this stranger."
+|There was no one found returning to give glory to God except this stranger."
 
 |**17:19**
 |And he said to him, Arise, depart: thy faith hath made thee whole.
@@ -3143,7 +3147,7 @@
 
 |**17:23**
 |And they will say to you, See here; or, see there: go not after them, nor follow them.
-|And they will say to you, 'See here,' or, 'See there.' Do not go after them, nor follow them.
+|And they will say to you, 'See here,' or, 'See there.' Do not go after them or follow them.
 
 |**17:24**
 |For as the lightning that lighteneth from the one part under heaven, shineth to the other part under heaven; so shall also the Son of man be in his day.
