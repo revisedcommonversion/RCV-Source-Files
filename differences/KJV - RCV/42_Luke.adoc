@@ -99,7 +99,7 @@
 
 |**1:24**
 |And after those days his wife Elisabeth conceived, and hid herself five months, saying,
-|And after those days his wife Elizabeth conceived and secluded herself five months, saying,
+|And after those days his wife Elizabeth conceived and secluded herself for five months, saying,
 
 |**1:25**
 |Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.
@@ -3927,7 +3927,7 @@
 
 |**21:15**
 |For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
-|For I will give you a mouth and wisdom which all your adversaries shall not be able to gainsay nor resist.
+|For I will give you a mouth and wisdom which all your adversaries shall not be able to gainsay or resist.
 
 |**21:16**
 |And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
@@ -4133,7 +4133,7 @@
 
 |**22:27**
 |For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
-|For which is greater, he who sits at the table, or he who serves? Is it not he who sits at the table? But I am among you as he who serves.
+|For which is greater, he who sits at the table or he who serves? Is it not he who sits at the table? But I am among you as he who serves.
 
 |**22:28**
 |Ye are they which have continued with me in my temptations.
@@ -4249,7 +4249,7 @@
 
 |**22:56**
 |But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.
-|But a certain woman-servant beheld him as he sat by the fire and earnestly looked upon him, and said, "This man was also with him."
+|But a certain woman-servant beheld him as he sat by the fire and earnestly looked upon him and said, "This man was also with him."
 
 |**22:57**
 |And he denied him, saying, Woman, I know him not.
@@ -4257,7 +4257,7 @@
 
 |**22:58**
 |And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.
-|And after a little while another saw him, and said, "You are also one of them." And Peter said, "Man, I am not."
+|And after a little while, another saw him and said, "You are also one of them." And Peter said, "Man, I am not."
 
 |**22:59**
 |And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean.
@@ -4297,7 +4297,7 @@
 
 |**22:68**
 |And if I also ask you, ye will not answer me, nor let me go.
-|And if I also ask you, you will not answer me, nor let me go.
+|And if I also ask you, you will not answer me or let me go.
 
 |**22:69**
 |Hereafter shall the Son of man sit on the right hand of the power of God.
@@ -4451,11 +4451,11 @@
 
 |**23:35**
 |And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
-|And the people stood beholding. And the rulers also with them derided him, saying, "He saved others. Let him save himself if he is Christ the chosen of God."
+|And the people stood beholding. And the rulers also derided him, saying, "He saved others. Let him save himself if he is Christ the chosen of God."
 
 |**23:36**
 |And the soldiers also mocked him, coming to him, and offering him vinegar,
-|And the soldiers also mocked him, coming to him and offering him vinegar,
+|And the soldiers also mocked him, coming to him and offering him vinegar
 
 |**23:37**
 |And saying, If thou be the king of the Jews, save thyself.
@@ -4557,7 +4557,7 @@
 
 |**24:4**
 |And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:
-|And it came to pass, as they were much perplexed at this, behold, two men stood by them in shining garments.
+|And it came to pass as they were much perplexed at this, that behold, two men stood by them in shining garments.
 
 |**24:5**
 |And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?
@@ -4577,7 +4577,7 @@
 
 |**24:9**
 |And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.
-|And returned from the sepulcher and told all these things to the eleven and to all the rest.
+|And having returned from the sepulcher, they told all these things to the eleven and to all the rest.
 
 |**24:10**
 |It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.
@@ -4597,7 +4597,7 @@
 
 |**24:15**
 |And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.
-|And it came to pass, that while they talked together and reasoned, Jesus himself drew near and went with them.
+|And it came to pass while they talked together and reasoned, that Jesus himself drew near and went with them.
 
 |**24:16**
 |But their eyes were holden that they should not know him.
@@ -4605,7 +4605,7 @@
 
 |**24:17**
 |And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
-|And he said to them, "What manner of communications are these that you have with one another as you walk, and are sad?"
+|And he said to them, "What manner of communications are these that you have with one another as you walk?" And they stood still, looking sad.
 
 |**24:18**
 |And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
@@ -4637,7 +4637,7 @@
 
 |**24:25**
 |Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
-|Then he said to them, "O fools, and slow of heart to believe all that the prophets have spoken!
+|Then he said to them, "O fools and slow of heart to believe all that the prophets have spoken!
 
 |**24:26**
 |Ought not Christ to have suffered these things, and to enter into his glory?
@@ -4657,7 +4657,7 @@
 
 |**24:30**
 |And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.
-|And it came to pass, as he sat at the table with them, he took bread, blessed it, broke it, and gave it to them.
+|And it came to pass as he sat at the table with them, that he took bread, blessed it, broke it, and gave it to them.
 
 |**24:31**
 |And their eyes were opened, and they knew him; and he vanished out of their sight.
@@ -4681,7 +4681,7 @@
 
 |**24:36**
 |And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.
-|And as they were thus speaking, Jesus himself stood in the midst of them, and says to them, "Peace be to you."
+|And as they were thus speaking, Jesus himself stood in the midst of them and says to them, "Peace be to you."
 
 |**24:37**
 |But they were terrified and affrighted, and supposed that they had seen a spirit.
@@ -4693,7 +4693,7 @@
 
 |**24:39**
 |Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
-|Behold my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have."
+|Behold my hands and my feet, that it is I myself. Touch me and see. For a spirit does not have flesh and bones as you see that I have."
 
 |**24:40**
 |And when he had thus spoken, he shewed them his hands and his feet.
@@ -4701,7 +4701,7 @@
 
 |**24:41**
 |And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?
-|And while they still did not believe for joy and wondered, he said to them, "Do you have anything here for food?"
+|And while they still did not believe because of joy and wondered, he said to them, "Do you have anything here for food?"
 
 |**24:42**
 |And they gave him a piece of a broiled fish, and of an honeycomb.
@@ -4717,11 +4717,11 @@
 
 |**24:45**
 |Then opened he their understanding, that they might understand the scriptures,
-|Then he opened their understanding so that they might understand the Scriptures,
+|Then he opened their understanding so that they might understand the Scriptures.
 
 |**24:46**
 |And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
-|And said to them, "Thus it is written, and thus it behooved Christ to suffer and to rise from the dead on the third day,
+|And he said to them, "Thus it is written, and thus it behooved Christ to suffer and to rise from the dead on the third day,
 
 |**24:48**
 |And ye are witnesses of these things.
@@ -4737,11 +4737,11 @@
 
 |**24:51**
 |And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.
-|And it came to pass, while he was blessing them, he parted from them and was carried up into heaven.
+|And it came to pass while he was blessing them, that he parted from them and was carried up into heaven.
 
 |**24:52**
 |And they worshipped him, and returned to Jerusalem with great joy:
-|And they, having worshiped him, returned to Jerusalem with great joy,
+|And they, having worshiped him, returned to Jerusalem with great joy
 
 |===
 
